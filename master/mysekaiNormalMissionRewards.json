@@ -1,0 +1,2046 @@
+[
+  {
+    "externalId": 100,
+    "id": 1,
+    "mysekaiNormalMissionId": 100,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 1
+  },
+  {
+    "externalId": 1,
+    "id": 2,
+    "mysekaiNormalMissionId": 100,
+    "mysekaiNormalMissionRewardType": "mysekai_rank_obtained_exp",
+    "seq": 2
+  },
+  {
+    "externalId": 1,
+    "id": 3,
+    "mysekaiNormalMissionId": 101,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 3
+  },
+  {
+    "externalId": 1,
+    "id": 4,
+    "mysekaiNormalMissionId": 102,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 4
+  },
+  {
+    "externalId": 200,
+    "id": 5,
+    "mysekaiNormalMissionId": 200,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 1
+  },
+  {
+    "externalId": 1,
+    "id": 6,
+    "mysekaiNormalMissionId": 200,
+    "mysekaiNormalMissionRewardType": "mysekai_rank_obtained_exp",
+    "seq": 2
+  },
+  {
+    "externalId": 1,
+    "id": 7,
+    "mysekaiNormalMissionId": 201,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 3
+  },
+  {
+    "externalId": 1,
+    "id": 8,
+    "mysekaiNormalMissionId": 202,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 4
+  },
+  {
+    "externalId": 1,
+    "id": 9,
+    "mysekaiNormalMissionId": 203,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 5
+  },
+  {
+    "externalId": 1,
+    "id": 10,
+    "mysekaiNormalMissionId": 204,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 6
+  },
+  {
+    "externalId": 300,
+    "id": 11,
+    "mysekaiNormalMissionId": 300,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 1
+  },
+  {
+    "externalId": 1,
+    "id": 12,
+    "mysekaiNormalMissionId": 300,
+    "mysekaiNormalMissionRewardType": "mysekai_rank_obtained_exp",
+    "seq": 2
+  },
+  {
+    "externalId": 1,
+    "id": 13,
+    "mysekaiNormalMissionId": 301,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 3
+  },
+  {
+    "externalId": 1,
+    "id": 14,
+    "mysekaiNormalMissionId": 302,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 4
+  },
+  {
+    "externalId": 1,
+    "id": 15,
+    "mysekaiNormalMissionId": 303,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 5
+  },
+  {
+    "externalId": 400,
+    "id": 16,
+    "mysekaiNormalMissionId": 400,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 1
+  },
+  {
+    "externalId": 1,
+    "id": 17,
+    "mysekaiNormalMissionId": 400,
+    "mysekaiNormalMissionRewardType": "mysekai_rank_obtained_exp",
+    "seq": 2
+  },
+  {
+    "externalId": 1,
+    "id": 18,
+    "mysekaiNormalMissionId": 401,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 2
+  },
+  {
+    "externalId": 500,
+    "id": 19,
+    "mysekaiNormalMissionId": 500,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 1
+  },
+  {
+    "externalId": 1,
+    "id": 20,
+    "mysekaiNormalMissionId": 500,
+    "mysekaiNormalMissionRewardType": "mysekai_rank_obtained_exp",
+    "seq": 2
+  },
+  {
+    "externalId": 1,
+    "id": 21,
+    "mysekaiNormalMissionId": 501,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 3
+  },
+  {
+    "externalId": 1,
+    "id": 22,
+    "mysekaiNormalMissionId": 502,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 4
+  },
+  {
+    "externalId": 1,
+    "id": 23,
+    "mysekaiNormalMissionId": 503,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 5
+  },
+  {
+    "externalId": 1,
+    "id": 24,
+    "mysekaiNormalMissionId": 504,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 6
+  },
+  {
+    "externalId": 600,
+    "id": 25,
+    "mysekaiNormalMissionId": 600,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 1
+  },
+  {
+    "externalId": 1,
+    "id": 26,
+    "mysekaiNormalMissionId": 600,
+    "mysekaiNormalMissionRewardType": "mysekai_rank_obtained_exp",
+    "seq": 2
+  },
+  {
+    "externalId": 1,
+    "id": 27,
+    "mysekaiNormalMissionId": 601,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 2
+  },
+  {
+    "externalId": 700,
+    "id": 28,
+    "mysekaiNormalMissionId": 700,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 1
+  },
+  {
+    "externalId": 1,
+    "id": 29,
+    "mysekaiNormalMissionId": 700,
+    "mysekaiNormalMissionRewardType": "mysekai_rank_obtained_exp",
+    "seq": 2
+  },
+  {
+    "externalId": 1,
+    "id": 30,
+    "mysekaiNormalMissionId": 701,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 3
+  },
+  {
+    "externalId": 1,
+    "id": 31,
+    "mysekaiNormalMissionId": 702,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 6
+  },
+  {
+    "externalId": 1,
+    "id": 32,
+    "mysekaiNormalMissionId": 703,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 7
+  },
+  {
+    "externalId": 1,
+    "id": 33,
+    "mysekaiNormalMissionId": 704,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 8
+  },
+  {
+    "externalId": 1,
+    "id": 34,
+    "mysekaiNormalMissionId": 705,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 9
+  },
+  {
+    "externalId": 1,
+    "id": 35,
+    "mysekaiNormalMissionId": 706,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 10
+  },
+  {
+    "externalId": 1,
+    "id": 36,
+    "mysekaiNormalMissionId": 707,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 11
+  },
+  {
+    "externalId": 1,
+    "id": 37,
+    "mysekaiNormalMissionId": 708,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 4
+  },
+  {
+    "externalId": 1,
+    "id": 38,
+    "mysekaiNormalMissionId": 709,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 5
+  },
+  {
+    "externalId": 800,
+    "id": 39,
+    "mysekaiNormalMissionId": 800,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 1
+  },
+  {
+    "externalId": 1,
+    "id": 40,
+    "mysekaiNormalMissionId": 800,
+    "mysekaiNormalMissionRewardType": "mysekai_rank_obtained_exp",
+    "seq": 2
+  },
+  {
+    "externalId": 1,
+    "id": 41,
+    "mysekaiNormalMissionId": 801,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 2
+  },
+  {
+    "externalId": 900,
+    "id": 42,
+    "mysekaiNormalMissionId": 900,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 1
+  },
+  {
+    "externalId": 1,
+    "id": 43,
+    "mysekaiNormalMissionId": 900,
+    "mysekaiNormalMissionRewardType": "mysekai_rank_obtained_exp",
+    "seq": 2
+  },
+  {
+    "externalId": 1,
+    "id": 44,
+    "mysekaiNormalMissionId": 901,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 3
+  },
+  {
+    "externalId": 1,
+    "id": 45,
+    "mysekaiNormalMissionId": 902,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 4
+  },
+  {
+    "externalId": 1,
+    "id": 46,
+    "mysekaiNormalMissionId": 903,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 5
+  },
+  {
+    "externalId": 1,
+    "id": 47,
+    "mysekaiNormalMissionId": 904,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 6
+  },
+  {
+    "externalId": 1,
+    "id": 48,
+    "mysekaiNormalMissionId": 905,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 7
+  },
+  {
+    "externalId": 1000,
+    "id": 49,
+    "mysekaiNormalMissionId": 1000,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 1
+  },
+  {
+    "externalId": 1,
+    "id": 50,
+    "mysekaiNormalMissionId": 1000,
+    "mysekaiNormalMissionRewardType": "mysekai_rank_obtained_exp",
+    "seq": 2
+  },
+  {
+    "externalId": 1,
+    "id": 51,
+    "mysekaiNormalMissionId": 1001,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 2
+  },
+  {
+    "externalId": 1100,
+    "id": 52,
+    "mysekaiNormalMissionId": 1100,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 1
+  },
+  {
+    "externalId": 1,
+    "id": 53,
+    "mysekaiNormalMissionId": 1100,
+    "mysekaiNormalMissionRewardType": "mysekai_rank_obtained_exp",
+    "seq": 2
+  },
+  {
+    "externalId": 1,
+    "id": 54,
+    "mysekaiNormalMissionId": 1101,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 3
+  },
+  {
+    "externalId": 1,
+    "id": 55,
+    "mysekaiNormalMissionId": 1102,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 4
+  },
+  {
+    "externalId": 1,
+    "id": 56,
+    "mysekaiNormalMissionId": 1103,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 5
+  },
+  {
+    "externalId": 1200,
+    "id": 57,
+    "mysekaiNormalMissionId": 1200,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 1
+  },
+  {
+    "externalId": 1,
+    "id": 58,
+    "mysekaiNormalMissionId": 1200,
+    "mysekaiNormalMissionRewardType": "mysekai_rank_obtained_exp",
+    "seq": 2
+  },
+  {
+    "externalId": 1,
+    "id": 59,
+    "mysekaiNormalMissionId": 1201,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 3
+  },
+  {
+    "externalId": 1,
+    "id": 60,
+    "mysekaiNormalMissionId": 1202,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 4
+  },
+  {
+    "externalId": 1,
+    "id": 61,
+    "mysekaiNormalMissionId": 1203,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 5
+  },
+  {
+    "externalId": 1,
+    "id": 62,
+    "mysekaiNormalMissionId": 1204,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 6
+  },
+  {
+    "externalId": 1,
+    "id": 63,
+    "mysekaiNormalMissionId": 1205,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 7
+  },
+  {
+    "externalId": 1,
+    "id": 64,
+    "mysekaiNormalMissionId": 1206,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 8
+  },
+  {
+    "externalId": 1300,
+    "id": 65,
+    "mysekaiNormalMissionId": 1300,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 1
+  },
+  {
+    "externalId": 1,
+    "id": 66,
+    "mysekaiNormalMissionId": 1300,
+    "mysekaiNormalMissionRewardType": "mysekai_rank_obtained_exp",
+    "seq": 2
+  },
+  {
+    "externalId": 1,
+    "id": 67,
+    "mysekaiNormalMissionId": 1301,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 3
+  },
+  {
+    "externalId": 1400,
+    "id": 68,
+    "mysekaiNormalMissionId": 1400,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 1
+  },
+  {
+    "externalId": 1,
+    "id": 69,
+    "mysekaiNormalMissionId": 1400,
+    "mysekaiNormalMissionRewardType": "mysekai_rank_obtained_exp",
+    "seq": 2
+  },
+  {
+    "externalId": 1,
+    "id": 70,
+    "mysekaiNormalMissionId": 1401,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 3
+  },
+  {
+    "externalId": 1,
+    "id": 71,
+    "mysekaiNormalMissionId": 1402,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 4
+  },
+  {
+    "externalId": 1,
+    "id": 72,
+    "mysekaiNormalMissionId": 1403,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 5
+  },
+  {
+    "externalId": 1500,
+    "id": 73,
+    "mysekaiNormalMissionId": 1500,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 1
+  },
+  {
+    "externalId": 1,
+    "id": 74,
+    "mysekaiNormalMissionId": 1500,
+    "mysekaiNormalMissionRewardType": "mysekai_rank_obtained_exp",
+    "seq": 2
+  },
+  {
+    "externalId": 1,
+    "id": 75,
+    "mysekaiNormalMissionId": 1501,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 3
+  },
+  {
+    "externalId": 1,
+    "id": 76,
+    "mysekaiNormalMissionId": 1502,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 4
+  },
+  {
+    "externalId": 1600,
+    "id": 77,
+    "mysekaiNormalMissionId": 1600,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 1
+  },
+  {
+    "externalId": 1,
+    "id": 78,
+    "mysekaiNormalMissionId": 1600,
+    "mysekaiNormalMissionRewardType": "mysekai_rank_obtained_exp",
+    "seq": 2
+  },
+  {
+    "externalId": 1,
+    "id": 79,
+    "mysekaiNormalMissionId": 1601,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 3
+  },
+  {
+    "externalId": 1,
+    "id": 80,
+    "mysekaiNormalMissionId": 1602,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 4
+  },
+  {
+    "externalId": 1700,
+    "id": 81,
+    "mysekaiNormalMissionId": 1700,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 1
+  },
+  {
+    "externalId": 1,
+    "id": 82,
+    "mysekaiNormalMissionId": 1700,
+    "mysekaiNormalMissionRewardType": "mysekai_rank_obtained_exp",
+    "seq": 2
+  },
+  {
+    "externalId": 1,
+    "id": 83,
+    "mysekaiNormalMissionId": 1701,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 3
+  },
+  {
+    "externalId": 1,
+    "id": 84,
+    "mysekaiNormalMissionId": 1702,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 4
+  },
+  {
+    "externalId": 1900,
+    "id": 85,
+    "mysekaiNormalMissionId": 1900,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 1
+  },
+  {
+    "externalId": 1,
+    "id": 86,
+    "mysekaiNormalMissionId": 1900,
+    "mysekaiNormalMissionRewardType": "mysekai_rank_obtained_exp",
+    "seq": 2
+  },
+  {
+    "externalId": 1,
+    "id": 87,
+    "mysekaiNormalMissionId": 1901,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 3
+  },
+  {
+    "externalId": 2000,
+    "id": 88,
+    "mysekaiNormalMissionId": 2000,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 1
+  },
+  {
+    "externalId": 1,
+    "id": 89,
+    "mysekaiNormalMissionId": 2000,
+    "mysekaiNormalMissionRewardType": "mysekai_rank_obtained_exp",
+    "seq": 2
+  },
+  {
+    "externalId": 1,
+    "id": 90,
+    "mysekaiNormalMissionId": 2001,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 3
+  },
+  {
+    "externalId": 1,
+    "id": 91,
+    "mysekaiNormalMissionId": 2002,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 4
+  },
+  {
+    "externalId": 1,
+    "id": 92,
+    "mysekaiNormalMissionId": 2003,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 5
+  },
+  {
+    "externalId": 1,
+    "id": 93,
+    "mysekaiNormalMissionId": 2100,
+    "mysekaiNormalMissionRewardType": "mysekai_rank_obtained_exp",
+    "seq": 1
+  },
+  {
+    "externalId": 1,
+    "id": 94,
+    "mysekaiNormalMissionId": 2101,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 2
+  },
+  {
+    "externalId": 2200,
+    "id": 95,
+    "mysekaiNormalMissionId": 2200,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 1
+  },
+  {
+    "externalId": 1,
+    "id": 96,
+    "mysekaiNormalMissionId": 2200,
+    "mysekaiNormalMissionRewardType": "mysekai_rank_obtained_exp",
+    "seq": 2
+  },
+  {
+    "externalId": 1,
+    "id": 97,
+    "mysekaiNormalMissionId": 2201,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 3
+  },
+  {
+    "externalId": 1,
+    "id": 98,
+    "mysekaiNormalMissionId": 2202,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 4
+  },
+  {
+    "externalId": 1,
+    "id": 99,
+    "mysekaiNormalMissionId": 2203,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 5
+  },
+  {
+    "externalId": 1,
+    "id": 100,
+    "mysekaiNormalMissionId": 2300,
+    "mysekaiNormalMissionRewardType": "mysekai_rank_obtained_exp",
+    "seq": 1
+  },
+  {
+    "externalId": 1,
+    "id": 101,
+    "mysekaiNormalMissionId": 2301,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 2
+  },
+  {
+    "externalId": 2400,
+    "id": 102,
+    "mysekaiNormalMissionId": 2400,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 3
+  },
+  {
+    "externalId": 1,
+    "id": 103,
+    "mysekaiNormalMissionId": 2400,
+    "mysekaiNormalMissionRewardType": "mysekai_rank_obtained_exp",
+    "seq": 4
+  },
+  {
+    "externalId": 1,
+    "id": 104,
+    "mysekaiNormalMissionId": 2401,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 5
+  },
+  {
+    "externalId": 1,
+    "id": 105,
+    "mysekaiNormalMissionId": 2402,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 6
+  },
+  {
+    "externalId": 1,
+    "id": 106,
+    "mysekaiNormalMissionId": 2403,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 7
+  },
+  {
+    "externalId": 1,
+    "id": 107,
+    "mysekaiNormalMissionId": 2500,
+    "mysekaiNormalMissionRewardType": "mysekai_rank_obtained_exp",
+    "seq": 1
+  },
+  {
+    "externalId": 1,
+    "id": 108,
+    "mysekaiNormalMissionId": 2500,
+    "mysekaiNormalMissionRewardType": "mysekai_release_element",
+    "seq": 2
+  },
+  {
+    "externalId": 1,
+    "id": 109,
+    "mysekaiNormalMissionId": 2501,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 2
+  },
+  {
+    "externalId": 2600,
+    "id": 110,
+    "mysekaiNormalMissionId": 2600,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 1
+  },
+  {
+    "externalId": 1,
+    "id": 111,
+    "mysekaiNormalMissionId": 2600,
+    "mysekaiNormalMissionRewardType": "mysekai_rank_obtained_exp",
+    "seq": 2
+  },
+  {
+    "externalId": 1,
+    "id": 112,
+    "mysekaiNormalMissionId": 2601,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 3
+  },
+  {
+    "externalId": 1,
+    "id": 113,
+    "mysekaiNormalMissionId": 2602,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 4
+  },
+  {
+    "externalId": 1,
+    "id": 114,
+    "mysekaiNormalMissionId": 2603,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 5
+  },
+  {
+    "externalId": 1,
+    "id": 120,
+    "mysekaiNormalMissionId": 2800,
+    "mysekaiNormalMissionRewardType": "mysekai_rank_obtained_exp",
+    "seq": 1
+  },
+  {
+    "externalId": 1,
+    "id": 121,
+    "mysekaiNormalMissionId": 2801,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 2
+  },
+  {
+    "externalId": 2900,
+    "id": 122,
+    "mysekaiNormalMissionId": 2900,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 1
+  },
+  {
+    "externalId": 1,
+    "id": 123,
+    "mysekaiNormalMissionId": 2900,
+    "mysekaiNormalMissionRewardType": "mysekai_rank_obtained_exp",
+    "seq": 2
+  },
+  {
+    "externalId": 1,
+    "id": 124,
+    "mysekaiNormalMissionId": 2901,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 3
+  },
+  {
+    "externalId": 1,
+    "id": 125,
+    "mysekaiNormalMissionId": 2902,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 4
+  },
+  {
+    "externalId": 1,
+    "id": 126,
+    "mysekaiNormalMissionId": 2903,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 5
+  },
+  {
+    "externalId": 1,
+    "id": 127,
+    "mysekaiNormalMissionId": 3000,
+    "mysekaiNormalMissionRewardType": "mysekai_rank_obtained_exp",
+    "seq": 1
+  },
+  {
+    "externalId": 1,
+    "id": 128,
+    "mysekaiNormalMissionId": 3001,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 2
+  },
+  {
+    "externalId": 3100,
+    "id": 129,
+    "mysekaiNormalMissionId": 3100,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 1
+  },
+  {
+    "externalId": 1,
+    "id": 130,
+    "mysekaiNormalMissionId": 3100,
+    "mysekaiNormalMissionRewardType": "mysekai_rank_obtained_exp",
+    "seq": 2
+  },
+  {
+    "externalId": 1,
+    "id": 131,
+    "mysekaiNormalMissionId": 3101,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 3
+  },
+  {
+    "externalId": 1,
+    "id": 132,
+    "mysekaiNormalMissionId": 3102,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 4
+  },
+  {
+    "externalId": 1,
+    "id": 133,
+    "mysekaiNormalMissionId": 3103,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 5
+  },
+  {
+    "externalId": 3200,
+    "id": 134,
+    "mysekaiNormalMissionId": 3200,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 1
+  },
+  {
+    "externalId": 1,
+    "id": 135,
+    "mysekaiNormalMissionId": 3200,
+    "mysekaiNormalMissionRewardType": "mysekai_rank_obtained_exp",
+    "seq": 2
+  },
+  {
+    "externalId": 5,
+    "id": 136,
+    "mysekaiNormalMissionId": 3200,
+    "mysekaiNormalMissionRewardType": "mysekai_material_possession",
+    "seq": 3
+  },
+  {
+    "externalId": 5,
+    "id": 137,
+    "mysekaiNormalMissionId": 3200,
+    "mysekaiNormalMissionRewardType": "mysekai_fixture_possession",
+    "seq": 4
+  },
+  {
+    "externalId": 1,
+    "id": 138,
+    "mysekaiNormalMissionId": 3201,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 5
+  },
+  {
+    "externalId": 1,
+    "id": 139,
+    "mysekaiNormalMissionId": 3300,
+    "mysekaiNormalMissionRewardType": "mysekai_rank_obtained_exp",
+    "seq": 1
+  },
+  {
+    "externalId": 2,
+    "id": 140,
+    "mysekaiNormalMissionId": 3300,
+    "mysekaiNormalMissionRewardType": "mysekai_convert_fixture_level",
+    "seq": 2
+  },
+  {
+    "externalId": 1,
+    "id": 141,
+    "mysekaiNormalMissionId": 3301,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 3
+  },
+  {
+    "externalId": 3500,
+    "id": 142,
+    "mysekaiNormalMissionId": 3500,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 1
+  },
+  {
+    "externalId": 1,
+    "id": 143,
+    "mysekaiNormalMissionId": 3500,
+    "mysekaiNormalMissionRewardType": "mysekai_rank_obtained_exp",
+    "seq": 2
+  },
+  {
+    "externalId": 6,
+    "id": 144,
+    "mysekaiNormalMissionId": 3500,
+    "mysekaiNormalMissionRewardType": "mysekai_material_possession",
+    "seq": 3
+  },
+  {
+    "externalId": 6,
+    "id": 145,
+    "mysekaiNormalMissionId": 3500,
+    "mysekaiNormalMissionRewardType": "mysekai_fixture_possession",
+    "seq": 4
+  },
+  {
+    "externalId": 1,
+    "id": 146,
+    "mysekaiNormalMissionId": 3501,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 5
+  },
+  {
+    "externalId": 3700,
+    "id": 147,
+    "mysekaiNormalMissionId": 3700,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 1
+  },
+  {
+    "externalId": 1,
+    "id": 148,
+    "mysekaiNormalMissionId": 3700,
+    "mysekaiNormalMissionRewardType": "mysekai_rank_obtained_exp",
+    "seq": 2
+  },
+  {
+    "externalId": 7,
+    "id": 149,
+    "mysekaiNormalMissionId": 3700,
+    "mysekaiNormalMissionRewardType": "mysekai_material_possession",
+    "seq": 3
+  },
+  {
+    "externalId": 7,
+    "id": 150,
+    "mysekaiNormalMissionId": 3700,
+    "mysekaiNormalMissionRewardType": "mysekai_fixture_possession",
+    "seq": 4
+  },
+  {
+    "externalId": 1,
+    "id": 151,
+    "mysekaiNormalMissionId": 3701,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 5
+  },
+  {
+    "externalId": 3900,
+    "id": 152,
+    "mysekaiNormalMissionId": 3900,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 1
+  },
+  {
+    "externalId": 1,
+    "id": 153,
+    "mysekaiNormalMissionId": 3900,
+    "mysekaiNormalMissionRewardType": "mysekai_rank_obtained_exp",
+    "seq": 2
+  },
+  {
+    "externalId": 8,
+    "id": 154,
+    "mysekaiNormalMissionId": 3900,
+    "mysekaiNormalMissionRewardType": "mysekai_material_possession",
+    "seq": 3
+  },
+  {
+    "externalId": 8,
+    "id": 155,
+    "mysekaiNormalMissionId": 3900,
+    "mysekaiNormalMissionRewardType": "mysekai_fixture_possession",
+    "seq": 4
+  },
+  {
+    "externalId": 1,
+    "id": 156,
+    "mysekaiNormalMissionId": 3901,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 5
+  },
+  {
+    "externalId": 4100,
+    "id": 157,
+    "mysekaiNormalMissionId": 4100,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 1
+  },
+  {
+    "externalId": 1,
+    "id": 158,
+    "mysekaiNormalMissionId": 4100,
+    "mysekaiNormalMissionRewardType": "mysekai_rank_obtained_exp",
+    "seq": 2
+  },
+  {
+    "externalId": 9,
+    "id": 159,
+    "mysekaiNormalMissionId": 4100,
+    "mysekaiNormalMissionRewardType": "mysekai_material_possession",
+    "seq": 3
+  },
+  {
+    "externalId": 9,
+    "id": 160,
+    "mysekaiNormalMissionId": 4100,
+    "mysekaiNormalMissionRewardType": "mysekai_fixture_possession",
+    "seq": 4
+  },
+  {
+    "externalId": 1,
+    "id": 161,
+    "mysekaiNormalMissionId": 4101,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 5
+  },
+  {
+    "externalId": 4300,
+    "id": 162,
+    "mysekaiNormalMissionId": 4300,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 1
+  },
+  {
+    "externalId": 1,
+    "id": 163,
+    "mysekaiNormalMissionId": 4300,
+    "mysekaiNormalMissionRewardType": "mysekai_rank_obtained_exp",
+    "seq": 2
+  },
+  {
+    "externalId": 10,
+    "id": 164,
+    "mysekaiNormalMissionId": 4300,
+    "mysekaiNormalMissionRewardType": "mysekai_material_possession",
+    "seq": 3
+  },
+  {
+    "externalId": 10,
+    "id": 165,
+    "mysekaiNormalMissionId": 4300,
+    "mysekaiNormalMissionRewardType": "mysekai_fixture_possession",
+    "seq": 4
+  },
+  {
+    "externalId": 1,
+    "id": 166,
+    "mysekaiNormalMissionId": 4301,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 5
+  },
+  {
+    "externalId": 4700,
+    "id": 167,
+    "mysekaiNormalMissionId": 4700,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 1
+  },
+  {
+    "externalId": 1,
+    "id": 168,
+    "mysekaiNormalMissionId": 4700,
+    "mysekaiNormalMissionRewardType": "mysekai_rank_obtained_exp",
+    "seq": 2
+  },
+  {
+    "externalId": 2,
+    "id": 169,
+    "mysekaiNormalMissionId": 4700,
+    "mysekaiNormalMissionRewardType": "mysekai_material_possession",
+    "seq": 3
+  },
+  {
+    "externalId": 2,
+    "id": 170,
+    "mysekaiNormalMissionId": 4700,
+    "mysekaiNormalMissionRewardType": "mysekai_fixture_possession",
+    "seq": 4
+  },
+  {
+    "externalId": 1,
+    "id": 171,
+    "mysekaiNormalMissionId": 4701,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 5
+  },
+  {
+    "externalId": 4800,
+    "id": 172,
+    "mysekaiNormalMissionId": 4800,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 1
+  },
+  {
+    "externalId": 1,
+    "id": 173,
+    "mysekaiNormalMissionId": 4800,
+    "mysekaiNormalMissionRewardType": "mysekai_rank_obtained_exp",
+    "seq": 2
+  },
+  {
+    "externalId": 3,
+    "id": 174,
+    "mysekaiNormalMissionId": 4800,
+    "mysekaiNormalMissionRewardType": "mysekai_material_possession",
+    "seq": 3
+  },
+  {
+    "externalId": 3,
+    "id": 175,
+    "mysekaiNormalMissionId": 4800,
+    "mysekaiNormalMissionRewardType": "mysekai_fixture_possession",
+    "seq": 4
+  },
+  {
+    "externalId": 1,
+    "id": 176,
+    "mysekaiNormalMissionId": 4801,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 5
+  },
+  {
+    "externalId": 4900,
+    "id": 177,
+    "mysekaiNormalMissionId": 4900,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 1
+  },
+  {
+    "externalId": 1,
+    "id": 178,
+    "mysekaiNormalMissionId": 4900,
+    "mysekaiNormalMissionRewardType": "mysekai_rank_obtained_exp",
+    "seq": 2
+  },
+  {
+    "externalId": 1,
+    "id": 179,
+    "mysekaiNormalMissionId": 4901,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 3
+  },
+  {
+    "externalId": 1,
+    "id": 180,
+    "mysekaiNormalMissionId": 4902,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 4
+  },
+  {
+    "externalId": 1,
+    "id": 181,
+    "mysekaiNormalMissionId": 4903,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 5
+  },
+  {
+    "externalId": 5000,
+    "id": 182,
+    "mysekaiNormalMissionId": 5000,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 1
+  },
+  {
+    "externalId": 1,
+    "id": 183,
+    "mysekaiNormalMissionId": 5000,
+    "mysekaiNormalMissionRewardType": "mysekai_rank_obtained_exp",
+    "seq": 2
+  },
+  {
+    "externalId": 1,
+    "id": 184,
+    "mysekaiNormalMissionId": 5001,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 3
+  },
+  {
+    "externalId": 1,
+    "id": 185,
+    "mysekaiNormalMissionId": 5002,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 4
+  },
+  {
+    "externalId": 5100,
+    "id": 186,
+    "mysekaiNormalMissionId": 5100,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 1
+  },
+  {
+    "externalId": 1,
+    "id": 187,
+    "mysekaiNormalMissionId": 5100,
+    "mysekaiNormalMissionRewardType": "mysekai_rank_obtained_exp",
+    "seq": 2
+  },
+  {
+    "externalId": 1,
+    "id": 188,
+    "mysekaiNormalMissionId": 5101,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 3
+  },
+  {
+    "externalId": 1,
+    "id": 189,
+    "mysekaiNormalMissionId": 5102,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 4
+  },
+  {
+    "externalId": 1,
+    "id": 190,
+    "mysekaiNormalMissionId": 5103,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 5
+  },
+  {
+    "externalId": 5200,
+    "id": 191,
+    "mysekaiNormalMissionId": 5200,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 1
+  },
+  {
+    "externalId": 1,
+    "id": 192,
+    "mysekaiNormalMissionId": 5200,
+    "mysekaiNormalMissionRewardType": "mysekai_rank_obtained_exp",
+    "seq": 2
+  },
+  {
+    "externalId": 1,
+    "id": 193,
+    "mysekaiNormalMissionId": 5201,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 3
+  },
+  {
+    "externalId": 1,
+    "id": 194,
+    "mysekaiNormalMissionId": 5202,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 4
+  },
+  {
+    "externalId": 5300,
+    "id": 195,
+    "mysekaiNormalMissionId": 5300,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 1
+  },
+  {
+    "externalId": 1,
+    "id": 196,
+    "mysekaiNormalMissionId": 5300,
+    "mysekaiNormalMissionRewardType": "mysekai_rank_obtained_exp",
+    "seq": 2
+  },
+  {
+    "externalId": 1,
+    "id": 197,
+    "mysekaiNormalMissionId": 5301,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 3
+  },
+  {
+    "externalId": 1,
+    "id": 198,
+    "mysekaiNormalMissionId": 5302,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 4
+  },
+  {
+    "externalId": 1,
+    "id": 199,
+    "mysekaiNormalMissionId": 5303,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 5
+  },
+  {
+    "externalId": 5400,
+    "id": 200,
+    "mysekaiNormalMissionId": 5400,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 1
+  },
+  {
+    "externalId": 1,
+    "id": 201,
+    "mysekaiNormalMissionId": 5400,
+    "mysekaiNormalMissionRewardType": "mysekai_rank_obtained_exp",
+    "seq": 2
+  },
+  {
+    "externalId": 1,
+    "id": 202,
+    "mysekaiNormalMissionId": 5401,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 3
+  },
+  {
+    "externalId": 1,
+    "id": 203,
+    "mysekaiNormalMissionId": 5402,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 4
+  },
+  {
+    "externalId": 5500,
+    "id": 204,
+    "mysekaiNormalMissionId": 5500,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 1
+  },
+  {
+    "externalId": 1,
+    "id": 205,
+    "mysekaiNormalMissionId": 5500,
+    "mysekaiNormalMissionRewardType": "mysekai_rank_obtained_exp",
+    "seq": 2
+  },
+  {
+    "externalId": 1,
+    "id": 206,
+    "mysekaiNormalMissionId": 5501,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 3
+  },
+  {
+    "externalId": 1,
+    "id": 207,
+    "mysekaiNormalMissionId": 5502,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 4
+  },
+  {
+    "externalId": 1,
+    "id": 208,
+    "mysekaiNormalMissionId": 5503,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 5
+  },
+  {
+    "externalId": 5600,
+    "id": 209,
+    "mysekaiNormalMissionId": 5600,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 1
+  },
+  {
+    "externalId": 1,
+    "id": 210,
+    "mysekaiNormalMissionId": 5600,
+    "mysekaiNormalMissionRewardType": "mysekai_rank_obtained_exp",
+    "seq": 2
+  },
+  {
+    "externalId": 1,
+    "id": 211,
+    "mysekaiNormalMissionId": 5601,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 3
+  },
+  {
+    "externalId": 1,
+    "id": 212,
+    "mysekaiNormalMissionId": 5602,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 4
+  },
+  {
+    "externalId": 1,
+    "id": 213,
+    "mysekaiNormalMissionId": 5603,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 5
+  },
+  {
+    "externalId": 5700,
+    "id": 214,
+    "mysekaiNormalMissionId": 5700,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 1
+  },
+  {
+    "externalId": 1,
+    "id": 215,
+    "mysekaiNormalMissionId": 5700,
+    "mysekaiNormalMissionRewardType": "mysekai_rank_obtained_exp",
+    "seq": 2
+  },
+  {
+    "externalId": 1,
+    "id": 216,
+    "mysekaiNormalMissionId": 5701,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 3
+  },
+  {
+    "externalId": 1,
+    "id": 217,
+    "mysekaiNormalMissionId": 5702,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 4
+  },
+  {
+    "externalId": 1,
+    "id": 218,
+    "mysekaiNormalMissionId": 5703,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 5
+  },
+  {
+    "externalId": 1,
+    "id": 219,
+    "mysekaiNormalMissionId": 5704,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 6
+  },
+  {
+    "externalId": 5800,
+    "id": 220,
+    "mysekaiNormalMissionId": 5800,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 1
+  },
+  {
+    "externalId": 1,
+    "id": 221,
+    "mysekaiNormalMissionId": 5800,
+    "mysekaiNormalMissionRewardType": "mysekai_rank_obtained_exp",
+    "seq": 2
+  },
+  {
+    "externalId": 1,
+    "id": 222,
+    "mysekaiNormalMissionId": 5801,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 3
+  },
+  {
+    "externalId": 1,
+    "id": 223,
+    "mysekaiNormalMissionId": 5802,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 4
+  },
+  {
+    "externalId": 1,
+    "id": 224,
+    "mysekaiNormalMissionId": 5803,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 5
+  },
+  {
+    "externalId": 5900,
+    "id": 225,
+    "mysekaiNormalMissionId": 5900,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 1
+  },
+  {
+    "externalId": 1,
+    "id": 226,
+    "mysekaiNormalMissionId": 5900,
+    "mysekaiNormalMissionRewardType": "mysekai_rank_obtained_exp",
+    "seq": 2
+  },
+  {
+    "externalId": 1,
+    "id": 227,
+    "mysekaiNormalMissionId": 5901,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 3
+  },
+  {
+    "externalId": 1,
+    "id": 228,
+    "mysekaiNormalMissionId": 5902,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 4
+  },
+  {
+    "externalId": 1,
+    "id": 229,
+    "mysekaiNormalMissionId": 5903,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 5
+  },
+  {
+    "externalId": 1,
+    "id": 230,
+    "mysekaiNormalMissionId": 5904,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 6
+  },
+  {
+    "externalId": 6000,
+    "id": 231,
+    "mysekaiNormalMissionId": 6000,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 1
+  },
+  {
+    "externalId": 1,
+    "id": 232,
+    "mysekaiNormalMissionId": 6000,
+    "mysekaiNormalMissionRewardType": "mysekai_rank_obtained_exp",
+    "seq": 2
+  },
+  {
+    "externalId": 1,
+    "id": 233,
+    "mysekaiNormalMissionId": 6001,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 3
+  },
+  {
+    "externalId": 1,
+    "id": 234,
+    "mysekaiNormalMissionId": 6002,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 4
+  },
+  {
+    "externalId": 1,
+    "id": 235,
+    "mysekaiNormalMissionId": 6003,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 5
+  },
+  {
+    "externalId": 6100,
+    "id": 236,
+    "mysekaiNormalMissionId": 6100,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 1
+  },
+  {
+    "externalId": 1,
+    "id": 237,
+    "mysekaiNormalMissionId": 6100,
+    "mysekaiNormalMissionRewardType": "mysekai_rank_obtained_exp",
+    "seq": 2
+  },
+  {
+    "externalId": 1,
+    "id": 238,
+    "mysekaiNormalMissionId": 6101,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 3
+  },
+  {
+    "externalId": 1,
+    "id": 239,
+    "mysekaiNormalMissionId": 6102,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 4
+  },
+  {
+    "externalId": 1,
+    "id": 240,
+    "mysekaiNormalMissionId": 6103,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 5
+  },
+  {
+    "externalId": 1,
+    "id": 241,
+    "mysekaiNormalMissionId": 6104,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 6
+  },
+  {
+    "externalId": 6200,
+    "id": 242,
+    "mysekaiNormalMissionId": 6200,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 1
+  },
+  {
+    "externalId": 1,
+    "id": 243,
+    "mysekaiNormalMissionId": 6200,
+    "mysekaiNormalMissionRewardType": "mysekai_rank_obtained_exp",
+    "seq": 2
+  },
+  {
+    "externalId": 1,
+    "id": 244,
+    "mysekaiNormalMissionId": 6201,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 3
+  },
+  {
+    "externalId": 1,
+    "id": 245,
+    "mysekaiNormalMissionId": 6202,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 4
+  },
+  {
+    "externalId": 1,
+    "id": 246,
+    "mysekaiNormalMissionId": 6203,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 5
+  },
+  {
+    "externalId": 6300,
+    "id": 247,
+    "mysekaiNormalMissionId": 6300,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 1
+  },
+  {
+    "externalId": 1,
+    "id": 248,
+    "mysekaiNormalMissionId": 6300,
+    "mysekaiNormalMissionRewardType": "mysekai_rank_obtained_exp",
+    "seq": 2
+  },
+  {
+    "externalId": 1,
+    "id": 249,
+    "mysekaiNormalMissionId": 6301,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 3
+  },
+  {
+    "externalId": 1,
+    "id": 250,
+    "mysekaiNormalMissionId": 6302,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 4
+  },
+  {
+    "externalId": 1,
+    "id": 251,
+    "mysekaiNormalMissionId": 6303,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 5
+  },
+  {
+    "externalId": 1,
+    "id": 252,
+    "mysekaiNormalMissionId": 6304,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 6
+  },
+  {
+    "externalId": 6400,
+    "id": 253,
+    "mysekaiNormalMissionId": 6400,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 1
+  },
+  {
+    "externalId": 1,
+    "id": 254,
+    "mysekaiNormalMissionId": 6400,
+    "mysekaiNormalMissionRewardType": "mysekai_rank_obtained_exp",
+    "seq": 2
+  },
+  {
+    "externalId": 1,
+    "id": 255,
+    "mysekaiNormalMissionId": 6401,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 3
+  },
+  {
+    "externalId": 1,
+    "id": 256,
+    "mysekaiNormalMissionId": 6402,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 4
+  },
+  {
+    "externalId": 1,
+    "id": 257,
+    "mysekaiNormalMissionId": 6403,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 5
+  },
+  {
+    "externalId": 6500,
+    "id": 258,
+    "mysekaiNormalMissionId": 6500,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 1
+  },
+  {
+    "externalId": 1,
+    "id": 259,
+    "mysekaiNormalMissionId": 6500,
+    "mysekaiNormalMissionRewardType": "mysekai_rank_obtained_exp",
+    "seq": 2
+  },
+  {
+    "externalId": 1,
+    "id": 260,
+    "mysekaiNormalMissionId": 6501,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 3
+  },
+  {
+    "externalId": 1,
+    "id": 261,
+    "mysekaiNormalMissionId": 6502,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 4
+  },
+  {
+    "externalId": 1,
+    "id": 262,
+    "mysekaiNormalMissionId": 6503,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 5
+  },
+  {
+    "externalId": 1,
+    "id": 263,
+    "mysekaiNormalMissionId": 6504,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 6
+  },
+  {
+    "externalId": 6600,
+    "id": 264,
+    "mysekaiNormalMissionId": 6600,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 1
+  },
+  {
+    "externalId": 1,
+    "id": 265,
+    "mysekaiNormalMissionId": 6600,
+    "mysekaiNormalMissionRewardType": "mysekai_rank_obtained_exp",
+    "seq": 2
+  },
+  {
+    "externalId": 1,
+    "id": 266,
+    "mysekaiNormalMissionId": 6601,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 3
+  },
+  {
+    "externalId": 1,
+    "id": 267,
+    "mysekaiNormalMissionId": 6602,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 4
+  },
+  {
+    "externalId": 1,
+    "id": 268,
+    "mysekaiNormalMissionId": 6603,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 5
+  },
+  {
+    "externalId": 6700,
+    "id": 269,
+    "mysekaiNormalMissionId": 6700,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 1
+  },
+  {
+    "externalId": 1,
+    "id": 270,
+    "mysekaiNormalMissionId": 6700,
+    "mysekaiNormalMissionRewardType": "mysekai_rank_obtained_exp",
+    "seq": 2
+  },
+  {
+    "externalId": 1,
+    "id": 271,
+    "mysekaiNormalMissionId": 6701,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 3
+  },
+  {
+    "externalId": 1,
+    "id": 272,
+    "mysekaiNormalMissionId": 6702,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 4
+  },
+  {
+    "externalId": 1,
+    "id": 273,
+    "mysekaiNormalMissionId": 6703,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 5
+  },
+  {
+    "externalId": 1,
+    "id": 274,
+    "mysekaiNormalMissionId": 6704,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 6
+  },
+  {
+    "externalId": 6800,
+    "id": 275,
+    "mysekaiNormalMissionId": 6800,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 1
+  },
+  {
+    "externalId": 1,
+    "id": 276,
+    "mysekaiNormalMissionId": 6800,
+    "mysekaiNormalMissionRewardType": "mysekai_rank_obtained_exp",
+    "seq": 2
+  },
+  {
+    "externalId": 1,
+    "id": 277,
+    "mysekaiNormalMissionId": 6801,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 3
+  },
+  {
+    "externalId": 1,
+    "id": 278,
+    "mysekaiNormalMissionId": 6802,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 4
+  },
+  {
+    "externalId": 1,
+    "id": 279,
+    "mysekaiNormalMissionId": 6803,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 5
+  },
+  {
+    "externalId": 6900,
+    "id": 280,
+    "mysekaiNormalMissionId": 6900,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 1
+  },
+  {
+    "externalId": 1,
+    "id": 281,
+    "mysekaiNormalMissionId": 6900,
+    "mysekaiNormalMissionRewardType": "mysekai_rank_obtained_exp",
+    "seq": 2
+  },
+  {
+    "externalId": 1,
+    "id": 282,
+    "mysekaiNormalMissionId": 6901,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 3
+  },
+  {
+    "externalId": 1,
+    "id": 283,
+    "mysekaiNormalMissionId": 6902,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 4
+  },
+  {
+    "externalId": 1,
+    "id": 284,
+    "mysekaiNormalMissionId": 6903,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 5
+  },
+  {
+    "externalId": 1,
+    "id": 285,
+    "mysekaiNormalMissionId": 6904,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 6
+  },
+  {
+    "externalId": 7000,
+    "id": 286,
+    "mysekaiNormalMissionId": 7000,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 1
+  },
+  {
+    "externalId": 1,
+    "id": 287,
+    "mysekaiNormalMissionId": 7000,
+    "mysekaiNormalMissionRewardType": "mysekai_rank_obtained_exp",
+    "seq": 2
+  },
+  {
+    "externalId": 1,
+    "id": 288,
+    "mysekaiNormalMissionId": 7001,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 3
+  },
+  {
+    "externalId": 1,
+    "id": 289,
+    "mysekaiNormalMissionId": 7002,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 4
+  },
+  {
+    "externalId": 1,
+    "id": 290,
+    "mysekaiNormalMissionId": 7003,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 5
+  },
+  {
+    "externalId": 7100,
+    "id": 291,
+    "mysekaiNormalMissionId": 7100,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 1
+  },
+  {
+    "externalId": 1,
+    "id": 292,
+    "mysekaiNormalMissionId": 7100,
+    "mysekaiNormalMissionRewardType": "mysekai_rank_obtained_exp",
+    "seq": 2
+  },
+  {
+    "externalId": 1,
+    "id": 293,
+    "mysekaiNormalMissionId": 7101,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 3
+  },
+  {
+    "externalId": 1,
+    "id": 294,
+    "mysekaiNormalMissionId": 7102,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 4
+  },
+  {
+    "externalId": 1,
+    "id": 295,
+    "mysekaiNormalMissionId": 7103,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 5
+  },
+  {
+    "externalId": 1,
+    "id": 296,
+    "mysekaiNormalMissionId": 7104,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 6
+  },
+  {
+    "externalId": 1,
+    "id": 297,
+    "mysekaiNormalMissionId": 7105,
+    "mysekaiNormalMissionRewardType": "resource_box",
+    "seq": 7
+  }
+]

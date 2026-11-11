@@ -1,0 +1,18 @@
+[
+  {
+    "facilityType": "skill_practice",
+    "id": 1,
+    "releaseConditionId": 10030
+  },
+  {
+    "facilityType": "challenge_live",
+    "id": 2,
+    "releaseConditionId": 10005
+  },
+  {
+    "andReleaseConditionId": 1000000,
+    "facilityType": "rank_match",
+    "id": 3,
+    "releaseConditionId": 10020
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "mysekaiFixtureMainGenreGroupId": 1,
+    "name": "普通家具"
+  },
+  {
+    "id": 2,
+    "mysekaiFixtureMainGenreGroupId": 3,
+    "name": "小型家具"
+  },
+  {
+    "id": 3,
+    "mysekaiFixtureMainGenreGroupId": 2,
+    "name": "挂壁式家具"
+  },
+  {
+    "id": 4,
+    "mysekaiFixtureMainGenreGroupId": 4,
+    "name": "墙纸"
+  },
+  {
+    "id": 5,
+    "mysekaiFixtureMainGenreGroupId": 5,
+    "name": "地材·绒毯·道路"
+  }
+]

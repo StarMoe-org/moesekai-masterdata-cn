@@ -1,0 +1,12 @@
+[
+  {
+    "consumeJewelQuantity": 100,
+    "mysekaiBlueprintShopItemLotteryType": "weekly",
+    "purchaseLimit": 3
+  },
+  {
+    "consumeJewelQuantity": 100,
+    "mysekaiBlueprintShopItemLotteryType": "daily",
+    "purchaseLimit": 5
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "blue": 0,
+    "green": 0,
+    "id": 1,
+    "red": 255,
+    "runCue": "soil",
+    "walkCue": "soil"
+  },
+  {
+    "blue": 255,
+    "green": 0,
+    "id": 2,
+    "red": 0,
+    "runCue": "grass",
+    "walkCue": "grass"
+  },
+  {
+    "blue": 0,
+    "green": 255,
+    "id": 3,
+    "red": 0,
+    "runCue": "default",
+    "walkCue": "default"
+  },
+  {
+    "blue": 0,
+    "green": 255,
+    "id": 4,
+    "red": 255,
+    "runCue": "water",
+    "walkCue": "water"
+  },
+  {
+    "blue": 255,
+    "green": 255,
+    "id": 5,
+    "red": 255,
+    "runCue": "mat",
+    "walkCue": "mat"
+  },
+  {
+    "blue": 255,
+    "green": 255,
+    "id": 6,
+    "red": 0,
+    "runCue": "wood",
+    "walkCue": "wood"
+  },
+  {
+    "blue": 255,
+    "green": 0,
+    "id": 7,
+    "red": 255,
+    "runCue": "stone",
+    "walkCue": "stone"
+  },
+  {
+    "blue": 255,
+    "green": 0,
+    "id": 9,
+    "red": 255,
+    "runCue": "stone",
+    "walkCue": "stone"
+  }
+]

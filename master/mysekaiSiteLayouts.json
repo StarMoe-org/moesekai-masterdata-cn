@@ -1,0 +1,498 @@
+[
+  {
+    "depth": 36,
+    "height": 15,
+    "id": 1,
+    "mysekaiLayoutType": "floor",
+    "mysekaiSiteLevelId": 1,
+    "width": 36
+  },
+  {
+    "depth": 36,
+    "height": 1,
+    "id": 2,
+    "mysekaiLayoutType": "rug",
+    "mysekaiSiteLevelId": 1,
+    "width": 36
+  },
+  {
+    "depth": 36,
+    "height": 1,
+    "id": 3,
+    "mysekaiLayoutType": "road",
+    "mysekaiSiteLevelId": 1,
+    "width": 36
+  },
+  {
+    "depth": 36,
+    "height": 15,
+    "id": 4,
+    "mysekaiLayoutType": "floor",
+    "mysekaiSiteLevelId": 2,
+    "width": 36
+  },
+  {
+    "depth": 36,
+    "height": 1,
+    "id": 5,
+    "mysekaiLayoutType": "rug",
+    "mysekaiSiteLevelId": 2,
+    "width": 36
+  },
+  {
+    "depth": 36,
+    "height": 1,
+    "id": 6,
+    "mysekaiLayoutType": "road",
+    "mysekaiSiteLevelId": 2,
+    "width": 36
+  },
+  {
+    "depth": 70,
+    "height": 15,
+    "id": 7,
+    "mysekaiLayoutType": "floor",
+    "mysekaiSiteLevelId": 3,
+    "width": 70
+  },
+  {
+    "depth": 70,
+    "height": 1,
+    "id": 8,
+    "mysekaiLayoutType": "rug",
+    "mysekaiSiteLevelId": 3,
+    "width": 70
+  },
+  {
+    "depth": 70,
+    "height": 1,
+    "id": 9,
+    "mysekaiLayoutType": "road",
+    "mysekaiSiteLevelId": 3,
+    "width": 70
+  },
+  {
+    "depth": 90,
+    "height": 15,
+    "id": 10,
+    "mysekaiLayoutType": "floor",
+    "mysekaiSiteLevelId": 4,
+    "width": 90
+  },
+  {
+    "depth": 90,
+    "height": 1,
+    "id": 11,
+    "mysekaiLayoutType": "rug",
+    "mysekaiSiteLevelId": 4,
+    "width": 90
+  },
+  {
+    "depth": 90,
+    "height": 1,
+    "id": 12,
+    "mysekaiLayoutType": "road",
+    "mysekaiSiteLevelId": 4,
+    "width": 90
+  },
+  {
+    "depth": 100,
+    "height": 15,
+    "id": 13,
+    "mysekaiLayoutType": "floor",
+    "mysekaiSiteLevelId": 5,
+    "width": 100
+  },
+  {
+    "depth": 100,
+    "height": 1,
+    "id": 14,
+    "mysekaiLayoutType": "rug",
+    "mysekaiSiteLevelId": 5,
+    "width": 100
+  },
+  {
+    "depth": 100,
+    "height": 1,
+    "id": 15,
+    "mysekaiLayoutType": "road",
+    "mysekaiSiteLevelId": 5,
+    "width": 100
+  },
+  {
+    "depth": 10,
+    "height": 10,
+    "id": 20,
+    "mysekaiLayoutType": "floor",
+    "mysekaiSiteLevelId": 6,
+    "width": 10
+  },
+  {
+    "depth": 10,
+    "height": 1,
+    "id": 21,
+    "mysekaiLayoutType": "rug",
+    "mysekaiSiteLevelId": 6,
+    "width": 10
+  },
+  {
+    "depth": 1,
+    "height": 10,
+    "id": 22,
+    "mysekaiLayoutType": "wall_right",
+    "mysekaiSiteLevelId": 6,
+    "width": 10
+  },
+  {
+    "depth": 1,
+    "height": 10,
+    "id": 23,
+    "mysekaiLayoutType": "wall_back",
+    "mysekaiSiteLevelId": 6,
+    "width": 10
+  },
+  {
+    "depth": 1,
+    "height": 10,
+    "id": 24,
+    "mysekaiLayoutType": "wall_left",
+    "mysekaiSiteLevelId": 6,
+    "width": 10
+  },
+  {
+    "depth": 1,
+    "height": 10,
+    "id": 25,
+    "mysekaiLayoutType": "wall_front",
+    "mysekaiSiteLevelId": 6,
+    "width": 10
+  },
+  {
+    "depth": 12,
+    "height": 10,
+    "id": 26,
+    "mysekaiLayoutType": "floor",
+    "mysekaiSiteLevelId": 7,
+    "width": 12
+  },
+  {
+    "depth": 12,
+    "height": 1,
+    "id": 27,
+    "mysekaiLayoutType": "rug",
+    "mysekaiSiteLevelId": 7,
+    "width": 12
+  },
+  {
+    "depth": 1,
+    "height": 10,
+    "id": 28,
+    "mysekaiLayoutType": "wall_right",
+    "mysekaiSiteLevelId": 7,
+    "width": 12
+  },
+  {
+    "depth": 1,
+    "height": 10,
+    "id": 29,
+    "mysekaiLayoutType": "wall_back",
+    "mysekaiSiteLevelId": 7,
+    "width": 12
+  },
+  {
+    "depth": 1,
+    "height": 10,
+    "id": 30,
+    "mysekaiLayoutType": "wall_left",
+    "mysekaiSiteLevelId": 7,
+    "width": 12
+  },
+  {
+    "depth": 1,
+    "height": 10,
+    "id": 31,
+    "mysekaiLayoutType": "wall_front",
+    "mysekaiSiteLevelId": 7,
+    "width": 12
+  },
+  {
+    "depth": 12,
+    "height": 10,
+    "id": 32,
+    "mysekaiLayoutType": "floor",
+    "mysekaiSiteLevelId": 8,
+    "width": 16
+  },
+  {
+    "depth": 12,
+    "height": 1,
+    "id": 33,
+    "mysekaiLayoutType": "rug",
+    "mysekaiSiteLevelId": 8,
+    "width": 16
+  },
+  {
+    "depth": 1,
+    "height": 10,
+    "id": 34,
+    "mysekaiLayoutType": "wall_right",
+    "mysekaiSiteLevelId": 8,
+    "width": 12
+  },
+  {
+    "depth": 1,
+    "height": 10,
+    "id": 35,
+    "mysekaiLayoutType": "wall_back",
+    "mysekaiSiteLevelId": 8,
+    "width": 16
+  },
+  {
+    "depth": 1,
+    "height": 10,
+    "id": 36,
+    "mysekaiLayoutType": "wall_left",
+    "mysekaiSiteLevelId": 8,
+    "width": 12
+  },
+  {
+    "depth": 1,
+    "height": 10,
+    "id": 37,
+    "mysekaiLayoutType": "wall_front",
+    "mysekaiSiteLevelId": 8,
+    "width": 16
+  },
+  {
+    "depth": 16,
+    "height": 10,
+    "id": 38,
+    "mysekaiLayoutType": "floor",
+    "mysekaiSiteLevelId": 9,
+    "width": 20
+  },
+  {
+    "depth": 16,
+    "height": 1,
+    "id": 39,
+    "mysekaiLayoutType": "rug",
+    "mysekaiSiteLevelId": 9,
+    "width": 20
+  },
+  {
+    "depth": 1,
+    "height": 10,
+    "id": 40,
+    "mysekaiLayoutType": "wall_right",
+    "mysekaiSiteLevelId": 9,
+    "width": 16
+  },
+  {
+    "depth": 1,
+    "height": 10,
+    "id": 41,
+    "mysekaiLayoutType": "wall_back",
+    "mysekaiSiteLevelId": 9,
+    "width": 20
+  },
+  {
+    "depth": 1,
+    "height": 10,
+    "id": 42,
+    "mysekaiLayoutType": "wall_left",
+    "mysekaiSiteLevelId": 9,
+    "width": 16
+  },
+  {
+    "depth": 1,
+    "height": 10,
+    "id": 43,
+    "mysekaiLayoutType": "wall_front",
+    "mysekaiSiteLevelId": 9,
+    "width": 20
+  },
+  {
+    "depth": 20,
+    "height": 10,
+    "id": 44,
+    "mysekaiLayoutType": "floor",
+    "mysekaiSiteLevelId": 10,
+    "width": 24
+  },
+  {
+    "depth": 20,
+    "height": 1,
+    "id": 45,
+    "mysekaiLayoutType": "rug",
+    "mysekaiSiteLevelId": 10,
+    "width": 24
+  },
+  {
+    "depth": 1,
+    "height": 10,
+    "id": 46,
+    "mysekaiLayoutType": "wall_right",
+    "mysekaiSiteLevelId": 10,
+    "width": 20
+  },
+  {
+    "depth": 1,
+    "height": 10,
+    "id": 47,
+    "mysekaiLayoutType": "wall_back",
+    "mysekaiSiteLevelId": 10,
+    "width": 24
+  },
+  {
+    "depth": 1,
+    "height": 10,
+    "id": 48,
+    "mysekaiLayoutType": "wall_left",
+    "mysekaiSiteLevelId": 10,
+    "width": 20
+  },
+  {
+    "depth": 1,
+    "height": 10,
+    "id": 49,
+    "mysekaiLayoutType": "wall_front",
+    "mysekaiSiteLevelId": 10,
+    "width": 24
+  },
+  {
+    "depth": 20,
+    "height": 10,
+    "id": 50,
+    "mysekaiLayoutType": "floor",
+    "mysekaiSiteLevelId": 11,
+    "width": 24
+  },
+  {
+    "depth": 20,
+    "height": 1,
+    "id": 51,
+    "mysekaiLayoutType": "rug",
+    "mysekaiSiteLevelId": 11,
+    "width": 24
+  },
+  {
+    "depth": 1,
+    "height": 10,
+    "id": 52,
+    "mysekaiLayoutType": "wall_right",
+    "mysekaiSiteLevelId": 11,
+    "width": 20
+  },
+  {
+    "depth": 1,
+    "height": 10,
+    "id": 53,
+    "mysekaiLayoutType": "wall_back",
+    "mysekaiSiteLevelId": 11,
+    "width": 24
+  },
+  {
+    "depth": 1,
+    "height": 10,
+    "id": 54,
+    "mysekaiLayoutType": "wall_left",
+    "mysekaiSiteLevelId": 11,
+    "width": 20
+  },
+  {
+    "depth": 1,
+    "height": 10,
+    "id": 55,
+    "mysekaiLayoutType": "wall_front",
+    "mysekaiSiteLevelId": 11,
+    "width": 24
+  },
+  {
+    "depth": 20,
+    "height": 10,
+    "id": 56,
+    "mysekaiLayoutType": "floor",
+    "mysekaiSiteLevelId": 12,
+    "width": 24
+  },
+  {
+    "depth": 20,
+    "height": 1,
+    "id": 57,
+    "mysekaiLayoutType": "rug",
+    "mysekaiSiteLevelId": 12,
+    "width": 24
+  },
+  {
+    "depth": 1,
+    "height": 10,
+    "id": 58,
+    "mysekaiLayoutType": "wall_right",
+    "mysekaiSiteLevelId": 12,
+    "width": 20
+  },
+  {
+    "depth": 1,
+    "height": 10,
+    "id": 59,
+    "mysekaiLayoutType": "wall_back",
+    "mysekaiSiteLevelId": 12,
+    "width": 24
+  },
+  {
+    "depth": 1,
+    "height": 10,
+    "id": 60,
+    "mysekaiLayoutType": "wall_left",
+    "mysekaiSiteLevelId": 12,
+    "width": 20
+  },
+  {
+    "depth": 1,
+    "height": 10,
+    "id": 61,
+    "mysekaiLayoutType": "wall_front",
+    "mysekaiSiteLevelId": 12,
+    "width": 24
+  },
+  {
+    "depth": 120,
+    "height": 1,
+    "id": 62,
+    "mysekaiLayoutType": "floor",
+    "mysekaiSiteLevelId": 13,
+    "width": 120
+  },
+  {
+    "depth": 150,
+    "height": 2,
+    "id": 63,
+    "mysekaiLayoutType": "floor",
+    "mysekaiSiteLevelId": 14,
+    "width": 150
+  },
+  {
+    "depth": 100,
+    "height": 1,
+    "id": 64,
+    "mysekaiLayoutType": "floor",
+    "mysekaiSiteLevelId": 15,
+    "width": 100
+  },
+  {
+    "depth": 100,
+    "height": 1,
+    "id": 65,
+    "mysekaiLayoutType": "floor",
+    "mysekaiSiteLevelId": 16,
+    "width": 100
+  },
+  {
+    "depth": 100,
+    "height": 1,
+    "id": 66,
+    "mysekaiLayoutType": "floor",
+    "mysekaiSiteLevelId": 17,
+    "width": 100
+  }
+]

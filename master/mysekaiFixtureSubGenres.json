@@ -1,0 +1,200 @@
+[
+  {
+    "assetbundleName": "icon_all",
+    "id": 1,
+    "mysekaiFixtureSubGenreType": "none",
+    "name": "全部"
+  },
+  {
+    "assetbundleName": "icon_bed",
+    "id": 2,
+    "mysekaiFixtureSubGenreType": "none",
+    "name": "床"
+  },
+  {
+    "assetbundleName": "icon_table",
+    "id": 3,
+    "mysekaiFixtureSubGenreType": "none",
+    "name": "桌子"
+  },
+  {
+    "assetbundleName": "icon_chair",
+    "id": 4,
+    "mysekaiFixtureSubGenreType": "none",
+    "name": "椅子"
+  },
+  {
+    "assetbundleName": "icon_closet",
+    "id": 5,
+    "mysekaiFixtureSubGenreType": "none",
+    "name": "置物类"
+  },
+  {
+    "assetbundleName": "icon_house_plants",
+    "id": 7,
+    "mysekaiFixtureSubGenreType": "none",
+    "name": "观叶植物"
+  },
+  {
+    "assetbundleName": "icon_home_appliance_l",
+    "id": 8,
+    "mysekaiFixtureSubGenreType": "none",
+    "name": "家电"
+  },
+  {
+    "assetbundleName": "icon_others",
+    "id": 9,
+    "mysekaiFixtureSubGenreType": "none",
+    "name": "其他"
+  },
+  {
+    "assetbundleName": "icon_stuffed_toy",
+    "id": 10,
+    "mysekaiFixtureSubGenreType": "doll",
+    "name": "玩偶"
+  },
+  {
+    "assetbundleName": "icon_house_plants",
+    "id": 11,
+    "mysekaiFixtureSubGenreType": "none",
+    "name": "观叶植物"
+  },
+  {
+    "assetbundleName": "icon_home_appliance",
+    "id": 12,
+    "mysekaiFixtureSubGenreType": "none",
+    "name": "家电"
+  },
+  {
+    "assetbundleName": "icon_others",
+    "id": 13,
+    "mysekaiFixtureSubGenreType": "none",
+    "name": "其他"
+  },
+  {
+    "assetbundleName": "icon_wall_furniture",
+    "id": 14,
+    "mysekaiFixtureSubGenreType": "none",
+    "name": "挂壁类"
+  },
+  {
+    "assetbundleName": "icon_all",
+    "id": 15,
+    "mysekaiFixtureSubGenreType": "custom_profile_resource_collection_all",
+    "name": "收藏"
+  },
+  {
+    "assetbundleName": "icon_honor",
+    "id": 16,
+    "mysekaiFixtureSubGenreType": "honor",
+    "name": "称号"
+  },
+  {
+    "assetbundleName": "icon_record_jacket",
+    "id": 17,
+    "mysekaiFixtureSubGenreType": "mysekai_music_record",
+    "name": "唱片"
+  },
+  {
+    "assetbundleName": "icon_canvas",
+    "id": 18,
+    "mysekaiFixtureSubGenreType": "none",
+    "name": "装饰画"
+  },
+  {
+    "assetbundleName": "icon_wallpaper",
+    "id": 19,
+    "mysekaiFixtureSubGenreType": "none",
+    "name": "墙纸"
+  },
+  {
+    "assetbundleName": "icon_floor",
+    "id": 20,
+    "mysekaiFixtureSubGenreType": "none",
+    "name": "地材"
+  },
+  {
+    "assetbundleName": "icon_rug",
+    "id": 21,
+    "mysekaiFixtureSubGenreType": "none",
+    "name": "绒毯"
+  },
+  {
+    "assetbundleName": "icon_road",
+    "id": 22,
+    "mysekaiFixtureSubGenreType": "none",
+    "name": "道路"
+  },
+  {
+    "assetbundleName": "icon_fence",
+    "id": 23,
+    "mysekaiFixtureSubGenreType": "none",
+    "name": "栅栏"
+  },
+  {
+    "assetbundleName": "icon_house",
+    "id": 24,
+    "mysekaiFixtureSubGenreType": "none",
+    "name": "建筑"
+  },
+  {
+    "assetbundleName": "icon_wood",
+    "id": 25,
+    "mysekaiFixtureSubGenreType": "none",
+    "name": "树"
+  },
+  {
+    "assetbundleName": "icon_flower",
+    "id": 26,
+    "mysekaiFixtureSubGenreType": "none",
+    "name": "花"
+  },
+  {
+    "assetbundleName": "icon_axe",
+    "id": 27,
+    "mysekaiFixtureSubGenreType": "none",
+    "name": "斧子"
+  },
+  {
+    "assetbundleName": "icon_pickaxe",
+    "id": 28,
+    "mysekaiFixtureSubGenreType": "none",
+    "name": "十字镐"
+  },
+  {
+    "assetbundleName": "icon_penlight",
+    "id": 29,
+    "mysekaiFixtureSubGenreType": "penlight",
+    "name": "应援棒"
+  },
+  {
+    "assetbundleName": "icon_photo",
+    "id": 30,
+    "mysekaiFixtureSubGenreType": "mysekai_photo",
+    "name": "照片"
+  },
+  {
+    "assetbundleName": "icon_canbadge",
+    "id": 31,
+    "mysekaiFixtureSubGenreType": "custom_profile_resource_collection_can_badge",
+    "name": "徽章"
+  },
+  {
+    "assetbundleName": "icon_acrylstand",
+    "id": 32,
+    "mysekaiFixtureSubGenreType": "custom_profile_resource_collection_acrylic_stand",
+    "name": "亚克力立牌"
+  },
+  {
+    "assetbundleName": "icon_others",
+    "id": 33,
+    "mysekaiFixtureSubGenreType": "custom_profile_resource_collection_other",
+    "name": "其他"
+  },
+  {
+    "assetbundleName": "icon_road_color",
+    "id": 34,
+    "mysekaiFixtureSubGenreType": "none",
+    "name": "彩色地砖"
+  }
+]

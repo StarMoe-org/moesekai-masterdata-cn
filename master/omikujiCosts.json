@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "omikujiGroupId": 1,
+    "resourceQuantity": 100,
+    "resourceType": "jewel",
+    "seq": 1
+  },
+  {
+    "id": 2,
+    "omikujiGroupId": 1,
+    "resourceQuantity": 300,
+    "resourceType": "virtual_coin",
+    "seq": 2
+  },
+  {
+    "id": 3,
+    "omikujiGroupId": 2,
+    "resourceQuantity": 100,
+    "resourceType": "jewel",
+    "seq": 1
+  },
+  {
+    "id": 4,
+    "omikujiGroupId": 2,
+    "resourceQuantity": 300,
+    "resourceType": "virtual_coin",
+    "seq": 2
+  },
+  {
+    "id": 5,
+    "omikujiGroupId": 3,
+    "resourceQuantity": 100,
+    "resourceType": "jewel",
+    "seq": 1
+  },
+  {
+    "id": 6,
+    "omikujiGroupId": 3,
+    "resourceQuantity": 300,
+    "resourceType": "virtual_coin",
+    "seq": 2
+  },
+  {
+    "id": 7,
+    "omikujiGroupId": 4,
+    "resourceQuantity": 100,
+    "resourceType": "jewel",
+    "seq": 1
+  },
+  {
+    "id": 8,
+    "omikujiGroupId": 4,
+    "resourceQuantity": 300,
+    "resourceType": "virtual_coin",
+    "seq": 2
+  },
+  {
+    "id": 9,
+    "omikujiGroupId": 5,
+    "resourceQuantity": 100,
+    "resourceType": "jewel",
+    "seq": 1
+  },
+  {
+    "id": 10,
+    "omikujiGroupId": 5,
+    "resourceQuantity": 300,
+    "resourceType": "virtual_coin",
+    "seq": 2
+  }
+]

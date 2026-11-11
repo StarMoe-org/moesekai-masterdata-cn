@@ -1,0 +1,398 @@
+[
+  {
+    "gachaId": 225,
+    "id": 1,
+    "resourceBoxId": 1,
+    "seq": 1
+  },
+  {
+    "gachaId": 225,
+    "id": 2,
+    "resourceBoxId": 2,
+    "seq": 2
+  },
+  {
+    "gachaId": 225,
+    "id": 3,
+    "resourceBoxId": 3,
+    "seq": 3
+  },
+  {
+    "gachaId": 225,
+    "id": 4,
+    "resourceBoxId": 4,
+    "seq": 4
+  },
+  {
+    "gachaId": 225,
+    "id": 5,
+    "resourceBoxId": 5,
+    "seq": 5
+  },
+  {
+    "gachaId": 225,
+    "id": 6,
+    "resourceBoxId": 6,
+    "seq": 6
+  },
+  {
+    "gachaId": 225,
+    "id": 7,
+    "resourceBoxId": 7,
+    "seq": 7
+  },
+  {
+    "gachaId": 255,
+    "id": 8,
+    "resourceBoxId": 1,
+    "seq": 1
+  },
+  {
+    "gachaId": 255,
+    "id": 9,
+    "resourceBoxId": 2,
+    "seq": 2
+  },
+  {
+    "gachaId": 255,
+    "id": 10,
+    "resourceBoxId": 3,
+    "seq": 3
+  },
+  {
+    "gachaId": 255,
+    "id": 11,
+    "resourceBoxId": 4,
+    "seq": 4
+  },
+  {
+    "gachaId": 255,
+    "id": 12,
+    "resourceBoxId": 5,
+    "seq": 5
+  },
+  {
+    "gachaId": 255,
+    "id": 13,
+    "resourceBoxId": 6,
+    "seq": 6
+  },
+  {
+    "gachaId": 255,
+    "id": 14,
+    "resourceBoxId": 7,
+    "seq": 7
+  },
+  {
+    "gachaId": 286,
+    "id": 15,
+    "resourceBoxId": 1,
+    "seq": 1
+  },
+  {
+    "gachaId": 286,
+    "id": 16,
+    "resourceBoxId": 2,
+    "seq": 2
+  },
+  {
+    "gachaId": 286,
+    "id": 17,
+    "resourceBoxId": 3,
+    "seq": 3
+  },
+  {
+    "gachaId": 286,
+    "id": 18,
+    "resourceBoxId": 4,
+    "seq": 4
+  },
+  {
+    "gachaId": 286,
+    "id": 19,
+    "resourceBoxId": 5,
+    "seq": 5
+  },
+  {
+    "gachaId": 286,
+    "id": 20,
+    "resourceBoxId": 6,
+    "seq": 6
+  },
+  {
+    "gachaId": 286,
+    "id": 21,
+    "resourceBoxId": 7,
+    "seq": 7
+  },
+  {
+    "gachaId": 322,
+    "id": 22,
+    "resourceBoxId": 1,
+    "seq": 1
+  },
+  {
+    "gachaId": 322,
+    "id": 23,
+    "resourceBoxId": 2,
+    "seq": 2
+  },
+  {
+    "gachaId": 322,
+    "id": 24,
+    "resourceBoxId": 3,
+    "seq": 3
+  },
+  {
+    "gachaId": 322,
+    "id": 25,
+    "resourceBoxId": 4,
+    "seq": 4
+  },
+  {
+    "gachaId": 322,
+    "id": 26,
+    "resourceBoxId": 5,
+    "seq": 5
+  },
+  {
+    "gachaId": 322,
+    "id": 27,
+    "resourceBoxId": 6,
+    "seq": 6
+  },
+  {
+    "gachaId": 322,
+    "id": 28,
+    "resourceBoxId": 7,
+    "seq": 7
+  },
+  {
+    "gachaId": 355,
+    "id": 29,
+    "resourceBoxId": 1,
+    "seq": 1
+  },
+  {
+    "gachaId": 355,
+    "id": 30,
+    "resourceBoxId": 2,
+    "seq": 2
+  },
+  {
+    "gachaId": 355,
+    "id": 31,
+    "resourceBoxId": 3,
+    "seq": 3
+  },
+  {
+    "gachaId": 355,
+    "id": 32,
+    "resourceBoxId": 4,
+    "seq": 4
+  },
+  {
+    "gachaId": 355,
+    "id": 33,
+    "resourceBoxId": 5,
+    "seq": 5
+  },
+  {
+    "gachaId": 355,
+    "id": 34,
+    "resourceBoxId": 6,
+    "seq": 6
+  },
+  {
+    "gachaId": 355,
+    "id": 35,
+    "resourceBoxId": 7,
+    "seq": 7
+  },
+  {
+    "gachaId": 599,
+    "id": 65,
+    "resourceBoxId": 15,
+    "seq": 1
+  },
+  {
+    "gachaId": 599,
+    "id": 66,
+    "resourceBoxId": 1,
+    "seq": 2
+  },
+  {
+    "gachaId": 599,
+    "id": 67,
+    "resourceBoxId": 2,
+    "seq": 3
+  },
+  {
+    "gachaId": 599,
+    "id": 68,
+    "resourceBoxId": 3,
+    "seq": 4
+  },
+  {
+    "gachaId": 599,
+    "id": 69,
+    "resourceBoxId": 4,
+    "seq": 5
+  },
+  {
+    "gachaId": 599,
+    "id": 70,
+    "resourceBoxId": 5,
+    "seq": 6
+  },
+  {
+    "gachaId": 599,
+    "id": 71,
+    "resourceBoxId": 6,
+    "seq": 7
+  },
+  {
+    "gachaId": 599,
+    "id": 72,
+    "resourceBoxId": 7,
+    "seq": 8
+  },
+  {
+    "gachaId": 663,
+    "id": 73,
+    "resourceBoxId": 1,
+    "seq": 1
+  },
+  {
+    "gachaId": 663,
+    "id": 74,
+    "resourceBoxId": 2,
+    "seq": 2
+  },
+  {
+    "gachaId": 663,
+    "id": 75,
+    "resourceBoxId": 3,
+    "seq": 3
+  },
+  {
+    "gachaId": 663,
+    "id": 76,
+    "resourceBoxId": 4,
+    "seq": 4
+  },
+  {
+    "gachaId": 663,
+    "id": 77,
+    "resourceBoxId": 5,
+    "seq": 5
+  },
+  {
+    "gachaId": 663,
+    "id": 78,
+    "resourceBoxId": 6,
+    "seq": 6
+  },
+  {
+    "gachaId": 663,
+    "id": 79,
+    "resourceBoxId": 7,
+    "seq": 7
+  },
+  {
+    "gachaId": 745,
+    "id": 80,
+    "resourceBoxId": 1,
+    "seq": 1
+  },
+  {
+    "gachaId": 745,
+    "id": 81,
+    "resourceBoxId": 16,
+    "seq": 2
+  },
+  {
+    "gachaId": 745,
+    "id": 82,
+    "resourceBoxId": 17,
+    "seq": 3
+  },
+  {
+    "gachaId": 745,
+    "id": 83,
+    "resourceBoxId": 2,
+    "seq": 4
+  },
+  {
+    "gachaId": 745,
+    "id": 84,
+    "resourceBoxId": 3,
+    "seq": 5
+  },
+  {
+    "gachaId": 745,
+    "id": 85,
+    "resourceBoxId": 5,
+    "seq": 6
+  },
+  {
+    "gachaId": 745,
+    "id": 86,
+    "resourceBoxId": 6,
+    "seq": 7
+  },
+  {
+    "gachaId": 745,
+    "id": 87,
+    "resourceBoxId": 7,
+    "seq": 8
+  },
+  {
+    "gachaId": 849,
+    "id": 88,
+    "resourceBoxId": 1,
+    "seq": 1
+  },
+  {
+    "gachaId": 849,
+    "id": 89,
+    "resourceBoxId": 16,
+    "seq": 2
+  },
+  {
+    "gachaId": 849,
+    "id": 90,
+    "resourceBoxId": 17,
+    "seq": 3
+  },
+  {
+    "gachaId": 849,
+    "id": 91,
+    "resourceBoxId": 2,
+    "seq": 4
+  },
+  {
+    "gachaId": 849,
+    "id": 92,
+    "resourceBoxId": 3,
+    "seq": 5
+  },
+  {
+    "gachaId": 849,
+    "id": 93,
+    "resourceBoxId": 5,
+    "seq": 6
+  },
+  {
+    "gachaId": 849,
+    "id": 94,
+    "resourceBoxId": 6,
+    "seq": 7
+  },
+  {
+    "gachaId": 849,
+    "id": 95,
+    "resourceBoxId": 7,
+    "seq": 8
+  }
+]

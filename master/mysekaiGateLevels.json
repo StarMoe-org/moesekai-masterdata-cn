@@ -1,0 +1,1602 @@
+[
+  {
+    "id": 1001,
+    "level": 1,
+    "mysekaiGateCharacterVisitCountRateId": 1,
+    "mysekaiGateId": 1,
+    "mysekaiGateMaterialGroupId": 1001,
+    "powerBonusRate": 0.10000000149011612
+  },
+  {
+    "id": 1002,
+    "level": 2,
+    "mysekaiGateCharacterVisitCountRateId": 2,
+    "mysekaiGateId": 1,
+    "mysekaiGateMaterialGroupId": 1002,
+    "powerBonusRate": 0.20000000298023224
+  },
+  {
+    "id": 1003,
+    "level": 3,
+    "mysekaiGateCharacterVisitCountRateId": 3,
+    "mysekaiGateId": 1,
+    "mysekaiGateMaterialGroupId": 1003,
+    "powerBonusRate": 0.30000001192092896
+  },
+  {
+    "id": 1004,
+    "level": 4,
+    "mysekaiGateCharacterVisitCountRateId": 4,
+    "mysekaiGateId": 1,
+    "mysekaiGateMaterialGroupId": 1004,
+    "powerBonusRate": 0.4000000059604645
+  },
+  {
+    "id": 1005,
+    "level": 5,
+    "mysekaiGateCharacterVisitCountRateId": 5,
+    "mysekaiGateId": 1,
+    "mysekaiGateMaterialGroupId": 1005,
+    "powerBonusRate": 0.5
+  },
+  {
+    "id": 1006,
+    "level": 6,
+    "mysekaiGateCharacterVisitCountRateId": 6,
+    "mysekaiGateId": 1,
+    "mysekaiGateMaterialGroupId": 1006,
+    "powerBonusRate": 0.6000000238418579
+  },
+  {
+    "id": 1007,
+    "level": 7,
+    "mysekaiGateCharacterVisitCountRateId": 7,
+    "mysekaiGateId": 1,
+    "mysekaiGateMaterialGroupId": 1007,
+    "powerBonusRate": 0.699999988079071
+  },
+  {
+    "id": 1008,
+    "level": 8,
+    "mysekaiGateCharacterVisitCountRateId": 8,
+    "mysekaiGateId": 1,
+    "mysekaiGateMaterialGroupId": 1008,
+    "powerBonusRate": 0.800000011920929
+  },
+  {
+    "id": 1009,
+    "level": 9,
+    "mysekaiGateCharacterVisitCountRateId": 9,
+    "mysekaiGateId": 1,
+    "mysekaiGateMaterialGroupId": 1009,
+    "powerBonusRate": 0.8999999761581421
+  },
+  {
+    "id": 1010,
+    "level": 10,
+    "mysekaiGateCharacterVisitCountRateId": 10,
+    "mysekaiGateId": 1,
+    "mysekaiGateMaterialGroupId": 1010,
+    "powerBonusRate": 1.0
+  },
+  {
+    "id": 1011,
+    "level": 11,
+    "mysekaiGateCharacterVisitCountRateId": 11,
+    "mysekaiGateId": 1,
+    "mysekaiGateMaterialGroupId": 1011,
+    "powerBonusRate": 1.100000023841858
+  },
+  {
+    "id": 1012,
+    "level": 12,
+    "mysekaiGateCharacterVisitCountRateId": 12,
+    "mysekaiGateId": 1,
+    "mysekaiGateMaterialGroupId": 1012,
+    "powerBonusRate": 1.2000000476837158
+  },
+  {
+    "id": 1013,
+    "level": 13,
+    "mysekaiGateCharacterVisitCountRateId": 13,
+    "mysekaiGateId": 1,
+    "mysekaiGateMaterialGroupId": 1013,
+    "powerBonusRate": 1.2999999523162842
+  },
+  {
+    "id": 1014,
+    "level": 14,
+    "mysekaiGateCharacterVisitCountRateId": 14,
+    "mysekaiGateId": 1,
+    "mysekaiGateMaterialGroupId": 1014,
+    "powerBonusRate": 1.399999976158142
+  },
+  {
+    "id": 1015,
+    "level": 15,
+    "mysekaiGateCharacterVisitCountRateId": 15,
+    "mysekaiGateId": 1,
+    "mysekaiGateMaterialGroupId": 1015,
+    "powerBonusRate": 1.5
+  },
+  {
+    "id": 1016,
+    "level": 16,
+    "mysekaiGateCharacterVisitCountRateId": 16,
+    "mysekaiGateId": 1,
+    "mysekaiGateMaterialGroupId": 1016,
+    "powerBonusRate": 1.600000023841858
+  },
+  {
+    "id": 1017,
+    "level": 17,
+    "mysekaiGateCharacterVisitCountRateId": 17,
+    "mysekaiGateId": 1,
+    "mysekaiGateMaterialGroupId": 1017,
+    "powerBonusRate": 1.7000000476837158
+  },
+  {
+    "id": 1018,
+    "level": 18,
+    "mysekaiGateCharacterVisitCountRateId": 18,
+    "mysekaiGateId": 1,
+    "mysekaiGateMaterialGroupId": 1018,
+    "powerBonusRate": 1.7999999523162842
+  },
+  {
+    "id": 1019,
+    "level": 19,
+    "mysekaiGateCharacterVisitCountRateId": 19,
+    "mysekaiGateId": 1,
+    "mysekaiGateMaterialGroupId": 1019,
+    "powerBonusRate": 1.899999976158142
+  },
+  {
+    "id": 1020,
+    "level": 20,
+    "mysekaiGateCharacterVisitCountRateId": 20,
+    "mysekaiGateId": 1,
+    "mysekaiGateMaterialGroupId": 1020,
+    "powerBonusRate": 2.0
+  },
+  {
+    "id": 1021,
+    "level": 21,
+    "mysekaiGateCharacterVisitCountRateId": 21,
+    "mysekaiGateId": 1,
+    "mysekaiGateMaterialGroupId": 1021,
+    "powerBonusRate": 2.0999999046325684
+  },
+  {
+    "id": 1022,
+    "level": 22,
+    "mysekaiGateCharacterVisitCountRateId": 22,
+    "mysekaiGateId": 1,
+    "mysekaiGateMaterialGroupId": 1022,
+    "powerBonusRate": 2.200000047683716
+  },
+  {
+    "id": 1023,
+    "level": 23,
+    "mysekaiGateCharacterVisitCountRateId": 23,
+    "mysekaiGateId": 1,
+    "mysekaiGateMaterialGroupId": 1023,
+    "powerBonusRate": 2.299999952316284
+  },
+  {
+    "id": 1024,
+    "level": 24,
+    "mysekaiGateCharacterVisitCountRateId": 24,
+    "mysekaiGateId": 1,
+    "mysekaiGateMaterialGroupId": 1024,
+    "powerBonusRate": 2.4000000953674316
+  },
+  {
+    "id": 1025,
+    "level": 25,
+    "mysekaiGateCharacterVisitCountRateId": 25,
+    "mysekaiGateId": 1,
+    "mysekaiGateMaterialGroupId": 1025,
+    "powerBonusRate": 2.5
+  },
+  {
+    "id": 1026,
+    "level": 26,
+    "mysekaiGateCharacterVisitCountRateId": 26,
+    "mysekaiGateId": 1,
+    "mysekaiGateMaterialGroupId": 1026,
+    "powerBonusRate": 2.5999999046325684
+  },
+  {
+    "id": 1027,
+    "level": 27,
+    "mysekaiGateCharacterVisitCountRateId": 27,
+    "mysekaiGateId": 1,
+    "mysekaiGateMaterialGroupId": 1027,
+    "powerBonusRate": 2.700000047683716
+  },
+  {
+    "id": 1028,
+    "level": 28,
+    "mysekaiGateCharacterVisitCountRateId": 28,
+    "mysekaiGateId": 1,
+    "mysekaiGateMaterialGroupId": 1028,
+    "powerBonusRate": 2.799999952316284
+  },
+  {
+    "id": 1029,
+    "level": 29,
+    "mysekaiGateCharacterVisitCountRateId": 29,
+    "mysekaiGateId": 1,
+    "mysekaiGateMaterialGroupId": 1029,
+    "powerBonusRate": 2.9000000953674316
+  },
+  {
+    "id": 1030,
+    "level": 30,
+    "mysekaiGateCharacterVisitCountRateId": 30,
+    "mysekaiGateId": 1,
+    "mysekaiGateMaterialGroupId": 1030,
+    "powerBonusRate": 3.0
+  },
+  {
+    "id": 1031,
+    "level": 31,
+    "mysekaiGateCharacterVisitCountRateId": 31,
+    "mysekaiGateId": 1,
+    "mysekaiGateMaterialGroupId": 1031,
+    "powerBonusRate": 3.0999999046325684
+  },
+  {
+    "id": 1032,
+    "level": 32,
+    "mysekaiGateCharacterVisitCountRateId": 32,
+    "mysekaiGateId": 1,
+    "mysekaiGateMaterialGroupId": 1032,
+    "powerBonusRate": 3.200000047683716
+  },
+  {
+    "id": 1033,
+    "level": 33,
+    "mysekaiGateCharacterVisitCountRateId": 33,
+    "mysekaiGateId": 1,
+    "mysekaiGateMaterialGroupId": 1033,
+    "powerBonusRate": 3.299999952316284
+  },
+  {
+    "id": 1034,
+    "level": 34,
+    "mysekaiGateCharacterVisitCountRateId": 34,
+    "mysekaiGateId": 1,
+    "mysekaiGateMaterialGroupId": 1034,
+    "powerBonusRate": 3.4000000953674316
+  },
+  {
+    "id": 1035,
+    "level": 35,
+    "mysekaiGateCharacterVisitCountRateId": 35,
+    "mysekaiGateId": 1,
+    "mysekaiGateMaterialGroupId": 1035,
+    "powerBonusRate": 3.5
+  },
+  {
+    "id": 1036,
+    "level": 36,
+    "mysekaiGateCharacterVisitCountRateId": 36,
+    "mysekaiGateId": 1,
+    "mysekaiGateMaterialGroupId": 1036,
+    "powerBonusRate": 3.5999999046325684
+  },
+  {
+    "id": 1037,
+    "level": 37,
+    "mysekaiGateCharacterVisitCountRateId": 37,
+    "mysekaiGateId": 1,
+    "mysekaiGateMaterialGroupId": 1037,
+    "powerBonusRate": 3.700000047683716
+  },
+  {
+    "id": 1038,
+    "level": 38,
+    "mysekaiGateCharacterVisitCountRateId": 38,
+    "mysekaiGateId": 1,
+    "mysekaiGateMaterialGroupId": 1038,
+    "powerBonusRate": 3.799999952316284
+  },
+  {
+    "id": 1039,
+    "level": 39,
+    "mysekaiGateCharacterVisitCountRateId": 39,
+    "mysekaiGateId": 1,
+    "mysekaiGateMaterialGroupId": 1039,
+    "powerBonusRate": 3.9000000953674316
+  },
+  {
+    "id": 1040,
+    "level": 40,
+    "mysekaiGateCharacterVisitCountRateId": 40,
+    "mysekaiGateId": 1,
+    "mysekaiGateMaterialGroupId": 1040,
+    "powerBonusRate": 4.0
+  },
+  {
+    "id": 2001,
+    "level": 1,
+    "mysekaiGateCharacterVisitCountRateId": 1,
+    "mysekaiGateId": 2,
+    "mysekaiGateMaterialGroupId": 2001,
+    "powerBonusRate": 0.10000000149011612
+  },
+  {
+    "id": 2002,
+    "level": 2,
+    "mysekaiGateCharacterVisitCountRateId": 2,
+    "mysekaiGateId": 2,
+    "mysekaiGateMaterialGroupId": 2002,
+    "powerBonusRate": 0.20000000298023224
+  },
+  {
+    "id": 2003,
+    "level": 3,
+    "mysekaiGateCharacterVisitCountRateId": 3,
+    "mysekaiGateId": 2,
+    "mysekaiGateMaterialGroupId": 2003,
+    "powerBonusRate": 0.30000001192092896
+  },
+  {
+    "id": 2004,
+    "level": 4,
+    "mysekaiGateCharacterVisitCountRateId": 4,
+    "mysekaiGateId": 2,
+    "mysekaiGateMaterialGroupId": 2004,
+    "powerBonusRate": 0.4000000059604645
+  },
+  {
+    "id": 2005,
+    "level": 5,
+    "mysekaiGateCharacterVisitCountRateId": 5,
+    "mysekaiGateId": 2,
+    "mysekaiGateMaterialGroupId": 2005,
+    "powerBonusRate": 0.5
+  },
+  {
+    "id": 2006,
+    "level": 6,
+    "mysekaiGateCharacterVisitCountRateId": 6,
+    "mysekaiGateId": 2,
+    "mysekaiGateMaterialGroupId": 2006,
+    "powerBonusRate": 0.6000000238418579
+  },
+  {
+    "id": 2007,
+    "level": 7,
+    "mysekaiGateCharacterVisitCountRateId": 7,
+    "mysekaiGateId": 2,
+    "mysekaiGateMaterialGroupId": 2007,
+    "powerBonusRate": 0.699999988079071
+  },
+  {
+    "id": 2008,
+    "level": 8,
+    "mysekaiGateCharacterVisitCountRateId": 8,
+    "mysekaiGateId": 2,
+    "mysekaiGateMaterialGroupId": 2008,
+    "powerBonusRate": 0.800000011920929
+  },
+  {
+    "id": 2009,
+    "level": 9,
+    "mysekaiGateCharacterVisitCountRateId": 9,
+    "mysekaiGateId": 2,
+    "mysekaiGateMaterialGroupId": 2009,
+    "powerBonusRate": 0.8999999761581421
+  },
+  {
+    "id": 2010,
+    "level": 10,
+    "mysekaiGateCharacterVisitCountRateId": 10,
+    "mysekaiGateId": 2,
+    "mysekaiGateMaterialGroupId": 2010,
+    "powerBonusRate": 1.0
+  },
+  {
+    "id": 2011,
+    "level": 11,
+    "mysekaiGateCharacterVisitCountRateId": 11,
+    "mysekaiGateId": 2,
+    "mysekaiGateMaterialGroupId": 2011,
+    "powerBonusRate": 1.100000023841858
+  },
+  {
+    "id": 2012,
+    "level": 12,
+    "mysekaiGateCharacterVisitCountRateId": 12,
+    "mysekaiGateId": 2,
+    "mysekaiGateMaterialGroupId": 2012,
+    "powerBonusRate": 1.2000000476837158
+  },
+  {
+    "id": 2013,
+    "level": 13,
+    "mysekaiGateCharacterVisitCountRateId": 13,
+    "mysekaiGateId": 2,
+    "mysekaiGateMaterialGroupId": 2013,
+    "powerBonusRate": 1.2999999523162842
+  },
+  {
+    "id": 2014,
+    "level": 14,
+    "mysekaiGateCharacterVisitCountRateId": 14,
+    "mysekaiGateId": 2,
+    "mysekaiGateMaterialGroupId": 2014,
+    "powerBonusRate": 1.399999976158142
+  },
+  {
+    "id": 2015,
+    "level": 15,
+    "mysekaiGateCharacterVisitCountRateId": 15,
+    "mysekaiGateId": 2,
+    "mysekaiGateMaterialGroupId": 2015,
+    "powerBonusRate": 1.5
+  },
+  {
+    "id": 2016,
+    "level": 16,
+    "mysekaiGateCharacterVisitCountRateId": 16,
+    "mysekaiGateId": 2,
+    "mysekaiGateMaterialGroupId": 2016,
+    "powerBonusRate": 1.600000023841858
+  },
+  {
+    "id": 2017,
+    "level": 17,
+    "mysekaiGateCharacterVisitCountRateId": 17,
+    "mysekaiGateId": 2,
+    "mysekaiGateMaterialGroupId": 2017,
+    "powerBonusRate": 1.7000000476837158
+  },
+  {
+    "id": 2018,
+    "level": 18,
+    "mysekaiGateCharacterVisitCountRateId": 18,
+    "mysekaiGateId": 2,
+    "mysekaiGateMaterialGroupId": 2018,
+    "powerBonusRate": 1.7999999523162842
+  },
+  {
+    "id": 2019,
+    "level": 19,
+    "mysekaiGateCharacterVisitCountRateId": 19,
+    "mysekaiGateId": 2,
+    "mysekaiGateMaterialGroupId": 2019,
+    "powerBonusRate": 1.899999976158142
+  },
+  {
+    "id": 2020,
+    "level": 20,
+    "mysekaiGateCharacterVisitCountRateId": 20,
+    "mysekaiGateId": 2,
+    "mysekaiGateMaterialGroupId": 2020,
+    "powerBonusRate": 2.0
+  },
+  {
+    "id": 2021,
+    "level": 21,
+    "mysekaiGateCharacterVisitCountRateId": 21,
+    "mysekaiGateId": 2,
+    "mysekaiGateMaterialGroupId": 2021,
+    "powerBonusRate": 2.0999999046325684
+  },
+  {
+    "id": 2022,
+    "level": 22,
+    "mysekaiGateCharacterVisitCountRateId": 22,
+    "mysekaiGateId": 2,
+    "mysekaiGateMaterialGroupId": 2022,
+    "powerBonusRate": 2.200000047683716
+  },
+  {
+    "id": 2023,
+    "level": 23,
+    "mysekaiGateCharacterVisitCountRateId": 23,
+    "mysekaiGateId": 2,
+    "mysekaiGateMaterialGroupId": 2023,
+    "powerBonusRate": 2.299999952316284
+  },
+  {
+    "id": 2024,
+    "level": 24,
+    "mysekaiGateCharacterVisitCountRateId": 24,
+    "mysekaiGateId": 2,
+    "mysekaiGateMaterialGroupId": 2024,
+    "powerBonusRate": 2.4000000953674316
+  },
+  {
+    "id": 2025,
+    "level": 25,
+    "mysekaiGateCharacterVisitCountRateId": 25,
+    "mysekaiGateId": 2,
+    "mysekaiGateMaterialGroupId": 2025,
+    "powerBonusRate": 2.5
+  },
+  {
+    "id": 2026,
+    "level": 26,
+    "mysekaiGateCharacterVisitCountRateId": 26,
+    "mysekaiGateId": 2,
+    "mysekaiGateMaterialGroupId": 2026,
+    "powerBonusRate": 2.5999999046325684
+  },
+  {
+    "id": 2027,
+    "level": 27,
+    "mysekaiGateCharacterVisitCountRateId": 27,
+    "mysekaiGateId": 2,
+    "mysekaiGateMaterialGroupId": 2027,
+    "powerBonusRate": 2.700000047683716
+  },
+  {
+    "id": 2028,
+    "level": 28,
+    "mysekaiGateCharacterVisitCountRateId": 28,
+    "mysekaiGateId": 2,
+    "mysekaiGateMaterialGroupId": 2028,
+    "powerBonusRate": 2.799999952316284
+  },
+  {
+    "id": 2029,
+    "level": 29,
+    "mysekaiGateCharacterVisitCountRateId": 29,
+    "mysekaiGateId": 2,
+    "mysekaiGateMaterialGroupId": 2029,
+    "powerBonusRate": 2.9000000953674316
+  },
+  {
+    "id": 2030,
+    "level": 30,
+    "mysekaiGateCharacterVisitCountRateId": 30,
+    "mysekaiGateId": 2,
+    "mysekaiGateMaterialGroupId": 2030,
+    "powerBonusRate": 3.0
+  },
+  {
+    "id": 2031,
+    "level": 31,
+    "mysekaiGateCharacterVisitCountRateId": 31,
+    "mysekaiGateId": 2,
+    "mysekaiGateMaterialGroupId": 2031,
+    "powerBonusRate": 3.0999999046325684
+  },
+  {
+    "id": 2032,
+    "level": 32,
+    "mysekaiGateCharacterVisitCountRateId": 32,
+    "mysekaiGateId": 2,
+    "mysekaiGateMaterialGroupId": 2032,
+    "powerBonusRate": 3.200000047683716
+  },
+  {
+    "id": 2033,
+    "level": 33,
+    "mysekaiGateCharacterVisitCountRateId": 33,
+    "mysekaiGateId": 2,
+    "mysekaiGateMaterialGroupId": 2033,
+    "powerBonusRate": 3.299999952316284
+  },
+  {
+    "id": 2034,
+    "level": 34,
+    "mysekaiGateCharacterVisitCountRateId": 34,
+    "mysekaiGateId": 2,
+    "mysekaiGateMaterialGroupId": 2034,
+    "powerBonusRate": 3.4000000953674316
+  },
+  {
+    "id": 2035,
+    "level": 35,
+    "mysekaiGateCharacterVisitCountRateId": 35,
+    "mysekaiGateId": 2,
+    "mysekaiGateMaterialGroupId": 2035,
+    "powerBonusRate": 3.5
+  },
+  {
+    "id": 2036,
+    "level": 36,
+    "mysekaiGateCharacterVisitCountRateId": 36,
+    "mysekaiGateId": 2,
+    "mysekaiGateMaterialGroupId": 2036,
+    "powerBonusRate": 3.5999999046325684
+  },
+  {
+    "id": 2037,
+    "level": 37,
+    "mysekaiGateCharacterVisitCountRateId": 37,
+    "mysekaiGateId": 2,
+    "mysekaiGateMaterialGroupId": 2037,
+    "powerBonusRate": 3.700000047683716
+  },
+  {
+    "id": 2038,
+    "level": 38,
+    "mysekaiGateCharacterVisitCountRateId": 38,
+    "mysekaiGateId": 2,
+    "mysekaiGateMaterialGroupId": 2038,
+    "powerBonusRate": 3.799999952316284
+  },
+  {
+    "id": 2039,
+    "level": 39,
+    "mysekaiGateCharacterVisitCountRateId": 39,
+    "mysekaiGateId": 2,
+    "mysekaiGateMaterialGroupId": 2039,
+    "powerBonusRate": 3.9000000953674316
+  },
+  {
+    "id": 2040,
+    "level": 40,
+    "mysekaiGateCharacterVisitCountRateId": 40,
+    "mysekaiGateId": 2,
+    "mysekaiGateMaterialGroupId": 2040,
+    "powerBonusRate": 4.0
+  },
+  {
+    "id": 3001,
+    "level": 1,
+    "mysekaiGateCharacterVisitCountRateId": 1,
+    "mysekaiGateId": 3,
+    "mysekaiGateMaterialGroupId": 3001,
+    "powerBonusRate": 0.10000000149011612
+  },
+  {
+    "id": 3002,
+    "level": 2,
+    "mysekaiGateCharacterVisitCountRateId": 2,
+    "mysekaiGateId": 3,
+    "mysekaiGateMaterialGroupId": 3002,
+    "powerBonusRate": 0.20000000298023224
+  },
+  {
+    "id": 3003,
+    "level": 3,
+    "mysekaiGateCharacterVisitCountRateId": 3,
+    "mysekaiGateId": 3,
+    "mysekaiGateMaterialGroupId": 3003,
+    "powerBonusRate": 0.30000001192092896
+  },
+  {
+    "id": 3004,
+    "level": 4,
+    "mysekaiGateCharacterVisitCountRateId": 4,
+    "mysekaiGateId": 3,
+    "mysekaiGateMaterialGroupId": 3004,
+    "powerBonusRate": 0.4000000059604645
+  },
+  {
+    "id": 3005,
+    "level": 5,
+    "mysekaiGateCharacterVisitCountRateId": 5,
+    "mysekaiGateId": 3,
+    "mysekaiGateMaterialGroupId": 3005,
+    "powerBonusRate": 0.5
+  },
+  {
+    "id": 3006,
+    "level": 6,
+    "mysekaiGateCharacterVisitCountRateId": 6,
+    "mysekaiGateId": 3,
+    "mysekaiGateMaterialGroupId": 3006,
+    "powerBonusRate": 0.6000000238418579
+  },
+  {
+    "id": 3007,
+    "level": 7,
+    "mysekaiGateCharacterVisitCountRateId": 7,
+    "mysekaiGateId": 3,
+    "mysekaiGateMaterialGroupId": 3007,
+    "powerBonusRate": 0.699999988079071
+  },
+  {
+    "id": 3008,
+    "level": 8,
+    "mysekaiGateCharacterVisitCountRateId": 8,
+    "mysekaiGateId": 3,
+    "mysekaiGateMaterialGroupId": 3008,
+    "powerBonusRate": 0.800000011920929
+  },
+  {
+    "id": 3009,
+    "level": 9,
+    "mysekaiGateCharacterVisitCountRateId": 9,
+    "mysekaiGateId": 3,
+    "mysekaiGateMaterialGroupId": 3009,
+    "powerBonusRate": 0.8999999761581421
+  },
+  {
+    "id": 3010,
+    "level": 10,
+    "mysekaiGateCharacterVisitCountRateId": 10,
+    "mysekaiGateId": 3,
+    "mysekaiGateMaterialGroupId": 3010,
+    "powerBonusRate": 1.0
+  },
+  {
+    "id": 3011,
+    "level": 11,
+    "mysekaiGateCharacterVisitCountRateId": 11,
+    "mysekaiGateId": 3,
+    "mysekaiGateMaterialGroupId": 3011,
+    "powerBonusRate": 1.100000023841858
+  },
+  {
+    "id": 3012,
+    "level": 12,
+    "mysekaiGateCharacterVisitCountRateId": 12,
+    "mysekaiGateId": 3,
+    "mysekaiGateMaterialGroupId": 3012,
+    "powerBonusRate": 1.2000000476837158
+  },
+  {
+    "id": 3013,
+    "level": 13,
+    "mysekaiGateCharacterVisitCountRateId": 13,
+    "mysekaiGateId": 3,
+    "mysekaiGateMaterialGroupId": 3013,
+    "powerBonusRate": 1.2999999523162842
+  },
+  {
+    "id": 3014,
+    "level": 14,
+    "mysekaiGateCharacterVisitCountRateId": 14,
+    "mysekaiGateId": 3,
+    "mysekaiGateMaterialGroupId": 3014,
+    "powerBonusRate": 1.399999976158142
+  },
+  {
+    "id": 3015,
+    "level": 15,
+    "mysekaiGateCharacterVisitCountRateId": 15,
+    "mysekaiGateId": 3,
+    "mysekaiGateMaterialGroupId": 3015,
+    "powerBonusRate": 1.5
+  },
+  {
+    "id": 3016,
+    "level": 16,
+    "mysekaiGateCharacterVisitCountRateId": 16,
+    "mysekaiGateId": 3,
+    "mysekaiGateMaterialGroupId": 3016,
+    "powerBonusRate": 1.600000023841858
+  },
+  {
+    "id": 3017,
+    "level": 17,
+    "mysekaiGateCharacterVisitCountRateId": 17,
+    "mysekaiGateId": 3,
+    "mysekaiGateMaterialGroupId": 3017,
+    "powerBonusRate": 1.7000000476837158
+  },
+  {
+    "id": 3018,
+    "level": 18,
+    "mysekaiGateCharacterVisitCountRateId": 18,
+    "mysekaiGateId": 3,
+    "mysekaiGateMaterialGroupId": 3018,
+    "powerBonusRate": 1.7999999523162842
+  },
+  {
+    "id": 3019,
+    "level": 19,
+    "mysekaiGateCharacterVisitCountRateId": 19,
+    "mysekaiGateId": 3,
+    "mysekaiGateMaterialGroupId": 3019,
+    "powerBonusRate": 1.899999976158142
+  },
+  {
+    "id": 3020,
+    "level": 20,
+    "mysekaiGateCharacterVisitCountRateId": 20,
+    "mysekaiGateId": 3,
+    "mysekaiGateMaterialGroupId": 3020,
+    "powerBonusRate": 2.0
+  },
+  {
+    "id": 3021,
+    "level": 21,
+    "mysekaiGateCharacterVisitCountRateId": 21,
+    "mysekaiGateId": 3,
+    "mysekaiGateMaterialGroupId": 3021,
+    "powerBonusRate": 2.0999999046325684
+  },
+  {
+    "id": 3022,
+    "level": 22,
+    "mysekaiGateCharacterVisitCountRateId": 22,
+    "mysekaiGateId": 3,
+    "mysekaiGateMaterialGroupId": 3022,
+    "powerBonusRate": 2.200000047683716
+  },
+  {
+    "id": 3023,
+    "level": 23,
+    "mysekaiGateCharacterVisitCountRateId": 23,
+    "mysekaiGateId": 3,
+    "mysekaiGateMaterialGroupId": 3023,
+    "powerBonusRate": 2.299999952316284
+  },
+  {
+    "id": 3024,
+    "level": 24,
+    "mysekaiGateCharacterVisitCountRateId": 24,
+    "mysekaiGateId": 3,
+    "mysekaiGateMaterialGroupId": 3024,
+    "powerBonusRate": 2.4000000953674316
+  },
+  {
+    "id": 3025,
+    "level": 25,
+    "mysekaiGateCharacterVisitCountRateId": 25,
+    "mysekaiGateId": 3,
+    "mysekaiGateMaterialGroupId": 3025,
+    "powerBonusRate": 2.5
+  },
+  {
+    "id": 3026,
+    "level": 26,
+    "mysekaiGateCharacterVisitCountRateId": 26,
+    "mysekaiGateId": 3,
+    "mysekaiGateMaterialGroupId": 3026,
+    "powerBonusRate": 2.5999999046325684
+  },
+  {
+    "id": 3027,
+    "level": 27,
+    "mysekaiGateCharacterVisitCountRateId": 27,
+    "mysekaiGateId": 3,
+    "mysekaiGateMaterialGroupId": 3027,
+    "powerBonusRate": 2.700000047683716
+  },
+  {
+    "id": 3028,
+    "level": 28,
+    "mysekaiGateCharacterVisitCountRateId": 28,
+    "mysekaiGateId": 3,
+    "mysekaiGateMaterialGroupId": 3028,
+    "powerBonusRate": 2.799999952316284
+  },
+  {
+    "id": 3029,
+    "level": 29,
+    "mysekaiGateCharacterVisitCountRateId": 29,
+    "mysekaiGateId": 3,
+    "mysekaiGateMaterialGroupId": 3029,
+    "powerBonusRate": 2.9000000953674316
+  },
+  {
+    "id": 3030,
+    "level": 30,
+    "mysekaiGateCharacterVisitCountRateId": 30,
+    "mysekaiGateId": 3,
+    "mysekaiGateMaterialGroupId": 3030,
+    "powerBonusRate": 3.0
+  },
+  {
+    "id": 3031,
+    "level": 31,
+    "mysekaiGateCharacterVisitCountRateId": 31,
+    "mysekaiGateId": 3,
+    "mysekaiGateMaterialGroupId": 3031,
+    "powerBonusRate": 3.0999999046325684
+  },
+  {
+    "id": 3032,
+    "level": 32,
+    "mysekaiGateCharacterVisitCountRateId": 32,
+    "mysekaiGateId": 3,
+    "mysekaiGateMaterialGroupId": 3032,
+    "powerBonusRate": 3.200000047683716
+  },
+  {
+    "id": 3033,
+    "level": 33,
+    "mysekaiGateCharacterVisitCountRateId": 33,
+    "mysekaiGateId": 3,
+    "mysekaiGateMaterialGroupId": 3033,
+    "powerBonusRate": 3.299999952316284
+  },
+  {
+    "id": 3034,
+    "level": 34,
+    "mysekaiGateCharacterVisitCountRateId": 34,
+    "mysekaiGateId": 3,
+    "mysekaiGateMaterialGroupId": 3034,
+    "powerBonusRate": 3.4000000953674316
+  },
+  {
+    "id": 3035,
+    "level": 35,
+    "mysekaiGateCharacterVisitCountRateId": 35,
+    "mysekaiGateId": 3,
+    "mysekaiGateMaterialGroupId": 3035,
+    "powerBonusRate": 3.5
+  },
+  {
+    "id": 3036,
+    "level": 36,
+    "mysekaiGateCharacterVisitCountRateId": 36,
+    "mysekaiGateId": 3,
+    "mysekaiGateMaterialGroupId": 3036,
+    "powerBonusRate": 3.5999999046325684
+  },
+  {
+    "id": 3037,
+    "level": 37,
+    "mysekaiGateCharacterVisitCountRateId": 37,
+    "mysekaiGateId": 3,
+    "mysekaiGateMaterialGroupId": 3037,
+    "powerBonusRate": 3.700000047683716
+  },
+  {
+    "id": 3038,
+    "level": 38,
+    "mysekaiGateCharacterVisitCountRateId": 38,
+    "mysekaiGateId": 3,
+    "mysekaiGateMaterialGroupId": 3038,
+    "powerBonusRate": 3.799999952316284
+  },
+  {
+    "id": 3039,
+    "level": 39,
+    "mysekaiGateCharacterVisitCountRateId": 39,
+    "mysekaiGateId": 3,
+    "mysekaiGateMaterialGroupId": 3039,
+    "powerBonusRate": 3.9000000953674316
+  },
+  {
+    "id": 3040,
+    "level": 40,
+    "mysekaiGateCharacterVisitCountRateId": 40,
+    "mysekaiGateId": 3,
+    "mysekaiGateMaterialGroupId": 3040,
+    "powerBonusRate": 4.0
+  },
+  {
+    "id": 4001,
+    "level": 1,
+    "mysekaiGateCharacterVisitCountRateId": 1,
+    "mysekaiGateId": 4,
+    "mysekaiGateMaterialGroupId": 4001,
+    "powerBonusRate": 0.10000000149011612
+  },
+  {
+    "id": 4002,
+    "level": 2,
+    "mysekaiGateCharacterVisitCountRateId": 2,
+    "mysekaiGateId": 4,
+    "mysekaiGateMaterialGroupId": 4002,
+    "powerBonusRate": 0.20000000298023224
+  },
+  {
+    "id": 4003,
+    "level": 3,
+    "mysekaiGateCharacterVisitCountRateId": 3,
+    "mysekaiGateId": 4,
+    "mysekaiGateMaterialGroupId": 4003,
+    "powerBonusRate": 0.30000001192092896
+  },
+  {
+    "id": 4004,
+    "level": 4,
+    "mysekaiGateCharacterVisitCountRateId": 4,
+    "mysekaiGateId": 4,
+    "mysekaiGateMaterialGroupId": 4004,
+    "powerBonusRate": 0.4000000059604645
+  },
+  {
+    "id": 4005,
+    "level": 5,
+    "mysekaiGateCharacterVisitCountRateId": 5,
+    "mysekaiGateId": 4,
+    "mysekaiGateMaterialGroupId": 4005,
+    "powerBonusRate": 0.5
+  },
+  {
+    "id": 4006,
+    "level": 6,
+    "mysekaiGateCharacterVisitCountRateId": 6,
+    "mysekaiGateId": 4,
+    "mysekaiGateMaterialGroupId": 4006,
+    "powerBonusRate": 0.6000000238418579
+  },
+  {
+    "id": 4007,
+    "level": 7,
+    "mysekaiGateCharacterVisitCountRateId": 7,
+    "mysekaiGateId": 4,
+    "mysekaiGateMaterialGroupId": 4007,
+    "powerBonusRate": 0.699999988079071
+  },
+  {
+    "id": 4008,
+    "level": 8,
+    "mysekaiGateCharacterVisitCountRateId": 8,
+    "mysekaiGateId": 4,
+    "mysekaiGateMaterialGroupId": 4008,
+    "powerBonusRate": 0.800000011920929
+  },
+  {
+    "id": 4009,
+    "level": 9,
+    "mysekaiGateCharacterVisitCountRateId": 9,
+    "mysekaiGateId": 4,
+    "mysekaiGateMaterialGroupId": 4009,
+    "powerBonusRate": 0.8999999761581421
+  },
+  {
+    "id": 4010,
+    "level": 10,
+    "mysekaiGateCharacterVisitCountRateId": 10,
+    "mysekaiGateId": 4,
+    "mysekaiGateMaterialGroupId": 4010,
+    "powerBonusRate": 1.0
+  },
+  {
+    "id": 4011,
+    "level": 11,
+    "mysekaiGateCharacterVisitCountRateId": 11,
+    "mysekaiGateId": 4,
+    "mysekaiGateMaterialGroupId": 4011,
+    "powerBonusRate": 1.100000023841858
+  },
+  {
+    "id": 4012,
+    "level": 12,
+    "mysekaiGateCharacterVisitCountRateId": 12,
+    "mysekaiGateId": 4,
+    "mysekaiGateMaterialGroupId": 4012,
+    "powerBonusRate": 1.2000000476837158
+  },
+  {
+    "id": 4013,
+    "level": 13,
+    "mysekaiGateCharacterVisitCountRateId": 13,
+    "mysekaiGateId": 4,
+    "mysekaiGateMaterialGroupId": 4013,
+    "powerBonusRate": 1.2999999523162842
+  },
+  {
+    "id": 4014,
+    "level": 14,
+    "mysekaiGateCharacterVisitCountRateId": 14,
+    "mysekaiGateId": 4,
+    "mysekaiGateMaterialGroupId": 4014,
+    "powerBonusRate": 1.399999976158142
+  },
+  {
+    "id": 4015,
+    "level": 15,
+    "mysekaiGateCharacterVisitCountRateId": 15,
+    "mysekaiGateId": 4,
+    "mysekaiGateMaterialGroupId": 4015,
+    "powerBonusRate": 1.5
+  },
+  {
+    "id": 4016,
+    "level": 16,
+    "mysekaiGateCharacterVisitCountRateId": 16,
+    "mysekaiGateId": 4,
+    "mysekaiGateMaterialGroupId": 4016,
+    "powerBonusRate": 1.600000023841858
+  },
+  {
+    "id": 4017,
+    "level": 17,
+    "mysekaiGateCharacterVisitCountRateId": 17,
+    "mysekaiGateId": 4,
+    "mysekaiGateMaterialGroupId": 4017,
+    "powerBonusRate": 1.7000000476837158
+  },
+  {
+    "id": 4018,
+    "level": 18,
+    "mysekaiGateCharacterVisitCountRateId": 18,
+    "mysekaiGateId": 4,
+    "mysekaiGateMaterialGroupId": 4018,
+    "powerBonusRate": 1.7999999523162842
+  },
+  {
+    "id": 4019,
+    "level": 19,
+    "mysekaiGateCharacterVisitCountRateId": 19,
+    "mysekaiGateId": 4,
+    "mysekaiGateMaterialGroupId": 4019,
+    "powerBonusRate": 1.899999976158142
+  },
+  {
+    "id": 4020,
+    "level": 20,
+    "mysekaiGateCharacterVisitCountRateId": 20,
+    "mysekaiGateId": 4,
+    "mysekaiGateMaterialGroupId": 4020,
+    "powerBonusRate": 2.0
+  },
+  {
+    "id": 4021,
+    "level": 21,
+    "mysekaiGateCharacterVisitCountRateId": 21,
+    "mysekaiGateId": 4,
+    "mysekaiGateMaterialGroupId": 4021,
+    "powerBonusRate": 2.0999999046325684
+  },
+  {
+    "id": 4022,
+    "level": 22,
+    "mysekaiGateCharacterVisitCountRateId": 22,
+    "mysekaiGateId": 4,
+    "mysekaiGateMaterialGroupId": 4022,
+    "powerBonusRate": 2.200000047683716
+  },
+  {
+    "id": 4023,
+    "level": 23,
+    "mysekaiGateCharacterVisitCountRateId": 23,
+    "mysekaiGateId": 4,
+    "mysekaiGateMaterialGroupId": 4023,
+    "powerBonusRate": 2.299999952316284
+  },
+  {
+    "id": 4024,
+    "level": 24,
+    "mysekaiGateCharacterVisitCountRateId": 24,
+    "mysekaiGateId": 4,
+    "mysekaiGateMaterialGroupId": 4024,
+    "powerBonusRate": 2.4000000953674316
+  },
+  {
+    "id": 4025,
+    "level": 25,
+    "mysekaiGateCharacterVisitCountRateId": 25,
+    "mysekaiGateId": 4,
+    "mysekaiGateMaterialGroupId": 4025,
+    "powerBonusRate": 2.5
+  },
+  {
+    "id": 4026,
+    "level": 26,
+    "mysekaiGateCharacterVisitCountRateId": 26,
+    "mysekaiGateId": 4,
+    "mysekaiGateMaterialGroupId": 4026,
+    "powerBonusRate": 2.5999999046325684
+  },
+  {
+    "id": 4027,
+    "level": 27,
+    "mysekaiGateCharacterVisitCountRateId": 27,
+    "mysekaiGateId": 4,
+    "mysekaiGateMaterialGroupId": 4027,
+    "powerBonusRate": 2.700000047683716
+  },
+  {
+    "id": 4028,
+    "level": 28,
+    "mysekaiGateCharacterVisitCountRateId": 28,
+    "mysekaiGateId": 4,
+    "mysekaiGateMaterialGroupId": 4028,
+    "powerBonusRate": 2.799999952316284
+  },
+  {
+    "id": 4029,
+    "level": 29,
+    "mysekaiGateCharacterVisitCountRateId": 29,
+    "mysekaiGateId": 4,
+    "mysekaiGateMaterialGroupId": 4029,
+    "powerBonusRate": 2.9000000953674316
+  },
+  {
+    "id": 4030,
+    "level": 30,
+    "mysekaiGateCharacterVisitCountRateId": 30,
+    "mysekaiGateId": 4,
+    "mysekaiGateMaterialGroupId": 4030,
+    "powerBonusRate": 3.0
+  },
+  {
+    "id": 4031,
+    "level": 31,
+    "mysekaiGateCharacterVisitCountRateId": 31,
+    "mysekaiGateId": 4,
+    "mysekaiGateMaterialGroupId": 4031,
+    "powerBonusRate": 3.0999999046325684
+  },
+  {
+    "id": 4032,
+    "level": 32,
+    "mysekaiGateCharacterVisitCountRateId": 32,
+    "mysekaiGateId": 4,
+    "mysekaiGateMaterialGroupId": 4032,
+    "powerBonusRate": 3.200000047683716
+  },
+  {
+    "id": 4033,
+    "level": 33,
+    "mysekaiGateCharacterVisitCountRateId": 33,
+    "mysekaiGateId": 4,
+    "mysekaiGateMaterialGroupId": 4033,
+    "powerBonusRate": 3.299999952316284
+  },
+  {
+    "id": 4034,
+    "level": 34,
+    "mysekaiGateCharacterVisitCountRateId": 34,
+    "mysekaiGateId": 4,
+    "mysekaiGateMaterialGroupId": 4034,
+    "powerBonusRate": 3.4000000953674316
+  },
+  {
+    "id": 4035,
+    "level": 35,
+    "mysekaiGateCharacterVisitCountRateId": 35,
+    "mysekaiGateId": 4,
+    "mysekaiGateMaterialGroupId": 4035,
+    "powerBonusRate": 3.5
+  },
+  {
+    "id": 4036,
+    "level": 36,
+    "mysekaiGateCharacterVisitCountRateId": 36,
+    "mysekaiGateId": 4,
+    "mysekaiGateMaterialGroupId": 4036,
+    "powerBonusRate": 3.5999999046325684
+  },
+  {
+    "id": 4037,
+    "level": 37,
+    "mysekaiGateCharacterVisitCountRateId": 37,
+    "mysekaiGateId": 4,
+    "mysekaiGateMaterialGroupId": 4037,
+    "powerBonusRate": 3.700000047683716
+  },
+  {
+    "id": 4038,
+    "level": 38,
+    "mysekaiGateCharacterVisitCountRateId": 38,
+    "mysekaiGateId": 4,
+    "mysekaiGateMaterialGroupId": 4038,
+    "powerBonusRate": 3.799999952316284
+  },
+  {
+    "id": 4039,
+    "level": 39,
+    "mysekaiGateCharacterVisitCountRateId": 39,
+    "mysekaiGateId": 4,
+    "mysekaiGateMaterialGroupId": 4039,
+    "powerBonusRate": 3.9000000953674316
+  },
+  {
+    "id": 4040,
+    "level": 40,
+    "mysekaiGateCharacterVisitCountRateId": 40,
+    "mysekaiGateId": 4,
+    "mysekaiGateMaterialGroupId": 4040,
+    "powerBonusRate": 4.0
+  },
+  {
+    "id": 5001,
+    "level": 1,
+    "mysekaiGateCharacterVisitCountRateId": 1,
+    "mysekaiGateId": 5,
+    "mysekaiGateMaterialGroupId": 5001,
+    "powerBonusRate": 0.10000000149011612
+  },
+  {
+    "id": 5002,
+    "level": 2,
+    "mysekaiGateCharacterVisitCountRateId": 2,
+    "mysekaiGateId": 5,
+    "mysekaiGateMaterialGroupId": 5002,
+    "powerBonusRate": 0.20000000298023224
+  },
+  {
+    "id": 5003,
+    "level": 3,
+    "mysekaiGateCharacterVisitCountRateId": 3,
+    "mysekaiGateId": 5,
+    "mysekaiGateMaterialGroupId": 5003,
+    "powerBonusRate": 0.30000001192092896
+  },
+  {
+    "id": 5004,
+    "level": 4,
+    "mysekaiGateCharacterVisitCountRateId": 4,
+    "mysekaiGateId": 5,
+    "mysekaiGateMaterialGroupId": 5004,
+    "powerBonusRate": 0.4000000059604645
+  },
+  {
+    "id": 5005,
+    "level": 5,
+    "mysekaiGateCharacterVisitCountRateId": 5,
+    "mysekaiGateId": 5,
+    "mysekaiGateMaterialGroupId": 5005,
+    "powerBonusRate": 0.5
+  },
+  {
+    "id": 5006,
+    "level": 6,
+    "mysekaiGateCharacterVisitCountRateId": 6,
+    "mysekaiGateId": 5,
+    "mysekaiGateMaterialGroupId": 5006,
+    "powerBonusRate": 0.6000000238418579
+  },
+  {
+    "id": 5007,
+    "level": 7,
+    "mysekaiGateCharacterVisitCountRateId": 7,
+    "mysekaiGateId": 5,
+    "mysekaiGateMaterialGroupId": 5007,
+    "powerBonusRate": 0.699999988079071
+  },
+  {
+    "id": 5008,
+    "level": 8,
+    "mysekaiGateCharacterVisitCountRateId": 8,
+    "mysekaiGateId": 5,
+    "mysekaiGateMaterialGroupId": 5008,
+    "powerBonusRate": 0.800000011920929
+  },
+  {
+    "id": 5009,
+    "level": 9,
+    "mysekaiGateCharacterVisitCountRateId": 9,
+    "mysekaiGateId": 5,
+    "mysekaiGateMaterialGroupId": 5009,
+    "powerBonusRate": 0.8999999761581421
+  },
+  {
+    "id": 5010,
+    "level": 10,
+    "mysekaiGateCharacterVisitCountRateId": 10,
+    "mysekaiGateId": 5,
+    "mysekaiGateMaterialGroupId": 5010,
+    "powerBonusRate": 1.0
+  },
+  {
+    "id": 5011,
+    "level": 11,
+    "mysekaiGateCharacterVisitCountRateId": 11,
+    "mysekaiGateId": 5,
+    "mysekaiGateMaterialGroupId": 5011,
+    "powerBonusRate": 1.100000023841858
+  },
+  {
+    "id": 5012,
+    "level": 12,
+    "mysekaiGateCharacterVisitCountRateId": 12,
+    "mysekaiGateId": 5,
+    "mysekaiGateMaterialGroupId": 5012,
+    "powerBonusRate": 1.2000000476837158
+  },
+  {
+    "id": 5013,
+    "level": 13,
+    "mysekaiGateCharacterVisitCountRateId": 13,
+    "mysekaiGateId": 5,
+    "mysekaiGateMaterialGroupId": 5013,
+    "powerBonusRate": 1.2999999523162842
+  },
+  {
+    "id": 5014,
+    "level": 14,
+    "mysekaiGateCharacterVisitCountRateId": 14,
+    "mysekaiGateId": 5,
+    "mysekaiGateMaterialGroupId": 5014,
+    "powerBonusRate": 1.399999976158142
+  },
+  {
+    "id": 5015,
+    "level": 15,
+    "mysekaiGateCharacterVisitCountRateId": 15,
+    "mysekaiGateId": 5,
+    "mysekaiGateMaterialGroupId": 5015,
+    "powerBonusRate": 1.5
+  },
+  {
+    "id": 5016,
+    "level": 16,
+    "mysekaiGateCharacterVisitCountRateId": 16,
+    "mysekaiGateId": 5,
+    "mysekaiGateMaterialGroupId": 5016,
+    "powerBonusRate": 1.600000023841858
+  },
+  {
+    "id": 5017,
+    "level": 17,
+    "mysekaiGateCharacterVisitCountRateId": 17,
+    "mysekaiGateId": 5,
+    "mysekaiGateMaterialGroupId": 5017,
+    "powerBonusRate": 1.7000000476837158
+  },
+  {
+    "id": 5018,
+    "level": 18,
+    "mysekaiGateCharacterVisitCountRateId": 18,
+    "mysekaiGateId": 5,
+    "mysekaiGateMaterialGroupId": 5018,
+    "powerBonusRate": 1.7999999523162842
+  },
+  {
+    "id": 5019,
+    "level": 19,
+    "mysekaiGateCharacterVisitCountRateId": 19,
+    "mysekaiGateId": 5,
+    "mysekaiGateMaterialGroupId": 5019,
+    "powerBonusRate": 1.899999976158142
+  },
+  {
+    "id": 5020,
+    "level": 20,
+    "mysekaiGateCharacterVisitCountRateId": 20,
+    "mysekaiGateId": 5,
+    "mysekaiGateMaterialGroupId": 5020,
+    "powerBonusRate": 2.0
+  },
+  {
+    "id": 5021,
+    "level": 21,
+    "mysekaiGateCharacterVisitCountRateId": 21,
+    "mysekaiGateId": 5,
+    "mysekaiGateMaterialGroupId": 5021,
+    "powerBonusRate": 2.0999999046325684
+  },
+  {
+    "id": 5022,
+    "level": 22,
+    "mysekaiGateCharacterVisitCountRateId": 22,
+    "mysekaiGateId": 5,
+    "mysekaiGateMaterialGroupId": 5022,
+    "powerBonusRate": 2.200000047683716
+  },
+  {
+    "id": 5023,
+    "level": 23,
+    "mysekaiGateCharacterVisitCountRateId": 23,
+    "mysekaiGateId": 5,
+    "mysekaiGateMaterialGroupId": 5023,
+    "powerBonusRate": 2.299999952316284
+  },
+  {
+    "id": 5024,
+    "level": 24,
+    "mysekaiGateCharacterVisitCountRateId": 24,
+    "mysekaiGateId": 5,
+    "mysekaiGateMaterialGroupId": 5024,
+    "powerBonusRate": 2.4000000953674316
+  },
+  {
+    "id": 5025,
+    "level": 25,
+    "mysekaiGateCharacterVisitCountRateId": 25,
+    "mysekaiGateId": 5,
+    "mysekaiGateMaterialGroupId": 5025,
+    "powerBonusRate": 2.5
+  },
+  {
+    "id": 5026,
+    "level": 26,
+    "mysekaiGateCharacterVisitCountRateId": 26,
+    "mysekaiGateId": 5,
+    "mysekaiGateMaterialGroupId": 5026,
+    "powerBonusRate": 2.5999999046325684
+  },
+  {
+    "id": 5027,
+    "level": 27,
+    "mysekaiGateCharacterVisitCountRateId": 27,
+    "mysekaiGateId": 5,
+    "mysekaiGateMaterialGroupId": 5027,
+    "powerBonusRate": 2.700000047683716
+  },
+  {
+    "id": 5028,
+    "level": 28,
+    "mysekaiGateCharacterVisitCountRateId": 28,
+    "mysekaiGateId": 5,
+    "mysekaiGateMaterialGroupId": 5028,
+    "powerBonusRate": 2.799999952316284
+  },
+  {
+    "id": 5029,
+    "level": 29,
+    "mysekaiGateCharacterVisitCountRateId": 29,
+    "mysekaiGateId": 5,
+    "mysekaiGateMaterialGroupId": 5029,
+    "powerBonusRate": 2.9000000953674316
+  },
+  {
+    "id": 5030,
+    "level": 30,
+    "mysekaiGateCharacterVisitCountRateId": 30,
+    "mysekaiGateId": 5,
+    "mysekaiGateMaterialGroupId": 5030,
+    "powerBonusRate": 3.0
+  },
+  {
+    "id": 5031,
+    "level": 31,
+    "mysekaiGateCharacterVisitCountRateId": 31,
+    "mysekaiGateId": 5,
+    "mysekaiGateMaterialGroupId": 5031,
+    "powerBonusRate": 3.0999999046325684
+  },
+  {
+    "id": 5032,
+    "level": 32,
+    "mysekaiGateCharacterVisitCountRateId": 32,
+    "mysekaiGateId": 5,
+    "mysekaiGateMaterialGroupId": 5032,
+    "powerBonusRate": 3.200000047683716
+  },
+  {
+    "id": 5033,
+    "level": 33,
+    "mysekaiGateCharacterVisitCountRateId": 33,
+    "mysekaiGateId": 5,
+    "mysekaiGateMaterialGroupId": 5033,
+    "powerBonusRate": 3.299999952316284
+  },
+  {
+    "id": 5034,
+    "level": 34,
+    "mysekaiGateCharacterVisitCountRateId": 34,
+    "mysekaiGateId": 5,
+    "mysekaiGateMaterialGroupId": 5034,
+    "powerBonusRate": 3.4000000953674316
+  },
+  {
+    "id": 5035,
+    "level": 35,
+    "mysekaiGateCharacterVisitCountRateId": 35,
+    "mysekaiGateId": 5,
+    "mysekaiGateMaterialGroupId": 5035,
+    "powerBonusRate": 3.5
+  },
+  {
+    "id": 5036,
+    "level": 36,
+    "mysekaiGateCharacterVisitCountRateId": 36,
+    "mysekaiGateId": 5,
+    "mysekaiGateMaterialGroupId": 5036,
+    "powerBonusRate": 3.5999999046325684
+  },
+  {
+    "id": 5037,
+    "level": 37,
+    "mysekaiGateCharacterVisitCountRateId": 37,
+    "mysekaiGateId": 5,
+    "mysekaiGateMaterialGroupId": 5037,
+    "powerBonusRate": 3.700000047683716
+  },
+  {
+    "id": 5038,
+    "level": 38,
+    "mysekaiGateCharacterVisitCountRateId": 38,
+    "mysekaiGateId": 5,
+    "mysekaiGateMaterialGroupId": 5038,
+    "powerBonusRate": 3.799999952316284
+  },
+  {
+    "id": 5039,
+    "level": 39,
+    "mysekaiGateCharacterVisitCountRateId": 39,
+    "mysekaiGateId": 5,
+    "mysekaiGateMaterialGroupId": 5039,
+    "powerBonusRate": 3.9000000953674316
+  },
+  {
+    "id": 5040,
+    "level": 40,
+    "mysekaiGateCharacterVisitCountRateId": 40,
+    "mysekaiGateId": 5,
+    "mysekaiGateMaterialGroupId": 5040,
+    "powerBonusRate": 4.0
+  }
+]

@@ -1,0 +1,200 @@
+[
+  {
+    "bonusAssetbundleName": "event_bonus",
+    "bonuses": [
+      {
+        "bonusType": "rate",
+        "resourceId": 14,
+        "resourceType": "material",
+        "value": 3.0
+      },
+      {
+        "bonusType": "rate",
+        "resourceId": 17,
+        "resourceType": "material",
+        "value": 3.0
+      },
+      {
+        "bonusType": "exp_card",
+        "value": 2.0
+      }
+    ],
+    "endAt": 1753891199000,
+    "exBoxDailyLimit": 2,
+    "exBoxResourceBoxIds": [
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      17,
+      18,
+      19,
+      20
+    ],
+    "id": 5,
+    "limitMissionGroupId": 19,
+    "normalBoxDailyLimit": 6,
+    "normalBoxResourceBoxIds": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      15,
+      16
+    ],
+    "startAt": 1753243200000,
+    "url": "https://lf3-cdn-tos.draftstatic.com/obj/ies-hotsoon-draft/pjsk/8b2e2018-fd73-45db-84ab-ed2d83ff3c9c.html"
+  },
+  {
+    "bonusAssetbundleName": "event_bonus",
+    "bonuses": [
+      {
+        "bonusType": "rate",
+        "resourceId": 14,
+        "resourceType": "material",
+        "value": 3.0
+      },
+      {
+        "bonusType": "rate",
+        "resourceId": 17,
+        "resourceType": "material",
+        "value": 3.0
+      },
+      {
+        "bonusType": "exp_card",
+        "value": 2.0
+      }
+    ],
+    "endAt": 1758643199000,
+    "exBoxDailyLimit": 2,
+    "exBoxResourceBoxIds": [
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      17,
+      18,
+      19,
+      20
+    ],
+    "id": 6,
+    "limitMissionGroupId": 21,
+    "normalBoxDailyLimit": 6,
+    "normalBoxResourceBoxIds": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      15,
+      16
+    ],
+    "startAt": 1758110400000,
+    "url": "https://lf3-cdn-tos.draftstatic.com/obj/ies-hotsoon-draft/pjsk/b0f66bab-f00e-4c54-8974-9a65cdaa63dd.html"
+  },
+  {
+    "bonusAssetbundleName": "event_bonus",
+    "bonuses": [
+      {
+        "bonusType": "rate",
+        "resourceId": 14,
+        "resourceType": "material",
+        "value": 3.0
+      },
+      {
+        "bonusType": "rate",
+        "resourceId": 17,
+        "resourceType": "material",
+        "value": 3.0
+      },
+      {
+        "bonusType": "exp_card",
+        "value": 2.0
+      }
+    ],
+    "endAt": 1772899199000,
+    "exBoxDailyLimit": 2,
+    "exBoxResourceBoxIds": [
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      17,
+      18,
+      19,
+      20
+    ],
+    "id": 7,
+    "limitMissionGroupId": 28,
+    "normalBoxDailyLimit": 6,
+    "normalBoxResourceBoxIds": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      15,
+      16
+    ],
+    "startAt": 1772337600000,
+    "url": "https://lf3-cdn-tos.draftstatic.com/obj/ies-hotsoon-draft/pjsk/27462911-d990-4685-85a4-5cee119b7db0.html"
+  },
+  {
+    "bonusAssetbundleName": "event_bonus",
+    "bonuses": [
+      {
+        "bonusType": "rate",
+        "resourceId": 14,
+        "resourceType": "material",
+        "value": 3.0
+      },
+      {
+        "bonusType": "rate",
+        "resourceId": 17,
+        "resourceType": "material",
+        "value": 3.0
+      },
+      {
+        "bonusType": "exp_card",
+        "value": 2.0
+      }
+    ],
+    "endAt": 1783958399000,
+    "exBoxDailyLimit": 2,
+    "exBoxResourceBoxIds": [
+      27,
+      28,
+      9,
+      4,
+      5,
+      12,
+      18,
+      17,
+      19,
+      20
+    ],
+    "id": 8,
+    "limitMissionGroupId": 29,
+    "normalBoxDailyLimit": 6,
+    "normalBoxResourceBoxIds": [
+      21,
+      22,
+      23,
+      24,
+      25,
+      26
+    ],
+    "startAt": 1783137600000,
+    "url": "https://lf3-cdn-tos.draftstatic.com/obj/ies-hotsoon-draft/pjsk/5a7e10cc-7164-4e0e-a71c-2a1153e33e04.html"
+  }
+]

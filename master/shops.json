@@ -1,0 +1,79 @@
+[
+  {
+    "areaId": 4,
+    "id": 2,
+    "releaseConditionId": 1,
+    "seq": 2,
+    "shopType": "music"
+  },
+  {
+    "areaId": 3,
+    "id": 3,
+    "releaseConditionId": 1,
+    "seq": 2,
+    "shopType": "live_costume"
+  },
+  {
+    "areaId": 4,
+    "id": 4,
+    "releaseConditionId": 1,
+    "seq": 1,
+    "shopType": "music_vocal"
+  },
+  {
+    "areaId": 5,
+    "id": 5,
+    "releaseConditionId": 1,
+    "seq": 1,
+    "shopType": "area_item"
+  },
+  {
+    "areaId": 7,
+    "id": 6,
+    "releaseConditionId": 1,
+    "seq": 1,
+    "shopType": "area_item"
+  },
+  {
+    "areaId": 8,
+    "id": 7,
+    "releaseConditionId": 1,
+    "seq": 1,
+    "shopType": "area_item"
+  },
+  {
+    "areaId": 9,
+    "id": 8,
+    "releaseConditionId": 1,
+    "seq": 1,
+    "shopType": "area_item"
+  },
+  {
+    "areaId": 10,
+    "id": 9,
+    "releaseConditionId": 1,
+    "seq": 1,
+    "shopType": "area_item"
+  },
+  {
+    "areaId": 11,
+    "id": 10,
+    "releaseConditionId": 10025,
+    "seq": 1,
+    "shopType": "area_item"
+  },
+  {
+    "areaId": 13,
+    "id": 11,
+    "releaseConditionId": 10025,
+    "seq": 1,
+    "shopType": "area_item"
+  },
+  {
+    "areaId": 3,
+    "id": 12,
+    "releaseConditionId": 1,
+    "seq": 1,
+    "shopType": "stamp"
+  }
+]

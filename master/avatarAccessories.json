@@ -1,0 +1,692 @@
+[
+  {
+    "assetbundleName": "accessory_0001",
+    "id": 1,
+    "name": "头戴式耳机",
+    "seq": 10
+  },
+  {
+    "assetbundleName": "accessory_0002",
+    "id": 2,
+    "name": "猫耳",
+    "seq": 20
+  },
+  {
+    "assetbundleName": "accessory_0003",
+    "id": 3,
+    "name": "蝴蝶结",
+    "seq": 30
+  },
+  {
+    "assetbundleName": "accessory_0004",
+    "id": 4,
+    "name": "鸭舌帽",
+    "seq": 40
+  },
+  {
+    "assetbundleName": "accessory_0005",
+    "id": 5,
+    "name": "绑在头顶的应援棒",
+    "seq": 50
+  },
+  {
+    "assetbundleName": "accessory_0006",
+    "id": 6,
+    "name": "墨镜",
+    "seq": 60
+  },
+  {
+    "assetbundleName": "accessory_0007",
+    "id": 7,
+    "name": "天使光环",
+    "seq": 70
+  },
+  {
+    "assetbundleName": "accessory_0008",
+    "id": 8,
+    "name": "花冠",
+    "seq": 80
+  },
+  {
+    "assetbundleName": "accessory_0009",
+    "id": 9,
+    "name": "大葱",
+    "seq": 90
+  },
+  {
+    "assetbundleName": "accessory_0010",
+    "id": 10,
+    "name": "爆炸头",
+    "seq": 100
+  },
+  {
+    "assetbundleName": "accessory_0011",
+    "id": 11,
+    "name": "MEIKO的咖啡",
+    "seq": 110
+  },
+  {
+    "assetbundleName": "accessory_0013",
+    "id": 13,
+    "name": "南瓜头",
+    "seq": 130
+  },
+  {
+    "assetbundleName": "accessory_0014",
+    "id": 14,
+    "name": "驯鹿发箍",
+    "seq": 140
+  },
+  {
+    "assetbundleName": "accessory_0015",
+    "id": 15,
+    "name": "镜饼",
+    "seq": 150
+  },
+  {
+    "assetbundleName": "accessory_0016",
+    "id": 16,
+    "name": "王冠",
+    "seq": 160
+  },
+  {
+    "assetbundleName": "accessory_0017",
+    "id": 17,
+    "name": "气球帽",
+    "seq": 170
+  },
+  {
+    "assetbundleName": "accessory_0018",
+    "id": 18,
+    "name": "学生帽",
+    "seq": 180
+  },
+  {
+    "assetbundleName": "accessory_0019",
+    "id": 19,
+    "name": "爱彩便当",
+    "seq": 190
+  },
+  {
+    "assetbundleName": "accessory_0020",
+    "id": 20,
+    "name": "企鹅家族",
+    "seq": 200
+  },
+  {
+    "assetbundleName": "accessory_0021",
+    "id": 21,
+    "name": "钟钟兔发箍",
+    "seq": 210
+  },
+  {
+    "assetbundleName": "accessory_0022",
+    "id": 22,
+    "name": "七夕装饰",
+    "seq": 220
+  },
+  {
+    "assetbundleName": "accessory_0023",
+    "id": 23,
+    "name": "草帽",
+    "seq": 230
+  },
+  {
+    "assetbundleName": "accessory_0024",
+    "id": 24,
+    "name": "歌手·野兽",
+    "seq": 240
+  },
+  {
+    "assetbundleName": "accessory_0025",
+    "id": 25,
+    "name": "浮潜面罩",
+    "seq": 250
+  },
+  {
+    "assetbundleName": "accessory_0026",
+    "id": 26,
+    "name": "假面偶像面具",
+    "seq": 260
+  },
+  {
+    "assetbundleName": "accessory_0028",
+    "id": 28,
+    "name": "赏月小兔团子",
+    "seq": 280
+  },
+  {
+    "assetbundleName": "accessory_0029",
+    "id": 29,
+    "name": "流星耳机",
+    "seq": 290
+  },
+  {
+    "assetbundleName": "accessory_0030",
+    "id": 30,
+    "name": "1st Anniversary帽子",
+    "seq": 300
+  },
+  {
+    "assetbundleName": "accessory_0031",
+    "id": 31,
+    "name": "导演帽",
+    "seq": 310
+  },
+  {
+    "assetbundleName": "accessory_0032",
+    "id": 32,
+    "name": "孤独之角",
+    "seq": 320
+  },
+  {
+    "assetbundleName": "accessory_0033",
+    "id": 33,
+    "name": "RTVL帽",
+    "seq": 330
+  },
+  {
+    "assetbundleName": "accessory_0034",
+    "id": 34,
+    "name": "圣诞树帽子",
+    "seq": 340
+  },
+  {
+    "assetbundleName": "accessory_0035",
+    "id": 35,
+    "name": "野营帐篷",
+    "seq": 350
+  },
+  {
+    "assetbundleName": "accessory_0036",
+    "id": 36,
+    "name": "2023新年眼镜",
+    "seq": 360
+  },
+  {
+    "assetbundleName": "accessory_0037",
+    "id": 37,
+    "name": "热腾腾炖菜",
+    "seq": 370
+  },
+  {
+    "assetbundleName": "accessory_0038",
+    "id": 38,
+    "name": "扁桃仁膏初音未来",
+    "seq": 380
+  },
+  {
+    "assetbundleName": "accessory_0039",
+    "id": 39,
+    "name": "骑手护目镜",
+    "seq": 390
+  },
+  {
+    "assetbundleName": "accessory_0040",
+    "id": 40,
+    "name": "马卡龙帽",
+    "seq": 400
+  },
+  {
+    "assetbundleName": "accessory_0041",
+    "id": 41,
+    "name": "石膏像面具",
+    "seq": 410
+  },
+  {
+    "assetbundleName": "accessory_0042",
+    "id": 42,
+    "name": "樱花发箍",
+    "seq": 420
+  },
+  {
+    "assetbundleName": "accessory_0043",
+    "id": 43,
+    "name": "星星墨镜",
+    "seq": 430
+  },
+  {
+    "assetbundleName": "accessory_0044",
+    "id": 44,
+    "name": "松饼",
+    "seq": 440
+  },
+  {
+    "assetbundleName": "accessory_0045",
+    "id": 45,
+    "name": "热带水果拼盘",
+    "seq": 450
+  },
+  {
+    "assetbundleName": "accessory_0046",
+    "id": 46,
+    "name": "蝴蝶草帽",
+    "seq": 460
+  },
+  {
+    "assetbundleName": "accessory_0047",
+    "id": 47,
+    "name": "圣诞节蛋糕",
+    "seq": 540
+  },
+  {
+    "assetbundleName": "accessory_0048",
+    "id": 48,
+    "name": "赛博发箍",
+    "seq": 470
+  },
+  {
+    "assetbundleName": "accessory_0049",
+    "id": 49,
+    "name": "蝴蝶结鸭舌帽",
+    "seq": 480
+  },
+  {
+    "assetbundleName": "accessory_0050",
+    "id": 50,
+    "name": "登山帽",
+    "seq": 490
+  },
+  {
+    "assetbundleName": "accessory_0051",
+    "id": 51,
+    "name": "类的演出无人机",
+    "seq": 510
+  },
+  {
+    "assetbundleName": "accessory_0052",
+    "id": 52,
+    "name": "“2nd ANNIVERSARY SPECIAL STAGE”演唱会鸭舌帽",
+    "seq": 500
+  },
+  {
+    "assetbundleName": "accessory_0053",
+    "id": 53,
+    "name": "黑暗妆饰·小熊",
+    "seq": 520
+  },
+  {
+    "assetbundleName": "accessory_0054",
+    "id": 54,
+    "name": "心形箭靶",
+    "seq": 530
+  },
+  {
+    "assetbundleName": "accessory_0055",
+    "id": 55,
+    "name": "开运不倒翁",
+    "seq": 550
+  },
+  {
+    "assetbundleName": "accessory_0056",
+    "id": 56,
+    "name": "新年狛犬",
+    "seq": 540
+  },
+  {
+    "assetbundleName": "accessory_0057",
+    "id": 57,
+    "name": "梦想家的帽子",
+    "seq": 560
+  },
+  {
+    "assetbundleName": "accessory_0058",
+    "id": 58,
+    "name": "雪融巧克力帽",
+    "seq": 570
+  },
+  {
+    "assetbundleName": "accessory_0059",
+    "id": 59,
+    "name": "贝雷帽",
+    "seq": 610
+  },
+  {
+    "assetbundleName": "accessory_0060",
+    "id": 60,
+    "name": "珍珠伯爵玩偶",
+    "seq": 580
+  },
+  {
+    "assetbundleName": "accessory_0061",
+    "id": 61,
+    "name": "宽边礼帽",
+    "seq": 600
+  },
+  {
+    "assetbundleName": "accessory_0062",
+    "id": 62,
+    "name": "“JUMPIN！”演唱会鸭舌帽",
+    "seq": 590
+  },
+  {
+    "assetbundleName": "accessory_0063",
+    "id": 63,
+    "name": "“SPARKLE”演唱会鸭舌帽",
+    "seq": 620
+  },
+  {
+    "assetbundleName": "accessory_0064",
+    "id": 64,
+    "name": "怯弱的金丝雀",
+    "seq": 630
+  },
+  {
+    "assetbundleName": "accessory_0065",
+    "id": 65,
+    "name": "婚礼幸福钟",
+    "seq": 640
+  },
+  {
+    "assetbundleName": "accessory_0066",
+    "id": 66,
+    "name": "“moment”演唱会鸭舌帽",
+    "seq": 670
+  },
+  {
+    "assetbundleName": "accessory_0067",
+    "id": 67,
+    "name": "亲手做的三明治",
+    "seq": 650
+  },
+  {
+    "assetbundleName": "accessory_0068",
+    "id": 68,
+    "name": "小熊玩偶",
+    "seq": 660
+  },
+  {
+    "assetbundleName": "accessory_0069",
+    "id": 69,
+    "name": "仙人掌",
+    "seq": 680
+  },
+  {
+    "assetbundleName": "accessory_0070",
+    "id": 70,
+    "name": "“STORIES”演唱会鸭舌帽",
+    "seq": 690
+  },
+  {
+    "assetbundleName": "accessory_0071",
+    "id": 71,
+    "name": "咲希的青春相册",
+    "seq": 700
+  },
+  {
+    "assetbundleName": "accessory_0072",
+    "id": 72,
+    "name": "升年级加油头带&眼镜",
+    "seq": 730
+  },
+  {
+    "assetbundleName": "accessory_0073",
+    "id": 73,
+    "name": "“3rd ANNIVERSARY Memorial Stage”演唱会鸭舌帽",
+    "seq": 750
+  },
+  {
+    "assetbundleName": "accessory_0074",
+    "id": 74,
+    "name": "从手机里？！",
+    "seq": 700
+  },
+  {
+    "assetbundleName": "accessory_0075",
+    "id": 75,
+    "name": "早上吃面包♪",
+    "seq": 710
+  },
+  {
+    "assetbundleName": "accessory_0076",
+    "id": 76,
+    "name": "初音未来的CD",
+    "seq": 740
+  },
+  {
+    "assetbundleName": "accessory_0077",
+    "id": 77,
+    "name": "扬声器脑袋",
+    "seq": 760
+  },
+  {
+    "assetbundleName": "accessory_0078",
+    "id": 78,
+    "name": "拉面",
+    "seq": 770
+  },
+  {
+    "assetbundleName": "accessory_0079",
+    "id": 79,
+    "name": "冲澡桶",
+    "seq": 780
+  },
+  {
+    "assetbundleName": "accessory_0080",
+    "id": 80,
+    "name": "天马彩灯",
+    "seq": 790
+  },
+  {
+    "assetbundleName": "accessory_0081",
+    "id": 81,
+    "name": "凯蒂猫发箍",
+    "seq": 850
+  },
+  {
+    "assetbundleName": "accessory_0082",
+    "id": 82,
+    "name": "布丁狗发箍",
+    "seq": 840
+  },
+  {
+    "assetbundleName": "accessory_0083",
+    "id": 83,
+    "name": "美乐蒂发箍",
+    "seq": 830
+  },
+  {
+    "assetbundleName": "accessory_0084",
+    "id": 84,
+    "name": "帕恰狗发箍",
+    "seq": 820
+  },
+  {
+    "assetbundleName": "accessory_0085",
+    "id": 85,
+    "name": "大耳狗发箍",
+    "seq": 810
+  },
+  {
+    "assetbundleName": "accessory_0086",
+    "id": 86,
+    "name": "酷洛米发箍",
+    "seq": 800
+  },
+  {
+    "assetbundleName": "accessory_0087",
+    "id": 87,
+    "name": "八音盒",
+    "seq": 860
+  },
+  {
+    "assetbundleName": "accessory_0088",
+    "id": 88,
+    "name": "日式年菜食盒",
+    "seq": 870
+  },
+  {
+    "assetbundleName": "accessory_0089",
+    "id": 89,
+    "name": "超大分量烤肉便当",
+    "seq": 880
+  },
+  {
+    "assetbundleName": "accessory_0090",
+    "id": 90,
+    "name": "心羽的相机",
+    "seq": 890
+  },
+  {
+    "assetbundleName": "accessory_0091",
+    "id": 91,
+    "name": "梦想之家",
+    "seq": 900
+  },
+  {
+    "assetbundleName": "accessory_0092",
+    "id": 92,
+    "name": "红茶套装",
+    "seq": 910
+  },
+  {
+    "assetbundleName": "accessory_0093",
+    "id": 93,
+    "name": "三角钢琴",
+    "seq": 920
+  },
+  {
+    "assetbundleName": "accessory_0094",
+    "id": 94,
+    "name": "毛茸茸狗耳朵",
+    "seq": 940
+  },
+  {
+    "assetbundleName": "accessory_0095",
+    "id": 95,
+    "name": "哥特风帽子",
+    "seq": 950
+  },
+  {
+    "assetbundleName": "accessory_0096",
+    "id": 96,
+    "name": "热血面具",
+    "seq": 960
+  },
+  {
+    "assetbundleName": "accessory_0097",
+    "id": 97,
+    "name": "“RESONANCE BEATS!!”演唱会鸭舌帽",
+    "seq": 980
+  },
+  {
+    "assetbundleName": "accessory_0098",
+    "id": 98,
+    "name": "婚戒",
+    "seq": 970
+  },
+  {
+    "assetbundleName": "accessory_0099",
+    "id": 99,
+    "name": "兔兔玩偶",
+    "seq": 990
+  },
+  {
+    "assetbundleName": "accessory_0100",
+    "id": 100,
+    "name": "月代头",
+    "seq": 1000
+  },
+  {
+    "assetbundleName": "accessory_0101",
+    "id": 101,
+    "name": "可爱电竞游戏耳机",
+    "seq": 1010
+  },
+  {
+    "assetbundleName": "accessory_0102",
+    "id": 102,
+    "name": "幽灵兜帽",
+    "seq": 1020
+  },
+  {
+    "assetbundleName": "accessory_0103",
+    "id": 103,
+    "name": "“HALF ANNIVERSARY Brilliant Stage”演唱会鸭舌帽",
+    "seq": 1040
+  },
+  {
+    "assetbundleName": "accessory_0104",
+    "id": 104,
+    "name": "流浪吉他手",
+    "seq": 1030
+  },
+  {
+    "assetbundleName": "accessory_0105",
+    "id": 105,
+    "name": "蒙眼丝带",
+    "seq": 1050
+  },
+  {
+    "assetbundleName": "accessory_0106",
+    "id": 106,
+    "name": "街头针织帽",
+    "seq": 1060
+  },
+  {
+    "assetbundleName": "accessory_0107",
+    "id": 107,
+    "name": "古典帽子",
+    "seq": 1070
+  },
+  {
+    "assetbundleName": "accessory_0108",
+    "id": 108,
+    "name": "“Ensemble in SEKAI”演唱会鸭舌帽",
+    "seq": 1080
+  },
+  {
+    "assetbundleName": "accessory_0109",
+    "id": 109,
+    "name": "“Dreamscape”演唱会鸭舌帽",
+    "seq": 1090
+  },
+  {
+    "assetbundleName": "accessory_0110",
+    "id": 110,
+    "name": "“ONE！MORE！HAPPY TIME”演唱会鸭舌帽",
+    "seq": 1100
+  },
+  {
+    "assetbundleName": "accessory_0111",
+    "id": 111,
+    "name": "どんちゃん&かっちゃんのぬいぐるみ",
+    "seq": 1110
+  },
+  {
+    "assetbundleName": "accessory_0113",
+    "id": 113,
+    "name": "向阳之花",
+    "seq": 1130
+  },
+  {
+    "assetbundleName": "accessory_1001",
+    "id": 1001,
+    "name": "年糕",
+    "seq": 350
+  },
+  {
+    "assetbundleName": "accessory_1002",
+    "id": 1002,
+    "name": "初音未来纪念日蛋糕头套",
+    "seq": 10020
+  },
+  {
+    "assetbundleName": "accessory_1004",
+    "id": 1004,
+    "name": "镜音连纪念日蛋糕头套",
+    "seq": 10040
+  },
+  {
+    "assetbundleName": "accessory_1006",
+    "id": 1005,
+    "name": "巡音流歌纪念日蛋糕头套",
+    "seq": 10050
+  },
+  {
+    "assetbundleName": "accessory_1005",
+    "id": 1006,
+    "name": "MEIKO纪念日蛋糕头套",
+    "seq": 10060
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "bondsExpRate": 1,
+    "costBoost": 0,
+    "eventPointRate": 1,
+    "expRate": 1,
+    "rewardRate": 1
+  },
+  {
+    "bondsExpRate": 5,
+    "costBoost": 1,
+    "eventPointRate": 5,
+    "expRate": 5,
+    "rewardRate": 5
+  },
+  {
+    "bondsExpRate": 10,
+    "costBoost": 2,
+    "eventPointRate": 10,
+    "expRate": 10,
+    "rewardRate": 10
+  },
+  {
+    "bondsExpRate": 15,
+    "costBoost": 3,
+    "eventPointRate": 15,
+    "expRate": 15,
+    "rewardRate": 15
+  },
+  {
+    "bondsExpRate": 20,
+    "costBoost": 4,
+    "eventPointRate": 20,
+    "expRate": 20,
+    "rewardRate": 20
+  },
+  {
+    "bondsExpRate": 25,
+    "costBoost": 5,
+    "eventPointRate": 25,
+    "expRate": 25,
+    "rewardRate": 25
+  },
+  {
+    "bondsExpRate": 26,
+    "costBoost": 6,
+    "eventPointRate": 27,
+    "expRate": 26,
+    "rewardRate": 26
+  },
+  {
+    "bondsExpRate": 27,
+    "costBoost": 7,
+    "eventPointRate": 29,
+    "expRate": 27,
+    "rewardRate": 27
+  },
+  {
+    "bondsExpRate": 28,
+    "costBoost": 8,
+    "eventPointRate": 31,
+    "expRate": 28,
+    "rewardRate": 28
+  },
+  {
+    "bondsExpRate": 29,
+    "costBoost": 9,
+    "eventPointRate": 33,
+    "expRate": 29,
+    "rewardRate": 29
+  },
+  {
+    "bondsExpRate": 30,
+    "costBoost": 10,
+    "eventPointRate": 35,
+    "expRate": 30,
+    "rewardRate": 30
+  }
+]

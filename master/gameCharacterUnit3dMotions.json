@@ -1,0 +1,188 @@
+[
+  {
+    "assetbundleName": "01_00",
+    "gameCharacterUnitId": 1,
+    "id": 1,
+    "motionType": "costume_setting"
+  },
+  {
+    "assetbundleName": "02_00",
+    "gameCharacterUnitId": 2,
+    "id": 2,
+    "motionType": "costume_setting"
+  },
+  {
+    "assetbundleName": "03_00",
+    "gameCharacterUnitId": 3,
+    "id": 3,
+    "motionType": "costume_setting"
+  },
+  {
+    "assetbundleName": "04_00",
+    "gameCharacterUnitId": 4,
+    "id": 4,
+    "motionType": "costume_setting"
+  },
+  {
+    "assetbundleName": "05_00",
+    "gameCharacterUnitId": 5,
+    "id": 5,
+    "motionType": "costume_setting"
+  },
+  {
+    "assetbundleName": "06_00",
+    "gameCharacterUnitId": 6,
+    "id": 6,
+    "motionType": "costume_setting"
+  },
+  {
+    "assetbundleName": "07_00",
+    "gameCharacterUnitId": 7,
+    "id": 7,
+    "motionType": "costume_setting"
+  },
+  {
+    "assetbundleName": "08_00",
+    "gameCharacterUnitId": 8,
+    "id": 8,
+    "motionType": "costume_setting"
+  },
+  {
+    "assetbundleName": "09_00",
+    "gameCharacterUnitId": 9,
+    "id": 9,
+    "motionType": "costume_setting"
+  },
+  {
+    "assetbundleName": "10_00",
+    "gameCharacterUnitId": 10,
+    "id": 10,
+    "motionType": "costume_setting"
+  },
+  {
+    "assetbundleName": "11_00",
+    "gameCharacterUnitId": 11,
+    "id": 11,
+    "motionType": "costume_setting"
+  },
+  {
+    "assetbundleName": "12_00",
+    "gameCharacterUnitId": 12,
+    "id": 12,
+    "motionType": "costume_setting"
+  },
+  {
+    "assetbundleName": "13_00",
+    "gameCharacterUnitId": 13,
+    "id": 13,
+    "motionType": "costume_setting"
+  },
+  {
+    "assetbundleName": "14_00",
+    "gameCharacterUnitId": 14,
+    "id": 14,
+    "motionType": "costume_setting"
+  },
+  {
+    "assetbundleName": "15_00",
+    "gameCharacterUnitId": 15,
+    "id": 15,
+    "motionType": "costume_setting"
+  },
+  {
+    "assetbundleName": "16_00",
+    "gameCharacterUnitId": 16,
+    "id": 16,
+    "motionType": "costume_setting"
+  },
+  {
+    "assetbundleName": "17_00",
+    "gameCharacterUnitId": 17,
+    "id": 17,
+    "motionType": "costume_setting"
+  },
+  {
+    "assetbundleName": "18_00",
+    "gameCharacterUnitId": 18,
+    "id": 18,
+    "motionType": "costume_setting"
+  },
+  {
+    "assetbundleName": "19_00",
+    "gameCharacterUnitId": 19,
+    "id": 19,
+    "motionType": "costume_setting"
+  },
+  {
+    "assetbundleName": "20_00",
+    "gameCharacterUnitId": 20,
+    "id": 20,
+    "motionType": "costume_setting"
+  },
+  {
+    "assetbundleName": "21_00",
+    "gameCharacterUnitId": 21,
+    "id": 21,
+    "motionType": "costume_setting"
+  },
+  {
+    "assetbundleName": "22_00",
+    "gameCharacterUnitId": 22,
+    "id": 22,
+    "motionType": "costume_setting"
+  },
+  {
+    "assetbundleName": "23_00",
+    "gameCharacterUnitId": 23,
+    "id": 23,
+    "motionType": "costume_setting"
+  },
+  {
+    "assetbundleName": "24_00",
+    "gameCharacterUnitId": 24,
+    "id": 24,
+    "motionType": "costume_setting"
+  },
+  {
+    "assetbundleName": "25_00",
+    "gameCharacterUnitId": 25,
+    "id": 25,
+    "motionType": "costume_setting"
+  },
+  {
+    "assetbundleName": "26_00",
+    "gameCharacterUnitId": 26,
+    "id": 26,
+    "motionType": "costume_setting"
+  },
+  {
+    "assetbundleName": "27_00",
+    "gameCharacterUnitId": 27,
+    "id": 27,
+    "motionType": "costume_setting"
+  },
+  {
+    "assetbundleName": "28_00",
+    "gameCharacterUnitId": 28,
+    "id": 28,
+    "motionType": "costume_setting"
+  },
+  {
+    "assetbundleName": "29_00",
+    "gameCharacterUnitId": 29,
+    "id": 29,
+    "motionType": "costume_setting"
+  },
+  {
+    "assetbundleName": "30_00",
+    "gameCharacterUnitId": 30,
+    "id": 30,
+    "motionType": "costume_setting"
+  },
+  {
+    "assetbundleName": "31_00",
+    "gameCharacterUnitId": 31,
+    "id": 31,
+    "motionType": "costume_setting"
+  }
+]

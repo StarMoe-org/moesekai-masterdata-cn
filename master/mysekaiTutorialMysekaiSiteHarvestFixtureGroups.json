@@ -1,0 +1,117 @@
+[
+  {
+    "groupId": 1,
+    "id": 1,
+    "mysekaiSiteHarvestFixtureId": 1001
+  },
+  {
+    "groupId": 2,
+    "id": 2,
+    "mysekaiSiteHarvestFixtureId": 4001
+  },
+  {
+    "groupId": 3,
+    "id": 3,
+    "mysekaiSiteHarvestFixtureId": 1002
+  },
+  {
+    "groupId": 4,
+    "id": 4,
+    "mysekaiSiteHarvestFixtureId": 4003
+  },
+  {
+    "groupId": 4,
+    "id": 5,
+    "mysekaiSiteHarvestFixtureId": 4006
+  },
+  {
+    "groupId": 4,
+    "id": 6,
+    "mysekaiSiteHarvestFixtureId": 4015
+  },
+  {
+    "groupId": 4,
+    "id": 7,
+    "mysekaiSiteHarvestFixtureId": 4012
+  },
+  {
+    "groupId": 4,
+    "id": 8,
+    "mysekaiSiteHarvestFixtureId": 4004
+  },
+  {
+    "groupId": 4,
+    "id": 9,
+    "mysekaiSiteHarvestFixtureId": 4007
+  },
+  {
+    "groupId": 4,
+    "id": 10,
+    "mysekaiSiteHarvestFixtureId": 4009
+  },
+  {
+    "groupId": 4,
+    "id": 11,
+    "mysekaiSiteHarvestFixtureId": 4013
+  },
+  {
+    "groupId": 4,
+    "id": 12,
+    "mysekaiSiteHarvestFixtureId": 4016
+  },
+  {
+    "groupId": 4,
+    "id": 13,
+    "mysekaiSiteHarvestFixtureId": 4005
+  },
+  {
+    "groupId": 4,
+    "id": 14,
+    "mysekaiSiteHarvestFixtureId": 4008
+  },
+  {
+    "groupId": 4,
+    "id": 15,
+    "mysekaiSiteHarvestFixtureId": 4011
+  },
+  {
+    "groupId": 4,
+    "id": 16,
+    "mysekaiSiteHarvestFixtureId": 4014
+  },
+  {
+    "groupId": 4,
+    "id": 17,
+    "mysekaiSiteHarvestFixtureId": 4017
+  },
+  {
+    "groupId": 5,
+    "id": 18,
+    "mysekaiSiteHarvestFixtureId": 111
+  },
+  {
+    "groupId": 6,
+    "id": 19,
+    "mysekaiSiteHarvestFixtureId": 5001
+  },
+  {
+    "groupId": 6,
+    "id": 20,
+    "mysekaiSiteHarvestFixtureId": 5002
+  },
+  {
+    "groupId": 7,
+    "id": 21,
+    "mysekaiSiteHarvestFixtureId": 2002
+  },
+  {
+    "groupId": 8,
+    "id": 22,
+    "mysekaiSiteHarvestFixtureId": 2003
+  },
+  {
+    "groupId": 9,
+    "id": 23,
+    "mysekaiSiteHarvestFixtureId": 3001
+  }
+]

@@ -1,0 +1,562 @@
+[
+  {
+    "assetbundleName": "shop_300000",
+    "billingShopItemIds": [
+      300000,
+      300001,
+      300002,
+      300003,
+      300004
+    ],
+    "billingShopItemType": "costume_3d",
+    "id": 1,
+    "name": "“亚文化男性风”服装",
+    "seq": 300000
+  },
+  {
+    "assetbundleName": "shop_300010",
+    "billingShopItemIds": [
+      300010,
+      300011,
+      300012,
+      300013,
+      300014
+    ],
+    "billingShopItemType": "costume_3d",
+    "id": 2,
+    "name": "“毛绒御寒大衣”服装",
+    "seq": 300010
+  },
+  {
+    "assetbundleName": "shop_300020",
+    "billingShopItemIds": [
+      300020,
+      300021,
+      300022,
+      300023,
+      300024
+    ],
+    "billingShopItemType": "costume_3d",
+    "id": 3,
+    "name": "“女仆·执事”服装",
+    "seq": 300020
+  },
+  {
+    "assetbundleName": "shop_300050",
+    "billingShopItemIds": [
+      300050,
+      300051,
+      300052,
+      300053,
+      300054
+    ],
+    "billingShopItemType": "costume_3d",
+    "id": 4,
+    "name": "“哞哞☆新年装”服装",
+    "seq": 300050
+  },
+  {
+    "assetbundleName": "shop_300060",
+    "billingShopItemIds": [
+      300060,
+      300061,
+      300062,
+      300063,
+      300064
+    ],
+    "billingShopItemType": "costume_3d",
+    "id": 5,
+    "name": "“甜品”服装",
+    "seq": 300060
+  },
+  {
+    "assetbundleName": "shop_300070",
+    "billingShopItemIds": [
+      300070,
+      300071,
+      300072,
+      300073,
+      300074
+    ],
+    "billingShopItemType": "costume_3d",
+    "id": 6,
+    "name": "“近未来”服装",
+    "seq": 300070
+  },
+  {
+    "assetbundleName": "shop_300090",
+    "billingShopItemIds": [
+      300090,
+      300091,
+      300092,
+      300093,
+      300094
+    ],
+    "billingShopItemType": "costume_3d",
+    "id": 7,
+    "name": "“怪盗”服装",
+    "seq": 300090
+  },
+  {
+    "assetbundleName": "shop_300100",
+    "billingShopItemIds": [
+      300100,
+      300101,
+      300102,
+      300103,
+      300104
+    ],
+    "billingShopItemType": "costume_3d",
+    "id": 8,
+    "name": "“魔法”服装",
+    "seq": 300100
+  },
+  {
+    "assetbundleName": "shop_300110",
+    "billingShopItemIds": [
+      300110,
+      300111,
+      300112,
+      300113,
+      300114
+    ],
+    "billingShopItemType": "costume_3d",
+    "id": 9,
+    "name": "“餐厅”服装",
+    "seq": 300110
+  },
+  {
+    "assetbundleName": "shop_300120",
+    "billingShopItemIds": [
+      300120,
+      300121,
+      300122,
+      300123,
+      300124
+    ],
+    "billingShopItemType": "costume_3d",
+    "id": 10,
+    "name": "“海侠”服装",
+    "seq": 300120
+  },
+  {
+    "assetbundleName": "shop_300130",
+    "billingShopItemIds": [
+      300130,
+      300131,
+      300132,
+      300133,
+      300134
+    ],
+    "billingShopItemType": "costume_3d",
+    "id": 11,
+    "name": "“Animal”服装",
+    "seq": 300130
+  },
+  {
+    "assetbundleName": "shop_300140",
+    "billingShopItemIds": [
+      300140,
+      300141,
+      300142,
+      300143,
+      300144
+    ],
+    "billingShopItemType": "costume_3d",
+    "id": 12,
+    "name": "“睡衣”服装",
+    "seq": 300140
+  },
+  {
+    "assetbundleName": "shop_300220",
+    "billingShopItemIds": [
+      300220,
+      300221,
+      300222,
+      300223,
+      300224
+    ],
+    "billingShopItemType": "costume_3d",
+    "id": 13,
+    "name": "“幽灵”服装",
+    "seq": 300220
+  },
+  {
+    "assetbundleName": "shop_300230",
+    "billingShopItemIds": [
+      300230,
+      300231,
+      300232,
+      300233,
+      300234
+    ],
+    "billingShopItemType": "costume_3d",
+    "id": 14,
+    "name": "“哥特风”服装",
+    "seq": 300230
+  },
+  {
+    "assetbundleName": "shop_300240",
+    "billingShopItemIds": [
+      300240,
+      300241,
+      300242,
+      300243,
+      300244
+    ],
+    "billingShopItemType": "costume_3d",
+    "id": 15,
+    "name": "“格纹”服装",
+    "seq": 300240
+  },
+  {
+    "assetbundleName": "shop_300260",
+    "billingShopItemIds": [
+      300260,
+      300261,
+      300262,
+      300263,
+      300264
+    ],
+    "billingShopItemType": "costume_3d",
+    "id": 16,
+    "name": "“宇宙”服装",
+    "seq": 300260
+  },
+  {
+    "assetbundleName": "shop_300270",
+    "billingShopItemIds": [
+      300270,
+      300271,
+      300272,
+      300273,
+      300274
+    ],
+    "billingShopItemType": "costume_3d",
+    "id": 17,
+    "name": "“水果”服装",
+    "seq": 300270
+  },
+  {
+    "assetbundleName": "shop_300280",
+    "billingShopItemIds": [
+      300280,
+      300281,
+      300282,
+      300283,
+      300284
+    ],
+    "billingShopItemType": "costume_3d",
+    "id": 18,
+    "name": "“幻想”服装",
+    "seq": 300280
+  },
+  {
+    "assetbundleName": "shop_300320",
+    "billingShopItemIds": [
+      300320,
+      300321,
+      300322,
+      300323,
+      300324
+    ],
+    "billingShopItemType": "costume_3d",
+    "id": 19,
+    "name": "“复活节”服装",
+    "seq": 300320
+  },
+  {
+    "assetbundleName": "shop_300330",
+    "billingShopItemIds": [
+      300330,
+      300331,
+      300332,
+      300333,
+      300334
+    ],
+    "billingShopItemType": "costume_3d",
+    "id": 20,
+    "name": "“嘻哈”服装",
+    "seq": 300330
+  },
+  {
+    "assetbundleName": "shop_300340",
+    "billingShopItemIds": [
+      300340,
+      300341,
+      300342,
+      300343,
+      300344
+    ],
+    "billingShopItemType": "costume_3d",
+    "id": 21,
+    "name": "“运动”服装",
+    "seq": 300340
+  },
+  {
+    "assetbundleName": "shop_300350",
+    "billingShopItemIds": [
+      300350,
+      300351,
+      300352,
+      300353,
+      300354
+    ],
+    "billingShopItemType": "costume_3d",
+    "id": 22,
+    "name": "“度假”服装",
+    "seq": 300350
+  },
+  {
+    "assetbundleName": "shop_300360",
+    "billingShopItemIds": [
+      300360,
+      300361,
+      300362,
+      300363,
+      300364
+    ],
+    "billingShopItemType": "costume_3d",
+    "id": 23,
+    "name": "“户外”服装",
+    "seq": 300360
+  },
+  {
+    "assetbundleName": "shop_300370",
+    "billingShopItemIds": [
+      300370,
+      300371,
+      300372,
+      300373,
+      300374
+    ],
+    "billingShopItemType": "costume_3d",
+    "id": 24,
+    "name": "“复古”服装",
+    "seq": 300370
+  },
+  {
+    "assetbundleName": "shop_400010",
+    "billingShopItemIds": [
+      400010,
+      400011,
+      400012,
+      400013
+    ],
+    "billingShopItemType": "mysekai_blueprint",
+    "id": 54,
+    "mysekaiLiveMissionRewardGameCharacterGroupId": 2,
+    "name": "[七彩庆典风] 玩偶（第1弹）的设计图",
+    "seq": 400010
+  },
+  {
+    "assetbundleName": "shop_400020",
+    "billingShopItemIds": [
+      400020,
+      400021,
+      400022,
+      400023
+    ],
+    "billingShopItemType": "mysekai_blueprint",
+    "id": 56,
+    "mysekaiLiveMissionRewardGameCharacterGroupId": 3,
+    "name": "[七彩庆典风] 玩偶（第2弹）的设计图",
+    "seq": 400020
+  },
+  {
+    "assetbundleName": "shop_400030",
+    "billingShopItemIds": [
+      400030,
+      400031,
+      400032,
+      400033
+    ],
+    "billingShopItemType": "mysekai_blueprint",
+    "id": 58,
+    "mysekaiLiveMissionRewardGameCharacterGroupId": 4,
+    "name": "[七彩庆典风] 玩偶（第3弹）的设计图",
+    "seq": 400030
+  },
+  {
+    "assetbundleName": "shop_410001",
+    "billingShopItemIds": [
+      410001,
+      410002,
+      410003,
+      410004,
+      410005
+    ],
+    "billingShopItemType": "costume_3d",
+    "id": 410001,
+    "name": "“林间梦”服装",
+    "seq": 410001
+  },
+  {
+    "assetbundleName": "shop_410006",
+    "billingShopItemIds": [
+      410006,
+      410007,
+      410008,
+      410009,
+      410010
+    ],
+    "billingShopItemType": "costume_3d",
+    "id": 410006,
+    "name": "“心愿”服装",
+    "seq": 410006
+  },
+  {
+    "assetbundleName": "shop_410011",
+    "billingShopItemIds": [
+      410011,
+      410012,
+      410013,
+      410014,
+      410015
+    ],
+    "billingShopItemType": "costume_3d",
+    "id": 410011,
+    "name": "“夏夜”服装",
+    "seq": 410011
+  },
+  {
+    "assetbundleName": "shop_410016",
+    "billingShopItemIds": [
+      410016,
+      410017,
+      410018,
+      410019,
+      410020
+    ],
+    "billingShopItemType": "costume_3d",
+    "id": 410016,
+    "name": "“田园”服装",
+    "seq": 410016
+  },
+  {
+    "assetbundleName": "shop_410021",
+    "billingShopItemIds": [
+      410021,
+      410022,
+      410023,
+      410024,
+      410025
+    ],
+    "billingShopItemType": "costume_3d",
+    "id": 410021,
+    "name": "“雨天”服装",
+    "seq": 410021
+  },
+  {
+    "assetbundleName": "shop_410026",
+    "billingShopItemIds": [
+      410026,
+      410027,
+      410028,
+      410029,
+      410030
+    ],
+    "billingShopItemType": "costume_3d",
+    "id": 410026,
+    "name": "“秋装”服装",
+    "seq": 410026
+  },
+  {
+    "assetbundleName": "shop_410031",
+    "billingShopItemIds": [
+      410031,
+      410032,
+      410033,
+      410034,
+      410035
+    ],
+    "billingShopItemType": "costume_3d",
+    "id": 410031,
+    "name": "“歌剧”服装",
+    "seq": 410031
+  },
+  {
+    "assetbundleName": "shop_410036",
+    "billingShopItemIds": [
+      410036,
+      410037,
+      410038,
+      410039,
+      410040
+    ],
+    "billingShopItemType": "costume_3d",
+    "id": 410036,
+    "name": "“骑士”服装",
+    "seq": 410036
+  },
+  {
+    "assetbundleName": "shop_410041",
+    "billingShopItemIds": [
+      410041,
+      410042,
+      410043,
+      410044,
+      410045
+    ],
+    "billingShopItemType": "costume_3d",
+    "id": 410041,
+    "name": "“冬季”服装",
+    "seq": 410041
+  },
+  {
+    "assetbundleName": "shop_410046",
+    "billingShopItemIds": [
+      410046,
+      410047,
+      410048,
+      410049,
+      410050
+    ],
+    "billingShopItemType": "costume_3d",
+    "id": 410046,
+    "name": "“异国风”服装",
+    "seq": 410046
+  },
+  {
+    "assetbundleName": "shop_410051",
+    "billingShopItemIds": [
+      410051,
+      410052,
+      410053,
+      410054,
+      410055
+    ],
+    "billingShopItemType": "costume_3d",
+    "id": 410051,
+    "name": "“拼布”服装",
+    "seq": 410051
+  },
+  {
+    "assetbundleName": "shop_410056",
+    "billingShopItemIds": [
+      410056,
+      410057,
+      410058,
+      410059,
+      410060
+    ],
+    "billingShopItemType": "costume_3d",
+    "id": 410056,
+    "name": "“校园”服装",
+    "seq": 410056
+  },
+  {
+    "assetbundleName": "shop_410061",
+    "billingShopItemIds": [
+      410061,
+      410062,
+      410063,
+      410064,
+      410065
+    ],
+    "billingShopItemType": "costume_3d",
+    "id": 410061,
+    "name": "“职场”服装",
+    "seq": 410061
+  }
+]

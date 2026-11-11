@@ -1,0 +1,182 @@
+[
+  {
+    "bonusRate": 0.0,
+    "cardRarityType": "rarity_1",
+    "id": 101,
+    "masterRank": 0
+  },
+  {
+    "bonusRate": 0.10000000149011612,
+    "cardRarityType": "rarity_1",
+    "id": 102,
+    "masterRank": 1
+  },
+  {
+    "bonusRate": 0.20000000298023224,
+    "cardRarityType": "rarity_1",
+    "id": 103,
+    "masterRank": 2
+  },
+  {
+    "bonusRate": 0.30000001192092896,
+    "cardRarityType": "rarity_1",
+    "id": 104,
+    "masterRank": 3
+  },
+  {
+    "bonusRate": 0.4000000059604645,
+    "cardRarityType": "rarity_1",
+    "id": 105,
+    "masterRank": 4
+  },
+  {
+    "bonusRate": 0.5,
+    "cardRarityType": "rarity_1",
+    "id": 106,
+    "masterRank": 5
+  },
+  {
+    "bonusRate": 0.0,
+    "cardRarityType": "rarity_2",
+    "id": 201,
+    "masterRank": 0
+  },
+  {
+    "bonusRate": 0.20000000298023224,
+    "cardRarityType": "rarity_2",
+    "id": 202,
+    "masterRank": 1
+  },
+  {
+    "bonusRate": 0.4000000059604645,
+    "cardRarityType": "rarity_2",
+    "id": 203,
+    "masterRank": 2
+  },
+  {
+    "bonusRate": 0.6000000238418579,
+    "cardRarityType": "rarity_2",
+    "id": 204,
+    "masterRank": 3
+  },
+  {
+    "bonusRate": 0.800000011920929,
+    "cardRarityType": "rarity_2",
+    "id": 205,
+    "masterRank": 4
+  },
+  {
+    "bonusRate": 1.0,
+    "cardRarityType": "rarity_2",
+    "id": 206,
+    "masterRank": 5
+  },
+  {
+    "bonusRate": 0.0,
+    "cardRarityType": "rarity_3",
+    "id": 301,
+    "masterRank": 0
+  },
+  {
+    "bonusRate": 1.0,
+    "cardRarityType": "rarity_3",
+    "id": 302,
+    "masterRank": 1
+  },
+  {
+    "bonusRate": 2.0,
+    "cardRarityType": "rarity_3",
+    "id": 303,
+    "masterRank": 2
+  },
+  {
+    "bonusRate": 3.0,
+    "cardRarityType": "rarity_3",
+    "id": 304,
+    "masterRank": 3
+  },
+  {
+    "bonusRate": 4.0,
+    "cardRarityType": "rarity_3",
+    "id": 305,
+    "masterRank": 4
+  },
+  {
+    "bonusRate": 5.0,
+    "cardRarityType": "rarity_3",
+    "id": 306,
+    "masterRank": 5
+  },
+  {
+    "bonusRate": 10.0,
+    "cardRarityType": "rarity_4",
+    "id": 401,
+    "masterRank": 0
+  },
+  {
+    "bonusRate": 12.5,
+    "cardRarityType": "rarity_4",
+    "id": 402,
+    "masterRank": 1
+  },
+  {
+    "bonusRate": 15.0,
+    "cardRarityType": "rarity_4",
+    "id": 403,
+    "masterRank": 2
+  },
+  {
+    "bonusRate": 17.5,
+    "cardRarityType": "rarity_4",
+    "id": 404,
+    "masterRank": 3
+  },
+  {
+    "bonusRate": 20.0,
+    "cardRarityType": "rarity_4",
+    "id": 405,
+    "masterRank": 4
+  },
+  {
+    "bonusRate": 25.0,
+    "cardRarityType": "rarity_4",
+    "id": 406,
+    "masterRank": 5
+  },
+  {
+    "bonusRate": 5.0,
+    "cardRarityType": "rarity_birthday",
+    "id": 501,
+    "masterRank": 0
+  },
+  {
+    "bonusRate": 7.0,
+    "cardRarityType": "rarity_birthday",
+    "id": 502,
+    "masterRank": 1
+  },
+  {
+    "bonusRate": 9.0,
+    "cardRarityType": "rarity_birthday",
+    "id": 503,
+    "masterRank": 2
+  },
+  {
+    "bonusRate": 11.0,
+    "cardRarityType": "rarity_birthday",
+    "id": 504,
+    "masterRank": 3
+  },
+  {
+    "bonusRate": 13.0,
+    "cardRarityType": "rarity_birthday",
+    "id": 505,
+    "masterRank": 4
+  },
+  {
+    "bonusRate": 15.0,
+    "cardRarityType": "rarity_birthday",
+    "id": 506,
+    "masterRank": 5
+  }
+]

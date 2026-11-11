@@ -1,0 +1,37 @@
+[
+  {
+    "assetbundleName": "icon_live_item",
+    "id": 1,
+    "mysekaiConvertItemTabType": "normal",
+    "name": "道具",
+    "seq": 10
+  },
+  {
+    "assetbundleName": "icon_material_tone",
+    "id": 2,
+    "mysekaiConvertItemTabType": "tone",
+    "name": "音色",
+    "seq": 20
+  },
+  {
+    "assetbundleName": "icon_blueprint",
+    "id": 3,
+    "mysekaiConvertItemTabType": "mysekai_blueprint",
+    "name": "设计图",
+    "seq": 30
+  },
+  {
+    "assetbundleName": "icon_record_jacket",
+    "id": 4,
+    "mysekaiConvertItemTabType": "mysekai_music_record",
+    "name": "唱片",
+    "seq": 40
+  },
+  {
+    "assetbundleName": "icon_limited_edition",
+    "id": 5,
+    "mysekaiConvertItemTabType": "limited",
+    "name": "期间限定",
+    "seq": 50
+  }
+]

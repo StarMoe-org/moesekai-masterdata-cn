@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "maxStamina": 1000,
+    "mysekaiStaminaType": "normal"
+  },
+  {
+    "id": 2,
+    "maxStamina": 1000,
+    "mysekaiStaminaType": "enhance"
+  },
+  {
+    "id": 3,
+    "maxStamina": 10000,
+    "mysekaiStaminaType": "boost"
+  }
+]

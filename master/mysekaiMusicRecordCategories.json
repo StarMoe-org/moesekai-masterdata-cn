@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "mysekaiMusicTrackType": "music_sound_track",
+    "name": "BGM",
+    "seq": 1,
+    "unit": "none"
+  },
+  {
+    "id": 2,
+    "mysekaiMusicTrackType": "music",
+    "name": "Leo/need",
+    "seq": 3,
+    "unit": "light_sound"
+  },
+  {
+    "id": 3,
+    "mysekaiMusicTrackType": "music",
+    "name": "MORE MORE JUMP！",
+    "seq": 4,
+    "unit": "idol"
+  },
+  {
+    "id": 4,
+    "mysekaiMusicTrackType": "music",
+    "name": "Vivid BAD SQUAD",
+    "seq": 5,
+    "unit": "street"
+  },
+  {
+    "id": 5,
+    "mysekaiMusicTrackType": "music",
+    "name": "Wonderlands×Showtime",
+    "seq": 6,
+    "unit": "theme_park"
+  },
+  {
+    "id": 6,
+    "mysekaiMusicTrackType": "music",
+    "name": "25点，Nightcord见。",
+    "seq": 7,
+    "unit": "school_refusal"
+  },
+  {
+    "id": 7,
+    "mysekaiMusicTrackType": "music",
+    "name": "虚拟歌手",
+    "seq": 2,
+    "unit": "piapro"
+  },
+  {
+    "id": 8,
+    "mysekaiMusicTrackType": "music",
+    "name": "其他",
+    "seq": 8,
+    "unit": "none"
+  }
+]

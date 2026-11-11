@@ -1,0 +1,251 @@
+[
+  {
+    "colorCode": "#ffffff",
+    "id": 1,
+    "name": "白色",
+    "seq": 1
+  },
+  {
+    "characterId": 1,
+    "colorCode": "#33aaee",
+    "id": 2,
+    "name": "星乃一歌主题色",
+    "seq": 9,
+    "unit": "light_sound"
+  },
+  {
+    "characterId": 2,
+    "colorCode": "#ffdd44",
+    "id": 3,
+    "name": "天马咲希主题色",
+    "seq": 10,
+    "unit": "light_sound"
+  },
+  {
+    "characterId": 3,
+    "colorCode": "#ee6666",
+    "id": 4,
+    "name": "望月穗波主题色",
+    "seq": 11,
+    "unit": "light_sound"
+  },
+  {
+    "characterId": 4,
+    "colorCode": "#bbdd22",
+    "id": 5,
+    "name": "日野森志步主题色",
+    "seq": 12,
+    "unit": "light_sound"
+  },
+  {
+    "characterId": 5,
+    "colorCode": "#ffccaa",
+    "id": 6,
+    "name": "花里实乃理主题色",
+    "seq": 14,
+    "unit": "idol"
+  },
+  {
+    "characterId": 6,
+    "colorCode": "#99ccff",
+    "id": 7,
+    "name": "桐谷遥主题色",
+    "seq": 15,
+    "unit": "idol"
+  },
+  {
+    "characterId": 7,
+    "colorCode": "#ffaacc",
+    "id": 8,
+    "name": "桃井爱莉主题色",
+    "seq": 16,
+    "unit": "idol"
+  },
+  {
+    "characterId": 8,
+    "colorCode": "#99eedd",
+    "id": 9,
+    "name": "日野森雫主题色",
+    "seq": 17,
+    "unit": "idol"
+  },
+  {
+    "characterId": 9,
+    "colorCode": "#ff6699",
+    "id": 10,
+    "name": "小豆泽心羽主题色",
+    "seq": 19,
+    "unit": "street"
+  },
+  {
+    "characterId": 10,
+    "colorCode": "#00bbdd",
+    "id": 11,
+    "name": "白石杏主题色",
+    "seq": 20,
+    "unit": "street"
+  },
+  {
+    "characterId": 11,
+    "colorCode": "#ff7722",
+    "id": 12,
+    "name": "东云彰人主题色",
+    "seq": 21,
+    "unit": "street"
+  },
+  {
+    "characterId": 12,
+    "colorCode": "#0077dd",
+    "id": 13,
+    "name": "青柳冬弥主题色",
+    "seq": 22,
+    "unit": "street"
+  },
+  {
+    "characterId": 13,
+    "colorCode": "#ffbb00",
+    "id": 14,
+    "name": "天马司主题色",
+    "seq": 24,
+    "unit": "theme_park"
+  },
+  {
+    "characterId": 14,
+    "colorCode": "#ff66bb",
+    "id": 15,
+    "name": "凤笑梦主题色",
+    "seq": 25,
+    "unit": "theme_park"
+  },
+  {
+    "characterId": 15,
+    "colorCode": "#33dd99",
+    "id": 16,
+    "name": "草薙宁宁主题色",
+    "seq": 26,
+    "unit": "theme_park"
+  },
+  {
+    "characterId": 16,
+    "colorCode": "#bb88ee",
+    "id": 17,
+    "name": "神代类主题色",
+    "seq": 27,
+    "unit": "theme_park"
+  },
+  {
+    "characterId": 17,
+    "colorCode": "#bb6688",
+    "id": 18,
+    "name": "宵崎奏主题色",
+    "seq": 29,
+    "unit": "school_refusal"
+  },
+  {
+    "characterId": 18,
+    "colorCode": "#8888cc",
+    "id": 19,
+    "name": "朝比奈真冬主题色",
+    "seq": 30,
+    "unit": "school_refusal"
+  },
+  {
+    "characterId": 19,
+    "colorCode": "#ccaa88",
+    "id": 20,
+    "name": "东云绘名主题色",
+    "seq": 31,
+    "unit": "school_refusal"
+  },
+  {
+    "characterId": 20,
+    "colorCode": "#ddaacc",
+    "id": 21,
+    "name": "晓山瑞希主题色",
+    "seq": 32,
+    "unit": "school_refusal"
+  },
+  {
+    "characterId": 21,
+    "colorCode": "#33ccbb",
+    "id": 22,
+    "name": "初音未来主题色",
+    "seq": 2,
+    "unit": "piapro"
+  },
+  {
+    "characterId": 22,
+    "colorCode": "#ffcc11",
+    "id": 23,
+    "name": "镜音铃主题色",
+    "seq": 3,
+    "unit": "piapro"
+  },
+  {
+    "characterId": 23,
+    "colorCode": "#ffee11",
+    "id": 24,
+    "name": "镜音连主题色",
+    "seq": 4,
+    "unit": "piapro"
+  },
+  {
+    "characterId": 24,
+    "colorCode": "#ffbbcc",
+    "id": 25,
+    "name": "巡音流歌主题色",
+    "seq": 5,
+    "unit": "piapro"
+  },
+  {
+    "characterId": 25,
+    "colorCode": "#dd4444",
+    "id": 26,
+    "name": "MEIKO主题色",
+    "seq": 6,
+    "unit": "piapro"
+  },
+  {
+    "characterId": 26,
+    "colorCode": "#3366cc",
+    "id": 27,
+    "name": "KAITO主题色",
+    "seq": 7,
+    "unit": "piapro"
+  },
+  {
+    "colorCode": "#4455dd",
+    "id": 28,
+    "name": "Leo/need主题色",
+    "seq": 8,
+    "unit": "light_sound"
+  },
+  {
+    "colorCode": "#88dd44",
+    "id": 29,
+    "name": "MORE MORE JUMP！主题色",
+    "seq": 13,
+    "unit": "idol"
+  },
+  {
+    "colorCode": "#ee1166",
+    "id": 30,
+    "name": "Vivid BAD SQUAD主题色",
+    "seq": 18,
+    "unit": "street"
+  },
+  {
+    "colorCode": "#ff9900",
+    "id": 31,
+    "name": "Wonderlands×Showtime主题色",
+    "seq": 23,
+    "unit": "theme_park"
+  },
+  {
+    "colorCode": "#884499",
+    "id": 32,
+    "name": "25点，Nightcord见。主题色",
+    "seq": 28,
+    "unit": "school_refusal"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "resourceQuantity": 50,
+    "resourceType": "paid_jewel"
+  },
+  {
+    "id": 2,
+    "resourceQuantity": 100,
+    "resourceType": "paid_jewel"
+  }
+]

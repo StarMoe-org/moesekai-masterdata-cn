@@ -1,0 +1,8000 @@
+[
+  {
+    "gameCharacterUnitId": 5,
+    "id": 1,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 1,
+    "mysekaiFixtureId": 269
+  },
+  {
+    "gameCharacterUnitId": 6,
+    "id": 2,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 2,
+    "mysekaiFixtureId": 269
+  },
+  {
+    "gameCharacterUnitId": 1,
+    "id": 3,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 143
+  },
+  {
+    "gameCharacterUnitId": 2,
+    "id": 4,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 143
+  },
+  {
+    "gameCharacterUnitId": 3,
+    "id": 5,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 143
+  },
+  {
+    "gameCharacterUnitId": 4,
+    "id": 6,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 143
+  },
+  {
+    "gameCharacterUnitId": 5,
+    "id": 7,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 143
+  },
+  {
+    "gameCharacterUnitId": 6,
+    "id": 8,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 143
+  },
+  {
+    "gameCharacterUnitId": 7,
+    "id": 9,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 143
+  },
+  {
+    "gameCharacterUnitId": 8,
+    "id": 10,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 143
+  },
+  {
+    "gameCharacterUnitId": 9,
+    "id": 11,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 143
+  },
+  {
+    "gameCharacterUnitId": 10,
+    "id": 12,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 143
+  },
+  {
+    "gameCharacterUnitId": 11,
+    "id": 13,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 5,
+    "mysekaiFixtureId": 143
+  },
+  {
+    "gameCharacterUnitId": 12,
+    "id": 14,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 5,
+    "mysekaiFixtureId": 143
+  },
+  {
+    "gameCharacterUnitId": 13,
+    "id": 15,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 5,
+    "mysekaiFixtureId": 143
+  },
+  {
+    "gameCharacterUnitId": 14,
+    "id": 16,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 143
+  },
+  {
+    "gameCharacterUnitId": 15,
+    "id": 17,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 143
+  },
+  {
+    "gameCharacterUnitId": 16,
+    "id": 18,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 5,
+    "mysekaiFixtureId": 143
+  },
+  {
+    "gameCharacterUnitId": 17,
+    "id": 19,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 143
+  },
+  {
+    "gameCharacterUnitId": 18,
+    "id": 20,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 12,
+    "mysekaiFixtureId": 143
+  },
+  {
+    "gameCharacterUnitId": 19,
+    "id": 21,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 143
+  },
+  {
+    "gameCharacterUnitId": 20,
+    "id": 22,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 143
+  },
+  {
+    "gameCharacterUnitId": 27,
+    "id": 23,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 143
+  },
+  {
+    "gameCharacterUnitId": 28,
+    "id": 24,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 143
+  },
+  {
+    "gameCharacterUnitId": 29,
+    "id": 25,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 143
+  },
+  {
+    "gameCharacterUnitId": 30,
+    "id": 26,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 143
+  },
+  {
+    "gameCharacterUnitId": 31,
+    "id": 27,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 143
+  },
+  {
+    "gameCharacterUnitId": 33,
+    "id": 28,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 143
+  },
+  {
+    "gameCharacterUnitId": 39,
+    "id": 29,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 5,
+    "mysekaiFixtureId": 143
+  },
+  {
+    "gameCharacterUnitId": 42,
+    "id": 30,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 143
+  },
+  {
+    "gameCharacterUnitId": 49,
+    "id": 31,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 143
+  },
+  {
+    "gameCharacterUnitId": 55,
+    "id": 32,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 5,
+    "mysekaiFixtureId": 143
+  },
+  {
+    "gameCharacterUnitId": 39,
+    "id": 33,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 20,
+    "mysekaiFixtureId": 163
+  },
+  {
+    "gameCharacterUnitId": 1,
+    "id": 34,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 8
+  },
+  {
+    "gameCharacterUnitId": 2,
+    "id": 35,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 8
+  },
+  {
+    "gameCharacterUnitId": 3,
+    "id": 36,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 8
+  },
+  {
+    "gameCharacterUnitId": 4,
+    "id": 37,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 8
+  },
+  {
+    "gameCharacterUnitId": 5,
+    "id": 38,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 8
+  },
+  {
+    "gameCharacterUnitId": 6,
+    "id": 39,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 8
+  },
+  {
+    "gameCharacterUnitId": 7,
+    "id": 40,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 8
+  },
+  {
+    "gameCharacterUnitId": 8,
+    "id": 41,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 8
+  },
+  {
+    "gameCharacterUnitId": 9,
+    "id": 42,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 8
+  },
+  {
+    "gameCharacterUnitId": 10,
+    "id": 43,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 8
+  },
+  {
+    "gameCharacterUnitId": 11,
+    "id": 44,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 5,
+    "mysekaiFixtureId": 8
+  },
+  {
+    "gameCharacterUnitId": 12,
+    "id": 45,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 5,
+    "mysekaiFixtureId": 8
+  },
+  {
+    "gameCharacterUnitId": 13,
+    "id": 46,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 5,
+    "mysekaiFixtureId": 8
+  },
+  {
+    "gameCharacterUnitId": 14,
+    "id": 47,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 8
+  },
+  {
+    "gameCharacterUnitId": 15,
+    "id": 48,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 8
+  },
+  {
+    "gameCharacterUnitId": 16,
+    "id": 49,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 5,
+    "mysekaiFixtureId": 8
+  },
+  {
+    "gameCharacterUnitId": 17,
+    "id": 50,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 8
+  },
+  {
+    "gameCharacterUnitId": 18,
+    "id": 51,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 12,
+    "mysekaiFixtureId": 8
+  },
+  {
+    "gameCharacterUnitId": 19,
+    "id": 52,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 8
+  },
+  {
+    "gameCharacterUnitId": 20,
+    "id": 53,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 8
+  },
+  {
+    "gameCharacterUnitId": 27,
+    "id": 54,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 8
+  },
+  {
+    "gameCharacterUnitId": 28,
+    "id": 55,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 8
+  },
+  {
+    "gameCharacterUnitId": 29,
+    "id": 56,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 8
+  },
+  {
+    "gameCharacterUnitId": 30,
+    "id": 57,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 8
+  },
+  {
+    "gameCharacterUnitId": 31,
+    "id": 58,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 8
+  },
+  {
+    "gameCharacterUnitId": 33,
+    "id": 59,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 8
+  },
+  {
+    "gameCharacterUnitId": 39,
+    "id": 60,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 5,
+    "mysekaiFixtureId": 8
+  },
+  {
+    "gameCharacterUnitId": 42,
+    "id": 61,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 8
+  },
+  {
+    "gameCharacterUnitId": 49,
+    "id": 62,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 8
+  },
+  {
+    "gameCharacterUnitId": 55,
+    "id": 63,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 5,
+    "mysekaiFixtureId": 8
+  },
+  {
+    "gameCharacterUnitId": 1,
+    "id": 64,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 10
+  },
+  {
+    "gameCharacterUnitId": 2,
+    "id": 65,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 10
+  },
+  {
+    "gameCharacterUnitId": 3,
+    "id": 66,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 10
+  },
+  {
+    "gameCharacterUnitId": 4,
+    "id": 67,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 10
+  },
+  {
+    "gameCharacterUnitId": 5,
+    "id": 68,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 10
+  },
+  {
+    "gameCharacterUnitId": 6,
+    "id": 69,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 10
+  },
+  {
+    "gameCharacterUnitId": 7,
+    "id": 70,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 10
+  },
+  {
+    "gameCharacterUnitId": 8,
+    "id": 71,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 10
+  },
+  {
+    "gameCharacterUnitId": 9,
+    "id": 72,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 10
+  },
+  {
+    "gameCharacterUnitId": 10,
+    "id": 73,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 10
+  },
+  {
+    "gameCharacterUnitId": 11,
+    "id": 74,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 7,
+    "mysekaiFixtureId": 10
+  },
+  {
+    "gameCharacterUnitId": 12,
+    "id": 75,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 7,
+    "mysekaiFixtureId": 10
+  },
+  {
+    "gameCharacterUnitId": 13,
+    "id": 76,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 7,
+    "mysekaiFixtureId": 10
+  },
+  {
+    "gameCharacterUnitId": 14,
+    "id": 77,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 10
+  },
+  {
+    "gameCharacterUnitId": 15,
+    "id": 78,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 10
+  },
+  {
+    "gameCharacterUnitId": 16,
+    "id": 79,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 7,
+    "mysekaiFixtureId": 10
+  },
+  {
+    "gameCharacterUnitId": 17,
+    "id": 80,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 10
+  },
+  {
+    "gameCharacterUnitId": 18,
+    "id": 81,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 13,
+    "mysekaiFixtureId": 10
+  },
+  {
+    "gameCharacterUnitId": 19,
+    "id": 82,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 10
+  },
+  {
+    "gameCharacterUnitId": 20,
+    "id": 83,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 10
+  },
+  {
+    "gameCharacterUnitId": 27,
+    "id": 84,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 10
+  },
+  {
+    "gameCharacterUnitId": 28,
+    "id": 85,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 10
+  },
+  {
+    "gameCharacterUnitId": 29,
+    "id": 86,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 10
+  },
+  {
+    "gameCharacterUnitId": 30,
+    "id": 87,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 10
+  },
+  {
+    "gameCharacterUnitId": 31,
+    "id": 88,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 10
+  },
+  {
+    "gameCharacterUnitId": 33,
+    "id": 89,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 10
+  },
+  {
+    "gameCharacterUnitId": 39,
+    "id": 90,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 7,
+    "mysekaiFixtureId": 10
+  },
+  {
+    "gameCharacterUnitId": 42,
+    "id": 91,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 10
+  },
+  {
+    "gameCharacterUnitId": 49,
+    "id": 92,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 10
+  },
+  {
+    "gameCharacterUnitId": 55,
+    "id": 93,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 7,
+    "mysekaiFixtureId": 10
+  },
+  {
+    "gameCharacterUnitId": 1,
+    "id": 94,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 23
+  },
+  {
+    "gameCharacterUnitId": 2,
+    "id": 95,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 23
+  },
+  {
+    "gameCharacterUnitId": 3,
+    "id": 96,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 23
+  },
+  {
+    "gameCharacterUnitId": 4,
+    "id": 97,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 23
+  },
+  {
+    "gameCharacterUnitId": 5,
+    "id": 98,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 23
+  },
+  {
+    "gameCharacterUnitId": 6,
+    "id": 99,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 23
+  },
+  {
+    "gameCharacterUnitId": 7,
+    "id": 100,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 23
+  },
+  {
+    "gameCharacterUnitId": 8,
+    "id": 101,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 23
+  },
+  {
+    "gameCharacterUnitId": 9,
+    "id": 102,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 23
+  },
+  {
+    "gameCharacterUnitId": 10,
+    "id": 103,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 23
+  },
+  {
+    "gameCharacterUnitId": 11,
+    "id": 104,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 5,
+    "mysekaiFixtureId": 23
+  },
+  {
+    "gameCharacterUnitId": 12,
+    "id": 105,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 5,
+    "mysekaiFixtureId": 23
+  },
+  {
+    "gameCharacterUnitId": 13,
+    "id": 106,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 5,
+    "mysekaiFixtureId": 23
+  },
+  {
+    "gameCharacterUnitId": 14,
+    "id": 107,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 23
+  },
+  {
+    "gameCharacterUnitId": 15,
+    "id": 108,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 23
+  },
+  {
+    "gameCharacterUnitId": 16,
+    "id": 109,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 5,
+    "mysekaiFixtureId": 23
+  },
+  {
+    "gameCharacterUnitId": 17,
+    "id": 110,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 23
+  },
+  {
+    "gameCharacterUnitId": 18,
+    "id": 111,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 12,
+    "mysekaiFixtureId": 23
+  },
+  {
+    "gameCharacterUnitId": 19,
+    "id": 112,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 23
+  },
+  {
+    "gameCharacterUnitId": 20,
+    "id": 113,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 23
+  },
+  {
+    "gameCharacterUnitId": 27,
+    "id": 114,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 23
+  },
+  {
+    "gameCharacterUnitId": 28,
+    "id": 115,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 23
+  },
+  {
+    "gameCharacterUnitId": 29,
+    "id": 116,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 23
+  },
+  {
+    "gameCharacterUnitId": 30,
+    "id": 117,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 23
+  },
+  {
+    "gameCharacterUnitId": 31,
+    "id": 118,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 23
+  },
+  {
+    "gameCharacterUnitId": 33,
+    "id": 119,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 23
+  },
+  {
+    "gameCharacterUnitId": 39,
+    "id": 120,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 5,
+    "mysekaiFixtureId": 23
+  },
+  {
+    "gameCharacterUnitId": 42,
+    "id": 121,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 23
+  },
+  {
+    "gameCharacterUnitId": 49,
+    "id": 122,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 23
+  },
+  {
+    "gameCharacterUnitId": 55,
+    "id": 123,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 5,
+    "mysekaiFixtureId": 23
+  },
+  {
+    "gameCharacterUnitId": 1,
+    "id": 124,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 25
+  },
+  {
+    "gameCharacterUnitId": 2,
+    "id": 125,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 25
+  },
+  {
+    "gameCharacterUnitId": 3,
+    "id": 126,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 25
+  },
+  {
+    "gameCharacterUnitId": 4,
+    "id": 127,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 25
+  },
+  {
+    "gameCharacterUnitId": 5,
+    "id": 128,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 25
+  },
+  {
+    "gameCharacterUnitId": 6,
+    "id": 129,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 25
+  },
+  {
+    "gameCharacterUnitId": 7,
+    "id": 130,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 25
+  },
+  {
+    "gameCharacterUnitId": 8,
+    "id": 131,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 25
+  },
+  {
+    "gameCharacterUnitId": 9,
+    "id": 132,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 25
+  },
+  {
+    "gameCharacterUnitId": 10,
+    "id": 133,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 25
+  },
+  {
+    "gameCharacterUnitId": 11,
+    "id": 134,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 7,
+    "mysekaiFixtureId": 25
+  },
+  {
+    "gameCharacterUnitId": 12,
+    "id": 135,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 7,
+    "mysekaiFixtureId": 25
+  },
+  {
+    "gameCharacterUnitId": 13,
+    "id": 136,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 7,
+    "mysekaiFixtureId": 25
+  },
+  {
+    "gameCharacterUnitId": 14,
+    "id": 137,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 25
+  },
+  {
+    "gameCharacterUnitId": 15,
+    "id": 138,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 25
+  },
+  {
+    "gameCharacterUnitId": 16,
+    "id": 139,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 7,
+    "mysekaiFixtureId": 25
+  },
+  {
+    "gameCharacterUnitId": 17,
+    "id": 140,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 25
+  },
+  {
+    "gameCharacterUnitId": 18,
+    "id": 141,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 13,
+    "mysekaiFixtureId": 25
+  },
+  {
+    "gameCharacterUnitId": 19,
+    "id": 142,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 25
+  },
+  {
+    "gameCharacterUnitId": 20,
+    "id": 143,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 25
+  },
+  {
+    "gameCharacterUnitId": 27,
+    "id": 144,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 25
+  },
+  {
+    "gameCharacterUnitId": 28,
+    "id": 145,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 25
+  },
+  {
+    "gameCharacterUnitId": 29,
+    "id": 146,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 25
+  },
+  {
+    "gameCharacterUnitId": 30,
+    "id": 147,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 25
+  },
+  {
+    "gameCharacterUnitId": 31,
+    "id": 148,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 25
+  },
+  {
+    "gameCharacterUnitId": 33,
+    "id": 149,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 25
+  },
+  {
+    "gameCharacterUnitId": 39,
+    "id": 150,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 7,
+    "mysekaiFixtureId": 25
+  },
+  {
+    "gameCharacterUnitId": 42,
+    "id": 151,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 25
+  },
+  {
+    "gameCharacterUnitId": 49,
+    "id": 152,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 25
+  },
+  {
+    "gameCharacterUnitId": 55,
+    "id": 153,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 7,
+    "mysekaiFixtureId": 25
+  },
+  {
+    "gameCharacterUnitId": 1,
+    "id": 154,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 38
+  },
+  {
+    "gameCharacterUnitId": 2,
+    "id": 155,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 38
+  },
+  {
+    "gameCharacterUnitId": 3,
+    "id": 156,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 38
+  },
+  {
+    "gameCharacterUnitId": 4,
+    "id": 157,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 38
+  },
+  {
+    "gameCharacterUnitId": 5,
+    "id": 158,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 38
+  },
+  {
+    "gameCharacterUnitId": 6,
+    "id": 159,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 38
+  },
+  {
+    "gameCharacterUnitId": 7,
+    "id": 160,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 38
+  },
+  {
+    "gameCharacterUnitId": 8,
+    "id": 161,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 38
+  },
+  {
+    "gameCharacterUnitId": 9,
+    "id": 162,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 38
+  },
+  {
+    "gameCharacterUnitId": 10,
+    "id": 163,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 38
+  },
+  {
+    "gameCharacterUnitId": 11,
+    "id": 164,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 5,
+    "mysekaiFixtureId": 38
+  },
+  {
+    "gameCharacterUnitId": 12,
+    "id": 165,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 5,
+    "mysekaiFixtureId": 38
+  },
+  {
+    "gameCharacterUnitId": 13,
+    "id": 166,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 5,
+    "mysekaiFixtureId": 38
+  },
+  {
+    "gameCharacterUnitId": 14,
+    "id": 167,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 38
+  },
+  {
+    "gameCharacterUnitId": 15,
+    "id": 168,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 38
+  },
+  {
+    "gameCharacterUnitId": 16,
+    "id": 169,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 5,
+    "mysekaiFixtureId": 38
+  },
+  {
+    "gameCharacterUnitId": 17,
+    "id": 170,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 38
+  },
+  {
+    "gameCharacterUnitId": 18,
+    "id": 171,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 12,
+    "mysekaiFixtureId": 38
+  },
+  {
+    "gameCharacterUnitId": 19,
+    "id": 172,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 38
+  },
+  {
+    "gameCharacterUnitId": 20,
+    "id": 173,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 38
+  },
+  {
+    "gameCharacterUnitId": 27,
+    "id": 174,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 38
+  },
+  {
+    "gameCharacterUnitId": 28,
+    "id": 175,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 38
+  },
+  {
+    "gameCharacterUnitId": 29,
+    "id": 176,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 38
+  },
+  {
+    "gameCharacterUnitId": 30,
+    "id": 177,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 38
+  },
+  {
+    "gameCharacterUnitId": 31,
+    "id": 178,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 38
+  },
+  {
+    "gameCharacterUnitId": 33,
+    "id": 179,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 38
+  },
+  {
+    "gameCharacterUnitId": 39,
+    "id": 180,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 5,
+    "mysekaiFixtureId": 38
+  },
+  {
+    "gameCharacterUnitId": 42,
+    "id": 181,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 38
+  },
+  {
+    "gameCharacterUnitId": 49,
+    "id": 182,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 38
+  },
+  {
+    "gameCharacterUnitId": 55,
+    "id": 183,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 5,
+    "mysekaiFixtureId": 38
+  },
+  {
+    "gameCharacterUnitId": 1,
+    "id": 184,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 40
+  },
+  {
+    "gameCharacterUnitId": 2,
+    "id": 185,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 40
+  },
+  {
+    "gameCharacterUnitId": 3,
+    "id": 186,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 40
+  },
+  {
+    "gameCharacterUnitId": 4,
+    "id": 187,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 40
+  },
+  {
+    "gameCharacterUnitId": 5,
+    "id": 188,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 40
+  },
+  {
+    "gameCharacterUnitId": 6,
+    "id": 189,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 40
+  },
+  {
+    "gameCharacterUnitId": 7,
+    "id": 190,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 40
+  },
+  {
+    "gameCharacterUnitId": 8,
+    "id": 191,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 40
+  },
+  {
+    "gameCharacterUnitId": 9,
+    "id": 192,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 40
+  },
+  {
+    "gameCharacterUnitId": 10,
+    "id": 193,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 40
+  },
+  {
+    "gameCharacterUnitId": 11,
+    "id": 194,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 7,
+    "mysekaiFixtureId": 40
+  },
+  {
+    "gameCharacterUnitId": 12,
+    "id": 195,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 7,
+    "mysekaiFixtureId": 40
+  },
+  {
+    "gameCharacterUnitId": 13,
+    "id": 196,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 7,
+    "mysekaiFixtureId": 40
+  },
+  {
+    "gameCharacterUnitId": 14,
+    "id": 197,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 40
+  },
+  {
+    "gameCharacterUnitId": 15,
+    "id": 198,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 40
+  },
+  {
+    "gameCharacterUnitId": 16,
+    "id": 199,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 7,
+    "mysekaiFixtureId": 40
+  },
+  {
+    "gameCharacterUnitId": 17,
+    "id": 200,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 40
+  },
+  {
+    "gameCharacterUnitId": 18,
+    "id": 201,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 13,
+    "mysekaiFixtureId": 40
+  },
+  {
+    "gameCharacterUnitId": 19,
+    "id": 202,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 40
+  },
+  {
+    "gameCharacterUnitId": 20,
+    "id": 203,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 40
+  },
+  {
+    "gameCharacterUnitId": 27,
+    "id": 204,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 40
+  },
+  {
+    "gameCharacterUnitId": 28,
+    "id": 205,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 40
+  },
+  {
+    "gameCharacterUnitId": 29,
+    "id": 206,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 40
+  },
+  {
+    "gameCharacterUnitId": 30,
+    "id": 207,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 40
+  },
+  {
+    "gameCharacterUnitId": 31,
+    "id": 208,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 40
+  },
+  {
+    "gameCharacterUnitId": 33,
+    "id": 209,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 40
+  },
+  {
+    "gameCharacterUnitId": 39,
+    "id": 210,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 7,
+    "mysekaiFixtureId": 40
+  },
+  {
+    "gameCharacterUnitId": 42,
+    "id": 211,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 40
+  },
+  {
+    "gameCharacterUnitId": 49,
+    "id": 212,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 40
+  },
+  {
+    "gameCharacterUnitId": 55,
+    "id": 213,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 7,
+    "mysekaiFixtureId": 40
+  },
+  {
+    "gameCharacterUnitId": 1,
+    "id": 214,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 53
+  },
+  {
+    "gameCharacterUnitId": 2,
+    "id": 215,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 53
+  },
+  {
+    "gameCharacterUnitId": 3,
+    "id": 216,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 53
+  },
+  {
+    "gameCharacterUnitId": 4,
+    "id": 217,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 53
+  },
+  {
+    "gameCharacterUnitId": 5,
+    "id": 218,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 53
+  },
+  {
+    "gameCharacterUnitId": 6,
+    "id": 219,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 53
+  },
+  {
+    "gameCharacterUnitId": 7,
+    "id": 220,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 53
+  },
+  {
+    "gameCharacterUnitId": 8,
+    "id": 221,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 53
+  },
+  {
+    "gameCharacterUnitId": 9,
+    "id": 222,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 53
+  },
+  {
+    "gameCharacterUnitId": 10,
+    "id": 223,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 53
+  },
+  {
+    "gameCharacterUnitId": 11,
+    "id": 224,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 5,
+    "mysekaiFixtureId": 53
+  },
+  {
+    "gameCharacterUnitId": 12,
+    "id": 225,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 5,
+    "mysekaiFixtureId": 53
+  },
+  {
+    "gameCharacterUnitId": 13,
+    "id": 226,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 5,
+    "mysekaiFixtureId": 53
+  },
+  {
+    "gameCharacterUnitId": 14,
+    "id": 227,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 53
+  },
+  {
+    "gameCharacterUnitId": 15,
+    "id": 228,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 53
+  },
+  {
+    "gameCharacterUnitId": 16,
+    "id": 229,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 5,
+    "mysekaiFixtureId": 53
+  },
+  {
+    "gameCharacterUnitId": 17,
+    "id": 230,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 53
+  },
+  {
+    "gameCharacterUnitId": 18,
+    "id": 231,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 12,
+    "mysekaiFixtureId": 53
+  },
+  {
+    "gameCharacterUnitId": 19,
+    "id": 232,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 53
+  },
+  {
+    "gameCharacterUnitId": 20,
+    "id": 233,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 53
+  },
+  {
+    "gameCharacterUnitId": 27,
+    "id": 234,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 53
+  },
+  {
+    "gameCharacterUnitId": 28,
+    "id": 235,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 53
+  },
+  {
+    "gameCharacterUnitId": 29,
+    "id": 236,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 53
+  },
+  {
+    "gameCharacterUnitId": 30,
+    "id": 237,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 53
+  },
+  {
+    "gameCharacterUnitId": 31,
+    "id": 238,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 53
+  },
+  {
+    "gameCharacterUnitId": 33,
+    "id": 239,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 53
+  },
+  {
+    "gameCharacterUnitId": 39,
+    "id": 240,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 5,
+    "mysekaiFixtureId": 53
+  },
+  {
+    "gameCharacterUnitId": 42,
+    "id": 241,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 53
+  },
+  {
+    "gameCharacterUnitId": 49,
+    "id": 242,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 53
+  },
+  {
+    "gameCharacterUnitId": 55,
+    "id": 243,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 5,
+    "mysekaiFixtureId": 53
+  },
+  {
+    "gameCharacterUnitId": 1,
+    "id": 244,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 55
+  },
+  {
+    "gameCharacterUnitId": 2,
+    "id": 245,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 55
+  },
+  {
+    "gameCharacterUnitId": 3,
+    "id": 246,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 55
+  },
+  {
+    "gameCharacterUnitId": 4,
+    "id": 247,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 55
+  },
+  {
+    "gameCharacterUnitId": 5,
+    "id": 248,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 55
+  },
+  {
+    "gameCharacterUnitId": 6,
+    "id": 249,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 55
+  },
+  {
+    "gameCharacterUnitId": 7,
+    "id": 250,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 55
+  },
+  {
+    "gameCharacterUnitId": 8,
+    "id": 251,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 55
+  },
+  {
+    "gameCharacterUnitId": 9,
+    "id": 252,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 55
+  },
+  {
+    "gameCharacterUnitId": 10,
+    "id": 253,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 55
+  },
+  {
+    "gameCharacterUnitId": 11,
+    "id": 254,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 7,
+    "mysekaiFixtureId": 55
+  },
+  {
+    "gameCharacterUnitId": 12,
+    "id": 255,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 7,
+    "mysekaiFixtureId": 55
+  },
+  {
+    "gameCharacterUnitId": 13,
+    "id": 256,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 7,
+    "mysekaiFixtureId": 55
+  },
+  {
+    "gameCharacterUnitId": 14,
+    "id": 257,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 55
+  },
+  {
+    "gameCharacterUnitId": 15,
+    "id": 258,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 55
+  },
+  {
+    "gameCharacterUnitId": 16,
+    "id": 259,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 7,
+    "mysekaiFixtureId": 55
+  },
+  {
+    "gameCharacterUnitId": 17,
+    "id": 260,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 55
+  },
+  {
+    "gameCharacterUnitId": 18,
+    "id": 261,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 13,
+    "mysekaiFixtureId": 55
+  },
+  {
+    "gameCharacterUnitId": 19,
+    "id": 262,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 55
+  },
+  {
+    "gameCharacterUnitId": 20,
+    "id": 263,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 55
+  },
+  {
+    "gameCharacterUnitId": 27,
+    "id": 264,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 55
+  },
+  {
+    "gameCharacterUnitId": 28,
+    "id": 265,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 55
+  },
+  {
+    "gameCharacterUnitId": 29,
+    "id": 266,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 55
+  },
+  {
+    "gameCharacterUnitId": 30,
+    "id": 267,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 55
+  },
+  {
+    "gameCharacterUnitId": 31,
+    "id": 268,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 55
+  },
+  {
+    "gameCharacterUnitId": 33,
+    "id": 269,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 55
+  },
+  {
+    "gameCharacterUnitId": 39,
+    "id": 270,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 7,
+    "mysekaiFixtureId": 55
+  },
+  {
+    "gameCharacterUnitId": 42,
+    "id": 271,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 55
+  },
+  {
+    "gameCharacterUnitId": 49,
+    "id": 272,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 55
+  },
+  {
+    "gameCharacterUnitId": 55,
+    "id": 273,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 7,
+    "mysekaiFixtureId": 55
+  },
+  {
+    "gameCharacterUnitId": 1,
+    "id": 274,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 68
+  },
+  {
+    "gameCharacterUnitId": 2,
+    "id": 275,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 68
+  },
+  {
+    "gameCharacterUnitId": 3,
+    "id": 276,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 68
+  },
+  {
+    "gameCharacterUnitId": 4,
+    "id": 277,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 68
+  },
+  {
+    "gameCharacterUnitId": 5,
+    "id": 278,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 68
+  },
+  {
+    "gameCharacterUnitId": 6,
+    "id": 279,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 68
+  },
+  {
+    "gameCharacterUnitId": 7,
+    "id": 280,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 68
+  },
+  {
+    "gameCharacterUnitId": 8,
+    "id": 281,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 68
+  },
+  {
+    "gameCharacterUnitId": 9,
+    "id": 282,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 68
+  },
+  {
+    "gameCharacterUnitId": 10,
+    "id": 283,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 68
+  },
+  {
+    "gameCharacterUnitId": 11,
+    "id": 284,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 5,
+    "mysekaiFixtureId": 68
+  },
+  {
+    "gameCharacterUnitId": 12,
+    "id": 285,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 5,
+    "mysekaiFixtureId": 68
+  },
+  {
+    "gameCharacterUnitId": 13,
+    "id": 286,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 5,
+    "mysekaiFixtureId": 68
+  },
+  {
+    "gameCharacterUnitId": 14,
+    "id": 287,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 68
+  },
+  {
+    "gameCharacterUnitId": 15,
+    "id": 288,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 68
+  },
+  {
+    "gameCharacterUnitId": 16,
+    "id": 289,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 5,
+    "mysekaiFixtureId": 68
+  },
+  {
+    "gameCharacterUnitId": 17,
+    "id": 290,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 68
+  },
+  {
+    "gameCharacterUnitId": 18,
+    "id": 291,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 12,
+    "mysekaiFixtureId": 68
+  },
+  {
+    "gameCharacterUnitId": 19,
+    "id": 292,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 68
+  },
+  {
+    "gameCharacterUnitId": 20,
+    "id": 293,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 68
+  },
+  {
+    "gameCharacterUnitId": 27,
+    "id": 294,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 68
+  },
+  {
+    "gameCharacterUnitId": 28,
+    "id": 295,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 68
+  },
+  {
+    "gameCharacterUnitId": 29,
+    "id": 296,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 68
+  },
+  {
+    "gameCharacterUnitId": 30,
+    "id": 297,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 68
+  },
+  {
+    "gameCharacterUnitId": 31,
+    "id": 298,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 68
+  },
+  {
+    "gameCharacterUnitId": 33,
+    "id": 299,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 68
+  },
+  {
+    "gameCharacterUnitId": 39,
+    "id": 300,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 5,
+    "mysekaiFixtureId": 68
+  },
+  {
+    "gameCharacterUnitId": 42,
+    "id": 301,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 68
+  },
+  {
+    "gameCharacterUnitId": 49,
+    "id": 302,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 68
+  },
+  {
+    "gameCharacterUnitId": 55,
+    "id": 303,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 5,
+    "mysekaiFixtureId": 68
+  },
+  {
+    "gameCharacterUnitId": 1,
+    "id": 304,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 70
+  },
+  {
+    "gameCharacterUnitId": 2,
+    "id": 305,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 70
+  },
+  {
+    "gameCharacterUnitId": 3,
+    "id": 306,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 70
+  },
+  {
+    "gameCharacterUnitId": 4,
+    "id": 307,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 70
+  },
+  {
+    "gameCharacterUnitId": 5,
+    "id": 308,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 70
+  },
+  {
+    "gameCharacterUnitId": 6,
+    "id": 309,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 70
+  },
+  {
+    "gameCharacterUnitId": 7,
+    "id": 310,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 70
+  },
+  {
+    "gameCharacterUnitId": 8,
+    "id": 311,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 70
+  },
+  {
+    "gameCharacterUnitId": 9,
+    "id": 312,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 70
+  },
+  {
+    "gameCharacterUnitId": 10,
+    "id": 313,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 70
+  },
+  {
+    "gameCharacterUnitId": 11,
+    "id": 314,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 7,
+    "mysekaiFixtureId": 70
+  },
+  {
+    "gameCharacterUnitId": 12,
+    "id": 315,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 7,
+    "mysekaiFixtureId": 70
+  },
+  {
+    "gameCharacterUnitId": 13,
+    "id": 316,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 7,
+    "mysekaiFixtureId": 70
+  },
+  {
+    "gameCharacterUnitId": 14,
+    "id": 317,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 70
+  },
+  {
+    "gameCharacterUnitId": 15,
+    "id": 318,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 70
+  },
+  {
+    "gameCharacterUnitId": 16,
+    "id": 319,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 7,
+    "mysekaiFixtureId": 70
+  },
+  {
+    "gameCharacterUnitId": 17,
+    "id": 320,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 70
+  },
+  {
+    "gameCharacterUnitId": 18,
+    "id": 321,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 13,
+    "mysekaiFixtureId": 70
+  },
+  {
+    "gameCharacterUnitId": 19,
+    "id": 322,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 70
+  },
+  {
+    "gameCharacterUnitId": 20,
+    "id": 323,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 70
+  },
+  {
+    "gameCharacterUnitId": 27,
+    "id": 324,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 70
+  },
+  {
+    "gameCharacterUnitId": 28,
+    "id": 325,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 70
+  },
+  {
+    "gameCharacterUnitId": 29,
+    "id": 326,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 70
+  },
+  {
+    "gameCharacterUnitId": 30,
+    "id": 327,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 70
+  },
+  {
+    "gameCharacterUnitId": 31,
+    "id": 328,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 70
+  },
+  {
+    "gameCharacterUnitId": 33,
+    "id": 329,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 70
+  },
+  {
+    "gameCharacterUnitId": 39,
+    "id": 330,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 7,
+    "mysekaiFixtureId": 70
+  },
+  {
+    "gameCharacterUnitId": 42,
+    "id": 331,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 70
+  },
+  {
+    "gameCharacterUnitId": 49,
+    "id": 332,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 70
+  },
+  {
+    "gameCharacterUnitId": 55,
+    "id": 333,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 7,
+    "mysekaiFixtureId": 70
+  },
+  {
+    "gameCharacterUnitId": 1,
+    "id": 334,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 83
+  },
+  {
+    "gameCharacterUnitId": 2,
+    "id": 335,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 83
+  },
+  {
+    "gameCharacterUnitId": 3,
+    "id": 336,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 83
+  },
+  {
+    "gameCharacterUnitId": 4,
+    "id": 337,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 83
+  },
+  {
+    "gameCharacterUnitId": 5,
+    "id": 338,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 83
+  },
+  {
+    "gameCharacterUnitId": 6,
+    "id": 339,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 83
+  },
+  {
+    "gameCharacterUnitId": 7,
+    "id": 340,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 83
+  },
+  {
+    "gameCharacterUnitId": 8,
+    "id": 341,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 83
+  },
+  {
+    "gameCharacterUnitId": 9,
+    "id": 342,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 83
+  },
+  {
+    "gameCharacterUnitId": 10,
+    "id": 343,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 83
+  },
+  {
+    "gameCharacterUnitId": 11,
+    "id": 344,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 5,
+    "mysekaiFixtureId": 83
+  },
+  {
+    "gameCharacterUnitId": 12,
+    "id": 345,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 5,
+    "mysekaiFixtureId": 83
+  },
+  {
+    "gameCharacterUnitId": 13,
+    "id": 346,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 5,
+    "mysekaiFixtureId": 83
+  },
+  {
+    "gameCharacterUnitId": 14,
+    "id": 347,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 83
+  },
+  {
+    "gameCharacterUnitId": 15,
+    "id": 348,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 83
+  },
+  {
+    "gameCharacterUnitId": 16,
+    "id": 349,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 5,
+    "mysekaiFixtureId": 83
+  },
+  {
+    "gameCharacterUnitId": 17,
+    "id": 350,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 83
+  },
+  {
+    "gameCharacterUnitId": 18,
+    "id": 351,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 12,
+    "mysekaiFixtureId": 83
+  },
+  {
+    "gameCharacterUnitId": 19,
+    "id": 352,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 83
+  },
+  {
+    "gameCharacterUnitId": 20,
+    "id": 353,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 83
+  },
+  {
+    "gameCharacterUnitId": 27,
+    "id": 354,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 83
+  },
+  {
+    "gameCharacterUnitId": 28,
+    "id": 355,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 83
+  },
+  {
+    "gameCharacterUnitId": 29,
+    "id": 356,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 83
+  },
+  {
+    "gameCharacterUnitId": 30,
+    "id": 357,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 83
+  },
+  {
+    "gameCharacterUnitId": 31,
+    "id": 358,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 83
+  },
+  {
+    "gameCharacterUnitId": 33,
+    "id": 359,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 83
+  },
+  {
+    "gameCharacterUnitId": 39,
+    "id": 360,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 5,
+    "mysekaiFixtureId": 83
+  },
+  {
+    "gameCharacterUnitId": 42,
+    "id": 361,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 83
+  },
+  {
+    "gameCharacterUnitId": 49,
+    "id": 362,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 83
+  },
+  {
+    "gameCharacterUnitId": 55,
+    "id": 363,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 5,
+    "mysekaiFixtureId": 83
+  },
+  {
+    "gameCharacterUnitId": 1,
+    "id": 364,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 85
+  },
+  {
+    "gameCharacterUnitId": 2,
+    "id": 365,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 85
+  },
+  {
+    "gameCharacterUnitId": 3,
+    "id": 366,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 85
+  },
+  {
+    "gameCharacterUnitId": 4,
+    "id": 367,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 85
+  },
+  {
+    "gameCharacterUnitId": 5,
+    "id": 368,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 85
+  },
+  {
+    "gameCharacterUnitId": 6,
+    "id": 369,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 85
+  },
+  {
+    "gameCharacterUnitId": 7,
+    "id": 370,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 85
+  },
+  {
+    "gameCharacterUnitId": 8,
+    "id": 371,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 85
+  },
+  {
+    "gameCharacterUnitId": 9,
+    "id": 372,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 85
+  },
+  {
+    "gameCharacterUnitId": 10,
+    "id": 373,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 85
+  },
+  {
+    "gameCharacterUnitId": 11,
+    "id": 374,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 7,
+    "mysekaiFixtureId": 85
+  },
+  {
+    "gameCharacterUnitId": 12,
+    "id": 375,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 7,
+    "mysekaiFixtureId": 85
+  },
+  {
+    "gameCharacterUnitId": 13,
+    "id": 376,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 7,
+    "mysekaiFixtureId": 85
+  },
+  {
+    "gameCharacterUnitId": 14,
+    "id": 377,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 85
+  },
+  {
+    "gameCharacterUnitId": 15,
+    "id": 378,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 85
+  },
+  {
+    "gameCharacterUnitId": 16,
+    "id": 379,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 7,
+    "mysekaiFixtureId": 85
+  },
+  {
+    "gameCharacterUnitId": 17,
+    "id": 380,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 85
+  },
+  {
+    "gameCharacterUnitId": 18,
+    "id": 381,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 13,
+    "mysekaiFixtureId": 85
+  },
+  {
+    "gameCharacterUnitId": 19,
+    "id": 382,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 85
+  },
+  {
+    "gameCharacterUnitId": 20,
+    "id": 383,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 85
+  },
+  {
+    "gameCharacterUnitId": 27,
+    "id": 384,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 85
+  },
+  {
+    "gameCharacterUnitId": 28,
+    "id": 385,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 85
+  },
+  {
+    "gameCharacterUnitId": 29,
+    "id": 386,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 85
+  },
+  {
+    "gameCharacterUnitId": 30,
+    "id": 387,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 85
+  },
+  {
+    "gameCharacterUnitId": 31,
+    "id": 388,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 85
+  },
+  {
+    "gameCharacterUnitId": 33,
+    "id": 389,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 85
+  },
+  {
+    "gameCharacterUnitId": 39,
+    "id": 390,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 7,
+    "mysekaiFixtureId": 85
+  },
+  {
+    "gameCharacterUnitId": 42,
+    "id": 391,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 85
+  },
+  {
+    "gameCharacterUnitId": 49,
+    "id": 392,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 85
+  },
+  {
+    "gameCharacterUnitId": 55,
+    "id": 393,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 7,
+    "mysekaiFixtureId": 85
+  },
+  {
+    "gameCharacterUnitId": 1,
+    "id": 394,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 147
+  },
+  {
+    "gameCharacterUnitId": 2,
+    "id": 395,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 147
+  },
+  {
+    "gameCharacterUnitId": 3,
+    "id": 396,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 147
+  },
+  {
+    "gameCharacterUnitId": 4,
+    "id": 397,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 147
+  },
+  {
+    "gameCharacterUnitId": 5,
+    "id": 398,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 147
+  },
+  {
+    "gameCharacterUnitId": 6,
+    "id": 399,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 147
+  },
+  {
+    "gameCharacterUnitId": 7,
+    "id": 400,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 147
+  },
+  {
+    "gameCharacterUnitId": 8,
+    "id": 401,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 147
+  },
+  {
+    "gameCharacterUnitId": 9,
+    "id": 402,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 147
+  },
+  {
+    "gameCharacterUnitId": 10,
+    "id": 403,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 147
+  },
+  {
+    "gameCharacterUnitId": 11,
+    "id": 404,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 5,
+    "mysekaiFixtureId": 147
+  },
+  {
+    "gameCharacterUnitId": 12,
+    "id": 405,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 5,
+    "mysekaiFixtureId": 147
+  },
+  {
+    "gameCharacterUnitId": 13,
+    "id": 406,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 5,
+    "mysekaiFixtureId": 147
+  },
+  {
+    "gameCharacterUnitId": 14,
+    "id": 407,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 147
+  },
+  {
+    "gameCharacterUnitId": 15,
+    "id": 408,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 147
+  },
+  {
+    "gameCharacterUnitId": 16,
+    "id": 409,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 5,
+    "mysekaiFixtureId": 147
+  },
+  {
+    "gameCharacterUnitId": 17,
+    "id": 410,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 147
+  },
+  {
+    "gameCharacterUnitId": 18,
+    "id": 411,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 12,
+    "mysekaiFixtureId": 147
+  },
+  {
+    "gameCharacterUnitId": 19,
+    "id": 412,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 147
+  },
+  {
+    "gameCharacterUnitId": 20,
+    "id": 413,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 147
+  },
+  {
+    "gameCharacterUnitId": 27,
+    "id": 414,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 147
+  },
+  {
+    "gameCharacterUnitId": 28,
+    "id": 415,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 147
+  },
+  {
+    "gameCharacterUnitId": 29,
+    "id": 416,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 147
+  },
+  {
+    "gameCharacterUnitId": 30,
+    "id": 417,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 147
+  },
+  {
+    "gameCharacterUnitId": 31,
+    "id": 418,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 147
+  },
+  {
+    "gameCharacterUnitId": 33,
+    "id": 419,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 147
+  },
+  {
+    "gameCharacterUnitId": 39,
+    "id": 420,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 5,
+    "mysekaiFixtureId": 147
+  },
+  {
+    "gameCharacterUnitId": 42,
+    "id": 421,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 147
+  },
+  {
+    "gameCharacterUnitId": 49,
+    "id": 422,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 147
+  },
+  {
+    "gameCharacterUnitId": 55,
+    "id": 423,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 5,
+    "mysekaiFixtureId": 147
+  },
+  {
+    "gameCharacterUnitId": 1,
+    "id": 424,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 150
+  },
+  {
+    "gameCharacterUnitId": 2,
+    "id": 425,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 150
+  },
+  {
+    "gameCharacterUnitId": 3,
+    "id": 426,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 150
+  },
+  {
+    "gameCharacterUnitId": 4,
+    "id": 427,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 150
+  },
+  {
+    "gameCharacterUnitId": 9,
+    "id": 428,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 150
+  },
+  {
+    "gameCharacterUnitId": 10,
+    "id": 429,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 150
+  },
+  {
+    "gameCharacterUnitId": 11,
+    "id": 430,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 7,
+    "mysekaiFixtureId": 150
+  },
+  {
+    "gameCharacterUnitId": 12,
+    "id": 431,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 7,
+    "mysekaiFixtureId": 150
+  },
+  {
+    "gameCharacterUnitId": 13,
+    "id": 432,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 7,
+    "mysekaiFixtureId": 150
+  },
+  {
+    "gameCharacterUnitId": 14,
+    "id": 433,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 150
+  },
+  {
+    "gameCharacterUnitId": 15,
+    "id": 434,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 150
+  },
+  {
+    "gameCharacterUnitId": 16,
+    "id": 435,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 7,
+    "mysekaiFixtureId": 150
+  },
+  {
+    "gameCharacterUnitId": 17,
+    "id": 436,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 150
+  },
+  {
+    "gameCharacterUnitId": 18,
+    "id": 437,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 13,
+    "mysekaiFixtureId": 150
+  },
+  {
+    "gameCharacterUnitId": 19,
+    "id": 438,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 150
+  },
+  {
+    "gameCharacterUnitId": 27,
+    "id": 439,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 150
+  },
+  {
+    "gameCharacterUnitId": 28,
+    "id": 440,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 150
+  },
+  {
+    "gameCharacterUnitId": 29,
+    "id": 441,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 150
+  },
+  {
+    "gameCharacterUnitId": 30,
+    "id": 442,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 150
+  },
+  {
+    "gameCharacterUnitId": 31,
+    "id": 443,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 150
+  },
+  {
+    "gameCharacterUnitId": 33,
+    "id": 444,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 150
+  },
+  {
+    "gameCharacterUnitId": 39,
+    "id": 445,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 7,
+    "mysekaiFixtureId": 150
+  },
+  {
+    "gameCharacterUnitId": 42,
+    "id": 446,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 150
+  },
+  {
+    "gameCharacterUnitId": 49,
+    "id": 447,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 150
+  },
+  {
+    "gameCharacterUnitId": 55,
+    "id": 448,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 7,
+    "mysekaiFixtureId": 150
+  },
+  {
+    "gameCharacterUnitId": 9,
+    "id": 449,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 10,
+    "mysekaiFixtureId": 151
+  },
+  {
+    "gameCharacterUnitId": 10,
+    "id": 450,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 10,
+    "mysekaiFixtureId": 151
+  },
+  {
+    "gameCharacterUnitId": 11,
+    "id": 451,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 9,
+    "mysekaiFixtureId": 151
+  },
+  {
+    "gameCharacterUnitId": 12,
+    "id": 452,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 9,
+    "mysekaiFixtureId": 151
+  },
+  {
+    "gameCharacterUnitId": 13,
+    "id": 453,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 9,
+    "mysekaiFixtureId": 151
+  },
+  {
+    "gameCharacterUnitId": 14,
+    "id": 454,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 10,
+    "mysekaiFixtureId": 151
+  },
+  {
+    "gameCharacterUnitId": 15,
+    "id": 455,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 10,
+    "mysekaiFixtureId": 151
+  },
+  {
+    "gameCharacterUnitId": 16,
+    "id": 456,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 9,
+    "mysekaiFixtureId": 151
+  },
+  {
+    "gameCharacterUnitId": 33,
+    "id": 457,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 10,
+    "mysekaiFixtureId": 151
+  },
+  {
+    "gameCharacterUnitId": 39,
+    "id": 458,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 9,
+    "mysekaiFixtureId": 151
+  },
+  {
+    "gameCharacterUnitId": 42,
+    "id": 459,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 10,
+    "mysekaiFixtureId": 151
+  },
+  {
+    "gameCharacterUnitId": 49,
+    "id": 460,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 10,
+    "mysekaiFixtureId": 151
+  },
+  {
+    "gameCharacterUnitId": 55,
+    "id": 461,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 9,
+    "mysekaiFixtureId": 151
+  },
+  {
+    "gameCharacterUnitId": 1,
+    "id": 462,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 177
+  },
+  {
+    "gameCharacterUnitId": 2,
+    "id": 463,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 177
+  },
+  {
+    "gameCharacterUnitId": 3,
+    "id": 464,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 177
+  },
+  {
+    "gameCharacterUnitId": 4,
+    "id": 465,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 177
+  },
+  {
+    "gameCharacterUnitId": 5,
+    "id": 466,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 177
+  },
+  {
+    "gameCharacterUnitId": 6,
+    "id": 467,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 177
+  },
+  {
+    "gameCharacterUnitId": 7,
+    "id": 468,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 177
+  },
+  {
+    "gameCharacterUnitId": 9,
+    "id": 469,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 177
+  },
+  {
+    "gameCharacterUnitId": 10,
+    "id": 470,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 177
+  },
+  {
+    "gameCharacterUnitId": 11,
+    "id": 471,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 5,
+    "mysekaiFixtureId": 177
+  },
+  {
+    "gameCharacterUnitId": 12,
+    "id": 472,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 5,
+    "mysekaiFixtureId": 177
+  },
+  {
+    "gameCharacterUnitId": 13,
+    "id": 473,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 5,
+    "mysekaiFixtureId": 177
+  },
+  {
+    "gameCharacterUnitId": 14,
+    "id": 474,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 177
+  },
+  {
+    "gameCharacterUnitId": 15,
+    "id": 475,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 177
+  },
+  {
+    "gameCharacterUnitId": 16,
+    "id": 476,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 5,
+    "mysekaiFixtureId": 177
+  },
+  {
+    "gameCharacterUnitId": 17,
+    "id": 477,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 177
+  },
+  {
+    "gameCharacterUnitId": 18,
+    "id": 478,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 12,
+    "mysekaiFixtureId": 177
+  },
+  {
+    "gameCharacterUnitId": 19,
+    "id": 479,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 177
+  },
+  {
+    "gameCharacterUnitId": 20,
+    "id": 480,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 177
+  },
+  {
+    "gameCharacterUnitId": 27,
+    "id": 481,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 177
+  },
+  {
+    "gameCharacterUnitId": 28,
+    "id": 482,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 177
+  },
+  {
+    "gameCharacterUnitId": 29,
+    "id": 483,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 177
+  },
+  {
+    "gameCharacterUnitId": 30,
+    "id": 484,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 177
+  },
+  {
+    "gameCharacterUnitId": 31,
+    "id": 485,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 177
+  },
+  {
+    "gameCharacterUnitId": 33,
+    "id": 486,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 177
+  },
+  {
+    "gameCharacterUnitId": 39,
+    "id": 487,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 5,
+    "mysekaiFixtureId": 177
+  },
+  {
+    "gameCharacterUnitId": 42,
+    "id": 488,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 177
+  },
+  {
+    "gameCharacterUnitId": 49,
+    "id": 489,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 177
+  },
+  {
+    "gameCharacterUnitId": 55,
+    "id": 490,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 5,
+    "mysekaiFixtureId": 177
+  },
+  {
+    "gameCharacterUnitId": 2,
+    "id": 491,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 178
+  },
+  {
+    "gameCharacterUnitId": 3,
+    "id": 492,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 178
+  },
+  {
+    "gameCharacterUnitId": 4,
+    "id": 493,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 178
+  },
+  {
+    "gameCharacterUnitId": 5,
+    "id": 494,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 178
+  },
+  {
+    "gameCharacterUnitId": 6,
+    "id": 495,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 178
+  },
+  {
+    "gameCharacterUnitId": 7,
+    "id": 496,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 178
+  },
+  {
+    "gameCharacterUnitId": 8,
+    "id": 497,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 178
+  },
+  {
+    "gameCharacterUnitId": 9,
+    "id": 498,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 178
+  },
+  {
+    "gameCharacterUnitId": 10,
+    "id": 499,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 178
+  },
+  {
+    "gameCharacterUnitId": 11,
+    "id": 500,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 7,
+    "mysekaiFixtureId": 178
+  },
+  {
+    "gameCharacterUnitId": 16,
+    "id": 501,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 7,
+    "mysekaiFixtureId": 178
+  },
+  {
+    "gameCharacterUnitId": 17,
+    "id": 502,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 178
+  },
+  {
+    "gameCharacterUnitId": 18,
+    "id": 503,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 13,
+    "mysekaiFixtureId": 178
+  },
+  {
+    "gameCharacterUnitId": 19,
+    "id": 504,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 178
+  },
+  {
+    "gameCharacterUnitId": 20,
+    "id": 505,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 178
+  },
+  {
+    "gameCharacterUnitId": 29,
+    "id": 506,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 178
+  },
+  {
+    "gameCharacterUnitId": 30,
+    "id": 507,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 178
+  },
+  {
+    "gameCharacterUnitId": 1,
+    "id": 508,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 189
+  },
+  {
+    "gameCharacterUnitId": 2,
+    "id": 509,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 189
+  },
+  {
+    "gameCharacterUnitId": 3,
+    "id": 510,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 189
+  },
+  {
+    "gameCharacterUnitId": 4,
+    "id": 511,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 189
+  },
+  {
+    "gameCharacterUnitId": 5,
+    "id": 512,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 189
+  },
+  {
+    "gameCharacterUnitId": 6,
+    "id": 513,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 189
+  },
+  {
+    "gameCharacterUnitId": 7,
+    "id": 514,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 189
+  },
+  {
+    "gameCharacterUnitId": 8,
+    "id": 515,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 189
+  },
+  {
+    "gameCharacterUnitId": 9,
+    "id": 516,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 189
+  },
+  {
+    "gameCharacterUnitId": 11,
+    "id": 517,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 7,
+    "mysekaiFixtureId": 189
+  },
+  {
+    "gameCharacterUnitId": 15,
+    "id": 518,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 189
+  },
+  {
+    "gameCharacterUnitId": 16,
+    "id": 519,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 7,
+    "mysekaiFixtureId": 189
+  },
+  {
+    "gameCharacterUnitId": 18,
+    "id": 520,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 13,
+    "mysekaiFixtureId": 189
+  },
+  {
+    "gameCharacterUnitId": 19,
+    "id": 521,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 189
+  },
+  {
+    "gameCharacterUnitId": 20,
+    "id": 522,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 189
+  },
+  {
+    "gameCharacterUnitId": 27,
+    "id": 523,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 189
+  },
+  {
+    "gameCharacterUnitId": 28,
+    "id": 524,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 189
+  },
+  {
+    "gameCharacterUnitId": 29,
+    "id": 525,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 189
+  },
+  {
+    "gameCharacterUnitId": 30,
+    "id": 526,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 189
+  },
+  {
+    "gameCharacterUnitId": 31,
+    "id": 527,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 189
+  },
+  {
+    "gameCharacterUnitId": 33,
+    "id": 528,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 189
+  },
+  {
+    "gameCharacterUnitId": 39,
+    "id": 529,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 7,
+    "mysekaiFixtureId": 189
+  },
+  {
+    "gameCharacterUnitId": 42,
+    "id": 530,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 189
+  },
+  {
+    "gameCharacterUnitId": 49,
+    "id": 531,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 189
+  },
+  {
+    "gameCharacterUnitId": 55,
+    "id": 532,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 7,
+    "mysekaiFixtureId": 189
+  },
+  {
+    "gameCharacterUnitId": 1,
+    "id": 533,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 219
+  },
+  {
+    "gameCharacterUnitId": 2,
+    "id": 534,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 219
+  },
+  {
+    "gameCharacterUnitId": 3,
+    "id": 535,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 219
+  },
+  {
+    "gameCharacterUnitId": 4,
+    "id": 536,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 219
+  },
+  {
+    "gameCharacterUnitId": 5,
+    "id": 537,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 219
+  },
+  {
+    "gameCharacterUnitId": 6,
+    "id": 538,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 219
+  },
+  {
+    "gameCharacterUnitId": 7,
+    "id": 539,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 219
+  },
+  {
+    "gameCharacterUnitId": 8,
+    "id": 540,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 219
+  },
+  {
+    "gameCharacterUnitId": 9,
+    "id": 541,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 219
+  },
+  {
+    "gameCharacterUnitId": 10,
+    "id": 542,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 219
+  },
+  {
+    "gameCharacterUnitId": 11,
+    "id": 543,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 5,
+    "mysekaiFixtureId": 219
+  },
+  {
+    "gameCharacterUnitId": 12,
+    "id": 544,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 5,
+    "mysekaiFixtureId": 219
+  },
+  {
+    "gameCharacterUnitId": 13,
+    "id": 545,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 5,
+    "mysekaiFixtureId": 219
+  },
+  {
+    "gameCharacterUnitId": 14,
+    "id": 546,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 219
+  },
+  {
+    "gameCharacterUnitId": 15,
+    "id": 547,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 219
+  },
+  {
+    "gameCharacterUnitId": 16,
+    "id": 548,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 5,
+    "mysekaiFixtureId": 219
+  },
+  {
+    "gameCharacterUnitId": 17,
+    "id": 549,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 219
+  },
+  {
+    "gameCharacterUnitId": 18,
+    "id": 550,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 12,
+    "mysekaiFixtureId": 219
+  },
+  {
+    "gameCharacterUnitId": 19,
+    "id": 551,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 219
+  },
+  {
+    "gameCharacterUnitId": 20,
+    "id": 552,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 219
+  },
+  {
+    "gameCharacterUnitId": 27,
+    "id": 553,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 219
+  },
+  {
+    "gameCharacterUnitId": 28,
+    "id": 554,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 219
+  },
+  {
+    "gameCharacterUnitId": 29,
+    "id": 555,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 219
+  },
+  {
+    "gameCharacterUnitId": 30,
+    "id": 556,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 219
+  },
+  {
+    "gameCharacterUnitId": 31,
+    "id": 557,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 219
+  },
+  {
+    "gameCharacterUnitId": 33,
+    "id": 558,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 219
+  },
+  {
+    "gameCharacterUnitId": 39,
+    "id": 559,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 5,
+    "mysekaiFixtureId": 219
+  },
+  {
+    "gameCharacterUnitId": 42,
+    "id": 560,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 219
+  },
+  {
+    "gameCharacterUnitId": 49,
+    "id": 561,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 219
+  },
+  {
+    "gameCharacterUnitId": 55,
+    "id": 562,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 5,
+    "mysekaiFixtureId": 219
+  },
+  {
+    "gameCharacterUnitId": 1,
+    "id": 563,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 236
+  },
+  {
+    "gameCharacterUnitId": 2,
+    "id": 564,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 236
+  },
+  {
+    "gameCharacterUnitId": 3,
+    "id": 565,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 236
+  },
+  {
+    "gameCharacterUnitId": 4,
+    "id": 566,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 236
+  },
+  {
+    "gameCharacterUnitId": 5,
+    "id": 567,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 236
+  },
+  {
+    "gameCharacterUnitId": 6,
+    "id": 568,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 236
+  },
+  {
+    "gameCharacterUnitId": 7,
+    "id": 569,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 236
+  },
+  {
+    "gameCharacterUnitId": 8,
+    "id": 570,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 236
+  },
+  {
+    "gameCharacterUnitId": 9,
+    "id": 571,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 236
+  },
+  {
+    "gameCharacterUnitId": 10,
+    "id": 572,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 236
+  },
+  {
+    "gameCharacterUnitId": 11,
+    "id": 573,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 5,
+    "mysekaiFixtureId": 236
+  },
+  {
+    "gameCharacterUnitId": 12,
+    "id": 574,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 5,
+    "mysekaiFixtureId": 236
+  },
+  {
+    "gameCharacterUnitId": 13,
+    "id": 575,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 5,
+    "mysekaiFixtureId": 236
+  },
+  {
+    "gameCharacterUnitId": 14,
+    "id": 576,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 236
+  },
+  {
+    "gameCharacterUnitId": 15,
+    "id": 577,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 236
+  },
+  {
+    "gameCharacterUnitId": 16,
+    "id": 578,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 5,
+    "mysekaiFixtureId": 236
+  },
+  {
+    "gameCharacterUnitId": 17,
+    "id": 579,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 236
+  },
+  {
+    "gameCharacterUnitId": 18,
+    "id": 580,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 12,
+    "mysekaiFixtureId": 236
+  },
+  {
+    "gameCharacterUnitId": 19,
+    "id": 581,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 236
+  },
+  {
+    "gameCharacterUnitId": 20,
+    "id": 582,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 236
+  },
+  {
+    "gameCharacterUnitId": 27,
+    "id": 583,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 236
+  },
+  {
+    "gameCharacterUnitId": 28,
+    "id": 584,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 236
+  },
+  {
+    "gameCharacterUnitId": 29,
+    "id": 585,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 236
+  },
+  {
+    "gameCharacterUnitId": 30,
+    "id": 586,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 236
+  },
+  {
+    "gameCharacterUnitId": 31,
+    "id": 587,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 236
+  },
+  {
+    "gameCharacterUnitId": 33,
+    "id": 588,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 236
+  },
+  {
+    "gameCharacterUnitId": 39,
+    "id": 589,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 5,
+    "mysekaiFixtureId": 236
+  },
+  {
+    "gameCharacterUnitId": 42,
+    "id": 590,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 236
+  },
+  {
+    "gameCharacterUnitId": 49,
+    "id": 591,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 236
+  },
+  {
+    "gameCharacterUnitId": 55,
+    "id": 592,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 5,
+    "mysekaiFixtureId": 236
+  },
+  {
+    "gameCharacterUnitId": 1,
+    "id": 593,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 259
+  },
+  {
+    "gameCharacterUnitId": 2,
+    "id": 594,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 259
+  },
+  {
+    "gameCharacterUnitId": 3,
+    "id": 595,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 259
+  },
+  {
+    "gameCharacterUnitId": 4,
+    "id": 596,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 259
+  },
+  {
+    "gameCharacterUnitId": 5,
+    "id": 597,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 259
+  },
+  {
+    "gameCharacterUnitId": 6,
+    "id": 598,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 259
+  },
+  {
+    "gameCharacterUnitId": 7,
+    "id": 599,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 259
+  },
+  {
+    "gameCharacterUnitId": 8,
+    "id": 600,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 259
+  },
+  {
+    "gameCharacterUnitId": 9,
+    "id": 601,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 259
+  },
+  {
+    "gameCharacterUnitId": 10,
+    "id": 602,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 259
+  },
+  {
+    "gameCharacterUnitId": 11,
+    "id": 603,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 5,
+    "mysekaiFixtureId": 259
+  },
+  {
+    "gameCharacterUnitId": 12,
+    "id": 604,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 5,
+    "mysekaiFixtureId": 259
+  },
+  {
+    "gameCharacterUnitId": 13,
+    "id": 605,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 5,
+    "mysekaiFixtureId": 259
+  },
+  {
+    "gameCharacterUnitId": 14,
+    "id": 606,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 259
+  },
+  {
+    "gameCharacterUnitId": 15,
+    "id": 607,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 259
+  },
+  {
+    "gameCharacterUnitId": 16,
+    "id": 608,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 5,
+    "mysekaiFixtureId": 259
+  },
+  {
+    "gameCharacterUnitId": 17,
+    "id": 609,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 259
+  },
+  {
+    "gameCharacterUnitId": 18,
+    "id": 610,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 12,
+    "mysekaiFixtureId": 259
+  },
+  {
+    "gameCharacterUnitId": 19,
+    "id": 611,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 259
+  },
+  {
+    "gameCharacterUnitId": 20,
+    "id": 612,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 259
+  },
+  {
+    "gameCharacterUnitId": 27,
+    "id": 613,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 259
+  },
+  {
+    "gameCharacterUnitId": 28,
+    "id": 614,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 259
+  },
+  {
+    "gameCharacterUnitId": 29,
+    "id": 615,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 259
+  },
+  {
+    "gameCharacterUnitId": 30,
+    "id": 616,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 259
+  },
+  {
+    "gameCharacterUnitId": 39,
+    "id": 617,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 5,
+    "mysekaiFixtureId": 259
+  },
+  {
+    "gameCharacterUnitId": 42,
+    "id": 618,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 259
+  },
+  {
+    "gameCharacterUnitId": 49,
+    "id": 619,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 259
+  },
+  {
+    "gameCharacterUnitId": 55,
+    "id": 620,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 5,
+    "mysekaiFixtureId": 259
+  },
+  {
+    "gameCharacterUnitId": 1,
+    "id": 621,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 272
+  },
+  {
+    "gameCharacterUnitId": 2,
+    "id": 622,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 272
+  },
+  {
+    "gameCharacterUnitId": 3,
+    "id": 623,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 272
+  },
+  {
+    "gameCharacterUnitId": 4,
+    "id": 624,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 272
+  },
+  {
+    "gameCharacterUnitId": 5,
+    "id": 625,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 272
+  },
+  {
+    "gameCharacterUnitId": 6,
+    "id": 626,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 272
+  },
+  {
+    "gameCharacterUnitId": 7,
+    "id": 627,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 272
+  },
+  {
+    "gameCharacterUnitId": 8,
+    "id": 628,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 272
+  },
+  {
+    "gameCharacterUnitId": 9,
+    "id": 629,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 272
+  },
+  {
+    "gameCharacterUnitId": 10,
+    "id": 630,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 272
+  },
+  {
+    "gameCharacterUnitId": 11,
+    "id": 631,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 7,
+    "mysekaiFixtureId": 272
+  },
+  {
+    "gameCharacterUnitId": 12,
+    "id": 632,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 7,
+    "mysekaiFixtureId": 272
+  },
+  {
+    "gameCharacterUnitId": 13,
+    "id": 633,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 7,
+    "mysekaiFixtureId": 272
+  },
+  {
+    "gameCharacterUnitId": 14,
+    "id": 634,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 272
+  },
+  {
+    "gameCharacterUnitId": 15,
+    "id": 635,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 272
+  },
+  {
+    "gameCharacterUnitId": 16,
+    "id": 636,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 7,
+    "mysekaiFixtureId": 272
+  },
+  {
+    "gameCharacterUnitId": 17,
+    "id": 637,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 272
+  },
+  {
+    "gameCharacterUnitId": 18,
+    "id": 638,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 13,
+    "mysekaiFixtureId": 272
+  },
+  {
+    "gameCharacterUnitId": 19,
+    "id": 639,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 272
+  },
+  {
+    "gameCharacterUnitId": 20,
+    "id": 640,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 272
+  },
+  {
+    "gameCharacterUnitId": 27,
+    "id": 641,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 272
+  },
+  {
+    "gameCharacterUnitId": 28,
+    "id": 642,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 272
+  },
+  {
+    "gameCharacterUnitId": 29,
+    "id": 643,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 272
+  },
+  {
+    "gameCharacterUnitId": 30,
+    "id": 644,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 272
+  },
+  {
+    "gameCharacterUnitId": 31,
+    "id": 645,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 272
+  },
+  {
+    "gameCharacterUnitId": 33,
+    "id": 646,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 272
+  },
+  {
+    "gameCharacterUnitId": 39,
+    "id": 647,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 7,
+    "mysekaiFixtureId": 272
+  },
+  {
+    "gameCharacterUnitId": 42,
+    "id": 648,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 272
+  },
+  {
+    "gameCharacterUnitId": 49,
+    "id": 649,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 272
+  },
+  {
+    "gameCharacterUnitId": 55,
+    "id": 650,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 7,
+    "mysekaiFixtureId": 272
+  },
+  {
+    "gameCharacterUnitId": 1,
+    "id": 651,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 309
+  },
+  {
+    "gameCharacterUnitId": 2,
+    "id": 652,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 309
+  },
+  {
+    "gameCharacterUnitId": 3,
+    "id": 653,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 309
+  },
+  {
+    "gameCharacterUnitId": 4,
+    "id": 654,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 309
+  },
+  {
+    "gameCharacterUnitId": 5,
+    "id": 655,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 309
+  },
+  {
+    "gameCharacterUnitId": 6,
+    "id": 656,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 309
+  },
+  {
+    "gameCharacterUnitId": 7,
+    "id": 657,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 309
+  },
+  {
+    "gameCharacterUnitId": 8,
+    "id": 658,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 309
+  },
+  {
+    "gameCharacterUnitId": 9,
+    "id": 659,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 309
+  },
+  {
+    "gameCharacterUnitId": 10,
+    "id": 660,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 309
+  },
+  {
+    "gameCharacterUnitId": 11,
+    "id": 661,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 5,
+    "mysekaiFixtureId": 309
+  },
+  {
+    "gameCharacterUnitId": 12,
+    "id": 662,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 5,
+    "mysekaiFixtureId": 309
+  },
+  {
+    "gameCharacterUnitId": 13,
+    "id": 663,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 5,
+    "mysekaiFixtureId": 309
+  },
+  {
+    "gameCharacterUnitId": 14,
+    "id": 664,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 309
+  },
+  {
+    "gameCharacterUnitId": 15,
+    "id": 665,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 309
+  },
+  {
+    "gameCharacterUnitId": 16,
+    "id": 666,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 5,
+    "mysekaiFixtureId": 309
+  },
+  {
+    "gameCharacterUnitId": 17,
+    "id": 667,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 309
+  },
+  {
+    "gameCharacterUnitId": 18,
+    "id": 668,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 12,
+    "mysekaiFixtureId": 309
+  },
+  {
+    "gameCharacterUnitId": 19,
+    "id": 669,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 309
+  },
+  {
+    "gameCharacterUnitId": 20,
+    "id": 670,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 309
+  },
+  {
+    "gameCharacterUnitId": 27,
+    "id": 671,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 309
+  },
+  {
+    "gameCharacterUnitId": 28,
+    "id": 672,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 309
+  },
+  {
+    "gameCharacterUnitId": 29,
+    "id": 673,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 309
+  },
+  {
+    "gameCharacterUnitId": 30,
+    "id": 674,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 309
+  },
+  {
+    "gameCharacterUnitId": 31,
+    "id": 675,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 309
+  },
+  {
+    "gameCharacterUnitId": 33,
+    "id": 676,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 309
+  },
+  {
+    "gameCharacterUnitId": 39,
+    "id": 677,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 5,
+    "mysekaiFixtureId": 309
+  },
+  {
+    "gameCharacterUnitId": 42,
+    "id": 678,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 309
+  },
+  {
+    "gameCharacterUnitId": 49,
+    "id": 679,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 309
+  },
+  {
+    "gameCharacterUnitId": 55,
+    "id": 680,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 5,
+    "mysekaiFixtureId": 309
+  },
+  {
+    "gameCharacterUnitId": 1,
+    "id": 681,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 337
+  },
+  {
+    "gameCharacterUnitId": 2,
+    "id": 682,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 337
+  },
+  {
+    "gameCharacterUnitId": 3,
+    "id": 683,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 337
+  },
+  {
+    "gameCharacterUnitId": 4,
+    "id": 684,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 337
+  },
+  {
+    "gameCharacterUnitId": 5,
+    "id": 685,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 337
+  },
+  {
+    "gameCharacterUnitId": 6,
+    "id": 686,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 337
+  },
+  {
+    "gameCharacterUnitId": 7,
+    "id": 687,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 337
+  },
+  {
+    "gameCharacterUnitId": 8,
+    "id": 688,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 337
+  },
+  {
+    "gameCharacterUnitId": 9,
+    "id": 689,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 337
+  },
+  {
+    "gameCharacterUnitId": 10,
+    "id": 690,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 337
+  },
+  {
+    "gameCharacterUnitId": 11,
+    "id": 691,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 5,
+    "mysekaiFixtureId": 337
+  },
+  {
+    "gameCharacterUnitId": 12,
+    "id": 692,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 5,
+    "mysekaiFixtureId": 337
+  },
+  {
+    "gameCharacterUnitId": 13,
+    "id": 693,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 5,
+    "mysekaiFixtureId": 337
+  },
+  {
+    "gameCharacterUnitId": 14,
+    "id": 694,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 337
+  },
+  {
+    "gameCharacterUnitId": 15,
+    "id": 695,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 337
+  },
+  {
+    "gameCharacterUnitId": 17,
+    "id": 696,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 337
+  },
+  {
+    "gameCharacterUnitId": 18,
+    "id": 697,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 12,
+    "mysekaiFixtureId": 337
+  },
+  {
+    "gameCharacterUnitId": 27,
+    "id": 698,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 337
+  },
+  {
+    "gameCharacterUnitId": 28,
+    "id": 699,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 337
+  },
+  {
+    "gameCharacterUnitId": 29,
+    "id": 700,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 337
+  },
+  {
+    "gameCharacterUnitId": 30,
+    "id": 701,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 337
+  },
+  {
+    "gameCharacterUnitId": 31,
+    "id": 702,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 337
+  },
+  {
+    "gameCharacterUnitId": 33,
+    "id": 703,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 337
+  },
+  {
+    "gameCharacterUnitId": 39,
+    "id": 704,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 5,
+    "mysekaiFixtureId": 337
+  },
+  {
+    "gameCharacterUnitId": 42,
+    "id": 705,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 337
+  },
+  {
+    "gameCharacterUnitId": 49,
+    "id": 706,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 337
+  },
+  {
+    "gameCharacterUnitId": 55,
+    "id": 707,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 5,
+    "mysekaiFixtureId": 337
+  },
+  {
+    "gameCharacterUnitId": 17,
+    "id": 708,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 46,
+    "mysekaiFixtureId": 175
+  },
+  {
+    "gameCharacterUnitId": 19,
+    "id": 709,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 49,
+    "mysekaiFixtureId": 148
+  },
+  {
+    "gameCharacterUnitId": 20,
+    "id": 710,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 50,
+    "mysekaiFixtureId": 148
+  },
+  {
+    "gameCharacterUnitId": 2,
+    "id": 711,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 48,
+    "mysekaiFixtureId": 202
+  },
+  {
+    "gameCharacterUnitId": 20,
+    "id": 712,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 50,
+    "mysekaiFixtureId": 202
+  },
+  {
+    "gameCharacterUnitId": 19,
+    "id": 713,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 68,
+    "mysekaiFixtureId": 184
+  },
+  {
+    "gameCharacterUnitId": 28,
+    "id": 714,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 68,
+    "mysekaiFixtureId": 184
+  },
+  {
+    "gameCharacterUnitId": 1,
+    "id": 715,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 83,
+    "mysekaiFixtureId": 227
+  },
+  {
+    "gameCharacterUnitId": 3,
+    "id": 716,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 83,
+    "mysekaiFixtureId": 227
+  },
+  {
+    "gameCharacterUnitId": 4,
+    "id": 717,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 83,
+    "mysekaiFixtureId": 227
+  },
+  {
+    "gameCharacterUnitId": 6,
+    "id": 718,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 83,
+    "mysekaiFixtureId": 227
+  },
+  {
+    "gameCharacterUnitId": 8,
+    "id": 719,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 83,
+    "mysekaiFixtureId": 227
+  },
+  {
+    "gameCharacterUnitId": 11,
+    "id": 720,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 84,
+    "mysekaiFixtureId": 227
+  },
+  {
+    "gameCharacterUnitId": 15,
+    "id": 721,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 83,
+    "mysekaiFixtureId": 227
+  },
+  {
+    "gameCharacterUnitId": 17,
+    "id": 722,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 83,
+    "mysekaiFixtureId": 227
+  },
+  {
+    "gameCharacterUnitId": 18,
+    "id": 723,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 85,
+    "mysekaiFixtureId": 227
+  },
+  {
+    "gameCharacterUnitId": 19,
+    "id": 724,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 83,
+    "mysekaiFixtureId": 227
+  },
+  {
+    "gameCharacterUnitId": 27,
+    "id": 725,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 83,
+    "mysekaiFixtureId": 227
+  },
+  {
+    "gameCharacterUnitId": 28,
+    "id": 726,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 83,
+    "mysekaiFixtureId": 227
+  },
+  {
+    "gameCharacterUnitId": 29,
+    "id": 727,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 83,
+    "mysekaiFixtureId": 227
+  },
+  {
+    "gameCharacterUnitId": 33,
+    "id": 728,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 83,
+    "mysekaiFixtureId": 227
+  },
+  {
+    "gameCharacterUnitId": 42,
+    "id": 729,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 83,
+    "mysekaiFixtureId": 227
+  },
+  {
+    "gameCharacterUnitId": 49,
+    "id": 730,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 83,
+    "mysekaiFixtureId": 227
+  },
+  {
+    "gameCharacterUnitId": 1,
+    "id": 731,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 95,
+    "mysekaiFixtureId": 255
+  },
+  {
+    "gameCharacterUnitId": 4,
+    "id": 732,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 95,
+    "mysekaiFixtureId": 255
+  },
+  {
+    "gameCharacterUnitId": 6,
+    "id": 733,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 95,
+    "mysekaiFixtureId": 255
+  },
+  {
+    "gameCharacterUnitId": 11,
+    "id": 734,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 96,
+    "mysekaiFixtureId": 255
+  },
+  {
+    "gameCharacterUnitId": 12,
+    "id": 735,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 96,
+    "mysekaiFixtureId": 255
+  },
+  {
+    "gameCharacterUnitId": 13,
+    "id": 736,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 96,
+    "mysekaiFixtureId": 255
+  },
+  {
+    "gameCharacterUnitId": 14,
+    "id": 737,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 95,
+    "mysekaiFixtureId": 255
+  },
+  {
+    "gameCharacterUnitId": 16,
+    "id": 738,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 95,
+    "mysekaiFixtureId": 255
+  },
+  {
+    "gameCharacterUnitId": 17,
+    "id": 739,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 96,
+    "mysekaiFixtureId": 255
+  },
+  {
+    "gameCharacterUnitId": 18,
+    "id": 740,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 91,
+    "mysekaiFixtureId": 255
+  },
+  {
+    "gameCharacterUnitId": 27,
+    "id": 741,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 95,
+    "mysekaiFixtureId": 255
+  },
+  {
+    "gameCharacterUnitId": 29,
+    "id": 742,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 95,
+    "mysekaiFixtureId": 255
+  },
+  {
+    "gameCharacterUnitId": 30,
+    "id": 743,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 95,
+    "mysekaiFixtureId": 255
+  },
+  {
+    "gameCharacterUnitId": 39,
+    "id": 744,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 96,
+    "mysekaiFixtureId": 255
+  },
+  {
+    "gameCharacterUnitId": 42,
+    "id": 745,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 95,
+    "mysekaiFixtureId": 255
+  },
+  {
+    "gameCharacterUnitId": 49,
+    "id": 746,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 95,
+    "mysekaiFixtureId": 255
+  },
+  {
+    "gameCharacterUnitId": 55,
+    "id": 747,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 96,
+    "mysekaiFixtureId": 255
+  },
+  {
+    "gameCharacterUnitId": 3,
+    "id": 748,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 122,
+    "mysekaiFixtureId": 307
+  },
+  {
+    "gameCharacterUnitId": 8,
+    "id": 749,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 122,
+    "mysekaiFixtureId": 307
+  },
+  {
+    "gameCharacterUnitId": 3,
+    "id": 750,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 128,
+    "mysekaiFixtureId": 311
+  },
+  {
+    "gameCharacterUnitId": 8,
+    "id": 751,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 128,
+    "mysekaiFixtureId": 311
+  },
+  {
+    "gameCharacterUnitId": 6,
+    "id": 752,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 151,
+    "mysekaiFixtureId": 323
+  },
+  {
+    "gameCharacterUnitId": 1,
+    "id": 753,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 152,
+    "mysekaiFixtureId": 327
+  },
+  {
+    "gameCharacterUnitId": 3,
+    "id": 754,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 152,
+    "mysekaiFixtureId": 327
+  },
+  {
+    "gameCharacterUnitId": 4,
+    "id": 755,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 152,
+    "mysekaiFixtureId": 327
+  },
+  {
+    "gameCharacterUnitId": 6,
+    "id": 756,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 152,
+    "mysekaiFixtureId": 327
+  },
+  {
+    "gameCharacterUnitId": 7,
+    "id": 757,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 152,
+    "mysekaiFixtureId": 327
+  },
+  {
+    "gameCharacterUnitId": 10,
+    "id": 758,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 152,
+    "mysekaiFixtureId": 327
+  },
+  {
+    "gameCharacterUnitId": 16,
+    "id": 759,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 154,
+    "mysekaiFixtureId": 327
+  },
+  {
+    "gameCharacterUnitId": 19,
+    "id": 760,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 152,
+    "mysekaiFixtureId": 327
+  },
+  {
+    "gameCharacterUnitId": 28,
+    "id": 761,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 152,
+    "mysekaiFixtureId": 327
+  },
+  {
+    "gameCharacterUnitId": 29,
+    "id": 762,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 152,
+    "mysekaiFixtureId": 327
+  },
+  {
+    "gameCharacterUnitId": 30,
+    "id": 763,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 152,
+    "mysekaiFixtureId": 327
+  },
+  {
+    "gameCharacterUnitId": 39,
+    "id": 764,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 154,
+    "mysekaiFixtureId": 327
+  },
+  {
+    "gameCharacterUnitId": 42,
+    "id": 765,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 152,
+    "mysekaiFixtureId": 327
+  },
+  {
+    "gameCharacterUnitId": 55,
+    "id": 766,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 154,
+    "mysekaiFixtureId": 327
+  },
+  {
+    "gameCharacterUnitId": 9,
+    "id": 767,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 35,
+    "mysekaiFixtureId": 294
+  },
+  {
+    "gameCharacterUnitId": 11,
+    "id": 768,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 37,
+    "mysekaiFixtureId": 294
+  },
+  {
+    "gameCharacterUnitId": 12,
+    "id": 769,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 37,
+    "mysekaiFixtureId": 294
+  },
+  {
+    "gameCharacterUnitId": 13,
+    "id": 770,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 37,
+    "mysekaiFixtureId": 294
+  },
+  {
+    "gameCharacterUnitId": 16,
+    "id": 771,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 35,
+    "mysekaiFixtureId": 294
+  },
+  {
+    "gameCharacterUnitId": 17,
+    "id": 772,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 38,
+    "mysekaiFixtureId": 294
+  },
+  {
+    "gameCharacterUnitId": 27,
+    "id": 773,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 35,
+    "mysekaiFixtureId": 294
+  },
+  {
+    "gameCharacterUnitId": 29,
+    "id": 774,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 35,
+    "mysekaiFixtureId": 294
+  },
+  {
+    "gameCharacterUnitId": 39,
+    "id": 775,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 35,
+    "mysekaiFixtureId": 294
+  },
+  {
+    "gameCharacterUnitId": 42,
+    "id": 776,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 35,
+    "mysekaiFixtureId": 294
+  },
+  {
+    "gameCharacterUnitId": 49,
+    "id": 777,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 35,
+    "mysekaiFixtureId": 294
+  },
+  {
+    "gameCharacterUnitId": 55,
+    "id": 778,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 37,
+    "mysekaiFixtureId": 294
+  },
+  {
+    "gameCharacterUnitId": 2,
+    "id": 779,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 116,
+    "mysekaiFixtureId": 303
+  },
+  {
+    "gameCharacterUnitId": 3,
+    "id": 780,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 116,
+    "mysekaiFixtureId": 303
+  },
+  {
+    "gameCharacterUnitId": 5,
+    "id": 781,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 116,
+    "mysekaiFixtureId": 303
+  },
+  {
+    "gameCharacterUnitId": 6,
+    "id": 782,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 116,
+    "mysekaiFixtureId": 303
+  },
+  {
+    "gameCharacterUnitId": 7,
+    "id": 783,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 116,
+    "mysekaiFixtureId": 303
+  },
+  {
+    "gameCharacterUnitId": 8,
+    "id": 784,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 116,
+    "mysekaiFixtureId": 303
+  },
+  {
+    "gameCharacterUnitId": 9,
+    "id": 785,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 121,
+    "mysekaiFixtureId": 303
+  },
+  {
+    "gameCharacterUnitId": 10,
+    "id": 786,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 120,
+    "mysekaiFixtureId": 303
+  },
+  {
+    "gameCharacterUnitId": 11,
+    "id": 787,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 119,
+    "mysekaiFixtureId": 303
+  },
+  {
+    "gameCharacterUnitId": 13,
+    "id": 788,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 117,
+    "mysekaiFixtureId": 303
+  },
+  {
+    "gameCharacterUnitId": 14,
+    "id": 789,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 116,
+    "mysekaiFixtureId": 303
+  },
+  {
+    "gameCharacterUnitId": 16,
+    "id": 790,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 117,
+    "mysekaiFixtureId": 303
+  },
+  {
+    "gameCharacterUnitId": 17,
+    "id": 791,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 116,
+    "mysekaiFixtureId": 303
+  },
+  {
+    "gameCharacterUnitId": 18,
+    "id": 792,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 115,
+    "mysekaiFixtureId": 303
+  },
+  {
+    "gameCharacterUnitId": 19,
+    "id": 793,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 116,
+    "mysekaiFixtureId": 303
+  },
+  {
+    "gameCharacterUnitId": 28,
+    "id": 794,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 116,
+    "mysekaiFixtureId": 303
+  },
+  {
+    "gameCharacterUnitId": 29,
+    "id": 795,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 116,
+    "mysekaiFixtureId": 303
+  },
+  {
+    "gameCharacterUnitId": 30,
+    "id": 796,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 116,
+    "mysekaiFixtureId": 303
+  },
+  {
+    "gameCharacterUnitId": 31,
+    "id": 797,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 116,
+    "mysekaiFixtureId": 303
+  },
+  {
+    "gameCharacterUnitId": 33,
+    "id": 798,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 116,
+    "mysekaiFixtureId": 303
+  },
+  {
+    "gameCharacterUnitId": 49,
+    "id": 799,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 116,
+    "mysekaiFixtureId": 303
+  },
+  {
+    "gameCharacterUnitId": 55,
+    "id": 800,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 117,
+    "mysekaiFixtureId": 303
+  },
+  {
+    "gameCharacterUnitId": 39,
+    "id": 801,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 117,
+    "mysekaiFixtureId": 303
+  },
+  {
+    "gameCharacterUnitId": 2,
+    "id": 802,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 460
+  },
+  {
+    "gameCharacterUnitId": 3,
+    "id": 803,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 460
+  },
+  {
+    "gameCharacterUnitId": 5,
+    "id": 804,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 460
+  },
+  {
+    "gameCharacterUnitId": 6,
+    "id": 805,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 460
+  },
+  {
+    "gameCharacterUnitId": 9,
+    "id": 806,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 460
+  },
+  {
+    "gameCharacterUnitId": 12,
+    "id": 807,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 5,
+    "mysekaiFixtureId": 460
+  },
+  {
+    "gameCharacterUnitId": 13,
+    "id": 808,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 5,
+    "mysekaiFixtureId": 460
+  },
+  {
+    "gameCharacterUnitId": 14,
+    "id": 809,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 460
+  },
+  {
+    "gameCharacterUnitId": 17,
+    "id": 810,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 460
+  },
+  {
+    "gameCharacterUnitId": 18,
+    "id": 811,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 12,
+    "mysekaiFixtureId": 460
+  },
+  {
+    "gameCharacterUnitId": 27,
+    "id": 812,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 460
+  },
+  {
+    "gameCharacterUnitId": 2,
+    "id": 813,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 42,
+    "mysekaiFixtureId": 175
+  },
+  {
+    "gameCharacterUnitId": 4,
+    "id": 814,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 42,
+    "mysekaiFixtureId": 175
+  },
+  {
+    "gameCharacterUnitId": 5,
+    "id": 815,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 42,
+    "mysekaiFixtureId": 175
+  },
+  {
+    "gameCharacterUnitId": 7,
+    "id": 816,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 42,
+    "mysekaiFixtureId": 175
+  },
+  {
+    "gameCharacterUnitId": 8,
+    "id": 817,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 42,
+    "mysekaiFixtureId": 175
+  },
+  {
+    "gameCharacterUnitId": 10,
+    "id": 818,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 42,
+    "mysekaiFixtureId": 175
+  },
+  {
+    "gameCharacterUnitId": 19,
+    "id": 819,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 42,
+    "mysekaiFixtureId": 175
+  },
+  {
+    "gameCharacterUnitId": 20,
+    "id": 820,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 42,
+    "mysekaiFixtureId": 175
+  },
+  {
+    "gameCharacterUnitId": 16,
+    "id": 822,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 26,
+    "mysekaiFixtureId": 286
+  },
+  {
+    "gameCharacterUnitId": 5,
+    "id": 826,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 155,
+    "mysekaiFixtureId": 339
+  },
+  {
+    "gameCharacterUnitId": 7,
+    "id": 827,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 155,
+    "mysekaiFixtureId": 339
+  },
+  {
+    "gameCharacterUnitId": 13,
+    "id": 828,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 156,
+    "mysekaiFixtureId": 339
+  },
+  {
+    "gameCharacterUnitId": 14,
+    "id": 829,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 155,
+    "mysekaiFixtureId": 339
+  },
+  {
+    "gameCharacterUnitId": 19,
+    "id": 830,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 155,
+    "mysekaiFixtureId": 339
+  },
+  {
+    "gameCharacterUnitId": 28,
+    "id": 831,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 155,
+    "mysekaiFixtureId": 339
+  },
+  {
+    "gameCharacterUnitId": 30,
+    "id": 832,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 155,
+    "mysekaiFixtureId": 339
+  },
+  {
+    "gameCharacterUnitId": 29,
+    "id": 833,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 321
+  },
+  {
+    "gameCharacterUnitId": 15,
+    "id": 834,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 90,
+    "mysekaiFixtureId": 243
+  },
+  {
+    "gameCharacterUnitId": 9,
+    "id": 835,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 101,
+    "mysekaiFixtureId": 462
+  },
+  {
+    "gameCharacterUnitId": 2,
+    "id": 836,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 470
+  },
+  {
+    "gameCharacterUnitId": 4,
+    "id": 837,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 470
+  },
+  {
+    "gameCharacterUnitId": 5,
+    "id": 838,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 470
+  },
+  {
+    "gameCharacterUnitId": 7,
+    "id": 839,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 470
+  },
+  {
+    "gameCharacterUnitId": 8,
+    "id": 840,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 470
+  },
+  {
+    "gameCharacterUnitId": 11,
+    "id": 841,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 5,
+    "mysekaiFixtureId": 470
+  },
+  {
+    "gameCharacterUnitId": 12,
+    "id": 842,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 5,
+    "mysekaiFixtureId": 470
+  },
+  {
+    "gameCharacterUnitId": 13,
+    "id": 843,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 5,
+    "mysekaiFixtureId": 470
+  },
+  {
+    "gameCharacterUnitId": 14,
+    "id": 844,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 470
+  },
+  {
+    "gameCharacterUnitId": 18,
+    "id": 845,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 12,
+    "mysekaiFixtureId": 470
+  },
+  {
+    "gameCharacterUnitId": 20,
+    "id": 846,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 470
+  },
+  {
+    "gameCharacterUnitId": 27,
+    "id": 847,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 470
+  },
+  {
+    "gameCharacterUnitId": 28,
+    "id": 848,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 470
+  },
+  {
+    "gameCharacterUnitId": 29,
+    "id": 849,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 470
+  },
+  {
+    "gameCharacterUnitId": 30,
+    "id": 850,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 470
+  },
+  {
+    "gameCharacterUnitId": 31,
+    "id": 851,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 470
+  },
+  {
+    "gameCharacterUnitId": 33,
+    "id": 852,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 470
+  },
+  {
+    "gameCharacterUnitId": 39,
+    "id": 853,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 5,
+    "mysekaiFixtureId": 470
+  },
+  {
+    "gameCharacterUnitId": 42,
+    "id": 854,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 470
+  },
+  {
+    "gameCharacterUnitId": 49,
+    "id": 855,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 470
+  },
+  {
+    "gameCharacterUnitId": 55,
+    "id": 856,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 5,
+    "mysekaiFixtureId": 470
+  },
+  {
+    "gameCharacterUnitId": 1,
+    "id": 857,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 337
+  },
+  {
+    "gameCharacterUnitId": 2,
+    "id": 858,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 337
+  },
+  {
+    "gameCharacterUnitId": 3,
+    "id": 859,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 337
+  },
+  {
+    "gameCharacterUnitId": 4,
+    "id": 860,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 337
+  },
+  {
+    "gameCharacterUnitId": 5,
+    "id": 861,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 337
+  },
+  {
+    "gameCharacterUnitId": 6,
+    "id": 862,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 337
+  },
+  {
+    "gameCharacterUnitId": 7,
+    "id": 863,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 337
+  },
+  {
+    "gameCharacterUnitId": 8,
+    "id": 864,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 337
+  },
+  {
+    "gameCharacterUnitId": 9,
+    "id": 865,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 337
+  },
+  {
+    "gameCharacterUnitId": 10,
+    "id": 866,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 337
+  },
+  {
+    "gameCharacterUnitId": 11,
+    "id": 867,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 5,
+    "mysekaiFixtureId": 337
+  },
+  {
+    "gameCharacterUnitId": 12,
+    "id": 868,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 5,
+    "mysekaiFixtureId": 337
+  },
+  {
+    "gameCharacterUnitId": 13,
+    "id": 869,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 5,
+    "mysekaiFixtureId": 337
+  },
+  {
+    "gameCharacterUnitId": 14,
+    "id": 870,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 337
+  },
+  {
+    "gameCharacterUnitId": 15,
+    "id": 871,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 337
+  },
+  {
+    "gameCharacterUnitId": 17,
+    "id": 872,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 337
+  },
+  {
+    "gameCharacterUnitId": 18,
+    "id": 873,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 12,
+    "mysekaiFixtureId": 337
+  },
+  {
+    "gameCharacterUnitId": 27,
+    "id": 874,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 337
+  },
+  {
+    "gameCharacterUnitId": 28,
+    "id": 875,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 337
+  },
+  {
+    "gameCharacterUnitId": 29,
+    "id": 876,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 337
+  },
+  {
+    "gameCharacterUnitId": 30,
+    "id": 877,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 337
+  },
+  {
+    "gameCharacterUnitId": 31,
+    "id": 878,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 337
+  },
+  {
+    "gameCharacterUnitId": 33,
+    "id": 879,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 337
+  },
+  {
+    "gameCharacterUnitId": 39,
+    "id": 880,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 5,
+    "mysekaiFixtureId": 337
+  },
+  {
+    "gameCharacterUnitId": 42,
+    "id": 881,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 337
+  },
+  {
+    "gameCharacterUnitId": 49,
+    "id": 882,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 337
+  },
+  {
+    "gameCharacterUnitId": 55,
+    "id": 883,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 5,
+    "mysekaiFixtureId": 337
+  },
+  {
+    "gameCharacterUnitId": 39,
+    "id": 884,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 60,
+    "mysekaiFixtureId": 164
+  },
+  {
+    "gameCharacterUnitId": 31,
+    "id": 885,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 58,
+    "mysekaiFixtureId": 164
+  },
+  {
+    "gameCharacterUnitId": 1,
+    "id": 886,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 524
+  },
+  {
+    "gameCharacterUnitId": 3,
+    "id": 887,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 524
+  },
+  {
+    "gameCharacterUnitId": 5,
+    "id": 888,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 524
+  },
+  {
+    "gameCharacterUnitId": 9,
+    "id": 889,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 524
+  },
+  {
+    "gameCharacterUnitId": 11,
+    "id": 890,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 5,
+    "mysekaiFixtureId": 524
+  },
+  {
+    "gameCharacterUnitId": 12,
+    "id": 891,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 5,
+    "mysekaiFixtureId": 524
+  },
+  {
+    "gameCharacterUnitId": 13,
+    "id": 892,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 5,
+    "mysekaiFixtureId": 524
+  },
+  {
+    "gameCharacterUnitId": 16,
+    "id": 893,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 5,
+    "mysekaiFixtureId": 524
+  },
+  {
+    "gameCharacterUnitId": 18,
+    "id": 894,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 12,
+    "mysekaiFixtureId": 524
+  },
+  {
+    "gameCharacterUnitId": 20,
+    "id": 895,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 524
+  },
+  {
+    "gameCharacterUnitId": 27,
+    "id": 896,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 524
+  },
+  {
+    "gameCharacterUnitId": 28,
+    "id": 897,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 524
+  },
+  {
+    "gameCharacterUnitId": 30,
+    "id": 898,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 524
+  },
+  {
+    "gameCharacterUnitId": 31,
+    "id": 899,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 524
+  },
+  {
+    "gameCharacterUnitId": 39,
+    "id": 900,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 5,
+    "mysekaiFixtureId": 524
+  },
+  {
+    "gameCharacterUnitId": 10,
+    "id": 901,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 88,
+    "mysekaiFixtureId": 532
+  },
+  {
+    "gameCharacterUnitId": 17,
+    "id": 902,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 46,
+    "mysekaiFixtureId": 586
+  },
+  {
+    "gameCharacterUnitId": 17,
+    "id": 903,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 46,
+    "mysekaiFixtureId": 587
+  },
+  {
+    "gameCharacterUnitId": 17,
+    "id": 904,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 46,
+    "mysekaiFixtureId": 588
+  },
+  {
+    "gameCharacterUnitId": 2,
+    "id": 905,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 42,
+    "mysekaiFixtureId": 586
+  },
+  {
+    "gameCharacterUnitId": 4,
+    "id": 906,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 42,
+    "mysekaiFixtureId": 586
+  },
+  {
+    "gameCharacterUnitId": 5,
+    "id": 907,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 42,
+    "mysekaiFixtureId": 586
+  },
+  {
+    "gameCharacterUnitId": 7,
+    "id": 908,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 42,
+    "mysekaiFixtureId": 586
+  },
+  {
+    "gameCharacterUnitId": 8,
+    "id": 909,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 42,
+    "mysekaiFixtureId": 586
+  },
+  {
+    "gameCharacterUnitId": 10,
+    "id": 910,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 42,
+    "mysekaiFixtureId": 586
+  },
+  {
+    "gameCharacterUnitId": 19,
+    "id": 911,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 42,
+    "mysekaiFixtureId": 586
+  },
+  {
+    "gameCharacterUnitId": 20,
+    "id": 912,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 42,
+    "mysekaiFixtureId": 586
+  },
+  {
+    "gameCharacterUnitId": 2,
+    "id": 913,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 42,
+    "mysekaiFixtureId": 587
+  },
+  {
+    "gameCharacterUnitId": 4,
+    "id": 914,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 42,
+    "mysekaiFixtureId": 587
+  },
+  {
+    "gameCharacterUnitId": 5,
+    "id": 915,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 42,
+    "mysekaiFixtureId": 587
+  },
+  {
+    "gameCharacterUnitId": 7,
+    "id": 916,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 42,
+    "mysekaiFixtureId": 587
+  },
+  {
+    "gameCharacterUnitId": 8,
+    "id": 917,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 42,
+    "mysekaiFixtureId": 587
+  },
+  {
+    "gameCharacterUnitId": 10,
+    "id": 918,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 42,
+    "mysekaiFixtureId": 587
+  },
+  {
+    "gameCharacterUnitId": 19,
+    "id": 919,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 42,
+    "mysekaiFixtureId": 587
+  },
+  {
+    "gameCharacterUnitId": 20,
+    "id": 920,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 42,
+    "mysekaiFixtureId": 587
+  },
+  {
+    "gameCharacterUnitId": 2,
+    "id": 921,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 42,
+    "mysekaiFixtureId": 588
+  },
+  {
+    "gameCharacterUnitId": 4,
+    "id": 922,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 42,
+    "mysekaiFixtureId": 588
+  },
+  {
+    "gameCharacterUnitId": 5,
+    "id": 923,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 42,
+    "mysekaiFixtureId": 588
+  },
+  {
+    "gameCharacterUnitId": 7,
+    "id": 924,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 42,
+    "mysekaiFixtureId": 588
+  },
+  {
+    "gameCharacterUnitId": 8,
+    "id": 925,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 42,
+    "mysekaiFixtureId": 588
+  },
+  {
+    "gameCharacterUnitId": 10,
+    "id": 926,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 42,
+    "mysekaiFixtureId": 588
+  },
+  {
+    "gameCharacterUnitId": 19,
+    "id": 927,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 42,
+    "mysekaiFixtureId": 588
+  },
+  {
+    "gameCharacterUnitId": 20,
+    "id": 928,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 42,
+    "mysekaiFixtureId": 588
+  },
+  {
+    "gameCharacterUnitId": 21,
+    "id": 929,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 87,
+    "mysekaiFixtureId": 531
+  },
+  {
+    "gameCharacterUnitId": 6,
+    "id": 930,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 261,
+    "mysekaiFixtureId": 661
+  },
+  {
+    "gameCharacterUnitId": 8,
+    "id": 931,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 261,
+    "mysekaiFixtureId": 661
+  },
+  {
+    "gameCharacterUnitId": 15,
+    "id": 932,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 261,
+    "mysekaiFixtureId": 661
+  },
+  {
+    "gameCharacterUnitId": 29,
+    "id": 933,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 261,
+    "mysekaiFixtureId": 661
+  },
+  {
+    "gameCharacterUnitId": 49,
+    "id": 934,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 261,
+    "mysekaiFixtureId": 661
+  },
+  {
+    "gameCharacterUnitId": 31,
+    "id": 935,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 261,
+    "mysekaiFixtureId": 661
+  },
+  {
+    "gameCharacterUnitId": 1,
+    "id": 936,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 660
+  },
+  {
+    "gameCharacterUnitId": 5,
+    "id": 937,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 660
+  },
+  {
+    "gameCharacterUnitId": 7,
+    "id": 938,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 660
+  },
+  {
+    "gameCharacterUnitId": 9,
+    "id": 939,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 660
+  },
+  {
+    "gameCharacterUnitId": 11,
+    "id": 940,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 5,
+    "mysekaiFixtureId": 660
+  },
+  {
+    "gameCharacterUnitId": 12,
+    "id": 941,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 5,
+    "mysekaiFixtureId": 660
+  },
+  {
+    "gameCharacterUnitId": 13,
+    "id": 942,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 5,
+    "mysekaiFixtureId": 660
+  },
+  {
+    "gameCharacterUnitId": 14,
+    "id": 943,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 660
+  },
+  {
+    "gameCharacterUnitId": 19,
+    "id": 944,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 660
+  },
+  {
+    "gameCharacterUnitId": 20,
+    "id": 945,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 660
+  },
+  {
+    "gameCharacterUnitId": 27,
+    "id": 946,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 660
+  },
+  {
+    "gameCharacterUnitId": 28,
+    "id": 947,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 660
+  },
+  {
+    "gameCharacterUnitId": 29,
+    "id": 948,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 660
+  },
+  {
+    "gameCharacterUnitId": 30,
+    "id": 949,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 660
+  },
+  {
+    "gameCharacterUnitId": 31,
+    "id": 950,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 660
+  },
+  {
+    "gameCharacterUnitId": 33,
+    "id": 951,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 660
+  },
+  {
+    "gameCharacterUnitId": 39,
+    "id": 952,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 5,
+    "mysekaiFixtureId": 660
+  },
+  {
+    "gameCharacterUnitId": 1,
+    "id": 953,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 272,
+    "mysekaiFixtureId": 747
+  },
+  {
+    "gameCharacterUnitId": 6,
+    "id": 954,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 272,
+    "mysekaiFixtureId": 747
+  },
+  {
+    "gameCharacterUnitId": 9,
+    "id": 955,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 272,
+    "mysekaiFixtureId": 747
+  },
+  {
+    "gameCharacterUnitId": 14,
+    "id": 956,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 274,
+    "mysekaiFixtureId": 747
+  },
+  {
+    "gameCharacterUnitId": 16,
+    "id": 957,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 272,
+    "mysekaiFixtureId": 747
+  },
+  {
+    "gameCharacterUnitId": 19,
+    "id": 958,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 272,
+    "mysekaiFixtureId": 747
+  },
+  {
+    "gameCharacterUnitId": 27,
+    "id": 959,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 272,
+    "mysekaiFixtureId": 747
+  },
+  {
+    "gameCharacterUnitId": 28,
+    "id": 960,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 272,
+    "mysekaiFixtureId": 747
+  },
+  {
+    "gameCharacterUnitId": 30,
+    "id": 961,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 274,
+    "mysekaiFixtureId": 747
+  },
+  {
+    "gameCharacterUnitId": 31,
+    "id": 962,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 273,
+    "mysekaiFixtureId": 747
+  },
+  {
+    "gameCharacterUnitId": 39,
+    "id": 963,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 272,
+    "mysekaiFixtureId": 747
+  },
+  {
+    "gameCharacterUnitId": 2,
+    "id": 964,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 276,
+    "mysekaiFixtureId": 749
+  },
+  {
+    "gameCharacterUnitId": 7,
+    "id": 965,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 276,
+    "mysekaiFixtureId": 749
+  },
+  {
+    "gameCharacterUnitId": 8,
+    "id": 966,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 276,
+    "mysekaiFixtureId": 749
+  },
+  {
+    "gameCharacterUnitId": 9,
+    "id": 967,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 276,
+    "mysekaiFixtureId": 749
+  },
+  {
+    "gameCharacterUnitId": 13,
+    "id": 968,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 277,
+    "mysekaiFixtureId": 749
+  },
+  {
+    "gameCharacterUnitId": 14,
+    "id": 969,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 276,
+    "mysekaiFixtureId": 749
+  },
+  {
+    "gameCharacterUnitId": 17,
+    "id": 970,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 276,
+    "mysekaiFixtureId": 749
+  },
+  {
+    "gameCharacterUnitId": 18,
+    "id": 971,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 275,
+    "mysekaiFixtureId": 749
+  },
+  {
+    "gameCharacterUnitId": 19,
+    "id": 972,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 276,
+    "mysekaiFixtureId": 749
+  },
+  {
+    "gameCharacterUnitId": 28,
+    "id": 973,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 276,
+    "mysekaiFixtureId": 749
+  },
+  {
+    "gameCharacterUnitId": 30,
+    "id": 974,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 276,
+    "mysekaiFixtureId": 749
+  },
+  {
+    "gameCharacterUnitId": 31,
+    "id": 975,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 276,
+    "mysekaiFixtureId": 749
+  },
+  {
+    "gameCharacterUnitId": 42,
+    "id": 976,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 276,
+    "mysekaiFixtureId": 749
+  },
+  {
+    "gameCharacterUnitId": 55,
+    "id": 977,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 277,
+    "mysekaiFixtureId": 749
+  },
+  {
+    "gameCharacterUnitId": 1,
+    "id": 978,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 10,
+    "mysekaiFixtureId": 760
+  },
+  {
+    "gameCharacterUnitId": 2,
+    "id": 979,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 10,
+    "mysekaiFixtureId": 760
+  },
+  {
+    "gameCharacterUnitId": 3,
+    "id": 980,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 10,
+    "mysekaiFixtureId": 760
+  },
+  {
+    "gameCharacterUnitId": 4,
+    "id": 981,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 10,
+    "mysekaiFixtureId": 760
+  },
+  {
+    "gameCharacterUnitId": 5,
+    "id": 982,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 10,
+    "mysekaiFixtureId": 760
+  },
+  {
+    "gameCharacterUnitId": 6,
+    "id": 983,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 10,
+    "mysekaiFixtureId": 760
+  },
+  {
+    "gameCharacterUnitId": 7,
+    "id": 984,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 10,
+    "mysekaiFixtureId": 760
+  },
+  {
+    "gameCharacterUnitId": 8,
+    "id": 985,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 10,
+    "mysekaiFixtureId": 760
+  },
+  {
+    "gameCharacterUnitId": 9,
+    "id": 986,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 10,
+    "mysekaiFixtureId": 760
+  },
+  {
+    "gameCharacterUnitId": 10,
+    "id": 987,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 10,
+    "mysekaiFixtureId": 760
+  },
+  {
+    "gameCharacterUnitId": 11,
+    "id": 988,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 9,
+    "mysekaiFixtureId": 760
+  },
+  {
+    "gameCharacterUnitId": 12,
+    "id": 989,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 9,
+    "mysekaiFixtureId": 760
+  },
+  {
+    "gameCharacterUnitId": 13,
+    "id": 990,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 9,
+    "mysekaiFixtureId": 760
+  },
+  {
+    "gameCharacterUnitId": 14,
+    "id": 991,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 10,
+    "mysekaiFixtureId": 760
+  },
+  {
+    "gameCharacterUnitId": 15,
+    "id": 992,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 10,
+    "mysekaiFixtureId": 760
+  },
+  {
+    "gameCharacterUnitId": 16,
+    "id": 993,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 9,
+    "mysekaiFixtureId": 760
+  },
+  {
+    "gameCharacterUnitId": 17,
+    "id": 994,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 10,
+    "mysekaiFixtureId": 760
+  },
+  {
+    "gameCharacterUnitId": 18,
+    "id": 995,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 14,
+    "mysekaiFixtureId": 760
+  },
+  {
+    "gameCharacterUnitId": 19,
+    "id": 996,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 10,
+    "mysekaiFixtureId": 760
+  },
+  {
+    "gameCharacterUnitId": 20,
+    "id": 997,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 10,
+    "mysekaiFixtureId": 760
+  },
+  {
+    "gameCharacterUnitId": 27,
+    "id": 998,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 10,
+    "mysekaiFixtureId": 760
+  },
+  {
+    "gameCharacterUnitId": 28,
+    "id": 999,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 10,
+    "mysekaiFixtureId": 760
+  },
+  {
+    "gameCharacterUnitId": 29,
+    "id": 1000,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 10,
+    "mysekaiFixtureId": 760
+  },
+  {
+    "gameCharacterUnitId": 30,
+    "id": 1001,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 10,
+    "mysekaiFixtureId": 760
+  },
+  {
+    "gameCharacterUnitId": 31,
+    "id": 1002,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 10,
+    "mysekaiFixtureId": 760
+  },
+  {
+    "gameCharacterUnitId": 33,
+    "id": 1003,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 10,
+    "mysekaiFixtureId": 760
+  },
+  {
+    "gameCharacterUnitId": 39,
+    "id": 1004,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 9,
+    "mysekaiFixtureId": 760
+  },
+  {
+    "gameCharacterUnitId": 42,
+    "id": 1005,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 10,
+    "mysekaiFixtureId": 760
+  },
+  {
+    "gameCharacterUnitId": 49,
+    "id": 1006,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 10,
+    "mysekaiFixtureId": 760
+  },
+  {
+    "gameCharacterUnitId": 55,
+    "id": 1007,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 9,
+    "mysekaiFixtureId": 760
+  },
+  {
+    "gameCharacterUnitId": 14,
+    "id": 1008,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 131,
+    "mysekaiFixtureId": 805
+  },
+  {
+    "gameCharacterUnitId": 1,
+    "id": 1009,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 10,
+    "mysekaiFixtureId": 814
+  },
+  {
+    "gameCharacterUnitId": 2,
+    "id": 1010,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 10,
+    "mysekaiFixtureId": 814
+  },
+  {
+    "gameCharacterUnitId": 3,
+    "id": 1011,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 10,
+    "mysekaiFixtureId": 814
+  },
+  {
+    "gameCharacterUnitId": 4,
+    "id": 1012,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 10,
+    "mysekaiFixtureId": 814
+  },
+  {
+    "gameCharacterUnitId": 5,
+    "id": 1013,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 10,
+    "mysekaiFixtureId": 814
+  },
+  {
+    "gameCharacterUnitId": 6,
+    "id": 1014,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 10,
+    "mysekaiFixtureId": 814
+  },
+  {
+    "gameCharacterUnitId": 7,
+    "id": 1015,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 10,
+    "mysekaiFixtureId": 814
+  },
+  {
+    "gameCharacterUnitId": 8,
+    "id": 1016,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 10,
+    "mysekaiFixtureId": 814
+  },
+  {
+    "gameCharacterUnitId": 9,
+    "id": 1017,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 10,
+    "mysekaiFixtureId": 814
+  },
+  {
+    "gameCharacterUnitId": 10,
+    "id": 1018,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 10,
+    "mysekaiFixtureId": 814
+  },
+  {
+    "gameCharacterUnitId": 11,
+    "id": 1019,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 9,
+    "mysekaiFixtureId": 814
+  },
+  {
+    "gameCharacterUnitId": 12,
+    "id": 1020,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 9,
+    "mysekaiFixtureId": 814
+  },
+  {
+    "gameCharacterUnitId": 13,
+    "id": 1021,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 9,
+    "mysekaiFixtureId": 814
+  },
+  {
+    "gameCharacterUnitId": 14,
+    "id": 1022,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 10,
+    "mysekaiFixtureId": 814
+  },
+  {
+    "gameCharacterUnitId": 15,
+    "id": 1023,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 10,
+    "mysekaiFixtureId": 814
+  },
+  {
+    "gameCharacterUnitId": 16,
+    "id": 1024,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 9,
+    "mysekaiFixtureId": 814
+  },
+  {
+    "gameCharacterUnitId": 17,
+    "id": 1025,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 10,
+    "mysekaiFixtureId": 814
+  },
+  {
+    "gameCharacterUnitId": 18,
+    "id": 1026,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 14,
+    "mysekaiFixtureId": 814
+  },
+  {
+    "gameCharacterUnitId": 19,
+    "id": 1027,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 10,
+    "mysekaiFixtureId": 814
+  },
+  {
+    "gameCharacterUnitId": 20,
+    "id": 1028,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 10,
+    "mysekaiFixtureId": 814
+  },
+  {
+    "gameCharacterUnitId": 27,
+    "id": 1029,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 10,
+    "mysekaiFixtureId": 814
+  },
+  {
+    "gameCharacterUnitId": 28,
+    "id": 1030,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 10,
+    "mysekaiFixtureId": 814
+  },
+  {
+    "gameCharacterUnitId": 29,
+    "id": 1031,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 10,
+    "mysekaiFixtureId": 814
+  },
+  {
+    "gameCharacterUnitId": 30,
+    "id": 1032,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 10,
+    "mysekaiFixtureId": 814
+  },
+  {
+    "gameCharacterUnitId": 31,
+    "id": 1033,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 10,
+    "mysekaiFixtureId": 814
+  },
+  {
+    "gameCharacterUnitId": 33,
+    "id": 1034,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 10,
+    "mysekaiFixtureId": 814
+  },
+  {
+    "gameCharacterUnitId": 39,
+    "id": 1035,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 9,
+    "mysekaiFixtureId": 814
+  },
+  {
+    "gameCharacterUnitId": 42,
+    "id": 1036,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 10,
+    "mysekaiFixtureId": 814
+  },
+  {
+    "gameCharacterUnitId": 49,
+    "id": 1037,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 10,
+    "mysekaiFixtureId": 814
+  },
+  {
+    "gameCharacterUnitId": 55,
+    "id": 1038,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 9,
+    "mysekaiFixtureId": 814
+  },
+  {
+    "gameCharacterUnitId": 1,
+    "id": 1039,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 283,
+    "mysekaiFixtureId": 986
+  },
+  {
+    "gameCharacterUnitId": 2,
+    "id": 1040,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 283,
+    "mysekaiFixtureId": 986
+  },
+  {
+    "gameCharacterUnitId": 3,
+    "id": 1041,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 283,
+    "mysekaiFixtureId": 986
+  },
+  {
+    "gameCharacterUnitId": 4,
+    "id": 1042,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 284,
+    "mysekaiFixtureId": 986
+  },
+  {
+    "gameCharacterUnitId": 5,
+    "id": 1043,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 283,
+    "mysekaiFixtureId": 986
+  },
+  {
+    "gameCharacterUnitId": 6,
+    "id": 1044,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 283,
+    "mysekaiFixtureId": 986
+  },
+  {
+    "gameCharacterUnitId": 7,
+    "id": 1045,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 283,
+    "mysekaiFixtureId": 986
+  },
+  {
+    "gameCharacterUnitId": 8,
+    "id": 1046,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 283,
+    "mysekaiFixtureId": 986
+  },
+  {
+    "gameCharacterUnitId": 9,
+    "id": 1047,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 283,
+    "mysekaiFixtureId": 986
+  },
+  {
+    "gameCharacterUnitId": 10,
+    "id": 1048,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 283,
+    "mysekaiFixtureId": 986
+  },
+  {
+    "gameCharacterUnitId": 11,
+    "id": 1049,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 284,
+    "mysekaiFixtureId": 986
+  },
+  {
+    "gameCharacterUnitId": 12,
+    "id": 1050,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 283,
+    "mysekaiFixtureId": 986
+  },
+  {
+    "gameCharacterUnitId": 13,
+    "id": 1051,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 283,
+    "mysekaiFixtureId": 986
+  },
+  {
+    "gameCharacterUnitId": 14,
+    "id": 1052,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 283,
+    "mysekaiFixtureId": 986
+  },
+  {
+    "gameCharacterUnitId": 15,
+    "id": 1053,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 283,
+    "mysekaiFixtureId": 986
+  },
+  {
+    "gameCharacterUnitId": 16,
+    "id": 1054,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 283,
+    "mysekaiFixtureId": 986
+  },
+  {
+    "gameCharacterUnitId": 17,
+    "id": 1055,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 283,
+    "mysekaiFixtureId": 986
+  },
+  {
+    "gameCharacterUnitId": 18,
+    "id": 1056,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 284,
+    "mysekaiFixtureId": 986
+  },
+  {
+    "gameCharacterUnitId": 19,
+    "id": 1057,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 283,
+    "mysekaiFixtureId": 986
+  },
+  {
+    "gameCharacterUnitId": 20,
+    "id": 1058,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 283,
+    "mysekaiFixtureId": 986
+  },
+  {
+    "gameCharacterUnitId": 27,
+    "id": 1059,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 283,
+    "mysekaiFixtureId": 986
+  },
+  {
+    "gameCharacterUnitId": 28,
+    "id": 1060,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 283,
+    "mysekaiFixtureId": 986
+  },
+  {
+    "gameCharacterUnitId": 29,
+    "id": 1061,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 283,
+    "mysekaiFixtureId": 986
+  },
+  {
+    "gameCharacterUnitId": 30,
+    "id": 1062,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 283,
+    "mysekaiFixtureId": 986
+  },
+  {
+    "gameCharacterUnitId": 31,
+    "id": 1063,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 284,
+    "mysekaiFixtureId": 986
+  },
+  {
+    "gameCharacterUnitId": 33,
+    "id": 1064,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 283,
+    "mysekaiFixtureId": 986
+  },
+  {
+    "gameCharacterUnitId": 39,
+    "id": 1065,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 283,
+    "mysekaiFixtureId": 986
+  },
+  {
+    "gameCharacterUnitId": 42,
+    "id": 1066,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 283,
+    "mysekaiFixtureId": 986
+  },
+  {
+    "gameCharacterUnitId": 49,
+    "id": 1067,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 283,
+    "mysekaiFixtureId": 986
+  },
+  {
+    "gameCharacterUnitId": 55,
+    "id": 1068,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 283,
+    "mysekaiFixtureId": 986
+  },
+  {
+    "gameCharacterUnitId": 1,
+    "id": 1069,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 281,
+    "mysekaiFixtureId": 988
+  },
+  {
+    "gameCharacterUnitId": 3,
+    "id": 1070,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 281,
+    "mysekaiFixtureId": 988
+  },
+  {
+    "gameCharacterUnitId": 4,
+    "id": 1071,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 282,
+    "mysekaiFixtureId": 988
+  },
+  {
+    "gameCharacterUnitId": 5,
+    "id": 1072,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 281,
+    "mysekaiFixtureId": 988
+  },
+  {
+    "gameCharacterUnitId": 6,
+    "id": 1073,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 281,
+    "mysekaiFixtureId": 988
+  },
+  {
+    "gameCharacterUnitId": 7,
+    "id": 1074,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 281,
+    "mysekaiFixtureId": 988
+  },
+  {
+    "gameCharacterUnitId": 9,
+    "id": 1075,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 281,
+    "mysekaiFixtureId": 988
+  },
+  {
+    "gameCharacterUnitId": 10,
+    "id": 1076,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 281,
+    "mysekaiFixtureId": 988
+  },
+  {
+    "gameCharacterUnitId": 11,
+    "id": 1077,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 282,
+    "mysekaiFixtureId": 988
+  },
+  {
+    "gameCharacterUnitId": 12,
+    "id": 1078,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 281,
+    "mysekaiFixtureId": 988
+  },
+  {
+    "gameCharacterUnitId": 13,
+    "id": 1079,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 281,
+    "mysekaiFixtureId": 988
+  },
+  {
+    "gameCharacterUnitId": 15,
+    "id": 1080,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 281,
+    "mysekaiFixtureId": 988
+  },
+  {
+    "gameCharacterUnitId": 16,
+    "id": 1081,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 281,
+    "mysekaiFixtureId": 988
+  },
+  {
+    "gameCharacterUnitId": 18,
+    "id": 1082,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 282,
+    "mysekaiFixtureId": 988
+  },
+  {
+    "gameCharacterUnitId": 19,
+    "id": 1083,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 281,
+    "mysekaiFixtureId": 988
+  },
+  {
+    "gameCharacterUnitId": 20,
+    "id": 1084,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 281,
+    "mysekaiFixtureId": 988
+  },
+  {
+    "gameCharacterUnitId": 27,
+    "id": 1085,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 281,
+    "mysekaiFixtureId": 988
+  },
+  {
+    "gameCharacterUnitId": 28,
+    "id": 1086,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 281,
+    "mysekaiFixtureId": 988
+  },
+  {
+    "gameCharacterUnitId": 29,
+    "id": 1087,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 281,
+    "mysekaiFixtureId": 988
+  },
+  {
+    "gameCharacterUnitId": 30,
+    "id": 1088,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 281,
+    "mysekaiFixtureId": 988
+  },
+  {
+    "gameCharacterUnitId": 31,
+    "id": 1089,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 282,
+    "mysekaiFixtureId": 988
+  },
+  {
+    "gameCharacterUnitId": 39,
+    "id": 1090,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 281,
+    "mysekaiFixtureId": 988
+  },
+  {
+    "gameCharacterUnitId": 42,
+    "id": 1091,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 281,
+    "mysekaiFixtureId": 988
+  },
+  {
+    "gameCharacterUnitId": 49,
+    "id": 1092,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 281,
+    "mysekaiFixtureId": 988
+  },
+  {
+    "gameCharacterUnitId": 55,
+    "id": 1093,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 281,
+    "mysekaiFixtureId": 988
+  },
+  {
+    "gameCharacterUnitId": 11,
+    "id": 1094,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 280,
+    "mysekaiFixtureId": 984
+  },
+  {
+    "gameCharacterUnitId": 13,
+    "id": 1095,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 280,
+    "mysekaiFixtureId": 984
+  },
+  {
+    "gameCharacterUnitId": 16,
+    "id": 1096,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 285,
+    "mysekaiFixtureId": 984
+  },
+  {
+    "gameCharacterUnitId": 55,
+    "id": 1097,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 285,
+    "mysekaiFixtureId": 984
+  },
+  {
+    "gameCharacterUnitId": 2,
+    "id": 1098,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 116,
+    "mysekaiFixtureId": 984
+  },
+  {
+    "gameCharacterUnitId": 3,
+    "id": 1099,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 116,
+    "mysekaiFixtureId": 984
+  },
+  {
+    "gameCharacterUnitId": 5,
+    "id": 1100,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 116,
+    "mysekaiFixtureId": 984
+  },
+  {
+    "gameCharacterUnitId": 6,
+    "id": 1101,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 116,
+    "mysekaiFixtureId": 984
+  },
+  {
+    "gameCharacterUnitId": 7,
+    "id": 1102,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 116,
+    "mysekaiFixtureId": 984
+  },
+  {
+    "gameCharacterUnitId": 8,
+    "id": 1103,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 116,
+    "mysekaiFixtureId": 984
+  },
+  {
+    "gameCharacterUnitId": 9,
+    "id": 1104,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 116,
+    "mysekaiFixtureId": 984
+  },
+  {
+    "gameCharacterUnitId": 10,
+    "id": 1105,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 116,
+    "mysekaiFixtureId": 984
+  },
+  {
+    "gameCharacterUnitId": 14,
+    "id": 1106,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 116,
+    "mysekaiFixtureId": 984
+  },
+  {
+    "gameCharacterUnitId": 17,
+    "id": 1107,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 116,
+    "mysekaiFixtureId": 984
+  },
+  {
+    "gameCharacterUnitId": 18,
+    "id": 1108,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 115,
+    "mysekaiFixtureId": 984
+  },
+  {
+    "gameCharacterUnitId": 19,
+    "id": 1109,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 116,
+    "mysekaiFixtureId": 984
+  },
+  {
+    "gameCharacterUnitId": 28,
+    "id": 1110,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 116,
+    "mysekaiFixtureId": 984
+  },
+  {
+    "gameCharacterUnitId": 29,
+    "id": 1111,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 116,
+    "mysekaiFixtureId": 984
+  },
+  {
+    "gameCharacterUnitId": 30,
+    "id": 1112,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 116,
+    "mysekaiFixtureId": 984
+  },
+  {
+    "gameCharacterUnitId": 31,
+    "id": 1113,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 116,
+    "mysekaiFixtureId": 984
+  },
+  {
+    "gameCharacterUnitId": 33,
+    "id": 1114,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 116,
+    "mysekaiFixtureId": 984
+  },
+  {
+    "gameCharacterUnitId": 49,
+    "id": 1115,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 116,
+    "mysekaiFixtureId": 984
+  },
+  {
+    "gameCharacterUnitId": 1,
+    "id": 1116,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 1025
+  },
+  {
+    "gameCharacterUnitId": 2,
+    "id": 1117,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 1025
+  },
+  {
+    "gameCharacterUnitId": 3,
+    "id": 1118,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 1025
+  },
+  {
+    "gameCharacterUnitId": 4,
+    "id": 1119,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 1025
+  },
+  {
+    "gameCharacterUnitId": 5,
+    "id": 1120,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 1025
+  },
+  {
+    "gameCharacterUnitId": 6,
+    "id": 1121,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 1025
+  },
+  {
+    "gameCharacterUnitId": 7,
+    "id": 1122,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 1025
+  },
+  {
+    "gameCharacterUnitId": 8,
+    "id": 1123,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 1025
+  },
+  {
+    "gameCharacterUnitId": 9,
+    "id": 1124,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 1025
+  },
+  {
+    "gameCharacterUnitId": 10,
+    "id": 1125,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 1025
+  },
+  {
+    "gameCharacterUnitId": 11,
+    "id": 1126,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 5,
+    "mysekaiFixtureId": 1025
+  },
+  {
+    "gameCharacterUnitId": 12,
+    "id": 1127,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 5,
+    "mysekaiFixtureId": 1025
+  },
+  {
+    "gameCharacterUnitId": 13,
+    "id": 1128,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 5,
+    "mysekaiFixtureId": 1025
+  },
+  {
+    "gameCharacterUnitId": 14,
+    "id": 1129,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 1025
+  },
+  {
+    "gameCharacterUnitId": 15,
+    "id": 1130,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 1025
+  },
+  {
+    "gameCharacterUnitId": 16,
+    "id": 1131,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 5,
+    "mysekaiFixtureId": 1025
+  },
+  {
+    "gameCharacterUnitId": 17,
+    "id": 1132,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 1025
+  },
+  {
+    "gameCharacterUnitId": 18,
+    "id": 1133,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 12,
+    "mysekaiFixtureId": 1025
+  },
+  {
+    "gameCharacterUnitId": 19,
+    "id": 1134,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 1025
+  },
+  {
+    "gameCharacterUnitId": 20,
+    "id": 1135,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 1025
+  },
+  {
+    "gameCharacterUnitId": 27,
+    "id": 1136,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 1025
+  },
+  {
+    "gameCharacterUnitId": 42,
+    "id": 1137,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 1025
+  },
+  {
+    "gameCharacterUnitId": 28,
+    "id": 1138,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 1025
+  },
+  {
+    "gameCharacterUnitId": 33,
+    "id": 1139,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 1025
+  },
+  {
+    "gameCharacterUnitId": 29,
+    "id": 1140,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 1025
+  },
+  {
+    "gameCharacterUnitId": 39,
+    "id": 1141,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 5,
+    "mysekaiFixtureId": 1025
+  },
+  {
+    "gameCharacterUnitId": 49,
+    "id": 1142,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 1025
+  },
+  {
+    "gameCharacterUnitId": 30,
+    "id": 1143,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 1025
+  },
+  {
+    "gameCharacterUnitId": 55,
+    "id": 1144,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 5,
+    "mysekaiFixtureId": 1025
+  },
+  {
+    "gameCharacterUnitId": 31,
+    "id": 1145,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 1025
+  },
+  {
+    "gameCharacterUnitId": 1,
+    "id": 1146,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 1096
+  },
+  {
+    "gameCharacterUnitId": 2,
+    "id": 1147,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 1096
+  },
+  {
+    "gameCharacterUnitId": 3,
+    "id": 1148,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 1096
+  },
+  {
+    "gameCharacterUnitId": 4,
+    "id": 1149,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 1096
+  },
+  {
+    "gameCharacterUnitId": 5,
+    "id": 1150,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 1096
+  },
+  {
+    "gameCharacterUnitId": 6,
+    "id": 1151,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 1096
+  },
+  {
+    "gameCharacterUnitId": 7,
+    "id": 1152,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 1096
+  },
+  {
+    "gameCharacterUnitId": 8,
+    "id": 1153,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 1096
+  },
+  {
+    "gameCharacterUnitId": 9,
+    "id": 1154,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 1096
+  },
+  {
+    "gameCharacterUnitId": 10,
+    "id": 1155,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 1096
+  },
+  {
+    "gameCharacterUnitId": 11,
+    "id": 1156,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 7,
+    "mysekaiFixtureId": 1096
+  },
+  {
+    "gameCharacterUnitId": 12,
+    "id": 1157,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 7,
+    "mysekaiFixtureId": 1096
+  },
+  {
+    "gameCharacterUnitId": 13,
+    "id": 1158,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 7,
+    "mysekaiFixtureId": 1096
+  },
+  {
+    "gameCharacterUnitId": 14,
+    "id": 1159,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 1096
+  },
+  {
+    "gameCharacterUnitId": 15,
+    "id": 1160,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 1096
+  },
+  {
+    "gameCharacterUnitId": 16,
+    "id": 1161,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 7,
+    "mysekaiFixtureId": 1096
+  },
+  {
+    "gameCharacterUnitId": 17,
+    "id": 1162,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 1096
+  },
+  {
+    "gameCharacterUnitId": 18,
+    "id": 1163,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 13,
+    "mysekaiFixtureId": 1096
+  },
+  {
+    "gameCharacterUnitId": 19,
+    "id": 1164,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 1096
+  },
+  {
+    "gameCharacterUnitId": 20,
+    "id": 1165,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 1096
+  },
+  {
+    "gameCharacterUnitId": 27,
+    "id": 1166,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 1096
+  },
+  {
+    "gameCharacterUnitId": 42,
+    "id": 1167,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 1096
+  },
+  {
+    "gameCharacterUnitId": 28,
+    "id": 1168,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 1096
+  },
+  {
+    "gameCharacterUnitId": 33,
+    "id": 1169,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 1096
+  },
+  {
+    "gameCharacterUnitId": 29,
+    "id": 1170,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 1096
+  },
+  {
+    "gameCharacterUnitId": 39,
+    "id": 1171,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 7,
+    "mysekaiFixtureId": 1096
+  },
+  {
+    "gameCharacterUnitId": 49,
+    "id": 1172,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 1096
+  },
+  {
+    "gameCharacterUnitId": 30,
+    "id": 1173,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 1096
+  },
+  {
+    "gameCharacterUnitId": 55,
+    "id": 1174,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 7,
+    "mysekaiFixtureId": 1096
+  },
+  {
+    "gameCharacterUnitId": 31,
+    "id": 1175,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 8,
+    "mysekaiFixtureId": 1096
+  },
+  {
+    "gameCharacterUnitId": 4,
+    "id": 1176,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 311,
+    "mysekaiFixtureId": 1098
+  },
+  {
+    "gameCharacterUnitId": 6,
+    "id": 1177,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 311,
+    "mysekaiFixtureId": 1098
+  },
+  {
+    "gameCharacterUnitId": 8,
+    "id": 1178,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 311,
+    "mysekaiFixtureId": 1098
+  },
+  {
+    "gameCharacterUnitId": 10,
+    "id": 1179,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 311,
+    "mysekaiFixtureId": 1098
+  },
+  {
+    "gameCharacterUnitId": 15,
+    "id": 1180,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 311,
+    "mysekaiFixtureId": 1098
+  },
+  {
+    "gameCharacterUnitId": 20,
+    "id": 1181,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 310,
+    "mysekaiFixtureId": 1098
+  },
+  {
+    "gameCharacterUnitId": 42,
+    "id": 1182,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 311,
+    "mysekaiFixtureId": 1098
+  },
+  {
+    "gameCharacterUnitId": 28,
+    "id": 1183,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 311,
+    "mysekaiFixtureId": 1098
+  },
+  {
+    "gameCharacterUnitId": 49,
+    "id": 1184,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 311,
+    "mysekaiFixtureId": 1098
+  },
+  {
+    "gameCharacterUnitId": 55,
+    "id": 1185,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 311,
+    "mysekaiFixtureId": 1098
+  },
+  {
+    "gameCharacterUnitId": 1,
+    "id": 1186,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 1134
+  },
+  {
+    "gameCharacterUnitId": 2,
+    "id": 1187,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 1134
+  },
+  {
+    "gameCharacterUnitId": 3,
+    "id": 1188,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 1134
+  },
+  {
+    "gameCharacterUnitId": 4,
+    "id": 1189,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 1134
+  },
+  {
+    "gameCharacterUnitId": 5,
+    "id": 1190,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 1134
+  },
+  {
+    "gameCharacterUnitId": 6,
+    "id": 1191,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 1134
+  },
+  {
+    "gameCharacterUnitId": 7,
+    "id": 1192,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 1134
+  },
+  {
+    "gameCharacterUnitId": 8,
+    "id": 1193,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 1134
+  },
+  {
+    "gameCharacterUnitId": 9,
+    "id": 1194,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 1134
+  },
+  {
+    "gameCharacterUnitId": 10,
+    "id": 1195,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 1134
+  },
+  {
+    "gameCharacterUnitId": 11,
+    "id": 1196,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 5,
+    "mysekaiFixtureId": 1134
+  },
+  {
+    "gameCharacterUnitId": 12,
+    "id": 1197,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 5,
+    "mysekaiFixtureId": 1134
+  },
+  {
+    "gameCharacterUnitId": 13,
+    "id": 1198,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 5,
+    "mysekaiFixtureId": 1134
+  },
+  {
+    "gameCharacterUnitId": 14,
+    "id": 1199,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 1134
+  },
+  {
+    "gameCharacterUnitId": 15,
+    "id": 1200,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 1134
+  },
+  {
+    "gameCharacterUnitId": 16,
+    "id": 1201,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 5,
+    "mysekaiFixtureId": 1134
+  },
+  {
+    "gameCharacterUnitId": 17,
+    "id": 1202,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 1134
+  },
+  {
+    "gameCharacterUnitId": 18,
+    "id": 1203,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 12,
+    "mysekaiFixtureId": 1134
+  },
+  {
+    "gameCharacterUnitId": 19,
+    "id": 1204,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 1134
+  },
+  {
+    "gameCharacterUnitId": 20,
+    "id": 1205,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 1134
+  },
+  {
+    "gameCharacterUnitId": 27,
+    "id": 1206,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 1134
+  },
+  {
+    "gameCharacterUnitId": 42,
+    "id": 1207,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 1134
+  },
+  {
+    "gameCharacterUnitId": 28,
+    "id": 1208,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 1134
+  },
+  {
+    "gameCharacterUnitId": 33,
+    "id": 1209,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 1134
+  },
+  {
+    "gameCharacterUnitId": 29,
+    "id": 1210,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 1134
+  },
+  {
+    "gameCharacterUnitId": 39,
+    "id": 1211,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 5,
+    "mysekaiFixtureId": 1134
+  },
+  {
+    "gameCharacterUnitId": 49,
+    "id": 1212,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 1134
+  },
+  {
+    "gameCharacterUnitId": 30,
+    "id": 1213,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 1134
+  },
+  {
+    "gameCharacterUnitId": 55,
+    "id": 1214,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 5,
+    "mysekaiFixtureId": 1134
+  },
+  {
+    "gameCharacterUnitId": 31,
+    "id": 1215,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 1134
+  },
+  {
+    "gameCharacterUnitId": 1,
+    "id": 1216,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 281,
+    "mysekaiFixtureId": 1177
+  },
+  {
+    "gameCharacterUnitId": 2,
+    "id": 1217,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 281,
+    "mysekaiFixtureId": 1177
+  },
+  {
+    "gameCharacterUnitId": 3,
+    "id": 1218,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 281,
+    "mysekaiFixtureId": 1177
+  },
+  {
+    "gameCharacterUnitId": 4,
+    "id": 1219,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 281,
+    "mysekaiFixtureId": 1177
+  },
+  {
+    "gameCharacterUnitId": 5,
+    "id": 1220,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 281,
+    "mysekaiFixtureId": 1177
+  },
+  {
+    "gameCharacterUnitId": 6,
+    "id": 1221,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 281,
+    "mysekaiFixtureId": 1177
+  },
+  {
+    "gameCharacterUnitId": 7,
+    "id": 1222,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 281,
+    "mysekaiFixtureId": 1177
+  },
+  {
+    "gameCharacterUnitId": 8,
+    "id": 1223,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 281,
+    "mysekaiFixtureId": 1177
+  },
+  {
+    "gameCharacterUnitId": 9,
+    "id": 1224,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 281,
+    "mysekaiFixtureId": 1177
+  },
+  {
+    "gameCharacterUnitId": 10,
+    "id": 1225,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 281,
+    "mysekaiFixtureId": 1177
+  },
+  {
+    "gameCharacterUnitId": 11,
+    "id": 1226,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 281,
+    "mysekaiFixtureId": 1177
+  },
+  {
+    "gameCharacterUnitId": 12,
+    "id": 1227,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 281,
+    "mysekaiFixtureId": 1177
+  },
+  {
+    "gameCharacterUnitId": 13,
+    "id": 1228,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 281,
+    "mysekaiFixtureId": 1177
+  },
+  {
+    "gameCharacterUnitId": 14,
+    "id": 1229,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 281,
+    "mysekaiFixtureId": 1177
+  },
+  {
+    "gameCharacterUnitId": 15,
+    "id": 1230,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 281,
+    "mysekaiFixtureId": 1177
+  },
+  {
+    "gameCharacterUnitId": 16,
+    "id": 1231,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 281,
+    "mysekaiFixtureId": 1177
+  },
+  {
+    "gameCharacterUnitId": 17,
+    "id": 1232,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 281,
+    "mysekaiFixtureId": 1177
+  },
+  {
+    "gameCharacterUnitId": 18,
+    "id": 1233,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 282,
+    "mysekaiFixtureId": 1177
+  },
+  {
+    "gameCharacterUnitId": 19,
+    "id": 1234,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 281,
+    "mysekaiFixtureId": 1177
+  },
+  {
+    "gameCharacterUnitId": 20,
+    "id": 1235,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 281,
+    "mysekaiFixtureId": 1177
+  },
+  {
+    "gameCharacterUnitId": 27,
+    "id": 1236,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 281,
+    "mysekaiFixtureId": 1177
+  },
+  {
+    "gameCharacterUnitId": 28,
+    "id": 1237,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 281,
+    "mysekaiFixtureId": 1177
+  },
+  {
+    "gameCharacterUnitId": 29,
+    "id": 1238,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 281,
+    "mysekaiFixtureId": 1177
+  },
+  {
+    "gameCharacterUnitId": 30,
+    "id": 1239,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 281,
+    "mysekaiFixtureId": 1177
+  },
+  {
+    "gameCharacterUnitId": 31,
+    "id": 1240,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 281,
+    "mysekaiFixtureId": 1177
+  },
+  {
+    "gameCharacterUnitId": 33,
+    "id": 1241,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 281,
+    "mysekaiFixtureId": 1177
+  },
+  {
+    "gameCharacterUnitId": 39,
+    "id": 1242,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 281,
+    "mysekaiFixtureId": 1177
+  },
+  {
+    "gameCharacterUnitId": 42,
+    "id": 1243,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 281,
+    "mysekaiFixtureId": 1177
+  },
+  {
+    "gameCharacterUnitId": 49,
+    "id": 1244,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 281,
+    "mysekaiFixtureId": 1177
+  },
+  {
+    "gameCharacterUnitId": 55,
+    "id": 1245,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 281,
+    "mysekaiFixtureId": 1177
+  },
+  {
+    "gameCharacterUnitId": 1,
+    "id": 1246,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 1183
+  },
+  {
+    "gameCharacterUnitId": 2,
+    "id": 1247,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 1183
+  },
+  {
+    "gameCharacterUnitId": 3,
+    "id": 1248,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 1183
+  },
+  {
+    "gameCharacterUnitId": 4,
+    "id": 1249,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 1183
+  },
+  {
+    "gameCharacterUnitId": 5,
+    "id": 1250,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 1183
+  },
+  {
+    "gameCharacterUnitId": 6,
+    "id": 1251,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 1183
+  },
+  {
+    "gameCharacterUnitId": 7,
+    "id": 1252,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 1183
+  },
+  {
+    "gameCharacterUnitId": 8,
+    "id": 1253,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 1183
+  },
+  {
+    "gameCharacterUnitId": 9,
+    "id": 1254,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 1183
+  },
+  {
+    "gameCharacterUnitId": 10,
+    "id": 1255,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 1183
+  },
+  {
+    "gameCharacterUnitId": 11,
+    "id": 1256,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 5,
+    "mysekaiFixtureId": 1183
+  },
+  {
+    "gameCharacterUnitId": 12,
+    "id": 1257,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 5,
+    "mysekaiFixtureId": 1183
+  },
+  {
+    "gameCharacterUnitId": 13,
+    "id": 1258,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 5,
+    "mysekaiFixtureId": 1183
+  },
+  {
+    "gameCharacterUnitId": 14,
+    "id": 1259,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 1183
+  },
+  {
+    "gameCharacterUnitId": 15,
+    "id": 1260,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 1183
+  },
+  {
+    "gameCharacterUnitId": 16,
+    "id": 1261,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 5,
+    "mysekaiFixtureId": 1183
+  },
+  {
+    "gameCharacterUnitId": 17,
+    "id": 1262,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 1183
+  },
+  {
+    "gameCharacterUnitId": 18,
+    "id": 1263,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 12,
+    "mysekaiFixtureId": 1183
+  },
+  {
+    "gameCharacterUnitId": 19,
+    "id": 1264,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 1183
+  },
+  {
+    "gameCharacterUnitId": 20,
+    "id": 1265,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 1183
+  },
+  {
+    "gameCharacterUnitId": 27,
+    "id": 1266,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 1183
+  },
+  {
+    "gameCharacterUnitId": 28,
+    "id": 1267,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 1183
+  },
+  {
+    "gameCharacterUnitId": 29,
+    "id": 1268,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 1183
+  },
+  {
+    "gameCharacterUnitId": 30,
+    "id": 1269,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 1183
+  },
+  {
+    "gameCharacterUnitId": 31,
+    "id": 1270,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 1183
+  },
+  {
+    "gameCharacterUnitId": 33,
+    "id": 1271,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 1183
+  },
+  {
+    "gameCharacterUnitId": 39,
+    "id": 1272,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 5,
+    "mysekaiFixtureId": 1183
+  },
+  {
+    "gameCharacterUnitId": 42,
+    "id": 1273,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 1183
+  },
+  {
+    "gameCharacterUnitId": 49,
+    "id": 1274,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 6,
+    "mysekaiFixtureId": 1183
+  },
+  {
+    "gameCharacterUnitId": 55,
+    "id": 1275,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 5,
+    "mysekaiFixtureId": 1183
+  },
+  {
+    "gameCharacterUnitId": 3,
+    "id": 1276,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 322,
+    "mysekaiFixtureId": 1147
+  },
+  {
+    "gameCharacterUnitId": 5,
+    "id": 1277,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 323,
+    "mysekaiFixtureId": 1147
+  },
+  {
+    "gameCharacterUnitId": 8,
+    "id": 1278,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 322,
+    "mysekaiFixtureId": 1147
+  },
+  {
+    "gameCharacterUnitId": 9,
+    "id": 1279,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 322,
+    "mysekaiFixtureId": 1147
+  },
+  {
+    "gameCharacterUnitId": 10,
+    "id": 1280,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 323,
+    "mysekaiFixtureId": 1147
+  },
+  {
+    "gameCharacterUnitId": 11,
+    "id": 1281,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 322,
+    "mysekaiFixtureId": 1147
+  },
+  {
+    "gameCharacterUnitId": 12,
+    "id": 1282,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 322,
+    "mysekaiFixtureId": 1147
+  },
+  {
+    "gameCharacterUnitId": 15,
+    "id": 1283,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 322,
+    "mysekaiFixtureId": 1147
+  },
+  {
+    "gameCharacterUnitId": 16,
+    "id": 1284,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 322,
+    "mysekaiFixtureId": 1147
+  },
+  {
+    "gameCharacterUnitId": 17,
+    "id": 1285,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 322,
+    "mysekaiFixtureId": 1147
+  },
+  {
+    "gameCharacterUnitId": 18,
+    "id": 1286,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 326,
+    "mysekaiFixtureId": 1147
+  },
+  {
+    "gameCharacterUnitId": 27,
+    "id": 1287,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 322,
+    "mysekaiFixtureId": 1147
+  },
+  {
+    "gameCharacterUnitId": 28,
+    "id": 1288,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 322,
+    "mysekaiFixtureId": 1147
+  },
+  {
+    "gameCharacterUnitId": 29,
+    "id": 1289,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 322,
+    "mysekaiFixtureId": 1147
+  },
+  {
+    "gameCharacterUnitId": 39,
+    "id": 1290,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 323,
+    "mysekaiFixtureId": 1147
+  },
+  {
+    "gameCharacterUnitId": 30,
+    "id": 1291,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 323,
+    "mysekaiFixtureId": 1147
+  },
+  {
+    "gameCharacterUnitId": 1,
+    "id": 1292,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 327,
+    "mysekaiFixtureId": 1148
+  },
+  {
+    "gameCharacterUnitId": 2,
+    "id": 1293,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 328,
+    "mysekaiFixtureId": 1148
+  },
+  {
+    "gameCharacterUnitId": 4,
+    "id": 1294,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 327,
+    "mysekaiFixtureId": 1148
+  },
+  {
+    "gameCharacterUnitId": 6,
+    "id": 1295,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 327,
+    "mysekaiFixtureId": 1148
+  },
+  {
+    "gameCharacterUnitId": 7,
+    "id": 1296,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 327,
+    "mysekaiFixtureId": 1148
+  },
+  {
+    "gameCharacterUnitId": 11,
+    "id": 1297,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 327,
+    "mysekaiFixtureId": 1148
+  },
+  {
+    "gameCharacterUnitId": 12,
+    "id": 1298,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 327,
+    "mysekaiFixtureId": 1148
+  },
+  {
+    "gameCharacterUnitId": 13,
+    "id": 1299,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 327,
+    "mysekaiFixtureId": 1148
+  },
+  {
+    "gameCharacterUnitId": 14,
+    "id": 1300,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 327,
+    "mysekaiFixtureId": 1148
+  },
+  {
+    "gameCharacterUnitId": 19,
+    "id": 1301,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 327,
+    "mysekaiFixtureId": 1148
+  },
+  {
+    "gameCharacterUnitId": 20,
+    "id": 1302,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 327,
+    "mysekaiFixtureId": 1148
+  },
+  {
+    "gameCharacterUnitId": 42,
+    "id": 1303,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 327,
+    "mysekaiFixtureId": 1148
+  },
+  {
+    "gameCharacterUnitId": 33,
+    "id": 1304,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 328,
+    "mysekaiFixtureId": 1148
+  },
+  {
+    "gameCharacterUnitId": 49,
+    "id": 1305,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 327,
+    "mysekaiFixtureId": 1148
+  },
+  {
+    "gameCharacterUnitId": 55,
+    "id": 1306,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 327,
+    "mysekaiFixtureId": 1148
+  },
+  {
+    "gameCharacterUnitId": 31,
+    "id": 1307,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 328,
+    "mysekaiFixtureId": 1148
+  },
+  {
+    "gameCharacterUnitId": 1,
+    "id": 1308,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 281,
+    "mysekaiFixtureId": 1153
+  },
+  {
+    "gameCharacterUnitId": 2,
+    "id": 1309,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 281,
+    "mysekaiFixtureId": 1153
+  },
+  {
+    "gameCharacterUnitId": 3,
+    "id": 1310,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 281,
+    "mysekaiFixtureId": 1153
+  },
+  {
+    "gameCharacterUnitId": 4,
+    "id": 1311,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 281,
+    "mysekaiFixtureId": 1153
+  },
+  {
+    "gameCharacterUnitId": 5,
+    "id": 1312,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 281,
+    "mysekaiFixtureId": 1153
+  },
+  {
+    "gameCharacterUnitId": 6,
+    "id": 1313,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 281,
+    "mysekaiFixtureId": 1153
+  },
+  {
+    "gameCharacterUnitId": 7,
+    "id": 1314,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 281,
+    "mysekaiFixtureId": 1153
+  },
+  {
+    "gameCharacterUnitId": 8,
+    "id": 1315,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 281,
+    "mysekaiFixtureId": 1153
+  },
+  {
+    "gameCharacterUnitId": 9,
+    "id": 1316,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 281,
+    "mysekaiFixtureId": 1153
+  },
+  {
+    "gameCharacterUnitId": 10,
+    "id": 1317,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 281,
+    "mysekaiFixtureId": 1153
+  },
+  {
+    "gameCharacterUnitId": 11,
+    "id": 1318,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 281,
+    "mysekaiFixtureId": 1153
+  },
+  {
+    "gameCharacterUnitId": 12,
+    "id": 1319,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 281,
+    "mysekaiFixtureId": 1153
+  },
+  {
+    "gameCharacterUnitId": 13,
+    "id": 1320,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 281,
+    "mysekaiFixtureId": 1153
+  },
+  {
+    "gameCharacterUnitId": 14,
+    "id": 1321,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 281,
+    "mysekaiFixtureId": 1153
+  },
+  {
+    "gameCharacterUnitId": 15,
+    "id": 1322,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 281,
+    "mysekaiFixtureId": 1153
+  },
+  {
+    "gameCharacterUnitId": 16,
+    "id": 1323,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 281,
+    "mysekaiFixtureId": 1153
+  },
+  {
+    "gameCharacterUnitId": 17,
+    "id": 1324,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 281,
+    "mysekaiFixtureId": 1153
+  },
+  {
+    "gameCharacterUnitId": 18,
+    "id": 1325,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 282,
+    "mysekaiFixtureId": 1153
+  },
+  {
+    "gameCharacterUnitId": 19,
+    "id": 1326,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 281,
+    "mysekaiFixtureId": 1153
+  },
+  {
+    "gameCharacterUnitId": 20,
+    "id": 1327,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 281,
+    "mysekaiFixtureId": 1153
+  },
+  {
+    "gameCharacterUnitId": 27,
+    "id": 1328,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 281,
+    "mysekaiFixtureId": 1153
+  },
+  {
+    "gameCharacterUnitId": 28,
+    "id": 1329,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 281,
+    "mysekaiFixtureId": 1153
+  },
+  {
+    "gameCharacterUnitId": 29,
+    "id": 1330,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 281,
+    "mysekaiFixtureId": 1153
+  },
+  {
+    "gameCharacterUnitId": 30,
+    "id": 1331,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 281,
+    "mysekaiFixtureId": 1153
+  },
+  {
+    "gameCharacterUnitId": 31,
+    "id": 1332,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 281,
+    "mysekaiFixtureId": 1153
+  },
+  {
+    "gameCharacterUnitId": 33,
+    "id": 1333,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 281,
+    "mysekaiFixtureId": 1153
+  },
+  {
+    "gameCharacterUnitId": 39,
+    "id": 1334,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 281,
+    "mysekaiFixtureId": 1153
+  },
+  {
+    "gameCharacterUnitId": 42,
+    "id": 1335,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 281,
+    "mysekaiFixtureId": 1153
+  },
+  {
+    "gameCharacterUnitId": 49,
+    "id": 1336,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 281,
+    "mysekaiFixtureId": 1153
+  },
+  {
+    "gameCharacterUnitId": 55,
+    "id": 1337,
+    "mysekaiCharacterTalkFixtureTimelineGroupId": 281,
+    "mysekaiFixtureId": 1153
+  }
+]

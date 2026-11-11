@@ -1,0 +1,52 @@
+[
+  {
+    "groupId": 1,
+    "id": 101,
+    "virtualLiveCheerMessageId": 1
+  },
+  {
+    "groupId": 1,
+    "id": 102,
+    "virtualLiveCheerMessageId": 5
+  },
+  {
+    "groupId": 1,
+    "id": 103,
+    "virtualLiveCheerMessageId": 9
+  },
+  {
+    "groupId": 1,
+    "id": 104,
+    "virtualLiveCheerMessageId": 13
+  },
+  {
+    "groupId": 1,
+    "id": 105,
+    "virtualLiveCheerMessageId": 17
+  },
+  {
+    "groupId": 1,
+    "id": 106,
+    "virtualLiveCheerMessageId": 21
+  },
+  {
+    "groupId": 1,
+    "id": 107,
+    "virtualLiveCheerMessageId": 25
+  },
+  {
+    "groupId": 1,
+    "id": 108,
+    "virtualLiveCheerMessageId": 29
+  },
+  {
+    "groupId": 1,
+    "id": 109,
+    "virtualLiveCheerMessageId": 33
+  },
+  {
+    "groupId": 1,
+    "id": 110,
+    "virtualLiveCheerMessageId": 37
+  }
+]

@@ -1,0 +1,6002 @@
+[
+  {
+    "groupId": 1001,
+    "id": 1,
+    "mysekaiMaterialId": 1,
+    "quantity": 1
+  },
+  {
+    "groupId": 1001,
+    "id": 2,
+    "mysekaiMaterialId": 6,
+    "quantity": 1
+  },
+  {
+    "groupId": 1001,
+    "id": 3,
+    "mysekaiMaterialId": 2,
+    "quantity": 1
+  },
+  {
+    "groupId": 1001,
+    "id": 4,
+    "mysekaiMaterialId": 3,
+    "quantity": 1
+  },
+  {
+    "groupId": 1001,
+    "id": 5,
+    "mysekaiMaterialId": 23,
+    "quantity": 1
+  },
+  {
+    "groupId": 1002,
+    "id": 6,
+    "mysekaiMaterialId": 1,
+    "quantity": 5
+  },
+  {
+    "groupId": 1002,
+    "id": 7,
+    "mysekaiMaterialId": 6,
+    "quantity": 5
+  },
+  {
+    "groupId": 1002,
+    "id": 8,
+    "mysekaiMaterialId": 9,
+    "quantity": 1
+  },
+  {
+    "groupId": 1002,
+    "id": 9,
+    "mysekaiMaterialId": 23,
+    "quantity": 1
+  },
+  {
+    "groupId": 1002,
+    "id": 10,
+    "mysekaiMaterialId": 13,
+    "quantity": 1
+  },
+  {
+    "groupId": 1003,
+    "id": 11,
+    "mysekaiMaterialId": 35,
+    "quantity": 2
+  },
+  {
+    "groupId": 1003,
+    "id": 12,
+    "mysekaiMaterialId": 36,
+    "quantity": 2
+  },
+  {
+    "groupId": 1003,
+    "id": 13,
+    "mysekaiMaterialId": 37,
+    "quantity": 2
+  },
+  {
+    "groupId": 1003,
+    "id": 14,
+    "mysekaiMaterialId": 38,
+    "quantity": 2
+  },
+  {
+    "groupId": 1003,
+    "id": 15,
+    "mysekaiMaterialId": 6,
+    "quantity": 25
+  },
+  {
+    "groupId": 1004,
+    "id": 16,
+    "mysekaiMaterialId": 1,
+    "quantity": 20
+  },
+  {
+    "groupId": 1004,
+    "id": 17,
+    "mysekaiMaterialId": 2,
+    "quantity": 10
+  },
+  {
+    "groupId": 1004,
+    "id": 18,
+    "mysekaiMaterialId": 3,
+    "quantity": 10
+  },
+  {
+    "groupId": 1004,
+    "id": 19,
+    "mysekaiMaterialId": 21,
+    "quantity": 10
+  },
+  {
+    "groupId": 1004,
+    "id": 20,
+    "mysekaiMaterialId": 22,
+    "quantity": 10
+  },
+  {
+    "groupId": 1005,
+    "id": 21,
+    "mysekaiMaterialId": 55,
+    "quantity": 2
+  },
+  {
+    "groupId": 1005,
+    "id": 22,
+    "mysekaiMaterialId": 58,
+    "quantity": 2
+  },
+  {
+    "groupId": 1005,
+    "id": 23,
+    "mysekaiMaterialId": 9,
+    "quantity": 7
+  },
+  {
+    "groupId": 1005,
+    "id": 24,
+    "mysekaiMaterialId": 7,
+    "quantity": 7
+  },
+  {
+    "groupId": 1005,
+    "id": 25,
+    "mysekaiMaterialId": 8,
+    "quantity": 7
+  },
+  {
+    "groupId": 1006,
+    "id": 26,
+    "mysekaiMaterialId": 6,
+    "quantity": 50
+  },
+  {
+    "groupId": 1006,
+    "id": 27,
+    "mysekaiMaterialId": 1,
+    "quantity": 25
+  },
+  {
+    "groupId": 1006,
+    "id": 28,
+    "mysekaiMaterialId": 4,
+    "quantity": 7
+  },
+  {
+    "groupId": 1006,
+    "id": 29,
+    "mysekaiMaterialId": 10,
+    "quantity": 7
+  },
+  {
+    "groupId": 1006,
+    "id": 30,
+    "mysekaiMaterialId": 11,
+    "quantity": 7
+  },
+  {
+    "groupId": 1007,
+    "id": 31,
+    "mysekaiMaterialId": 35,
+    "quantity": 3
+  },
+  {
+    "groupId": 1007,
+    "id": 32,
+    "mysekaiMaterialId": 36,
+    "quantity": 3
+  },
+  {
+    "groupId": 1007,
+    "id": 33,
+    "mysekaiMaterialId": 37,
+    "quantity": 3
+  },
+  {
+    "groupId": 1007,
+    "id": 34,
+    "mysekaiMaterialId": 38,
+    "quantity": 3
+  },
+  {
+    "groupId": 1007,
+    "id": 35,
+    "mysekaiMaterialId": 1,
+    "quantity": 50
+  },
+  {
+    "groupId": 1008,
+    "id": 36,
+    "mysekaiMaterialId": 14,
+    "quantity": 10
+  },
+  {
+    "groupId": 1008,
+    "id": 37,
+    "mysekaiMaterialId": 16,
+    "quantity": 10
+  },
+  {
+    "groupId": 1008,
+    "id": 38,
+    "mysekaiMaterialId": 17,
+    "quantity": 10
+  },
+  {
+    "groupId": 1008,
+    "id": 39,
+    "mysekaiMaterialId": 18,
+    "quantity": 10
+  },
+  {
+    "groupId": 1008,
+    "id": 40,
+    "mysekaiMaterialId": 19,
+    "quantity": 10
+  },
+  {
+    "groupId": 1009,
+    "id": 41,
+    "mysekaiMaterialId": 55,
+    "quantity": 3
+  },
+  {
+    "groupId": 1009,
+    "id": 42,
+    "mysekaiMaterialId": 58,
+    "quantity": 3
+  },
+  {
+    "groupId": 1009,
+    "id": 43,
+    "mysekaiMaterialId": 4,
+    "quantity": 25
+  },
+  {
+    "groupId": 1009,
+    "id": 44,
+    "mysekaiMaterialId": 2,
+    "quantity": 25
+  },
+  {
+    "groupId": 1009,
+    "id": 45,
+    "mysekaiMaterialId": 3,
+    "quantity": 25
+  },
+  {
+    "groupId": 1010,
+    "id": 46,
+    "mysekaiMaterialId": 11,
+    "quantity": 25
+  },
+  {
+    "groupId": 1010,
+    "id": 47,
+    "mysekaiMaterialId": 24,
+    "quantity": 3
+  },
+  {
+    "groupId": 1010,
+    "id": 48,
+    "mysekaiMaterialId": 12,
+    "quantity": 3
+  },
+  {
+    "groupId": 1010,
+    "id": 49,
+    "mysekaiMaterialId": 20,
+    "quantity": 3
+  },
+  {
+    "groupId": 1010,
+    "id": 50,
+    "mysekaiMaterialId": 5,
+    "quantity": 3
+  },
+  {
+    "groupId": 1011,
+    "id": 51,
+    "mysekaiMaterialId": 35,
+    "quantity": 4
+  },
+  {
+    "groupId": 1011,
+    "id": 52,
+    "mysekaiMaterialId": 36,
+    "quantity": 4
+  },
+  {
+    "groupId": 1011,
+    "id": 53,
+    "mysekaiMaterialId": 37,
+    "quantity": 4
+  },
+  {
+    "groupId": 1011,
+    "id": 54,
+    "mysekaiMaterialId": 38,
+    "quantity": 4
+  },
+  {
+    "groupId": 1011,
+    "id": 55,
+    "mysekaiMaterialId": 23,
+    "quantity": 25
+  },
+  {
+    "groupId": 1012,
+    "id": 56,
+    "mysekaiMaterialId": 6,
+    "quantity": 100
+  },
+  {
+    "groupId": 1012,
+    "id": 57,
+    "mysekaiMaterialId": 9,
+    "quantity": 25
+  },
+  {
+    "groupId": 1012,
+    "id": 58,
+    "mysekaiMaterialId": 7,
+    "quantity": 25
+  },
+  {
+    "groupId": 1012,
+    "id": 59,
+    "mysekaiMaterialId": 8,
+    "quantity": 25
+  },
+  {
+    "groupId": 1012,
+    "id": 60,
+    "mysekaiMaterialId": 10,
+    "quantity": 25
+  },
+  {
+    "groupId": 1013,
+    "id": 61,
+    "mysekaiMaterialId": 55,
+    "quantity": 4
+  },
+  {
+    "groupId": 1013,
+    "id": 62,
+    "mysekaiMaterialId": 58,
+    "quantity": 4
+  },
+  {
+    "groupId": 1013,
+    "id": 63,
+    "mysekaiMaterialId": 21,
+    "quantity": 25
+  },
+  {
+    "groupId": 1013,
+    "id": 64,
+    "mysekaiMaterialId": 22,
+    "quantity": 25
+  },
+  {
+    "groupId": 1013,
+    "id": 65,
+    "mysekaiMaterialId": 20,
+    "quantity": 3
+  },
+  {
+    "groupId": 1014,
+    "id": 66,
+    "mysekaiMaterialId": 1,
+    "quantity": 100
+  },
+  {
+    "groupId": 1014,
+    "id": 67,
+    "mysekaiMaterialId": 2,
+    "quantity": 30
+  },
+  {
+    "groupId": 1014,
+    "id": 68,
+    "mysekaiMaterialId": 3,
+    "quantity": 30
+  },
+  {
+    "groupId": 1014,
+    "id": 69,
+    "mysekaiMaterialId": 4,
+    "quantity": 30
+  },
+  {
+    "groupId": 1014,
+    "id": 70,
+    "mysekaiMaterialId": 5,
+    "quantity": 3
+  },
+  {
+    "groupId": 1015,
+    "id": 71,
+    "mysekaiMaterialId": 35,
+    "quantity": 6
+  },
+  {
+    "groupId": 1015,
+    "id": 72,
+    "mysekaiMaterialId": 36,
+    "quantity": 6
+  },
+  {
+    "groupId": 1015,
+    "id": 73,
+    "mysekaiMaterialId": 37,
+    "quantity": 6
+  },
+  {
+    "groupId": 1015,
+    "id": 74,
+    "mysekaiMaterialId": 38,
+    "quantity": 6
+  },
+  {
+    "groupId": 1015,
+    "id": 75,
+    "mysekaiMaterialId": 13,
+    "quantity": 30
+  },
+  {
+    "groupId": 1016,
+    "id": 76,
+    "mysekaiMaterialId": 14,
+    "quantity": 30
+  },
+  {
+    "groupId": 1016,
+    "id": 77,
+    "mysekaiMaterialId": 16,
+    "quantity": 30
+  },
+  {
+    "groupId": 1016,
+    "id": 78,
+    "mysekaiMaterialId": 17,
+    "quantity": 30
+  },
+  {
+    "groupId": 1016,
+    "id": 79,
+    "mysekaiMaterialId": 18,
+    "quantity": 30
+  },
+  {
+    "groupId": 1016,
+    "id": 80,
+    "mysekaiMaterialId": 19,
+    "quantity": 30
+  },
+  {
+    "groupId": 1017,
+    "id": 81,
+    "mysekaiMaterialId": 55,
+    "quantity": 6
+  },
+  {
+    "groupId": 1017,
+    "id": 82,
+    "mysekaiMaterialId": 58,
+    "quantity": 6
+  },
+  {
+    "groupId": 1017,
+    "id": 83,
+    "mysekaiMaterialId": 13,
+    "quantity": 30
+  },
+  {
+    "groupId": 1017,
+    "id": 84,
+    "mysekaiMaterialId": 15,
+    "quantity": 30
+  },
+  {
+    "groupId": 1017,
+    "id": 85,
+    "mysekaiMaterialId": 24,
+    "quantity": 3
+  },
+  {
+    "groupId": 1018,
+    "id": 86,
+    "mysekaiMaterialId": 6,
+    "quantity": 150
+  },
+  {
+    "groupId": 1018,
+    "id": 87,
+    "mysekaiMaterialId": 9,
+    "quantity": 30
+  },
+  {
+    "groupId": 1018,
+    "id": 88,
+    "mysekaiMaterialId": 7,
+    "quantity": 30
+  },
+  {
+    "groupId": 1018,
+    "id": 89,
+    "mysekaiMaterialId": 8,
+    "quantity": 30
+  },
+  {
+    "groupId": 1018,
+    "id": 90,
+    "mysekaiMaterialId": 10,
+    "quantity": 30
+  },
+  {
+    "groupId": 1019,
+    "id": 91,
+    "mysekaiMaterialId": 35,
+    "quantity": 8
+  },
+  {
+    "groupId": 1019,
+    "id": 92,
+    "mysekaiMaterialId": 36,
+    "quantity": 8
+  },
+  {
+    "groupId": 1019,
+    "id": 93,
+    "mysekaiMaterialId": 37,
+    "quantity": 8
+  },
+  {
+    "groupId": 1019,
+    "id": 94,
+    "mysekaiMaterialId": 38,
+    "quantity": 8
+  },
+  {
+    "groupId": 1019,
+    "id": 95,
+    "mysekaiMaterialId": 4,
+    "quantity": 40
+  },
+  {
+    "groupId": 1020,
+    "id": 96,
+    "mysekaiMaterialId": 11,
+    "quantity": 50
+  },
+  {
+    "groupId": 1020,
+    "id": 97,
+    "mysekaiMaterialId": 24,
+    "quantity": 8
+  },
+  {
+    "groupId": 1020,
+    "id": 98,
+    "mysekaiMaterialId": 12,
+    "quantity": 8
+  },
+  {
+    "groupId": 1020,
+    "id": 99,
+    "mysekaiMaterialId": 20,
+    "quantity": 8
+  },
+  {
+    "groupId": 1020,
+    "id": 100,
+    "mysekaiMaterialId": 5,
+    "quantity": 8
+  },
+  {
+    "groupId": 1021,
+    "id": 101,
+    "mysekaiMaterialId": 55,
+    "quantity": 8
+  },
+  {
+    "groupId": 1021,
+    "id": 102,
+    "mysekaiMaterialId": 58,
+    "quantity": 8
+  },
+  {
+    "groupId": 1021,
+    "id": 103,
+    "mysekaiMaterialId": 4,
+    "quantity": 40
+  },
+  {
+    "groupId": 1021,
+    "id": 104,
+    "mysekaiMaterialId": 2,
+    "quantity": 40
+  },
+  {
+    "groupId": 1021,
+    "id": 105,
+    "mysekaiMaterialId": 5,
+    "quantity": 4
+  },
+  {
+    "groupId": 1022,
+    "id": 106,
+    "mysekaiMaterialId": 13,
+    "quantity": 40
+  },
+  {
+    "groupId": 1022,
+    "id": 107,
+    "mysekaiMaterialId": 16,
+    "quantity": 40
+  },
+  {
+    "groupId": 1022,
+    "id": 108,
+    "mysekaiMaterialId": 17,
+    "quantity": 40
+  },
+  {
+    "groupId": 1022,
+    "id": 109,
+    "mysekaiMaterialId": 18,
+    "quantity": 40
+  },
+  {
+    "groupId": 1022,
+    "id": 110,
+    "mysekaiMaterialId": 19,
+    "quantity": 40
+  },
+  {
+    "groupId": 1023,
+    "id": 111,
+    "mysekaiMaterialId": 35,
+    "quantity": 10
+  },
+  {
+    "groupId": 1023,
+    "id": 112,
+    "mysekaiMaterialId": 36,
+    "quantity": 10
+  },
+  {
+    "groupId": 1023,
+    "id": 113,
+    "mysekaiMaterialId": 37,
+    "quantity": 10
+  },
+  {
+    "groupId": 1023,
+    "id": 114,
+    "mysekaiMaterialId": 38,
+    "quantity": 10
+  },
+  {
+    "groupId": 1023,
+    "id": 115,
+    "mysekaiMaterialId": 14,
+    "quantity": 40
+  },
+  {
+    "groupId": 1024,
+    "id": 116,
+    "mysekaiMaterialId": 6,
+    "quantity": 200
+  },
+  {
+    "groupId": 1024,
+    "id": 117,
+    "mysekaiMaterialId": 9,
+    "quantity": 40
+  },
+  {
+    "groupId": 1024,
+    "id": 118,
+    "mysekaiMaterialId": 7,
+    "quantity": 40
+  },
+  {
+    "groupId": 1024,
+    "id": 119,
+    "mysekaiMaterialId": 8,
+    "quantity": 40
+  },
+  {
+    "groupId": 1024,
+    "id": 120,
+    "mysekaiMaterialId": 10,
+    "quantity": 40
+  },
+  {
+    "groupId": 1025,
+    "id": 121,
+    "mysekaiMaterialId": 55,
+    "quantity": 10
+  },
+  {
+    "groupId": 1025,
+    "id": 122,
+    "mysekaiMaterialId": 58,
+    "quantity": 10
+  },
+  {
+    "groupId": 1025,
+    "id": 123,
+    "mysekaiMaterialId": 14,
+    "quantity": 40
+  },
+  {
+    "groupId": 1025,
+    "id": 124,
+    "mysekaiMaterialId": 15,
+    "quantity": 40
+  },
+  {
+    "groupId": 1025,
+    "id": 125,
+    "mysekaiMaterialId": 24,
+    "quantity": 4
+  },
+  {
+    "groupId": 1026,
+    "id": 126,
+    "mysekaiMaterialId": 23,
+    "quantity": 50
+  },
+  {
+    "groupId": 1026,
+    "id": 127,
+    "mysekaiMaterialId": 21,
+    "quantity": 50
+  },
+  {
+    "groupId": 1026,
+    "id": 128,
+    "mysekaiMaterialId": 22,
+    "quantity": 50
+  },
+  {
+    "groupId": 1026,
+    "id": 129,
+    "mysekaiMaterialId": 9,
+    "quantity": 50
+  },
+  {
+    "groupId": 1026,
+    "id": 130,
+    "mysekaiMaterialId": 20,
+    "quantity": 5
+  },
+  {
+    "groupId": 1027,
+    "id": 131,
+    "mysekaiMaterialId": 35,
+    "quantity": 12
+  },
+  {
+    "groupId": 1027,
+    "id": 132,
+    "mysekaiMaterialId": 36,
+    "quantity": 12
+  },
+  {
+    "groupId": 1027,
+    "id": 133,
+    "mysekaiMaterialId": 37,
+    "quantity": 12
+  },
+  {
+    "groupId": 1027,
+    "id": 134,
+    "mysekaiMaterialId": 38,
+    "quantity": 12
+  },
+  {
+    "groupId": 1027,
+    "id": 135,
+    "mysekaiMaterialId": 7,
+    "quantity": 50
+  },
+  {
+    "groupId": 1028,
+    "id": 136,
+    "mysekaiMaterialId": 1,
+    "quantity": 150
+  },
+  {
+    "groupId": 1028,
+    "id": 137,
+    "mysekaiMaterialId": 2,
+    "quantity": 50
+  },
+  {
+    "groupId": 1028,
+    "id": 138,
+    "mysekaiMaterialId": 3,
+    "quantity": 50
+  },
+  {
+    "groupId": 1028,
+    "id": 139,
+    "mysekaiMaterialId": 4,
+    "quantity": 50
+  },
+  {
+    "groupId": 1028,
+    "id": 140,
+    "mysekaiMaterialId": 5,
+    "quantity": 5
+  },
+  {
+    "groupId": 1029,
+    "id": 141,
+    "mysekaiMaterialId": 55,
+    "quantity": 12
+  },
+  {
+    "groupId": 1029,
+    "id": 142,
+    "mysekaiMaterialId": 58,
+    "quantity": 12
+  },
+  {
+    "groupId": 1029,
+    "id": 143,
+    "mysekaiMaterialId": 7,
+    "quantity": 50
+  },
+  {
+    "groupId": 1029,
+    "id": 144,
+    "mysekaiMaterialId": 8,
+    "quantity": 50
+  },
+  {
+    "groupId": 1029,
+    "id": 145,
+    "mysekaiMaterialId": 10,
+    "quantity": 50
+  },
+  {
+    "groupId": 1030,
+    "id": 146,
+    "mysekaiMaterialId": 11,
+    "quantity": 75
+  },
+  {
+    "groupId": 1030,
+    "id": 147,
+    "mysekaiMaterialId": 24,
+    "quantity": 10
+  },
+  {
+    "groupId": 1030,
+    "id": 148,
+    "mysekaiMaterialId": 12,
+    "quantity": 10
+  },
+  {
+    "groupId": 1030,
+    "id": 149,
+    "mysekaiMaterialId": 20,
+    "quantity": 10
+  },
+  {
+    "groupId": 1030,
+    "id": 150,
+    "mysekaiMaterialId": 5,
+    "quantity": 10
+  },
+  {
+    "groupId": 1031,
+    "id": 151,
+    "mysekaiMaterialId": 35,
+    "quantity": 15
+  },
+  {
+    "groupId": 1031,
+    "id": 152,
+    "mysekaiMaterialId": 36,
+    "quantity": 15
+  },
+  {
+    "groupId": 1031,
+    "id": 153,
+    "mysekaiMaterialId": 37,
+    "quantity": 15
+  },
+  {
+    "groupId": 1031,
+    "id": 154,
+    "mysekaiMaterialId": 38,
+    "quantity": 15
+  },
+  {
+    "groupId": 1031,
+    "id": 155,
+    "mysekaiMaterialId": 23,
+    "quantity": 50
+  },
+  {
+    "groupId": 1032,
+    "id": 156,
+    "mysekaiMaterialId": 6,
+    "quantity": 250
+  },
+  {
+    "groupId": 1032,
+    "id": 157,
+    "mysekaiMaterialId": 9,
+    "quantity": 50
+  },
+  {
+    "groupId": 1032,
+    "id": 158,
+    "mysekaiMaterialId": 7,
+    "quantity": 50
+  },
+  {
+    "groupId": 1032,
+    "id": 159,
+    "mysekaiMaterialId": 8,
+    "quantity": 50
+  },
+  {
+    "groupId": 1032,
+    "id": 160,
+    "mysekaiMaterialId": 10,
+    "quantity": 50
+  },
+  {
+    "groupId": 1033,
+    "id": 161,
+    "mysekaiMaterialId": 55,
+    "quantity": 15
+  },
+  {
+    "groupId": 1033,
+    "id": 162,
+    "mysekaiMaterialId": 58,
+    "quantity": 15
+  },
+  {
+    "groupId": 1033,
+    "id": 163,
+    "mysekaiMaterialId": 22,
+    "quantity": 50
+  },
+  {
+    "groupId": 1033,
+    "id": 164,
+    "mysekaiMaterialId": 21,
+    "quantity": 50
+  },
+  {
+    "groupId": 1033,
+    "id": 165,
+    "mysekaiMaterialId": 20,
+    "quantity": 5
+  },
+  {
+    "groupId": 1034,
+    "id": 166,
+    "mysekaiMaterialId": 15,
+    "quantity": 50
+  },
+  {
+    "groupId": 1034,
+    "id": 167,
+    "mysekaiMaterialId": 16,
+    "quantity": 50
+  },
+  {
+    "groupId": 1034,
+    "id": 168,
+    "mysekaiMaterialId": 17,
+    "quantity": 50
+  },
+  {
+    "groupId": 1034,
+    "id": 169,
+    "mysekaiMaterialId": 18,
+    "quantity": 50
+  },
+  {
+    "groupId": 1034,
+    "id": 170,
+    "mysekaiMaterialId": 19,
+    "quantity": 50
+  },
+  {
+    "groupId": 1035,
+    "id": 171,
+    "mysekaiMaterialId": 35,
+    "quantity": 16
+  },
+  {
+    "groupId": 1035,
+    "id": 172,
+    "mysekaiMaterialId": 36,
+    "quantity": 16
+  },
+  {
+    "groupId": 1035,
+    "id": 173,
+    "mysekaiMaterialId": 37,
+    "quantity": 16
+  },
+  {
+    "groupId": 1035,
+    "id": 174,
+    "mysekaiMaterialId": 38,
+    "quantity": 16
+  },
+  {
+    "groupId": 1035,
+    "id": 175,
+    "mysekaiMaterialId": 3,
+    "quantity": 50
+  },
+  {
+    "groupId": 1036,
+    "id": 176,
+    "mysekaiMaterialId": 55,
+    "quantity": 16
+  },
+  {
+    "groupId": 1036,
+    "id": 177,
+    "mysekaiMaterialId": 58,
+    "quantity": 16
+  },
+  {
+    "groupId": 1036,
+    "id": 178,
+    "mysekaiMaterialId": 2,
+    "quantity": 50
+  },
+  {
+    "groupId": 1036,
+    "id": 179,
+    "mysekaiMaterialId": 3,
+    "quantity": 50
+  },
+  {
+    "groupId": 1036,
+    "id": 180,
+    "mysekaiMaterialId": 5,
+    "quantity": 5
+  },
+  {
+    "groupId": 1037,
+    "id": 181,
+    "mysekaiMaterialId": 23,
+    "quantity": 50
+  },
+  {
+    "groupId": 1037,
+    "id": 182,
+    "mysekaiMaterialId": 21,
+    "quantity": 50
+  },
+  {
+    "groupId": 1037,
+    "id": 183,
+    "mysekaiMaterialId": 22,
+    "quantity": 50
+  },
+  {
+    "groupId": 1037,
+    "id": 184,
+    "mysekaiMaterialId": 9,
+    "quantity": 50
+  },
+  {
+    "groupId": 1037,
+    "id": 185,
+    "mysekaiMaterialId": 24,
+    "quantity": 5
+  },
+  {
+    "groupId": 1038,
+    "id": 186,
+    "mysekaiMaterialId": 35,
+    "quantity": 17
+  },
+  {
+    "groupId": 1038,
+    "id": 187,
+    "mysekaiMaterialId": 36,
+    "quantity": 17
+  },
+  {
+    "groupId": 1038,
+    "id": 188,
+    "mysekaiMaterialId": 37,
+    "quantity": 17
+  },
+  {
+    "groupId": 1038,
+    "id": 189,
+    "mysekaiMaterialId": 38,
+    "quantity": 17
+  },
+  {
+    "groupId": 1038,
+    "id": 190,
+    "mysekaiMaterialId": 8,
+    "quantity": 50
+  },
+  {
+    "groupId": 1039,
+    "id": 191,
+    "mysekaiMaterialId": 55,
+    "quantity": 17
+  },
+  {
+    "groupId": 1039,
+    "id": 192,
+    "mysekaiMaterialId": 58,
+    "quantity": 17
+  },
+  {
+    "groupId": 1039,
+    "id": 193,
+    "mysekaiMaterialId": 8,
+    "quantity": 50
+  },
+  {
+    "groupId": 1039,
+    "id": 194,
+    "mysekaiMaterialId": 7,
+    "quantity": 50
+  },
+  {
+    "groupId": 1039,
+    "id": 195,
+    "mysekaiMaterialId": 10,
+    "quantity": 50
+  },
+  {
+    "groupId": 1040,
+    "id": 196,
+    "mysekaiMaterialId": 11,
+    "quantity": 100
+  },
+  {
+    "groupId": 1040,
+    "id": 197,
+    "mysekaiMaterialId": 24,
+    "quantity": 15
+  },
+  {
+    "groupId": 1040,
+    "id": 198,
+    "mysekaiMaterialId": 12,
+    "quantity": 15
+  },
+  {
+    "groupId": 1040,
+    "id": 199,
+    "mysekaiMaterialId": 20,
+    "quantity": 15
+  },
+  {
+    "groupId": 1040,
+    "id": 200,
+    "mysekaiMaterialId": 5,
+    "quantity": 15
+  },
+  {
+    "groupId": 2001,
+    "id": 201,
+    "mysekaiMaterialId": 1,
+    "quantity": 1
+  },
+  {
+    "groupId": 2001,
+    "id": 202,
+    "mysekaiMaterialId": 6,
+    "quantity": 1
+  },
+  {
+    "groupId": 2001,
+    "id": 203,
+    "mysekaiMaterialId": 2,
+    "quantity": 1
+  },
+  {
+    "groupId": 2001,
+    "id": 204,
+    "mysekaiMaterialId": 3,
+    "quantity": 1
+  },
+  {
+    "groupId": 2001,
+    "id": 205,
+    "mysekaiMaterialId": 23,
+    "quantity": 1
+  },
+  {
+    "groupId": 2002,
+    "id": 206,
+    "mysekaiMaterialId": 1,
+    "quantity": 5
+  },
+  {
+    "groupId": 2002,
+    "id": 207,
+    "mysekaiMaterialId": 6,
+    "quantity": 5
+  },
+  {
+    "groupId": 2002,
+    "id": 208,
+    "mysekaiMaterialId": 9,
+    "quantity": 1
+  },
+  {
+    "groupId": 2002,
+    "id": 209,
+    "mysekaiMaterialId": 23,
+    "quantity": 1
+  },
+  {
+    "groupId": 2002,
+    "id": 210,
+    "mysekaiMaterialId": 13,
+    "quantity": 1
+  },
+  {
+    "groupId": 2003,
+    "id": 211,
+    "mysekaiMaterialId": 39,
+    "quantity": 2
+  },
+  {
+    "groupId": 2003,
+    "id": 212,
+    "mysekaiMaterialId": 40,
+    "quantity": 2
+  },
+  {
+    "groupId": 2003,
+    "id": 213,
+    "mysekaiMaterialId": 41,
+    "quantity": 2
+  },
+  {
+    "groupId": 2003,
+    "id": 214,
+    "mysekaiMaterialId": 42,
+    "quantity": 2
+  },
+  {
+    "groupId": 2003,
+    "id": 215,
+    "mysekaiMaterialId": 6,
+    "quantity": 25
+  },
+  {
+    "groupId": 2004,
+    "id": 216,
+    "mysekaiMaterialId": 1,
+    "quantity": 20
+  },
+  {
+    "groupId": 2004,
+    "id": 217,
+    "mysekaiMaterialId": 2,
+    "quantity": 10
+  },
+  {
+    "groupId": 2004,
+    "id": 218,
+    "mysekaiMaterialId": 3,
+    "quantity": 10
+  },
+  {
+    "groupId": 2004,
+    "id": 219,
+    "mysekaiMaterialId": 21,
+    "quantity": 10
+  },
+  {
+    "groupId": 2004,
+    "id": 220,
+    "mysekaiMaterialId": 22,
+    "quantity": 10
+  },
+  {
+    "groupId": 2005,
+    "id": 221,
+    "mysekaiMaterialId": 55,
+    "quantity": 2
+  },
+  {
+    "groupId": 2005,
+    "id": 222,
+    "mysekaiMaterialId": 56,
+    "quantity": 2
+  },
+  {
+    "groupId": 2005,
+    "id": 223,
+    "mysekaiMaterialId": 9,
+    "quantity": 7
+  },
+  {
+    "groupId": 2005,
+    "id": 224,
+    "mysekaiMaterialId": 7,
+    "quantity": 7
+  },
+  {
+    "groupId": 2005,
+    "id": 225,
+    "mysekaiMaterialId": 8,
+    "quantity": 7
+  },
+  {
+    "groupId": 2006,
+    "id": 226,
+    "mysekaiMaterialId": 6,
+    "quantity": 50
+  },
+  {
+    "groupId": 2006,
+    "id": 227,
+    "mysekaiMaterialId": 1,
+    "quantity": 25
+  },
+  {
+    "groupId": 2006,
+    "id": 228,
+    "mysekaiMaterialId": 4,
+    "quantity": 7
+  },
+  {
+    "groupId": 2006,
+    "id": 229,
+    "mysekaiMaterialId": 10,
+    "quantity": 7
+  },
+  {
+    "groupId": 2006,
+    "id": 230,
+    "mysekaiMaterialId": 11,
+    "quantity": 7
+  },
+  {
+    "groupId": 2007,
+    "id": 231,
+    "mysekaiMaterialId": 39,
+    "quantity": 3
+  },
+  {
+    "groupId": 2007,
+    "id": 232,
+    "mysekaiMaterialId": 40,
+    "quantity": 3
+  },
+  {
+    "groupId": 2007,
+    "id": 233,
+    "mysekaiMaterialId": 41,
+    "quantity": 3
+  },
+  {
+    "groupId": 2007,
+    "id": 234,
+    "mysekaiMaterialId": 42,
+    "quantity": 3
+  },
+  {
+    "groupId": 2007,
+    "id": 235,
+    "mysekaiMaterialId": 1,
+    "quantity": 50
+  },
+  {
+    "groupId": 2008,
+    "id": 236,
+    "mysekaiMaterialId": 14,
+    "quantity": 10
+  },
+  {
+    "groupId": 2008,
+    "id": 237,
+    "mysekaiMaterialId": 16,
+    "quantity": 10
+  },
+  {
+    "groupId": 2008,
+    "id": 238,
+    "mysekaiMaterialId": 17,
+    "quantity": 10
+  },
+  {
+    "groupId": 2008,
+    "id": 239,
+    "mysekaiMaterialId": 18,
+    "quantity": 10
+  },
+  {
+    "groupId": 2008,
+    "id": 240,
+    "mysekaiMaterialId": 19,
+    "quantity": 10
+  },
+  {
+    "groupId": 2009,
+    "id": 241,
+    "mysekaiMaterialId": 55,
+    "quantity": 3
+  },
+  {
+    "groupId": 2009,
+    "id": 242,
+    "mysekaiMaterialId": 56,
+    "quantity": 3
+  },
+  {
+    "groupId": 2009,
+    "id": 243,
+    "mysekaiMaterialId": 4,
+    "quantity": 25
+  },
+  {
+    "groupId": 2009,
+    "id": 244,
+    "mysekaiMaterialId": 2,
+    "quantity": 25
+  },
+  {
+    "groupId": 2009,
+    "id": 245,
+    "mysekaiMaterialId": 3,
+    "quantity": 25
+  },
+  {
+    "groupId": 2010,
+    "id": 246,
+    "mysekaiMaterialId": 11,
+    "quantity": 25
+  },
+  {
+    "groupId": 2010,
+    "id": 247,
+    "mysekaiMaterialId": 24,
+    "quantity": 3
+  },
+  {
+    "groupId": 2010,
+    "id": 248,
+    "mysekaiMaterialId": 12,
+    "quantity": 3
+  },
+  {
+    "groupId": 2010,
+    "id": 249,
+    "mysekaiMaterialId": 20,
+    "quantity": 3
+  },
+  {
+    "groupId": 2010,
+    "id": 250,
+    "mysekaiMaterialId": 5,
+    "quantity": 3
+  },
+  {
+    "groupId": 2011,
+    "id": 251,
+    "mysekaiMaterialId": 39,
+    "quantity": 4
+  },
+  {
+    "groupId": 2011,
+    "id": 252,
+    "mysekaiMaterialId": 40,
+    "quantity": 4
+  },
+  {
+    "groupId": 2011,
+    "id": 253,
+    "mysekaiMaterialId": 41,
+    "quantity": 4
+  },
+  {
+    "groupId": 2011,
+    "id": 254,
+    "mysekaiMaterialId": 42,
+    "quantity": 4
+  },
+  {
+    "groupId": 2011,
+    "id": 255,
+    "mysekaiMaterialId": 23,
+    "quantity": 25
+  },
+  {
+    "groupId": 2012,
+    "id": 256,
+    "mysekaiMaterialId": 6,
+    "quantity": 100
+  },
+  {
+    "groupId": 2012,
+    "id": 257,
+    "mysekaiMaterialId": 9,
+    "quantity": 25
+  },
+  {
+    "groupId": 2012,
+    "id": 258,
+    "mysekaiMaterialId": 7,
+    "quantity": 25
+  },
+  {
+    "groupId": 2012,
+    "id": 259,
+    "mysekaiMaterialId": 8,
+    "quantity": 25
+  },
+  {
+    "groupId": 2012,
+    "id": 260,
+    "mysekaiMaterialId": 10,
+    "quantity": 25
+  },
+  {
+    "groupId": 2013,
+    "id": 261,
+    "mysekaiMaterialId": 55,
+    "quantity": 4
+  },
+  {
+    "groupId": 2013,
+    "id": 262,
+    "mysekaiMaterialId": 56,
+    "quantity": 4
+  },
+  {
+    "groupId": 2013,
+    "id": 263,
+    "mysekaiMaterialId": 21,
+    "quantity": 25
+  },
+  {
+    "groupId": 2013,
+    "id": 264,
+    "mysekaiMaterialId": 22,
+    "quantity": 25
+  },
+  {
+    "groupId": 2013,
+    "id": 265,
+    "mysekaiMaterialId": 20,
+    "quantity": 3
+  },
+  {
+    "groupId": 2014,
+    "id": 266,
+    "mysekaiMaterialId": 1,
+    "quantity": 100
+  },
+  {
+    "groupId": 2014,
+    "id": 267,
+    "mysekaiMaterialId": 2,
+    "quantity": 30
+  },
+  {
+    "groupId": 2014,
+    "id": 268,
+    "mysekaiMaterialId": 3,
+    "quantity": 30
+  },
+  {
+    "groupId": 2014,
+    "id": 269,
+    "mysekaiMaterialId": 4,
+    "quantity": 30
+  },
+  {
+    "groupId": 2014,
+    "id": 270,
+    "mysekaiMaterialId": 5,
+    "quantity": 3
+  },
+  {
+    "groupId": 2015,
+    "id": 271,
+    "mysekaiMaterialId": 39,
+    "quantity": 6
+  },
+  {
+    "groupId": 2015,
+    "id": 272,
+    "mysekaiMaterialId": 40,
+    "quantity": 6
+  },
+  {
+    "groupId": 2015,
+    "id": 273,
+    "mysekaiMaterialId": 41,
+    "quantity": 6
+  },
+  {
+    "groupId": 2015,
+    "id": 274,
+    "mysekaiMaterialId": 42,
+    "quantity": 6
+  },
+  {
+    "groupId": 2015,
+    "id": 275,
+    "mysekaiMaterialId": 13,
+    "quantity": 30
+  },
+  {
+    "groupId": 2016,
+    "id": 276,
+    "mysekaiMaterialId": 14,
+    "quantity": 30
+  },
+  {
+    "groupId": 2016,
+    "id": 277,
+    "mysekaiMaterialId": 16,
+    "quantity": 30
+  },
+  {
+    "groupId": 2016,
+    "id": 278,
+    "mysekaiMaterialId": 17,
+    "quantity": 30
+  },
+  {
+    "groupId": 2016,
+    "id": 279,
+    "mysekaiMaterialId": 18,
+    "quantity": 30
+  },
+  {
+    "groupId": 2016,
+    "id": 280,
+    "mysekaiMaterialId": 19,
+    "quantity": 30
+  },
+  {
+    "groupId": 2017,
+    "id": 281,
+    "mysekaiMaterialId": 55,
+    "quantity": 6
+  },
+  {
+    "groupId": 2017,
+    "id": 282,
+    "mysekaiMaterialId": 56,
+    "quantity": 6
+  },
+  {
+    "groupId": 2017,
+    "id": 283,
+    "mysekaiMaterialId": 13,
+    "quantity": 30
+  },
+  {
+    "groupId": 2017,
+    "id": 284,
+    "mysekaiMaterialId": 15,
+    "quantity": 30
+  },
+  {
+    "groupId": 2017,
+    "id": 285,
+    "mysekaiMaterialId": 24,
+    "quantity": 3
+  },
+  {
+    "groupId": 2018,
+    "id": 286,
+    "mysekaiMaterialId": 6,
+    "quantity": 150
+  },
+  {
+    "groupId": 2018,
+    "id": 287,
+    "mysekaiMaterialId": 9,
+    "quantity": 30
+  },
+  {
+    "groupId": 2018,
+    "id": 288,
+    "mysekaiMaterialId": 7,
+    "quantity": 30
+  },
+  {
+    "groupId": 2018,
+    "id": 289,
+    "mysekaiMaterialId": 8,
+    "quantity": 30
+  },
+  {
+    "groupId": 2018,
+    "id": 290,
+    "mysekaiMaterialId": 10,
+    "quantity": 30
+  },
+  {
+    "groupId": 2019,
+    "id": 291,
+    "mysekaiMaterialId": 39,
+    "quantity": 8
+  },
+  {
+    "groupId": 2019,
+    "id": 292,
+    "mysekaiMaterialId": 40,
+    "quantity": 8
+  },
+  {
+    "groupId": 2019,
+    "id": 293,
+    "mysekaiMaterialId": 41,
+    "quantity": 8
+  },
+  {
+    "groupId": 2019,
+    "id": 294,
+    "mysekaiMaterialId": 42,
+    "quantity": 8
+  },
+  {
+    "groupId": 2019,
+    "id": 295,
+    "mysekaiMaterialId": 4,
+    "quantity": 40
+  },
+  {
+    "groupId": 2020,
+    "id": 296,
+    "mysekaiMaterialId": 11,
+    "quantity": 50
+  },
+  {
+    "groupId": 2020,
+    "id": 297,
+    "mysekaiMaterialId": 24,
+    "quantity": 8
+  },
+  {
+    "groupId": 2020,
+    "id": 298,
+    "mysekaiMaterialId": 12,
+    "quantity": 8
+  },
+  {
+    "groupId": 2020,
+    "id": 299,
+    "mysekaiMaterialId": 20,
+    "quantity": 8
+  },
+  {
+    "groupId": 2020,
+    "id": 300,
+    "mysekaiMaterialId": 5,
+    "quantity": 8
+  },
+  {
+    "groupId": 2021,
+    "id": 301,
+    "mysekaiMaterialId": 55,
+    "quantity": 8
+  },
+  {
+    "groupId": 2021,
+    "id": 302,
+    "mysekaiMaterialId": 56,
+    "quantity": 8
+  },
+  {
+    "groupId": 2021,
+    "id": 303,
+    "mysekaiMaterialId": 4,
+    "quantity": 40
+  },
+  {
+    "groupId": 2021,
+    "id": 304,
+    "mysekaiMaterialId": 2,
+    "quantity": 40
+  },
+  {
+    "groupId": 2021,
+    "id": 305,
+    "mysekaiMaterialId": 5,
+    "quantity": 4
+  },
+  {
+    "groupId": 2022,
+    "id": 306,
+    "mysekaiMaterialId": 13,
+    "quantity": 40
+  },
+  {
+    "groupId": 2022,
+    "id": 307,
+    "mysekaiMaterialId": 16,
+    "quantity": 40
+  },
+  {
+    "groupId": 2022,
+    "id": 308,
+    "mysekaiMaterialId": 17,
+    "quantity": 40
+  },
+  {
+    "groupId": 2022,
+    "id": 309,
+    "mysekaiMaterialId": 18,
+    "quantity": 40
+  },
+  {
+    "groupId": 2022,
+    "id": 310,
+    "mysekaiMaterialId": 19,
+    "quantity": 40
+  },
+  {
+    "groupId": 2023,
+    "id": 311,
+    "mysekaiMaterialId": 39,
+    "quantity": 10
+  },
+  {
+    "groupId": 2023,
+    "id": 312,
+    "mysekaiMaterialId": 40,
+    "quantity": 10
+  },
+  {
+    "groupId": 2023,
+    "id": 313,
+    "mysekaiMaterialId": 41,
+    "quantity": 10
+  },
+  {
+    "groupId": 2023,
+    "id": 314,
+    "mysekaiMaterialId": 42,
+    "quantity": 10
+  },
+  {
+    "groupId": 2023,
+    "id": 315,
+    "mysekaiMaterialId": 14,
+    "quantity": 40
+  },
+  {
+    "groupId": 2024,
+    "id": 316,
+    "mysekaiMaterialId": 6,
+    "quantity": 200
+  },
+  {
+    "groupId": 2024,
+    "id": 317,
+    "mysekaiMaterialId": 9,
+    "quantity": 40
+  },
+  {
+    "groupId": 2024,
+    "id": 318,
+    "mysekaiMaterialId": 7,
+    "quantity": 40
+  },
+  {
+    "groupId": 2024,
+    "id": 319,
+    "mysekaiMaterialId": 8,
+    "quantity": 40
+  },
+  {
+    "groupId": 2024,
+    "id": 320,
+    "mysekaiMaterialId": 10,
+    "quantity": 40
+  },
+  {
+    "groupId": 2025,
+    "id": 321,
+    "mysekaiMaterialId": 55,
+    "quantity": 10
+  },
+  {
+    "groupId": 2025,
+    "id": 322,
+    "mysekaiMaterialId": 56,
+    "quantity": 10
+  },
+  {
+    "groupId": 2025,
+    "id": 323,
+    "mysekaiMaterialId": 14,
+    "quantity": 40
+  },
+  {
+    "groupId": 2025,
+    "id": 324,
+    "mysekaiMaterialId": 15,
+    "quantity": 40
+  },
+  {
+    "groupId": 2025,
+    "id": 325,
+    "mysekaiMaterialId": 24,
+    "quantity": 4
+  },
+  {
+    "groupId": 2026,
+    "id": 326,
+    "mysekaiMaterialId": 23,
+    "quantity": 50
+  },
+  {
+    "groupId": 2026,
+    "id": 327,
+    "mysekaiMaterialId": 21,
+    "quantity": 50
+  },
+  {
+    "groupId": 2026,
+    "id": 328,
+    "mysekaiMaterialId": 22,
+    "quantity": 50
+  },
+  {
+    "groupId": 2026,
+    "id": 329,
+    "mysekaiMaterialId": 9,
+    "quantity": 50
+  },
+  {
+    "groupId": 2026,
+    "id": 330,
+    "mysekaiMaterialId": 20,
+    "quantity": 5
+  },
+  {
+    "groupId": 2027,
+    "id": 331,
+    "mysekaiMaterialId": 39,
+    "quantity": 12
+  },
+  {
+    "groupId": 2027,
+    "id": 332,
+    "mysekaiMaterialId": 40,
+    "quantity": 12
+  },
+  {
+    "groupId": 2027,
+    "id": 333,
+    "mysekaiMaterialId": 41,
+    "quantity": 12
+  },
+  {
+    "groupId": 2027,
+    "id": 334,
+    "mysekaiMaterialId": 42,
+    "quantity": 12
+  },
+  {
+    "groupId": 2027,
+    "id": 335,
+    "mysekaiMaterialId": 7,
+    "quantity": 50
+  },
+  {
+    "groupId": 2028,
+    "id": 336,
+    "mysekaiMaterialId": 1,
+    "quantity": 150
+  },
+  {
+    "groupId": 2028,
+    "id": 337,
+    "mysekaiMaterialId": 2,
+    "quantity": 50
+  },
+  {
+    "groupId": 2028,
+    "id": 338,
+    "mysekaiMaterialId": 3,
+    "quantity": 50
+  },
+  {
+    "groupId": 2028,
+    "id": 339,
+    "mysekaiMaterialId": 4,
+    "quantity": 50
+  },
+  {
+    "groupId": 2028,
+    "id": 340,
+    "mysekaiMaterialId": 5,
+    "quantity": 5
+  },
+  {
+    "groupId": 2029,
+    "id": 341,
+    "mysekaiMaterialId": 55,
+    "quantity": 12
+  },
+  {
+    "groupId": 2029,
+    "id": 342,
+    "mysekaiMaterialId": 56,
+    "quantity": 12
+  },
+  {
+    "groupId": 2029,
+    "id": 343,
+    "mysekaiMaterialId": 7,
+    "quantity": 50
+  },
+  {
+    "groupId": 2029,
+    "id": 344,
+    "mysekaiMaterialId": 8,
+    "quantity": 50
+  },
+  {
+    "groupId": 2029,
+    "id": 345,
+    "mysekaiMaterialId": 10,
+    "quantity": 50
+  },
+  {
+    "groupId": 2030,
+    "id": 346,
+    "mysekaiMaterialId": 11,
+    "quantity": 75
+  },
+  {
+    "groupId": 2030,
+    "id": 347,
+    "mysekaiMaterialId": 24,
+    "quantity": 10
+  },
+  {
+    "groupId": 2030,
+    "id": 348,
+    "mysekaiMaterialId": 12,
+    "quantity": 10
+  },
+  {
+    "groupId": 2030,
+    "id": 349,
+    "mysekaiMaterialId": 20,
+    "quantity": 10
+  },
+  {
+    "groupId": 2030,
+    "id": 350,
+    "mysekaiMaterialId": 5,
+    "quantity": 10
+  },
+  {
+    "groupId": 2031,
+    "id": 351,
+    "mysekaiMaterialId": 39,
+    "quantity": 15
+  },
+  {
+    "groupId": 2031,
+    "id": 352,
+    "mysekaiMaterialId": 40,
+    "quantity": 15
+  },
+  {
+    "groupId": 2031,
+    "id": 353,
+    "mysekaiMaterialId": 41,
+    "quantity": 15
+  },
+  {
+    "groupId": 2031,
+    "id": 354,
+    "mysekaiMaterialId": 42,
+    "quantity": 15
+  },
+  {
+    "groupId": 2031,
+    "id": 355,
+    "mysekaiMaterialId": 23,
+    "quantity": 50
+  },
+  {
+    "groupId": 2032,
+    "id": 356,
+    "mysekaiMaterialId": 6,
+    "quantity": 250
+  },
+  {
+    "groupId": 2032,
+    "id": 357,
+    "mysekaiMaterialId": 9,
+    "quantity": 50
+  },
+  {
+    "groupId": 2032,
+    "id": 358,
+    "mysekaiMaterialId": 7,
+    "quantity": 50
+  },
+  {
+    "groupId": 2032,
+    "id": 359,
+    "mysekaiMaterialId": 8,
+    "quantity": 50
+  },
+  {
+    "groupId": 2032,
+    "id": 360,
+    "mysekaiMaterialId": 10,
+    "quantity": 50
+  },
+  {
+    "groupId": 2033,
+    "id": 361,
+    "mysekaiMaterialId": 55,
+    "quantity": 15
+  },
+  {
+    "groupId": 2033,
+    "id": 362,
+    "mysekaiMaterialId": 56,
+    "quantity": 15
+  },
+  {
+    "groupId": 2033,
+    "id": 363,
+    "mysekaiMaterialId": 22,
+    "quantity": 50
+  },
+  {
+    "groupId": 2033,
+    "id": 364,
+    "mysekaiMaterialId": 21,
+    "quantity": 50
+  },
+  {
+    "groupId": 2033,
+    "id": 365,
+    "mysekaiMaterialId": 20,
+    "quantity": 5
+  },
+  {
+    "groupId": 2034,
+    "id": 366,
+    "mysekaiMaterialId": 15,
+    "quantity": 50
+  },
+  {
+    "groupId": 2034,
+    "id": 367,
+    "mysekaiMaterialId": 16,
+    "quantity": 50
+  },
+  {
+    "groupId": 2034,
+    "id": 368,
+    "mysekaiMaterialId": 17,
+    "quantity": 50
+  },
+  {
+    "groupId": 2034,
+    "id": 369,
+    "mysekaiMaterialId": 18,
+    "quantity": 50
+  },
+  {
+    "groupId": 2034,
+    "id": 370,
+    "mysekaiMaterialId": 19,
+    "quantity": 50
+  },
+  {
+    "groupId": 2035,
+    "id": 371,
+    "mysekaiMaterialId": 39,
+    "quantity": 16
+  },
+  {
+    "groupId": 2035,
+    "id": 372,
+    "mysekaiMaterialId": 40,
+    "quantity": 16
+  },
+  {
+    "groupId": 2035,
+    "id": 373,
+    "mysekaiMaterialId": 41,
+    "quantity": 16
+  },
+  {
+    "groupId": 2035,
+    "id": 374,
+    "mysekaiMaterialId": 42,
+    "quantity": 16
+  },
+  {
+    "groupId": 2035,
+    "id": 375,
+    "mysekaiMaterialId": 3,
+    "quantity": 50
+  },
+  {
+    "groupId": 2036,
+    "id": 376,
+    "mysekaiMaterialId": 55,
+    "quantity": 16
+  },
+  {
+    "groupId": 2036,
+    "id": 377,
+    "mysekaiMaterialId": 56,
+    "quantity": 16
+  },
+  {
+    "groupId": 2036,
+    "id": 378,
+    "mysekaiMaterialId": 2,
+    "quantity": 50
+  },
+  {
+    "groupId": 2036,
+    "id": 379,
+    "mysekaiMaterialId": 3,
+    "quantity": 50
+  },
+  {
+    "groupId": 2036,
+    "id": 380,
+    "mysekaiMaterialId": 5,
+    "quantity": 5
+  },
+  {
+    "groupId": 2037,
+    "id": 381,
+    "mysekaiMaterialId": 23,
+    "quantity": 50
+  },
+  {
+    "groupId": 2037,
+    "id": 382,
+    "mysekaiMaterialId": 21,
+    "quantity": 50
+  },
+  {
+    "groupId": 2037,
+    "id": 383,
+    "mysekaiMaterialId": 22,
+    "quantity": 50
+  },
+  {
+    "groupId": 2037,
+    "id": 384,
+    "mysekaiMaterialId": 9,
+    "quantity": 50
+  },
+  {
+    "groupId": 2037,
+    "id": 385,
+    "mysekaiMaterialId": 24,
+    "quantity": 5
+  },
+  {
+    "groupId": 2038,
+    "id": 386,
+    "mysekaiMaterialId": 39,
+    "quantity": 17
+  },
+  {
+    "groupId": 2038,
+    "id": 387,
+    "mysekaiMaterialId": 40,
+    "quantity": 17
+  },
+  {
+    "groupId": 2038,
+    "id": 388,
+    "mysekaiMaterialId": 41,
+    "quantity": 17
+  },
+  {
+    "groupId": 2038,
+    "id": 389,
+    "mysekaiMaterialId": 42,
+    "quantity": 17
+  },
+  {
+    "groupId": 2038,
+    "id": 390,
+    "mysekaiMaterialId": 8,
+    "quantity": 50
+  },
+  {
+    "groupId": 2039,
+    "id": 391,
+    "mysekaiMaterialId": 55,
+    "quantity": 17
+  },
+  {
+    "groupId": 2039,
+    "id": 392,
+    "mysekaiMaterialId": 56,
+    "quantity": 17
+  },
+  {
+    "groupId": 2039,
+    "id": 393,
+    "mysekaiMaterialId": 8,
+    "quantity": 50
+  },
+  {
+    "groupId": 2039,
+    "id": 394,
+    "mysekaiMaterialId": 7,
+    "quantity": 50
+  },
+  {
+    "groupId": 2039,
+    "id": 395,
+    "mysekaiMaterialId": 10,
+    "quantity": 50
+  },
+  {
+    "groupId": 2040,
+    "id": 396,
+    "mysekaiMaterialId": 11,
+    "quantity": 100
+  },
+  {
+    "groupId": 2040,
+    "id": 397,
+    "mysekaiMaterialId": 24,
+    "quantity": 15
+  },
+  {
+    "groupId": 2040,
+    "id": 398,
+    "mysekaiMaterialId": 12,
+    "quantity": 15
+  },
+  {
+    "groupId": 2040,
+    "id": 399,
+    "mysekaiMaterialId": 20,
+    "quantity": 15
+  },
+  {
+    "groupId": 2040,
+    "id": 400,
+    "mysekaiMaterialId": 5,
+    "quantity": 15
+  },
+  {
+    "groupId": 3001,
+    "id": 401,
+    "mysekaiMaterialId": 1,
+    "quantity": 1
+  },
+  {
+    "groupId": 3001,
+    "id": 402,
+    "mysekaiMaterialId": 6,
+    "quantity": 1
+  },
+  {
+    "groupId": 3001,
+    "id": 403,
+    "mysekaiMaterialId": 2,
+    "quantity": 1
+  },
+  {
+    "groupId": 3001,
+    "id": 404,
+    "mysekaiMaterialId": 3,
+    "quantity": 1
+  },
+  {
+    "groupId": 3001,
+    "id": 405,
+    "mysekaiMaterialId": 23,
+    "quantity": 1
+  },
+  {
+    "groupId": 3002,
+    "id": 406,
+    "mysekaiMaterialId": 1,
+    "quantity": 5
+  },
+  {
+    "groupId": 3002,
+    "id": 407,
+    "mysekaiMaterialId": 6,
+    "quantity": 5
+  },
+  {
+    "groupId": 3002,
+    "id": 408,
+    "mysekaiMaterialId": 9,
+    "quantity": 1
+  },
+  {
+    "groupId": 3002,
+    "id": 409,
+    "mysekaiMaterialId": 23,
+    "quantity": 1
+  },
+  {
+    "groupId": 3002,
+    "id": 410,
+    "mysekaiMaterialId": 13,
+    "quantity": 1
+  },
+  {
+    "groupId": 3003,
+    "id": 411,
+    "mysekaiMaterialId": 43,
+    "quantity": 2
+  },
+  {
+    "groupId": 3003,
+    "id": 412,
+    "mysekaiMaterialId": 44,
+    "quantity": 2
+  },
+  {
+    "groupId": 3003,
+    "id": 413,
+    "mysekaiMaterialId": 45,
+    "quantity": 2
+  },
+  {
+    "groupId": 3003,
+    "id": 414,
+    "mysekaiMaterialId": 46,
+    "quantity": 2
+  },
+  {
+    "groupId": 3003,
+    "id": 415,
+    "mysekaiMaterialId": 6,
+    "quantity": 25
+  },
+  {
+    "groupId": 3004,
+    "id": 416,
+    "mysekaiMaterialId": 1,
+    "quantity": 20
+  },
+  {
+    "groupId": 3004,
+    "id": 417,
+    "mysekaiMaterialId": 2,
+    "quantity": 10
+  },
+  {
+    "groupId": 3004,
+    "id": 418,
+    "mysekaiMaterialId": 3,
+    "quantity": 10
+  },
+  {
+    "groupId": 3004,
+    "id": 419,
+    "mysekaiMaterialId": 21,
+    "quantity": 10
+  },
+  {
+    "groupId": 3004,
+    "id": 420,
+    "mysekaiMaterialId": 22,
+    "quantity": 10
+  },
+  {
+    "groupId": 3005,
+    "id": 421,
+    "mysekaiMaterialId": 55,
+    "quantity": 2
+  },
+  {
+    "groupId": 3005,
+    "id": 422,
+    "mysekaiMaterialId": 57,
+    "quantity": 2
+  },
+  {
+    "groupId": 3005,
+    "id": 423,
+    "mysekaiMaterialId": 59,
+    "quantity": 2
+  },
+  {
+    "groupId": 3005,
+    "id": 424,
+    "mysekaiMaterialId": 7,
+    "quantity": 7
+  },
+  {
+    "groupId": 3005,
+    "id": 425,
+    "mysekaiMaterialId": 8,
+    "quantity": 7
+  },
+  {
+    "groupId": 3006,
+    "id": 426,
+    "mysekaiMaterialId": 6,
+    "quantity": 50
+  },
+  {
+    "groupId": 3006,
+    "id": 427,
+    "mysekaiMaterialId": 1,
+    "quantity": 25
+  },
+  {
+    "groupId": 3006,
+    "id": 428,
+    "mysekaiMaterialId": 4,
+    "quantity": 7
+  },
+  {
+    "groupId": 3006,
+    "id": 429,
+    "mysekaiMaterialId": 10,
+    "quantity": 7
+  },
+  {
+    "groupId": 3006,
+    "id": 430,
+    "mysekaiMaterialId": 11,
+    "quantity": 7
+  },
+  {
+    "groupId": 3007,
+    "id": 431,
+    "mysekaiMaterialId": 43,
+    "quantity": 2
+  },
+  {
+    "groupId": 3007,
+    "id": 432,
+    "mysekaiMaterialId": 44,
+    "quantity": 2
+  },
+  {
+    "groupId": 3007,
+    "id": 433,
+    "mysekaiMaterialId": 45,
+    "quantity": 2
+  },
+  {
+    "groupId": 3007,
+    "id": 434,
+    "mysekaiMaterialId": 46,
+    "quantity": 2
+  },
+  {
+    "groupId": 3007,
+    "id": 435,
+    "mysekaiMaterialId": 1,
+    "quantity": 50
+  },
+  {
+    "groupId": 3008,
+    "id": 436,
+    "mysekaiMaterialId": 14,
+    "quantity": 10
+  },
+  {
+    "groupId": 3008,
+    "id": 437,
+    "mysekaiMaterialId": 16,
+    "quantity": 10
+  },
+  {
+    "groupId": 3008,
+    "id": 438,
+    "mysekaiMaterialId": 17,
+    "quantity": 10
+  },
+  {
+    "groupId": 3008,
+    "id": 439,
+    "mysekaiMaterialId": 18,
+    "quantity": 10
+  },
+  {
+    "groupId": 3008,
+    "id": 440,
+    "mysekaiMaterialId": 19,
+    "quantity": 10
+  },
+  {
+    "groupId": 3009,
+    "id": 441,
+    "mysekaiMaterialId": 55,
+    "quantity": 2
+  },
+  {
+    "groupId": 3009,
+    "id": 442,
+    "mysekaiMaterialId": 57,
+    "quantity": 2
+  },
+  {
+    "groupId": 3009,
+    "id": 443,
+    "mysekaiMaterialId": 59,
+    "quantity": 2
+  },
+  {
+    "groupId": 3009,
+    "id": 444,
+    "mysekaiMaterialId": 2,
+    "quantity": 25
+  },
+  {
+    "groupId": 3009,
+    "id": 445,
+    "mysekaiMaterialId": 3,
+    "quantity": 25
+  },
+  {
+    "groupId": 3010,
+    "id": 446,
+    "mysekaiMaterialId": 11,
+    "quantity": 25
+  },
+  {
+    "groupId": 3010,
+    "id": 447,
+    "mysekaiMaterialId": 24,
+    "quantity": 3
+  },
+  {
+    "groupId": 3010,
+    "id": 448,
+    "mysekaiMaterialId": 12,
+    "quantity": 3
+  },
+  {
+    "groupId": 3010,
+    "id": 449,
+    "mysekaiMaterialId": 20,
+    "quantity": 3
+  },
+  {
+    "groupId": 3010,
+    "id": 450,
+    "mysekaiMaterialId": 5,
+    "quantity": 3
+  },
+  {
+    "groupId": 3011,
+    "id": 451,
+    "mysekaiMaterialId": 43,
+    "quantity": 3
+  },
+  {
+    "groupId": 3011,
+    "id": 452,
+    "mysekaiMaterialId": 44,
+    "quantity": 3
+  },
+  {
+    "groupId": 3011,
+    "id": 453,
+    "mysekaiMaterialId": 45,
+    "quantity": 3
+  },
+  {
+    "groupId": 3011,
+    "id": 454,
+    "mysekaiMaterialId": 46,
+    "quantity": 3
+  },
+  {
+    "groupId": 3011,
+    "id": 455,
+    "mysekaiMaterialId": 23,
+    "quantity": 25
+  },
+  {
+    "groupId": 3012,
+    "id": 456,
+    "mysekaiMaterialId": 6,
+    "quantity": 100
+  },
+  {
+    "groupId": 3012,
+    "id": 457,
+    "mysekaiMaterialId": 9,
+    "quantity": 25
+  },
+  {
+    "groupId": 3012,
+    "id": 458,
+    "mysekaiMaterialId": 7,
+    "quantity": 25
+  },
+  {
+    "groupId": 3012,
+    "id": 459,
+    "mysekaiMaterialId": 8,
+    "quantity": 25
+  },
+  {
+    "groupId": 3012,
+    "id": 460,
+    "mysekaiMaterialId": 10,
+    "quantity": 25
+  },
+  {
+    "groupId": 3013,
+    "id": 461,
+    "mysekaiMaterialId": 55,
+    "quantity": 3
+  },
+  {
+    "groupId": 3013,
+    "id": 462,
+    "mysekaiMaterialId": 57,
+    "quantity": 3
+  },
+  {
+    "groupId": 3013,
+    "id": 463,
+    "mysekaiMaterialId": 59,
+    "quantity": 3
+  },
+  {
+    "groupId": 3013,
+    "id": 464,
+    "mysekaiMaterialId": 22,
+    "quantity": 25
+  },
+  {
+    "groupId": 3013,
+    "id": 465,
+    "mysekaiMaterialId": 20,
+    "quantity": 3
+  },
+  {
+    "groupId": 3014,
+    "id": 466,
+    "mysekaiMaterialId": 1,
+    "quantity": 100
+  },
+  {
+    "groupId": 3014,
+    "id": 467,
+    "mysekaiMaterialId": 2,
+    "quantity": 30
+  },
+  {
+    "groupId": 3014,
+    "id": 468,
+    "mysekaiMaterialId": 3,
+    "quantity": 30
+  },
+  {
+    "groupId": 3014,
+    "id": 469,
+    "mysekaiMaterialId": 4,
+    "quantity": 30
+  },
+  {
+    "groupId": 3014,
+    "id": 470,
+    "mysekaiMaterialId": 5,
+    "quantity": 3
+  },
+  {
+    "groupId": 3015,
+    "id": 471,
+    "mysekaiMaterialId": 43,
+    "quantity": 5
+  },
+  {
+    "groupId": 3015,
+    "id": 472,
+    "mysekaiMaterialId": 44,
+    "quantity": 5
+  },
+  {
+    "groupId": 3015,
+    "id": 473,
+    "mysekaiMaterialId": 45,
+    "quantity": 5
+  },
+  {
+    "groupId": 3015,
+    "id": 474,
+    "mysekaiMaterialId": 46,
+    "quantity": 5
+  },
+  {
+    "groupId": 3015,
+    "id": 475,
+    "mysekaiMaterialId": 13,
+    "quantity": 30
+  },
+  {
+    "groupId": 3016,
+    "id": 476,
+    "mysekaiMaterialId": 14,
+    "quantity": 30
+  },
+  {
+    "groupId": 3016,
+    "id": 477,
+    "mysekaiMaterialId": 16,
+    "quantity": 30
+  },
+  {
+    "groupId": 3016,
+    "id": 478,
+    "mysekaiMaterialId": 17,
+    "quantity": 30
+  },
+  {
+    "groupId": 3016,
+    "id": 479,
+    "mysekaiMaterialId": 18,
+    "quantity": 30
+  },
+  {
+    "groupId": 3016,
+    "id": 480,
+    "mysekaiMaterialId": 19,
+    "quantity": 30
+  },
+  {
+    "groupId": 3017,
+    "id": 481,
+    "mysekaiMaterialId": 55,
+    "quantity": 5
+  },
+  {
+    "groupId": 3017,
+    "id": 482,
+    "mysekaiMaterialId": 57,
+    "quantity": 5
+  },
+  {
+    "groupId": 3017,
+    "id": 483,
+    "mysekaiMaterialId": 59,
+    "quantity": 5
+  },
+  {
+    "groupId": 3017,
+    "id": 484,
+    "mysekaiMaterialId": 15,
+    "quantity": 30
+  },
+  {
+    "groupId": 3017,
+    "id": 485,
+    "mysekaiMaterialId": 24,
+    "quantity": 3
+  },
+  {
+    "groupId": 3018,
+    "id": 486,
+    "mysekaiMaterialId": 6,
+    "quantity": 150
+  },
+  {
+    "groupId": 3018,
+    "id": 487,
+    "mysekaiMaterialId": 9,
+    "quantity": 30
+  },
+  {
+    "groupId": 3018,
+    "id": 488,
+    "mysekaiMaterialId": 7,
+    "quantity": 30
+  },
+  {
+    "groupId": 3018,
+    "id": 489,
+    "mysekaiMaterialId": 8,
+    "quantity": 30
+  },
+  {
+    "groupId": 3018,
+    "id": 490,
+    "mysekaiMaterialId": 10,
+    "quantity": 30
+  },
+  {
+    "groupId": 3019,
+    "id": 491,
+    "mysekaiMaterialId": 43,
+    "quantity": 7
+  },
+  {
+    "groupId": 3019,
+    "id": 492,
+    "mysekaiMaterialId": 44,
+    "quantity": 7
+  },
+  {
+    "groupId": 3019,
+    "id": 493,
+    "mysekaiMaterialId": 45,
+    "quantity": 7
+  },
+  {
+    "groupId": 3019,
+    "id": 494,
+    "mysekaiMaterialId": 46,
+    "quantity": 7
+  },
+  {
+    "groupId": 3019,
+    "id": 495,
+    "mysekaiMaterialId": 4,
+    "quantity": 40
+  },
+  {
+    "groupId": 3020,
+    "id": 496,
+    "mysekaiMaterialId": 11,
+    "quantity": 50
+  },
+  {
+    "groupId": 3020,
+    "id": 497,
+    "mysekaiMaterialId": 24,
+    "quantity": 8
+  },
+  {
+    "groupId": 3020,
+    "id": 498,
+    "mysekaiMaterialId": 12,
+    "quantity": 8
+  },
+  {
+    "groupId": 3020,
+    "id": 499,
+    "mysekaiMaterialId": 20,
+    "quantity": 8
+  },
+  {
+    "groupId": 3020,
+    "id": 500,
+    "mysekaiMaterialId": 5,
+    "quantity": 8
+  },
+  {
+    "groupId": 3021,
+    "id": 501,
+    "mysekaiMaterialId": 55,
+    "quantity": 7
+  },
+  {
+    "groupId": 3021,
+    "id": 502,
+    "mysekaiMaterialId": 57,
+    "quantity": 7
+  },
+  {
+    "groupId": 3021,
+    "id": 503,
+    "mysekaiMaterialId": 59,
+    "quantity": 7
+  },
+  {
+    "groupId": 3021,
+    "id": 504,
+    "mysekaiMaterialId": 2,
+    "quantity": 40
+  },
+  {
+    "groupId": 3021,
+    "id": 505,
+    "mysekaiMaterialId": 5,
+    "quantity": 4
+  },
+  {
+    "groupId": 3022,
+    "id": 506,
+    "mysekaiMaterialId": 13,
+    "quantity": 40
+  },
+  {
+    "groupId": 3022,
+    "id": 507,
+    "mysekaiMaterialId": 16,
+    "quantity": 40
+  },
+  {
+    "groupId": 3022,
+    "id": 508,
+    "mysekaiMaterialId": 17,
+    "quantity": 40
+  },
+  {
+    "groupId": 3022,
+    "id": 509,
+    "mysekaiMaterialId": 18,
+    "quantity": 40
+  },
+  {
+    "groupId": 3022,
+    "id": 510,
+    "mysekaiMaterialId": 19,
+    "quantity": 40
+  },
+  {
+    "groupId": 3023,
+    "id": 511,
+    "mysekaiMaterialId": 43,
+    "quantity": 8
+  },
+  {
+    "groupId": 3023,
+    "id": 512,
+    "mysekaiMaterialId": 44,
+    "quantity": 8
+  },
+  {
+    "groupId": 3023,
+    "id": 513,
+    "mysekaiMaterialId": 45,
+    "quantity": 8
+  },
+  {
+    "groupId": 3023,
+    "id": 514,
+    "mysekaiMaterialId": 46,
+    "quantity": 8
+  },
+  {
+    "groupId": 3023,
+    "id": 515,
+    "mysekaiMaterialId": 14,
+    "quantity": 40
+  },
+  {
+    "groupId": 3024,
+    "id": 516,
+    "mysekaiMaterialId": 6,
+    "quantity": 200
+  },
+  {
+    "groupId": 3024,
+    "id": 517,
+    "mysekaiMaterialId": 9,
+    "quantity": 40
+  },
+  {
+    "groupId": 3024,
+    "id": 518,
+    "mysekaiMaterialId": 7,
+    "quantity": 40
+  },
+  {
+    "groupId": 3024,
+    "id": 519,
+    "mysekaiMaterialId": 8,
+    "quantity": 40
+  },
+  {
+    "groupId": 3024,
+    "id": 520,
+    "mysekaiMaterialId": 10,
+    "quantity": 40
+  },
+  {
+    "groupId": 3025,
+    "id": 521,
+    "mysekaiMaterialId": 55,
+    "quantity": 8
+  },
+  {
+    "groupId": 3025,
+    "id": 522,
+    "mysekaiMaterialId": 57,
+    "quantity": 8
+  },
+  {
+    "groupId": 3025,
+    "id": 523,
+    "mysekaiMaterialId": 59,
+    "quantity": 8
+  },
+  {
+    "groupId": 3025,
+    "id": 524,
+    "mysekaiMaterialId": 15,
+    "quantity": 40
+  },
+  {
+    "groupId": 3025,
+    "id": 525,
+    "mysekaiMaterialId": 24,
+    "quantity": 4
+  },
+  {
+    "groupId": 3026,
+    "id": 526,
+    "mysekaiMaterialId": 23,
+    "quantity": 50
+  },
+  {
+    "groupId": 3026,
+    "id": 527,
+    "mysekaiMaterialId": 21,
+    "quantity": 50
+  },
+  {
+    "groupId": 3026,
+    "id": 528,
+    "mysekaiMaterialId": 22,
+    "quantity": 50
+  },
+  {
+    "groupId": 3026,
+    "id": 529,
+    "mysekaiMaterialId": 9,
+    "quantity": 50
+  },
+  {
+    "groupId": 3026,
+    "id": 530,
+    "mysekaiMaterialId": 20,
+    "quantity": 5
+  },
+  {
+    "groupId": 3027,
+    "id": 531,
+    "mysekaiMaterialId": 43,
+    "quantity": 10
+  },
+  {
+    "groupId": 3027,
+    "id": 532,
+    "mysekaiMaterialId": 44,
+    "quantity": 10
+  },
+  {
+    "groupId": 3027,
+    "id": 533,
+    "mysekaiMaterialId": 45,
+    "quantity": 10
+  },
+  {
+    "groupId": 3027,
+    "id": 534,
+    "mysekaiMaterialId": 46,
+    "quantity": 10
+  },
+  {
+    "groupId": 3027,
+    "id": 535,
+    "mysekaiMaterialId": 7,
+    "quantity": 50
+  },
+  {
+    "groupId": 3028,
+    "id": 536,
+    "mysekaiMaterialId": 1,
+    "quantity": 150
+  },
+  {
+    "groupId": 3028,
+    "id": 537,
+    "mysekaiMaterialId": 2,
+    "quantity": 50
+  },
+  {
+    "groupId": 3028,
+    "id": 538,
+    "mysekaiMaterialId": 3,
+    "quantity": 50
+  },
+  {
+    "groupId": 3028,
+    "id": 539,
+    "mysekaiMaterialId": 4,
+    "quantity": 50
+  },
+  {
+    "groupId": 3028,
+    "id": 540,
+    "mysekaiMaterialId": 5,
+    "quantity": 5
+  },
+  {
+    "groupId": 3029,
+    "id": 541,
+    "mysekaiMaterialId": 55,
+    "quantity": 10
+  },
+  {
+    "groupId": 3029,
+    "id": 542,
+    "mysekaiMaterialId": 57,
+    "quantity": 10
+  },
+  {
+    "groupId": 3029,
+    "id": 543,
+    "mysekaiMaterialId": 59,
+    "quantity": 10
+  },
+  {
+    "groupId": 3029,
+    "id": 544,
+    "mysekaiMaterialId": 8,
+    "quantity": 50
+  },
+  {
+    "groupId": 3029,
+    "id": 545,
+    "mysekaiMaterialId": 10,
+    "quantity": 50
+  },
+  {
+    "groupId": 3030,
+    "id": 546,
+    "mysekaiMaterialId": 11,
+    "quantity": 75
+  },
+  {
+    "groupId": 3030,
+    "id": 547,
+    "mysekaiMaterialId": 24,
+    "quantity": 10
+  },
+  {
+    "groupId": 3030,
+    "id": 548,
+    "mysekaiMaterialId": 12,
+    "quantity": 10
+  },
+  {
+    "groupId": 3030,
+    "id": 549,
+    "mysekaiMaterialId": 20,
+    "quantity": 10
+  },
+  {
+    "groupId": 3030,
+    "id": 550,
+    "mysekaiMaterialId": 5,
+    "quantity": 10
+  },
+  {
+    "groupId": 3031,
+    "id": 551,
+    "mysekaiMaterialId": 43,
+    "quantity": 13
+  },
+  {
+    "groupId": 3031,
+    "id": 552,
+    "mysekaiMaterialId": 44,
+    "quantity": 13
+  },
+  {
+    "groupId": 3031,
+    "id": 553,
+    "mysekaiMaterialId": 45,
+    "quantity": 13
+  },
+  {
+    "groupId": 3031,
+    "id": 554,
+    "mysekaiMaterialId": 46,
+    "quantity": 13
+  },
+  {
+    "groupId": 3031,
+    "id": 555,
+    "mysekaiMaterialId": 23,
+    "quantity": 50
+  },
+  {
+    "groupId": 3032,
+    "id": 556,
+    "mysekaiMaterialId": 6,
+    "quantity": 250
+  },
+  {
+    "groupId": 3032,
+    "id": 557,
+    "mysekaiMaterialId": 9,
+    "quantity": 50
+  },
+  {
+    "groupId": 3032,
+    "id": 558,
+    "mysekaiMaterialId": 7,
+    "quantity": 50
+  },
+  {
+    "groupId": 3032,
+    "id": 559,
+    "mysekaiMaterialId": 8,
+    "quantity": 50
+  },
+  {
+    "groupId": 3032,
+    "id": 560,
+    "mysekaiMaterialId": 10,
+    "quantity": 50
+  },
+  {
+    "groupId": 3033,
+    "id": 561,
+    "mysekaiMaterialId": 55,
+    "quantity": 13
+  },
+  {
+    "groupId": 3033,
+    "id": 562,
+    "mysekaiMaterialId": 57,
+    "quantity": 13
+  },
+  {
+    "groupId": 3033,
+    "id": 563,
+    "mysekaiMaterialId": 59,
+    "quantity": 13
+  },
+  {
+    "groupId": 3033,
+    "id": 564,
+    "mysekaiMaterialId": 21,
+    "quantity": 50
+  },
+  {
+    "groupId": 3033,
+    "id": 565,
+    "mysekaiMaterialId": 20,
+    "quantity": 5
+  },
+  {
+    "groupId": 3034,
+    "id": 566,
+    "mysekaiMaterialId": 15,
+    "quantity": 50
+  },
+  {
+    "groupId": 3034,
+    "id": 567,
+    "mysekaiMaterialId": 16,
+    "quantity": 50
+  },
+  {
+    "groupId": 3034,
+    "id": 568,
+    "mysekaiMaterialId": 17,
+    "quantity": 50
+  },
+  {
+    "groupId": 3034,
+    "id": 569,
+    "mysekaiMaterialId": 18,
+    "quantity": 50
+  },
+  {
+    "groupId": 3034,
+    "id": 570,
+    "mysekaiMaterialId": 19,
+    "quantity": 50
+  },
+  {
+    "groupId": 3035,
+    "id": 571,
+    "mysekaiMaterialId": 43,
+    "quantity": 14
+  },
+  {
+    "groupId": 3035,
+    "id": 572,
+    "mysekaiMaterialId": 44,
+    "quantity": 14
+  },
+  {
+    "groupId": 3035,
+    "id": 573,
+    "mysekaiMaterialId": 45,
+    "quantity": 14
+  },
+  {
+    "groupId": 3035,
+    "id": 574,
+    "mysekaiMaterialId": 46,
+    "quantity": 14
+  },
+  {
+    "groupId": 3035,
+    "id": 575,
+    "mysekaiMaterialId": 3,
+    "quantity": 50
+  },
+  {
+    "groupId": 3036,
+    "id": 576,
+    "mysekaiMaterialId": 55,
+    "quantity": 14
+  },
+  {
+    "groupId": 3036,
+    "id": 577,
+    "mysekaiMaterialId": 57,
+    "quantity": 14
+  },
+  {
+    "groupId": 3036,
+    "id": 578,
+    "mysekaiMaterialId": 59,
+    "quantity": 14
+  },
+  {
+    "groupId": 3036,
+    "id": 579,
+    "mysekaiMaterialId": 3,
+    "quantity": 50
+  },
+  {
+    "groupId": 3036,
+    "id": 580,
+    "mysekaiMaterialId": 5,
+    "quantity": 5
+  },
+  {
+    "groupId": 3037,
+    "id": 581,
+    "mysekaiMaterialId": 23,
+    "quantity": 50
+  },
+  {
+    "groupId": 3037,
+    "id": 582,
+    "mysekaiMaterialId": 21,
+    "quantity": 50
+  },
+  {
+    "groupId": 3037,
+    "id": 583,
+    "mysekaiMaterialId": 22,
+    "quantity": 50
+  },
+  {
+    "groupId": 3037,
+    "id": 584,
+    "mysekaiMaterialId": 9,
+    "quantity": 50
+  },
+  {
+    "groupId": 3037,
+    "id": 585,
+    "mysekaiMaterialId": 24,
+    "quantity": 5
+  },
+  {
+    "groupId": 3038,
+    "id": 586,
+    "mysekaiMaterialId": 43,
+    "quantity": 15
+  },
+  {
+    "groupId": 3038,
+    "id": 587,
+    "mysekaiMaterialId": 44,
+    "quantity": 15
+  },
+  {
+    "groupId": 3038,
+    "id": 588,
+    "mysekaiMaterialId": 45,
+    "quantity": 15
+  },
+  {
+    "groupId": 3038,
+    "id": 589,
+    "mysekaiMaterialId": 46,
+    "quantity": 15
+  },
+  {
+    "groupId": 3038,
+    "id": 590,
+    "mysekaiMaterialId": 8,
+    "quantity": 50
+  },
+  {
+    "groupId": 3039,
+    "id": 591,
+    "mysekaiMaterialId": 55,
+    "quantity": 15
+  },
+  {
+    "groupId": 3039,
+    "id": 592,
+    "mysekaiMaterialId": 57,
+    "quantity": 15
+  },
+  {
+    "groupId": 3039,
+    "id": 593,
+    "mysekaiMaterialId": 59,
+    "quantity": 15
+  },
+  {
+    "groupId": 3039,
+    "id": 594,
+    "mysekaiMaterialId": 7,
+    "quantity": 50
+  },
+  {
+    "groupId": 3039,
+    "id": 595,
+    "mysekaiMaterialId": 10,
+    "quantity": 50
+  },
+  {
+    "groupId": 3040,
+    "id": 596,
+    "mysekaiMaterialId": 11,
+    "quantity": 100
+  },
+  {
+    "groupId": 3040,
+    "id": 597,
+    "mysekaiMaterialId": 24,
+    "quantity": 15
+  },
+  {
+    "groupId": 3040,
+    "id": 598,
+    "mysekaiMaterialId": 12,
+    "quantity": 15
+  },
+  {
+    "groupId": 3040,
+    "id": 599,
+    "mysekaiMaterialId": 20,
+    "quantity": 15
+  },
+  {
+    "groupId": 3040,
+    "id": 600,
+    "mysekaiMaterialId": 5,
+    "quantity": 15
+  },
+  {
+    "groupId": 4001,
+    "id": 601,
+    "mysekaiMaterialId": 1,
+    "quantity": 1
+  },
+  {
+    "groupId": 4001,
+    "id": 602,
+    "mysekaiMaterialId": 6,
+    "quantity": 1
+  },
+  {
+    "groupId": 4001,
+    "id": 603,
+    "mysekaiMaterialId": 2,
+    "quantity": 1
+  },
+  {
+    "groupId": 4001,
+    "id": 604,
+    "mysekaiMaterialId": 3,
+    "quantity": 1
+  },
+  {
+    "groupId": 4001,
+    "id": 605,
+    "mysekaiMaterialId": 23,
+    "quantity": 1
+  },
+  {
+    "groupId": 4002,
+    "id": 606,
+    "mysekaiMaterialId": 1,
+    "quantity": 5
+  },
+  {
+    "groupId": 4002,
+    "id": 607,
+    "mysekaiMaterialId": 6,
+    "quantity": 5
+  },
+  {
+    "groupId": 4002,
+    "id": 608,
+    "mysekaiMaterialId": 9,
+    "quantity": 1
+  },
+  {
+    "groupId": 4002,
+    "id": 609,
+    "mysekaiMaterialId": 23,
+    "quantity": 1
+  },
+  {
+    "groupId": 4002,
+    "id": 610,
+    "mysekaiMaterialId": 13,
+    "quantity": 1
+  },
+  {
+    "groupId": 4003,
+    "id": 611,
+    "mysekaiMaterialId": 47,
+    "quantity": 2
+  },
+  {
+    "groupId": 4003,
+    "id": 612,
+    "mysekaiMaterialId": 48,
+    "quantity": 2
+  },
+  {
+    "groupId": 4003,
+    "id": 613,
+    "mysekaiMaterialId": 49,
+    "quantity": 2
+  },
+  {
+    "groupId": 4003,
+    "id": 614,
+    "mysekaiMaterialId": 50,
+    "quantity": 2
+  },
+  {
+    "groupId": 4003,
+    "id": 615,
+    "mysekaiMaterialId": 6,
+    "quantity": 25
+  },
+  {
+    "groupId": 4004,
+    "id": 616,
+    "mysekaiMaterialId": 1,
+    "quantity": 20
+  },
+  {
+    "groupId": 4004,
+    "id": 617,
+    "mysekaiMaterialId": 2,
+    "quantity": 10
+  },
+  {
+    "groupId": 4004,
+    "id": 618,
+    "mysekaiMaterialId": 3,
+    "quantity": 10
+  },
+  {
+    "groupId": 4004,
+    "id": 619,
+    "mysekaiMaterialId": 21,
+    "quantity": 10
+  },
+  {
+    "groupId": 4004,
+    "id": 620,
+    "mysekaiMaterialId": 22,
+    "quantity": 10
+  },
+  {
+    "groupId": 4005,
+    "id": 621,
+    "mysekaiMaterialId": 55,
+    "quantity": 2
+  },
+  {
+    "groupId": 4005,
+    "id": 622,
+    "mysekaiMaterialId": 60,
+    "quantity": 2
+  },
+  {
+    "groupId": 4005,
+    "id": 623,
+    "mysekaiMaterialId": 9,
+    "quantity": 7
+  },
+  {
+    "groupId": 4005,
+    "id": 624,
+    "mysekaiMaterialId": 7,
+    "quantity": 7
+  },
+  {
+    "groupId": 4005,
+    "id": 625,
+    "mysekaiMaterialId": 8,
+    "quantity": 7
+  },
+  {
+    "groupId": 4006,
+    "id": 626,
+    "mysekaiMaterialId": 6,
+    "quantity": 50
+  },
+  {
+    "groupId": 4006,
+    "id": 627,
+    "mysekaiMaterialId": 1,
+    "quantity": 25
+  },
+  {
+    "groupId": 4006,
+    "id": 628,
+    "mysekaiMaterialId": 4,
+    "quantity": 7
+  },
+  {
+    "groupId": 4006,
+    "id": 629,
+    "mysekaiMaterialId": 10,
+    "quantity": 7
+  },
+  {
+    "groupId": 4006,
+    "id": 630,
+    "mysekaiMaterialId": 11,
+    "quantity": 7
+  },
+  {
+    "groupId": 4007,
+    "id": 631,
+    "mysekaiMaterialId": 47,
+    "quantity": 3
+  },
+  {
+    "groupId": 4007,
+    "id": 632,
+    "mysekaiMaterialId": 48,
+    "quantity": 3
+  },
+  {
+    "groupId": 4007,
+    "id": 633,
+    "mysekaiMaterialId": 49,
+    "quantity": 3
+  },
+  {
+    "groupId": 4007,
+    "id": 634,
+    "mysekaiMaterialId": 50,
+    "quantity": 3
+  },
+  {
+    "groupId": 4007,
+    "id": 635,
+    "mysekaiMaterialId": 1,
+    "quantity": 50
+  },
+  {
+    "groupId": 4008,
+    "id": 636,
+    "mysekaiMaterialId": 14,
+    "quantity": 10
+  },
+  {
+    "groupId": 4008,
+    "id": 637,
+    "mysekaiMaterialId": 16,
+    "quantity": 10
+  },
+  {
+    "groupId": 4008,
+    "id": 638,
+    "mysekaiMaterialId": 17,
+    "quantity": 10
+  },
+  {
+    "groupId": 4008,
+    "id": 639,
+    "mysekaiMaterialId": 18,
+    "quantity": 10
+  },
+  {
+    "groupId": 4008,
+    "id": 640,
+    "mysekaiMaterialId": 19,
+    "quantity": 10
+  },
+  {
+    "groupId": 4009,
+    "id": 641,
+    "mysekaiMaterialId": 55,
+    "quantity": 3
+  },
+  {
+    "groupId": 4009,
+    "id": 642,
+    "mysekaiMaterialId": 60,
+    "quantity": 3
+  },
+  {
+    "groupId": 4009,
+    "id": 643,
+    "mysekaiMaterialId": 4,
+    "quantity": 25
+  },
+  {
+    "groupId": 4009,
+    "id": 644,
+    "mysekaiMaterialId": 2,
+    "quantity": 25
+  },
+  {
+    "groupId": 4009,
+    "id": 645,
+    "mysekaiMaterialId": 3,
+    "quantity": 25
+  },
+  {
+    "groupId": 4010,
+    "id": 646,
+    "mysekaiMaterialId": 11,
+    "quantity": 25
+  },
+  {
+    "groupId": 4010,
+    "id": 647,
+    "mysekaiMaterialId": 24,
+    "quantity": 3
+  },
+  {
+    "groupId": 4010,
+    "id": 648,
+    "mysekaiMaterialId": 12,
+    "quantity": 3
+  },
+  {
+    "groupId": 4010,
+    "id": 649,
+    "mysekaiMaterialId": 20,
+    "quantity": 3
+  },
+  {
+    "groupId": 4010,
+    "id": 650,
+    "mysekaiMaterialId": 5,
+    "quantity": 3
+  },
+  {
+    "groupId": 4011,
+    "id": 651,
+    "mysekaiMaterialId": 47,
+    "quantity": 4
+  },
+  {
+    "groupId": 4011,
+    "id": 652,
+    "mysekaiMaterialId": 48,
+    "quantity": 4
+  },
+  {
+    "groupId": 4011,
+    "id": 653,
+    "mysekaiMaterialId": 49,
+    "quantity": 4
+  },
+  {
+    "groupId": 4011,
+    "id": 654,
+    "mysekaiMaterialId": 50,
+    "quantity": 4
+  },
+  {
+    "groupId": 4011,
+    "id": 655,
+    "mysekaiMaterialId": 23,
+    "quantity": 25
+  },
+  {
+    "groupId": 4012,
+    "id": 656,
+    "mysekaiMaterialId": 6,
+    "quantity": 100
+  },
+  {
+    "groupId": 4012,
+    "id": 657,
+    "mysekaiMaterialId": 9,
+    "quantity": 25
+  },
+  {
+    "groupId": 4012,
+    "id": 658,
+    "mysekaiMaterialId": 7,
+    "quantity": 25
+  },
+  {
+    "groupId": 4012,
+    "id": 659,
+    "mysekaiMaterialId": 8,
+    "quantity": 25
+  },
+  {
+    "groupId": 4012,
+    "id": 660,
+    "mysekaiMaterialId": 10,
+    "quantity": 25
+  },
+  {
+    "groupId": 4013,
+    "id": 661,
+    "mysekaiMaterialId": 55,
+    "quantity": 4
+  },
+  {
+    "groupId": 4013,
+    "id": 662,
+    "mysekaiMaterialId": 60,
+    "quantity": 4
+  },
+  {
+    "groupId": 4013,
+    "id": 663,
+    "mysekaiMaterialId": 21,
+    "quantity": 25
+  },
+  {
+    "groupId": 4013,
+    "id": 664,
+    "mysekaiMaterialId": 22,
+    "quantity": 25
+  },
+  {
+    "groupId": 4013,
+    "id": 665,
+    "mysekaiMaterialId": 20,
+    "quantity": 3
+  },
+  {
+    "groupId": 4014,
+    "id": 666,
+    "mysekaiMaterialId": 1,
+    "quantity": 100
+  },
+  {
+    "groupId": 4014,
+    "id": 667,
+    "mysekaiMaterialId": 2,
+    "quantity": 30
+  },
+  {
+    "groupId": 4014,
+    "id": 668,
+    "mysekaiMaterialId": 3,
+    "quantity": 30
+  },
+  {
+    "groupId": 4014,
+    "id": 669,
+    "mysekaiMaterialId": 4,
+    "quantity": 30
+  },
+  {
+    "groupId": 4014,
+    "id": 670,
+    "mysekaiMaterialId": 5,
+    "quantity": 3
+  },
+  {
+    "groupId": 4015,
+    "id": 671,
+    "mysekaiMaterialId": 47,
+    "quantity": 6
+  },
+  {
+    "groupId": 4015,
+    "id": 672,
+    "mysekaiMaterialId": 48,
+    "quantity": 6
+  },
+  {
+    "groupId": 4015,
+    "id": 673,
+    "mysekaiMaterialId": 49,
+    "quantity": 6
+  },
+  {
+    "groupId": 4015,
+    "id": 674,
+    "mysekaiMaterialId": 50,
+    "quantity": 6
+  },
+  {
+    "groupId": 4015,
+    "id": 675,
+    "mysekaiMaterialId": 13,
+    "quantity": 30
+  },
+  {
+    "groupId": 4016,
+    "id": 676,
+    "mysekaiMaterialId": 14,
+    "quantity": 30
+  },
+  {
+    "groupId": 4016,
+    "id": 677,
+    "mysekaiMaterialId": 16,
+    "quantity": 30
+  },
+  {
+    "groupId": 4016,
+    "id": 678,
+    "mysekaiMaterialId": 17,
+    "quantity": 30
+  },
+  {
+    "groupId": 4016,
+    "id": 679,
+    "mysekaiMaterialId": 18,
+    "quantity": 30
+  },
+  {
+    "groupId": 4016,
+    "id": 680,
+    "mysekaiMaterialId": 19,
+    "quantity": 30
+  },
+  {
+    "groupId": 4017,
+    "id": 681,
+    "mysekaiMaterialId": 55,
+    "quantity": 6
+  },
+  {
+    "groupId": 4017,
+    "id": 682,
+    "mysekaiMaterialId": 60,
+    "quantity": 6
+  },
+  {
+    "groupId": 4017,
+    "id": 683,
+    "mysekaiMaterialId": 13,
+    "quantity": 30
+  },
+  {
+    "groupId": 4017,
+    "id": 684,
+    "mysekaiMaterialId": 15,
+    "quantity": 30
+  },
+  {
+    "groupId": 4017,
+    "id": 685,
+    "mysekaiMaterialId": 24,
+    "quantity": 3
+  },
+  {
+    "groupId": 4018,
+    "id": 686,
+    "mysekaiMaterialId": 6,
+    "quantity": 150
+  },
+  {
+    "groupId": 4018,
+    "id": 687,
+    "mysekaiMaterialId": 9,
+    "quantity": 30
+  },
+  {
+    "groupId": 4018,
+    "id": 688,
+    "mysekaiMaterialId": 7,
+    "quantity": 30
+  },
+  {
+    "groupId": 4018,
+    "id": 689,
+    "mysekaiMaterialId": 8,
+    "quantity": 30
+  },
+  {
+    "groupId": 4018,
+    "id": 690,
+    "mysekaiMaterialId": 10,
+    "quantity": 30
+  },
+  {
+    "groupId": 4019,
+    "id": 691,
+    "mysekaiMaterialId": 47,
+    "quantity": 8
+  },
+  {
+    "groupId": 4019,
+    "id": 692,
+    "mysekaiMaterialId": 48,
+    "quantity": 8
+  },
+  {
+    "groupId": 4019,
+    "id": 693,
+    "mysekaiMaterialId": 49,
+    "quantity": 8
+  },
+  {
+    "groupId": 4019,
+    "id": 694,
+    "mysekaiMaterialId": 50,
+    "quantity": 8
+  },
+  {
+    "groupId": 4019,
+    "id": 695,
+    "mysekaiMaterialId": 4,
+    "quantity": 40
+  },
+  {
+    "groupId": 4020,
+    "id": 696,
+    "mysekaiMaterialId": 11,
+    "quantity": 50
+  },
+  {
+    "groupId": 4020,
+    "id": 697,
+    "mysekaiMaterialId": 24,
+    "quantity": 8
+  },
+  {
+    "groupId": 4020,
+    "id": 698,
+    "mysekaiMaterialId": 12,
+    "quantity": 8
+  },
+  {
+    "groupId": 4020,
+    "id": 699,
+    "mysekaiMaterialId": 20,
+    "quantity": 8
+  },
+  {
+    "groupId": 4020,
+    "id": 700,
+    "mysekaiMaterialId": 5,
+    "quantity": 8
+  },
+  {
+    "groupId": 4021,
+    "id": 701,
+    "mysekaiMaterialId": 55,
+    "quantity": 8
+  },
+  {
+    "groupId": 4021,
+    "id": 702,
+    "mysekaiMaterialId": 60,
+    "quantity": 8
+  },
+  {
+    "groupId": 4021,
+    "id": 703,
+    "mysekaiMaterialId": 4,
+    "quantity": 40
+  },
+  {
+    "groupId": 4021,
+    "id": 704,
+    "mysekaiMaterialId": 2,
+    "quantity": 40
+  },
+  {
+    "groupId": 4021,
+    "id": 705,
+    "mysekaiMaterialId": 5,
+    "quantity": 4
+  },
+  {
+    "groupId": 4022,
+    "id": 706,
+    "mysekaiMaterialId": 13,
+    "quantity": 40
+  },
+  {
+    "groupId": 4022,
+    "id": 707,
+    "mysekaiMaterialId": 16,
+    "quantity": 40
+  },
+  {
+    "groupId": 4022,
+    "id": 708,
+    "mysekaiMaterialId": 17,
+    "quantity": 40
+  },
+  {
+    "groupId": 4022,
+    "id": 709,
+    "mysekaiMaterialId": 18,
+    "quantity": 40
+  },
+  {
+    "groupId": 4022,
+    "id": 710,
+    "mysekaiMaterialId": 19,
+    "quantity": 40
+  },
+  {
+    "groupId": 4023,
+    "id": 711,
+    "mysekaiMaterialId": 47,
+    "quantity": 10
+  },
+  {
+    "groupId": 4023,
+    "id": 712,
+    "mysekaiMaterialId": 48,
+    "quantity": 10
+  },
+  {
+    "groupId": 4023,
+    "id": 713,
+    "mysekaiMaterialId": 49,
+    "quantity": 10
+  },
+  {
+    "groupId": 4023,
+    "id": 714,
+    "mysekaiMaterialId": 50,
+    "quantity": 10
+  },
+  {
+    "groupId": 4023,
+    "id": 715,
+    "mysekaiMaterialId": 14,
+    "quantity": 40
+  },
+  {
+    "groupId": 4024,
+    "id": 716,
+    "mysekaiMaterialId": 6,
+    "quantity": 200
+  },
+  {
+    "groupId": 4024,
+    "id": 717,
+    "mysekaiMaterialId": 9,
+    "quantity": 40
+  },
+  {
+    "groupId": 4024,
+    "id": 718,
+    "mysekaiMaterialId": 7,
+    "quantity": 40
+  },
+  {
+    "groupId": 4024,
+    "id": 719,
+    "mysekaiMaterialId": 8,
+    "quantity": 40
+  },
+  {
+    "groupId": 4024,
+    "id": 720,
+    "mysekaiMaterialId": 10,
+    "quantity": 40
+  },
+  {
+    "groupId": 4025,
+    "id": 721,
+    "mysekaiMaterialId": 55,
+    "quantity": 10
+  },
+  {
+    "groupId": 4025,
+    "id": 722,
+    "mysekaiMaterialId": 60,
+    "quantity": 10
+  },
+  {
+    "groupId": 4025,
+    "id": 723,
+    "mysekaiMaterialId": 14,
+    "quantity": 40
+  },
+  {
+    "groupId": 4025,
+    "id": 724,
+    "mysekaiMaterialId": 15,
+    "quantity": 40
+  },
+  {
+    "groupId": 4025,
+    "id": 725,
+    "mysekaiMaterialId": 24,
+    "quantity": 4
+  },
+  {
+    "groupId": 4026,
+    "id": 726,
+    "mysekaiMaterialId": 23,
+    "quantity": 50
+  },
+  {
+    "groupId": 4026,
+    "id": 727,
+    "mysekaiMaterialId": 21,
+    "quantity": 50
+  },
+  {
+    "groupId": 4026,
+    "id": 728,
+    "mysekaiMaterialId": 22,
+    "quantity": 50
+  },
+  {
+    "groupId": 4026,
+    "id": 729,
+    "mysekaiMaterialId": 9,
+    "quantity": 50
+  },
+  {
+    "groupId": 4026,
+    "id": 730,
+    "mysekaiMaterialId": 20,
+    "quantity": 5
+  },
+  {
+    "groupId": 4027,
+    "id": 731,
+    "mysekaiMaterialId": 47,
+    "quantity": 12
+  },
+  {
+    "groupId": 4027,
+    "id": 732,
+    "mysekaiMaterialId": 48,
+    "quantity": 12
+  },
+  {
+    "groupId": 4027,
+    "id": 733,
+    "mysekaiMaterialId": 49,
+    "quantity": 12
+  },
+  {
+    "groupId": 4027,
+    "id": 734,
+    "mysekaiMaterialId": 50,
+    "quantity": 12
+  },
+  {
+    "groupId": 4027,
+    "id": 735,
+    "mysekaiMaterialId": 7,
+    "quantity": 50
+  },
+  {
+    "groupId": 4028,
+    "id": 736,
+    "mysekaiMaterialId": 1,
+    "quantity": 150
+  },
+  {
+    "groupId": 4028,
+    "id": 737,
+    "mysekaiMaterialId": 2,
+    "quantity": 50
+  },
+  {
+    "groupId": 4028,
+    "id": 738,
+    "mysekaiMaterialId": 3,
+    "quantity": 50
+  },
+  {
+    "groupId": 4028,
+    "id": 739,
+    "mysekaiMaterialId": 4,
+    "quantity": 50
+  },
+  {
+    "groupId": 4028,
+    "id": 740,
+    "mysekaiMaterialId": 5,
+    "quantity": 5
+  },
+  {
+    "groupId": 4029,
+    "id": 741,
+    "mysekaiMaterialId": 55,
+    "quantity": 12
+  },
+  {
+    "groupId": 4029,
+    "id": 742,
+    "mysekaiMaterialId": 60,
+    "quantity": 12
+  },
+  {
+    "groupId": 4029,
+    "id": 743,
+    "mysekaiMaterialId": 7,
+    "quantity": 50
+  },
+  {
+    "groupId": 4029,
+    "id": 744,
+    "mysekaiMaterialId": 8,
+    "quantity": 50
+  },
+  {
+    "groupId": 4029,
+    "id": 745,
+    "mysekaiMaterialId": 10,
+    "quantity": 50
+  },
+  {
+    "groupId": 4030,
+    "id": 746,
+    "mysekaiMaterialId": 11,
+    "quantity": 75
+  },
+  {
+    "groupId": 4030,
+    "id": 747,
+    "mysekaiMaterialId": 24,
+    "quantity": 10
+  },
+  {
+    "groupId": 4030,
+    "id": 748,
+    "mysekaiMaterialId": 12,
+    "quantity": 10
+  },
+  {
+    "groupId": 4030,
+    "id": 749,
+    "mysekaiMaterialId": 20,
+    "quantity": 10
+  },
+  {
+    "groupId": 4030,
+    "id": 750,
+    "mysekaiMaterialId": 5,
+    "quantity": 10
+  },
+  {
+    "groupId": 4031,
+    "id": 751,
+    "mysekaiMaterialId": 47,
+    "quantity": 15
+  },
+  {
+    "groupId": 4031,
+    "id": 752,
+    "mysekaiMaterialId": 48,
+    "quantity": 15
+  },
+  {
+    "groupId": 4031,
+    "id": 753,
+    "mysekaiMaterialId": 49,
+    "quantity": 15
+  },
+  {
+    "groupId": 4031,
+    "id": 754,
+    "mysekaiMaterialId": 50,
+    "quantity": 15
+  },
+  {
+    "groupId": 4031,
+    "id": 755,
+    "mysekaiMaterialId": 23,
+    "quantity": 50
+  },
+  {
+    "groupId": 4032,
+    "id": 756,
+    "mysekaiMaterialId": 6,
+    "quantity": 250
+  },
+  {
+    "groupId": 4032,
+    "id": 757,
+    "mysekaiMaterialId": 9,
+    "quantity": 50
+  },
+  {
+    "groupId": 4032,
+    "id": 758,
+    "mysekaiMaterialId": 7,
+    "quantity": 50
+  },
+  {
+    "groupId": 4032,
+    "id": 759,
+    "mysekaiMaterialId": 8,
+    "quantity": 50
+  },
+  {
+    "groupId": 4032,
+    "id": 760,
+    "mysekaiMaterialId": 10,
+    "quantity": 50
+  },
+  {
+    "groupId": 4033,
+    "id": 761,
+    "mysekaiMaterialId": 55,
+    "quantity": 15
+  },
+  {
+    "groupId": 4033,
+    "id": 762,
+    "mysekaiMaterialId": 60,
+    "quantity": 15
+  },
+  {
+    "groupId": 4033,
+    "id": 763,
+    "mysekaiMaterialId": 22,
+    "quantity": 50
+  },
+  {
+    "groupId": 4033,
+    "id": 764,
+    "mysekaiMaterialId": 21,
+    "quantity": 50
+  },
+  {
+    "groupId": 4033,
+    "id": 765,
+    "mysekaiMaterialId": 20,
+    "quantity": 5
+  },
+  {
+    "groupId": 4034,
+    "id": 766,
+    "mysekaiMaterialId": 15,
+    "quantity": 50
+  },
+  {
+    "groupId": 4034,
+    "id": 767,
+    "mysekaiMaterialId": 16,
+    "quantity": 50
+  },
+  {
+    "groupId": 4034,
+    "id": 768,
+    "mysekaiMaterialId": 17,
+    "quantity": 50
+  },
+  {
+    "groupId": 4034,
+    "id": 769,
+    "mysekaiMaterialId": 18,
+    "quantity": 50
+  },
+  {
+    "groupId": 4034,
+    "id": 770,
+    "mysekaiMaterialId": 19,
+    "quantity": 50
+  },
+  {
+    "groupId": 4035,
+    "id": 771,
+    "mysekaiMaterialId": 47,
+    "quantity": 16
+  },
+  {
+    "groupId": 4035,
+    "id": 772,
+    "mysekaiMaterialId": 48,
+    "quantity": 16
+  },
+  {
+    "groupId": 4035,
+    "id": 773,
+    "mysekaiMaterialId": 49,
+    "quantity": 16
+  },
+  {
+    "groupId": 4035,
+    "id": 774,
+    "mysekaiMaterialId": 50,
+    "quantity": 16
+  },
+  {
+    "groupId": 4035,
+    "id": 775,
+    "mysekaiMaterialId": 3,
+    "quantity": 50
+  },
+  {
+    "groupId": 4036,
+    "id": 776,
+    "mysekaiMaterialId": 55,
+    "quantity": 16
+  },
+  {
+    "groupId": 4036,
+    "id": 777,
+    "mysekaiMaterialId": 60,
+    "quantity": 16
+  },
+  {
+    "groupId": 4036,
+    "id": 778,
+    "mysekaiMaterialId": 2,
+    "quantity": 50
+  },
+  {
+    "groupId": 4036,
+    "id": 779,
+    "mysekaiMaterialId": 3,
+    "quantity": 50
+  },
+  {
+    "groupId": 4036,
+    "id": 780,
+    "mysekaiMaterialId": 5,
+    "quantity": 5
+  },
+  {
+    "groupId": 4037,
+    "id": 781,
+    "mysekaiMaterialId": 23,
+    "quantity": 50
+  },
+  {
+    "groupId": 4037,
+    "id": 782,
+    "mysekaiMaterialId": 21,
+    "quantity": 50
+  },
+  {
+    "groupId": 4037,
+    "id": 783,
+    "mysekaiMaterialId": 22,
+    "quantity": 50
+  },
+  {
+    "groupId": 4037,
+    "id": 784,
+    "mysekaiMaterialId": 9,
+    "quantity": 50
+  },
+  {
+    "groupId": 4037,
+    "id": 785,
+    "mysekaiMaterialId": 24,
+    "quantity": 5
+  },
+  {
+    "groupId": 4038,
+    "id": 786,
+    "mysekaiMaterialId": 47,
+    "quantity": 17
+  },
+  {
+    "groupId": 4038,
+    "id": 787,
+    "mysekaiMaterialId": 48,
+    "quantity": 17
+  },
+  {
+    "groupId": 4038,
+    "id": 788,
+    "mysekaiMaterialId": 49,
+    "quantity": 17
+  },
+  {
+    "groupId": 4038,
+    "id": 789,
+    "mysekaiMaterialId": 50,
+    "quantity": 17
+  },
+  {
+    "groupId": 4038,
+    "id": 790,
+    "mysekaiMaterialId": 8,
+    "quantity": 50
+  },
+  {
+    "groupId": 4039,
+    "id": 791,
+    "mysekaiMaterialId": 55,
+    "quantity": 17
+  },
+  {
+    "groupId": 4039,
+    "id": 792,
+    "mysekaiMaterialId": 60,
+    "quantity": 17
+  },
+  {
+    "groupId": 4039,
+    "id": 793,
+    "mysekaiMaterialId": 8,
+    "quantity": 50
+  },
+  {
+    "groupId": 4039,
+    "id": 794,
+    "mysekaiMaterialId": 7,
+    "quantity": 50
+  },
+  {
+    "groupId": 4039,
+    "id": 795,
+    "mysekaiMaterialId": 10,
+    "quantity": 50
+  },
+  {
+    "groupId": 4040,
+    "id": 796,
+    "mysekaiMaterialId": 11,
+    "quantity": 100
+  },
+  {
+    "groupId": 4040,
+    "id": 797,
+    "mysekaiMaterialId": 24,
+    "quantity": 15
+  },
+  {
+    "groupId": 4040,
+    "id": 798,
+    "mysekaiMaterialId": 12,
+    "quantity": 15
+  },
+  {
+    "groupId": 4040,
+    "id": 799,
+    "mysekaiMaterialId": 20,
+    "quantity": 15
+  },
+  {
+    "groupId": 4040,
+    "id": 800,
+    "mysekaiMaterialId": 5,
+    "quantity": 15
+  },
+  {
+    "groupId": 5001,
+    "id": 801,
+    "mysekaiMaterialId": 1,
+    "quantity": 1
+  },
+  {
+    "groupId": 5001,
+    "id": 802,
+    "mysekaiMaterialId": 6,
+    "quantity": 1
+  },
+  {
+    "groupId": 5001,
+    "id": 803,
+    "mysekaiMaterialId": 2,
+    "quantity": 1
+  },
+  {
+    "groupId": 5001,
+    "id": 804,
+    "mysekaiMaterialId": 3,
+    "quantity": 1
+  },
+  {
+    "groupId": 5001,
+    "id": 805,
+    "mysekaiMaterialId": 23,
+    "quantity": 1
+  },
+  {
+    "groupId": 5002,
+    "id": 806,
+    "mysekaiMaterialId": 1,
+    "quantity": 5
+  },
+  {
+    "groupId": 5002,
+    "id": 807,
+    "mysekaiMaterialId": 6,
+    "quantity": 5
+  },
+  {
+    "groupId": 5002,
+    "id": 808,
+    "mysekaiMaterialId": 9,
+    "quantity": 1
+  },
+  {
+    "groupId": 5002,
+    "id": 809,
+    "mysekaiMaterialId": 23,
+    "quantity": 1
+  },
+  {
+    "groupId": 5002,
+    "id": 810,
+    "mysekaiMaterialId": 13,
+    "quantity": 1
+  },
+  {
+    "groupId": 5003,
+    "id": 811,
+    "mysekaiMaterialId": 51,
+    "quantity": 2
+  },
+  {
+    "groupId": 5003,
+    "id": 812,
+    "mysekaiMaterialId": 52,
+    "quantity": 2
+  },
+  {
+    "groupId": 5003,
+    "id": 813,
+    "mysekaiMaterialId": 53,
+    "quantity": 2
+  },
+  {
+    "groupId": 5003,
+    "id": 814,
+    "mysekaiMaterialId": 54,
+    "quantity": 2
+  },
+  {
+    "groupId": 5003,
+    "id": 815,
+    "mysekaiMaterialId": 6,
+    "quantity": 25
+  },
+  {
+    "groupId": 5004,
+    "id": 816,
+    "mysekaiMaterialId": 1,
+    "quantity": 20
+  },
+  {
+    "groupId": 5004,
+    "id": 817,
+    "mysekaiMaterialId": 2,
+    "quantity": 10
+  },
+  {
+    "groupId": 5004,
+    "id": 818,
+    "mysekaiMaterialId": 3,
+    "quantity": 10
+  },
+  {
+    "groupId": 5004,
+    "id": 819,
+    "mysekaiMaterialId": 21,
+    "quantity": 10
+  },
+  {
+    "groupId": 5004,
+    "id": 820,
+    "mysekaiMaterialId": 22,
+    "quantity": 10
+  },
+  {
+    "groupId": 5005,
+    "id": 821,
+    "mysekaiMaterialId": 55,
+    "quantity": 2
+  },
+  {
+    "groupId": 5005,
+    "id": 822,
+    "mysekaiMaterialId": 6,
+    "quantity": 50
+  },
+  {
+    "groupId": 5005,
+    "id": 823,
+    "mysekaiMaterialId": 9,
+    "quantity": 7
+  },
+  {
+    "groupId": 5005,
+    "id": 824,
+    "mysekaiMaterialId": 7,
+    "quantity": 7
+  },
+  {
+    "groupId": 5005,
+    "id": 825,
+    "mysekaiMaterialId": 8,
+    "quantity": 7
+  },
+  {
+    "groupId": 5006,
+    "id": 826,
+    "mysekaiMaterialId": 6,
+    "quantity": 50
+  },
+  {
+    "groupId": 5006,
+    "id": 827,
+    "mysekaiMaterialId": 1,
+    "quantity": 25
+  },
+  {
+    "groupId": 5006,
+    "id": 828,
+    "mysekaiMaterialId": 4,
+    "quantity": 7
+  },
+  {
+    "groupId": 5006,
+    "id": 829,
+    "mysekaiMaterialId": 10,
+    "quantity": 7
+  },
+  {
+    "groupId": 5006,
+    "id": 830,
+    "mysekaiMaterialId": 11,
+    "quantity": 7
+  },
+  {
+    "groupId": 5007,
+    "id": 831,
+    "mysekaiMaterialId": 51,
+    "quantity": 3
+  },
+  {
+    "groupId": 5007,
+    "id": 832,
+    "mysekaiMaterialId": 52,
+    "quantity": 3
+  },
+  {
+    "groupId": 5007,
+    "id": 833,
+    "mysekaiMaterialId": 53,
+    "quantity": 3
+  },
+  {
+    "groupId": 5007,
+    "id": 834,
+    "mysekaiMaterialId": 54,
+    "quantity": 3
+  },
+  {
+    "groupId": 5007,
+    "id": 835,
+    "mysekaiMaterialId": 1,
+    "quantity": 50
+  },
+  {
+    "groupId": 5008,
+    "id": 836,
+    "mysekaiMaterialId": 14,
+    "quantity": 10
+  },
+  {
+    "groupId": 5008,
+    "id": 837,
+    "mysekaiMaterialId": 16,
+    "quantity": 10
+  },
+  {
+    "groupId": 5008,
+    "id": 838,
+    "mysekaiMaterialId": 17,
+    "quantity": 10
+  },
+  {
+    "groupId": 5008,
+    "id": 839,
+    "mysekaiMaterialId": 18,
+    "quantity": 10
+  },
+  {
+    "groupId": 5008,
+    "id": 840,
+    "mysekaiMaterialId": 19,
+    "quantity": 10
+  },
+  {
+    "groupId": 5009,
+    "id": 841,
+    "mysekaiMaterialId": 55,
+    "quantity": 3
+  },
+  {
+    "groupId": 5009,
+    "id": 842,
+    "mysekaiMaterialId": 1,
+    "quantity": 50
+  },
+  {
+    "groupId": 5009,
+    "id": 843,
+    "mysekaiMaterialId": 4,
+    "quantity": 25
+  },
+  {
+    "groupId": 5009,
+    "id": 844,
+    "mysekaiMaterialId": 2,
+    "quantity": 25
+  },
+  {
+    "groupId": 5009,
+    "id": 845,
+    "mysekaiMaterialId": 3,
+    "quantity": 25
+  },
+  {
+    "groupId": 5010,
+    "id": 846,
+    "mysekaiMaterialId": 11,
+    "quantity": 25
+  },
+  {
+    "groupId": 5010,
+    "id": 847,
+    "mysekaiMaterialId": 24,
+    "quantity": 3
+  },
+  {
+    "groupId": 5010,
+    "id": 848,
+    "mysekaiMaterialId": 12,
+    "quantity": 3
+  },
+  {
+    "groupId": 5010,
+    "id": 849,
+    "mysekaiMaterialId": 20,
+    "quantity": 3
+  },
+  {
+    "groupId": 5010,
+    "id": 850,
+    "mysekaiMaterialId": 5,
+    "quantity": 3
+  },
+  {
+    "groupId": 5011,
+    "id": 851,
+    "mysekaiMaterialId": 51,
+    "quantity": 5
+  },
+  {
+    "groupId": 5011,
+    "id": 852,
+    "mysekaiMaterialId": 52,
+    "quantity": 5
+  },
+  {
+    "groupId": 5011,
+    "id": 853,
+    "mysekaiMaterialId": 53,
+    "quantity": 5
+  },
+  {
+    "groupId": 5011,
+    "id": 854,
+    "mysekaiMaterialId": 54,
+    "quantity": 5
+  },
+  {
+    "groupId": 5011,
+    "id": 855,
+    "mysekaiMaterialId": 23,
+    "quantity": 25
+  },
+  {
+    "groupId": 5012,
+    "id": 856,
+    "mysekaiMaterialId": 6,
+    "quantity": 100
+  },
+  {
+    "groupId": 5012,
+    "id": 857,
+    "mysekaiMaterialId": 9,
+    "quantity": 25
+  },
+  {
+    "groupId": 5012,
+    "id": 858,
+    "mysekaiMaterialId": 7,
+    "quantity": 25
+  },
+  {
+    "groupId": 5012,
+    "id": 859,
+    "mysekaiMaterialId": 8,
+    "quantity": 25
+  },
+  {
+    "groupId": 5012,
+    "id": 860,
+    "mysekaiMaterialId": 10,
+    "quantity": 25
+  },
+  {
+    "groupId": 5013,
+    "id": 861,
+    "mysekaiMaterialId": 55,
+    "quantity": 5
+  },
+  {
+    "groupId": 5013,
+    "id": 862,
+    "mysekaiMaterialId": 23,
+    "quantity": 25
+  },
+  {
+    "groupId": 5013,
+    "id": 863,
+    "mysekaiMaterialId": 21,
+    "quantity": 25
+  },
+  {
+    "groupId": 5013,
+    "id": 864,
+    "mysekaiMaterialId": 22,
+    "quantity": 25
+  },
+  {
+    "groupId": 5013,
+    "id": 865,
+    "mysekaiMaterialId": 20,
+    "quantity": 3
+  },
+  {
+    "groupId": 5014,
+    "id": 866,
+    "mysekaiMaterialId": 1,
+    "quantity": 100
+  },
+  {
+    "groupId": 5014,
+    "id": 867,
+    "mysekaiMaterialId": 2,
+    "quantity": 30
+  },
+  {
+    "groupId": 5014,
+    "id": 868,
+    "mysekaiMaterialId": 3,
+    "quantity": 30
+  },
+  {
+    "groupId": 5014,
+    "id": 869,
+    "mysekaiMaterialId": 4,
+    "quantity": 30
+  },
+  {
+    "groupId": 5014,
+    "id": 870,
+    "mysekaiMaterialId": 5,
+    "quantity": 3
+  },
+  {
+    "groupId": 5015,
+    "id": 871,
+    "mysekaiMaterialId": 51,
+    "quantity": 7
+  },
+  {
+    "groupId": 5015,
+    "id": 872,
+    "mysekaiMaterialId": 52,
+    "quantity": 7
+  },
+  {
+    "groupId": 5015,
+    "id": 873,
+    "mysekaiMaterialId": 53,
+    "quantity": 7
+  },
+  {
+    "groupId": 5015,
+    "id": 874,
+    "mysekaiMaterialId": 54,
+    "quantity": 7
+  },
+  {
+    "groupId": 5015,
+    "id": 875,
+    "mysekaiMaterialId": 13,
+    "quantity": 30
+  },
+  {
+    "groupId": 5016,
+    "id": 876,
+    "mysekaiMaterialId": 14,
+    "quantity": 30
+  },
+  {
+    "groupId": 5016,
+    "id": 877,
+    "mysekaiMaterialId": 16,
+    "quantity": 30
+  },
+  {
+    "groupId": 5016,
+    "id": 878,
+    "mysekaiMaterialId": 17,
+    "quantity": 30
+  },
+  {
+    "groupId": 5016,
+    "id": 879,
+    "mysekaiMaterialId": 18,
+    "quantity": 30
+  },
+  {
+    "groupId": 5016,
+    "id": 880,
+    "mysekaiMaterialId": 19,
+    "quantity": 30
+  },
+  {
+    "groupId": 5017,
+    "id": 881,
+    "mysekaiMaterialId": 55,
+    "quantity": 7
+  },
+  {
+    "groupId": 5017,
+    "id": 882,
+    "mysekaiMaterialId": 14,
+    "quantity": 30
+  },
+  {
+    "groupId": 5017,
+    "id": 883,
+    "mysekaiMaterialId": 13,
+    "quantity": 30
+  },
+  {
+    "groupId": 5017,
+    "id": 884,
+    "mysekaiMaterialId": 15,
+    "quantity": 30
+  },
+  {
+    "groupId": 5017,
+    "id": 885,
+    "mysekaiMaterialId": 24,
+    "quantity": 3
+  },
+  {
+    "groupId": 5018,
+    "id": 886,
+    "mysekaiMaterialId": 6,
+    "quantity": 150
+  },
+  {
+    "groupId": 5018,
+    "id": 887,
+    "mysekaiMaterialId": 9,
+    "quantity": 30
+  },
+  {
+    "groupId": 5018,
+    "id": 888,
+    "mysekaiMaterialId": 7,
+    "quantity": 30
+  },
+  {
+    "groupId": 5018,
+    "id": 889,
+    "mysekaiMaterialId": 8,
+    "quantity": 30
+  },
+  {
+    "groupId": 5018,
+    "id": 890,
+    "mysekaiMaterialId": 10,
+    "quantity": 30
+  },
+  {
+    "groupId": 5019,
+    "id": 891,
+    "mysekaiMaterialId": 51,
+    "quantity": 10
+  },
+  {
+    "groupId": 5019,
+    "id": 892,
+    "mysekaiMaterialId": 52,
+    "quantity": 10
+  },
+  {
+    "groupId": 5019,
+    "id": 893,
+    "mysekaiMaterialId": 53,
+    "quantity": 10
+  },
+  {
+    "groupId": 5019,
+    "id": 894,
+    "mysekaiMaterialId": 54,
+    "quantity": 10
+  },
+  {
+    "groupId": 5019,
+    "id": 895,
+    "mysekaiMaterialId": 4,
+    "quantity": 40
+  },
+  {
+    "groupId": 5020,
+    "id": 896,
+    "mysekaiMaterialId": 11,
+    "quantity": 50
+  },
+  {
+    "groupId": 5020,
+    "id": 897,
+    "mysekaiMaterialId": 24,
+    "quantity": 8
+  },
+  {
+    "groupId": 5020,
+    "id": 898,
+    "mysekaiMaterialId": 12,
+    "quantity": 8
+  },
+  {
+    "groupId": 5020,
+    "id": 899,
+    "mysekaiMaterialId": 20,
+    "quantity": 8
+  },
+  {
+    "groupId": 5020,
+    "id": 900,
+    "mysekaiMaterialId": 5,
+    "quantity": 8
+  },
+  {
+    "groupId": 5021,
+    "id": 901,
+    "mysekaiMaterialId": 55,
+    "quantity": 10
+  },
+  {
+    "groupId": 5021,
+    "id": 902,
+    "mysekaiMaterialId": 3,
+    "quantity": 40
+  },
+  {
+    "groupId": 5021,
+    "id": 903,
+    "mysekaiMaterialId": 4,
+    "quantity": 40
+  },
+  {
+    "groupId": 5021,
+    "id": 904,
+    "mysekaiMaterialId": 2,
+    "quantity": 40
+  },
+  {
+    "groupId": 5021,
+    "id": 905,
+    "mysekaiMaterialId": 5,
+    "quantity": 4
+  },
+  {
+    "groupId": 5022,
+    "id": 906,
+    "mysekaiMaterialId": 13,
+    "quantity": 40
+  },
+  {
+    "groupId": 5022,
+    "id": 907,
+    "mysekaiMaterialId": 16,
+    "quantity": 40
+  },
+  {
+    "groupId": 5022,
+    "id": 908,
+    "mysekaiMaterialId": 17,
+    "quantity": 40
+  },
+  {
+    "groupId": 5022,
+    "id": 909,
+    "mysekaiMaterialId": 18,
+    "quantity": 40
+  },
+  {
+    "groupId": 5022,
+    "id": 910,
+    "mysekaiMaterialId": 19,
+    "quantity": 40
+  },
+  {
+    "groupId": 5023,
+    "id": 911,
+    "mysekaiMaterialId": 51,
+    "quantity": 13
+  },
+  {
+    "groupId": 5023,
+    "id": 912,
+    "mysekaiMaterialId": 52,
+    "quantity": 13
+  },
+  {
+    "groupId": 5023,
+    "id": 913,
+    "mysekaiMaterialId": 53,
+    "quantity": 13
+  },
+  {
+    "groupId": 5023,
+    "id": 914,
+    "mysekaiMaterialId": 54,
+    "quantity": 13
+  },
+  {
+    "groupId": 5023,
+    "id": 915,
+    "mysekaiMaterialId": 14,
+    "quantity": 40
+  },
+  {
+    "groupId": 5024,
+    "id": 916,
+    "mysekaiMaterialId": 6,
+    "quantity": 200
+  },
+  {
+    "groupId": 5024,
+    "id": 917,
+    "mysekaiMaterialId": 9,
+    "quantity": 40
+  },
+  {
+    "groupId": 5024,
+    "id": 918,
+    "mysekaiMaterialId": 7,
+    "quantity": 40
+  },
+  {
+    "groupId": 5024,
+    "id": 919,
+    "mysekaiMaterialId": 8,
+    "quantity": 40
+  },
+  {
+    "groupId": 5024,
+    "id": 920,
+    "mysekaiMaterialId": 10,
+    "quantity": 40
+  },
+  {
+    "groupId": 5025,
+    "id": 921,
+    "mysekaiMaterialId": 55,
+    "quantity": 13
+  },
+  {
+    "groupId": 5025,
+    "id": 922,
+    "mysekaiMaterialId": 13,
+    "quantity": 40
+  },
+  {
+    "groupId": 5025,
+    "id": 923,
+    "mysekaiMaterialId": 14,
+    "quantity": 40
+  },
+  {
+    "groupId": 5025,
+    "id": 924,
+    "mysekaiMaterialId": 15,
+    "quantity": 40
+  },
+  {
+    "groupId": 5025,
+    "id": 925,
+    "mysekaiMaterialId": 24,
+    "quantity": 4
+  },
+  {
+    "groupId": 5026,
+    "id": 926,
+    "mysekaiMaterialId": 23,
+    "quantity": 50
+  },
+  {
+    "groupId": 5026,
+    "id": 927,
+    "mysekaiMaterialId": 21,
+    "quantity": 50
+  },
+  {
+    "groupId": 5026,
+    "id": 928,
+    "mysekaiMaterialId": 22,
+    "quantity": 50
+  },
+  {
+    "groupId": 5026,
+    "id": 929,
+    "mysekaiMaterialId": 9,
+    "quantity": 50
+  },
+  {
+    "groupId": 5026,
+    "id": 930,
+    "mysekaiMaterialId": 20,
+    "quantity": 5
+  },
+  {
+    "groupId": 5027,
+    "id": 931,
+    "mysekaiMaterialId": 51,
+    "quantity": 15
+  },
+  {
+    "groupId": 5027,
+    "id": 932,
+    "mysekaiMaterialId": 52,
+    "quantity": 15
+  },
+  {
+    "groupId": 5027,
+    "id": 933,
+    "mysekaiMaterialId": 53,
+    "quantity": 15
+  },
+  {
+    "groupId": 5027,
+    "id": 934,
+    "mysekaiMaterialId": 54,
+    "quantity": 15
+  },
+  {
+    "groupId": 5027,
+    "id": 935,
+    "mysekaiMaterialId": 7,
+    "quantity": 50
+  },
+  {
+    "groupId": 5028,
+    "id": 936,
+    "mysekaiMaterialId": 1,
+    "quantity": 150
+  },
+  {
+    "groupId": 5028,
+    "id": 937,
+    "mysekaiMaterialId": 2,
+    "quantity": 50
+  },
+  {
+    "groupId": 5028,
+    "id": 938,
+    "mysekaiMaterialId": 3,
+    "quantity": 50
+  },
+  {
+    "groupId": 5028,
+    "id": 939,
+    "mysekaiMaterialId": 4,
+    "quantity": 50
+  },
+  {
+    "groupId": 5028,
+    "id": 940,
+    "mysekaiMaterialId": 5,
+    "quantity": 5
+  },
+  {
+    "groupId": 5029,
+    "id": 941,
+    "mysekaiMaterialId": 55,
+    "quantity": 15
+  },
+  {
+    "groupId": 5029,
+    "id": 942,
+    "mysekaiMaterialId": 11,
+    "quantity": 50
+  },
+  {
+    "groupId": 5029,
+    "id": 943,
+    "mysekaiMaterialId": 7,
+    "quantity": 50
+  },
+  {
+    "groupId": 5029,
+    "id": 944,
+    "mysekaiMaterialId": 8,
+    "quantity": 50
+  },
+  {
+    "groupId": 5029,
+    "id": 945,
+    "mysekaiMaterialId": 10,
+    "quantity": 50
+  },
+  {
+    "groupId": 5030,
+    "id": 946,
+    "mysekaiMaterialId": 11,
+    "quantity": 75
+  },
+  {
+    "groupId": 5030,
+    "id": 947,
+    "mysekaiMaterialId": 24,
+    "quantity": 10
+  },
+  {
+    "groupId": 5030,
+    "id": 948,
+    "mysekaiMaterialId": 12,
+    "quantity": 10
+  },
+  {
+    "groupId": 5030,
+    "id": 949,
+    "mysekaiMaterialId": 20,
+    "quantity": 10
+  },
+  {
+    "groupId": 5030,
+    "id": 950,
+    "mysekaiMaterialId": 5,
+    "quantity": 10
+  },
+  {
+    "groupId": 5031,
+    "id": 951,
+    "mysekaiMaterialId": 51,
+    "quantity": 18
+  },
+  {
+    "groupId": 5031,
+    "id": 952,
+    "mysekaiMaterialId": 52,
+    "quantity": 18
+  },
+  {
+    "groupId": 5031,
+    "id": 953,
+    "mysekaiMaterialId": 53,
+    "quantity": 18
+  },
+  {
+    "groupId": 5031,
+    "id": 954,
+    "mysekaiMaterialId": 54,
+    "quantity": 18
+  },
+  {
+    "groupId": 5031,
+    "id": 955,
+    "mysekaiMaterialId": 23,
+    "quantity": 50
+  },
+  {
+    "groupId": 5032,
+    "id": 956,
+    "mysekaiMaterialId": 6,
+    "quantity": 250
+  },
+  {
+    "groupId": 5032,
+    "id": 957,
+    "mysekaiMaterialId": 9,
+    "quantity": 50
+  },
+  {
+    "groupId": 5032,
+    "id": 958,
+    "mysekaiMaterialId": 7,
+    "quantity": 50
+  },
+  {
+    "groupId": 5032,
+    "id": 959,
+    "mysekaiMaterialId": 8,
+    "quantity": 50
+  },
+  {
+    "groupId": 5032,
+    "id": 960,
+    "mysekaiMaterialId": 10,
+    "quantity": 50
+  },
+  {
+    "groupId": 5033,
+    "id": 961,
+    "mysekaiMaterialId": 55,
+    "quantity": 18
+  },
+  {
+    "groupId": 5033,
+    "id": 962,
+    "mysekaiMaterialId": 23,
+    "quantity": 50
+  },
+  {
+    "groupId": 5033,
+    "id": 963,
+    "mysekaiMaterialId": 22,
+    "quantity": 50
+  },
+  {
+    "groupId": 5033,
+    "id": 964,
+    "mysekaiMaterialId": 21,
+    "quantity": 50
+  },
+  {
+    "groupId": 5033,
+    "id": 965,
+    "mysekaiMaterialId": 20,
+    "quantity": 5
+  },
+  {
+    "groupId": 5034,
+    "id": 966,
+    "mysekaiMaterialId": 15,
+    "quantity": 50
+  },
+  {
+    "groupId": 5034,
+    "id": 967,
+    "mysekaiMaterialId": 16,
+    "quantity": 50
+  },
+  {
+    "groupId": 5034,
+    "id": 968,
+    "mysekaiMaterialId": 17,
+    "quantity": 50
+  },
+  {
+    "groupId": 5034,
+    "id": 969,
+    "mysekaiMaterialId": 18,
+    "quantity": 50
+  },
+  {
+    "groupId": 5034,
+    "id": 970,
+    "mysekaiMaterialId": 19,
+    "quantity": 50
+  },
+  {
+    "groupId": 5035,
+    "id": 971,
+    "mysekaiMaterialId": 51,
+    "quantity": 19
+  },
+  {
+    "groupId": 5035,
+    "id": 972,
+    "mysekaiMaterialId": 52,
+    "quantity": 19
+  },
+  {
+    "groupId": 5035,
+    "id": 973,
+    "mysekaiMaterialId": 53,
+    "quantity": 19
+  },
+  {
+    "groupId": 5035,
+    "id": 974,
+    "mysekaiMaterialId": 54,
+    "quantity": 19
+  },
+  {
+    "groupId": 5035,
+    "id": 975,
+    "mysekaiMaterialId": 3,
+    "quantity": 50
+  },
+  {
+    "groupId": 5036,
+    "id": 976,
+    "mysekaiMaterialId": 55,
+    "quantity": 19
+  },
+  {
+    "groupId": 5036,
+    "id": 977,
+    "mysekaiMaterialId": 4,
+    "quantity": 50
+  },
+  {
+    "groupId": 5036,
+    "id": 978,
+    "mysekaiMaterialId": 2,
+    "quantity": 50
+  },
+  {
+    "groupId": 5036,
+    "id": 979,
+    "mysekaiMaterialId": 3,
+    "quantity": 50
+  },
+  {
+    "groupId": 5036,
+    "id": 980,
+    "mysekaiMaterialId": 5,
+    "quantity": 5
+  },
+  {
+    "groupId": 5037,
+    "id": 981,
+    "mysekaiMaterialId": 23,
+    "quantity": 50
+  },
+  {
+    "groupId": 5037,
+    "id": 982,
+    "mysekaiMaterialId": 21,
+    "quantity": 50
+  },
+  {
+    "groupId": 5037,
+    "id": 983,
+    "mysekaiMaterialId": 22,
+    "quantity": 50
+  },
+  {
+    "groupId": 5037,
+    "id": 984,
+    "mysekaiMaterialId": 9,
+    "quantity": 50
+  },
+  {
+    "groupId": 5037,
+    "id": 985,
+    "mysekaiMaterialId": 24,
+    "quantity": 5
+  },
+  {
+    "groupId": 5038,
+    "id": 986,
+    "mysekaiMaterialId": 51,
+    "quantity": 20
+  },
+  {
+    "groupId": 5038,
+    "id": 987,
+    "mysekaiMaterialId": 52,
+    "quantity": 20
+  },
+  {
+    "groupId": 5038,
+    "id": 988,
+    "mysekaiMaterialId": 53,
+    "quantity": 20
+  },
+  {
+    "groupId": 5038,
+    "id": 989,
+    "mysekaiMaterialId": 54,
+    "quantity": 20
+  },
+  {
+    "groupId": 5038,
+    "id": 990,
+    "mysekaiMaterialId": 8,
+    "quantity": 50
+  },
+  {
+    "groupId": 5039,
+    "id": 991,
+    "mysekaiMaterialId": 55,
+    "quantity": 20
+  },
+  {
+    "groupId": 5039,
+    "id": 992,
+    "mysekaiMaterialId": 11,
+    "quantity": 50
+  },
+  {
+    "groupId": 5039,
+    "id": 993,
+    "mysekaiMaterialId": 8,
+    "quantity": 50
+  },
+  {
+    "groupId": 5039,
+    "id": 994,
+    "mysekaiMaterialId": 7,
+    "quantity": 50
+  },
+  {
+    "groupId": 5039,
+    "id": 995,
+    "mysekaiMaterialId": 10,
+    "quantity": 50
+  },
+  {
+    "groupId": 5040,
+    "id": 996,
+    "mysekaiMaterialId": 11,
+    "quantity": 100
+  },
+  {
+    "groupId": 5040,
+    "id": 997,
+    "mysekaiMaterialId": 24,
+    "quantity": 15
+  },
+  {
+    "groupId": 5040,
+    "id": 998,
+    "mysekaiMaterialId": 12,
+    "quantity": 15
+  },
+  {
+    "groupId": 5040,
+    "id": 999,
+    "mysekaiMaterialId": 20,
+    "quantity": 15
+  },
+  {
+    "groupId": 5040,
+    "id": 1000,
+    "mysekaiMaterialId": 5,
+    "quantity": 15
+  }
+]

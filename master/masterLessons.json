@@ -1,0 +1,8117 @@
+[
+  {
+    "cardRarityType": "rarity_1",
+    "costs": [
+      {
+        "cardRarityType": "rarity_1",
+        "id": 1,
+        "masterRank": 1,
+        "quantity": 1,
+        "resourceId": 15
+      },
+      {
+        "cardRarityType": "rarity_1",
+        "characterId": 1,
+        "id": 31,
+        "masterRank": 1,
+        "quantity": 1,
+        "resourceId": 101
+      },
+      {
+        "cardRarityType": "rarity_1",
+        "characterId": 2,
+        "id": 61,
+        "masterRank": 1,
+        "quantity": 1,
+        "resourceId": 102
+      },
+      {
+        "cardRarityType": "rarity_1",
+        "characterId": 3,
+        "id": 91,
+        "masterRank": 1,
+        "quantity": 1,
+        "resourceId": 103
+      },
+      {
+        "cardRarityType": "rarity_1",
+        "characterId": 4,
+        "id": 121,
+        "masterRank": 1,
+        "quantity": 1,
+        "resourceId": 104
+      },
+      {
+        "cardRarityType": "rarity_1",
+        "characterId": 5,
+        "id": 151,
+        "masterRank": 1,
+        "quantity": 1,
+        "resourceId": 105
+      },
+      {
+        "cardRarityType": "rarity_1",
+        "characterId": 6,
+        "id": 181,
+        "masterRank": 1,
+        "quantity": 1,
+        "resourceId": 106
+      },
+      {
+        "cardRarityType": "rarity_1",
+        "characterId": 7,
+        "id": 211,
+        "masterRank": 1,
+        "quantity": 1,
+        "resourceId": 107
+      },
+      {
+        "cardRarityType": "rarity_1",
+        "characterId": 8,
+        "id": 241,
+        "masterRank": 1,
+        "quantity": 1,
+        "resourceId": 108
+      },
+      {
+        "cardRarityType": "rarity_1",
+        "characterId": 9,
+        "id": 271,
+        "masterRank": 1,
+        "quantity": 1,
+        "resourceId": 109
+      },
+      {
+        "cardRarityType": "rarity_1",
+        "characterId": 10,
+        "id": 301,
+        "masterRank": 1,
+        "quantity": 1,
+        "resourceId": 110
+      },
+      {
+        "cardRarityType": "rarity_1",
+        "characterId": 11,
+        "id": 331,
+        "masterRank": 1,
+        "quantity": 1,
+        "resourceId": 111
+      },
+      {
+        "cardRarityType": "rarity_1",
+        "characterId": 12,
+        "id": 361,
+        "masterRank": 1,
+        "quantity": 1,
+        "resourceId": 112
+      },
+      {
+        "cardRarityType": "rarity_1",
+        "characterId": 13,
+        "id": 391,
+        "masterRank": 1,
+        "quantity": 1,
+        "resourceId": 113
+      },
+      {
+        "cardRarityType": "rarity_1",
+        "characterId": 14,
+        "id": 421,
+        "masterRank": 1,
+        "quantity": 1,
+        "resourceId": 114
+      },
+      {
+        "cardRarityType": "rarity_1",
+        "characterId": 15,
+        "id": 451,
+        "masterRank": 1,
+        "quantity": 1,
+        "resourceId": 115
+      },
+      {
+        "cardRarityType": "rarity_1",
+        "characterId": 16,
+        "id": 481,
+        "masterRank": 1,
+        "quantity": 1,
+        "resourceId": 116
+      },
+      {
+        "cardRarityType": "rarity_1",
+        "characterId": 17,
+        "id": 511,
+        "masterRank": 1,
+        "quantity": 1,
+        "resourceId": 117
+      },
+      {
+        "cardRarityType": "rarity_1",
+        "characterId": 18,
+        "id": 541,
+        "masterRank": 1,
+        "quantity": 1,
+        "resourceId": 118
+      },
+      {
+        "cardRarityType": "rarity_1",
+        "characterId": 19,
+        "id": 571,
+        "masterRank": 1,
+        "quantity": 1,
+        "resourceId": 119
+      },
+      {
+        "cardRarityType": "rarity_1",
+        "characterId": 20,
+        "id": 601,
+        "masterRank": 1,
+        "quantity": 1,
+        "resourceId": 120
+      },
+      {
+        "cardRarityType": "rarity_1",
+        "characterId": 21,
+        "id": 631,
+        "masterRank": 1,
+        "quantity": 1,
+        "resourceId": 121
+      },
+      {
+        "cardRarityType": "rarity_1",
+        "characterId": 22,
+        "id": 661,
+        "masterRank": 1,
+        "quantity": 1,
+        "resourceId": 122
+      },
+      {
+        "cardRarityType": "rarity_1",
+        "characterId": 23,
+        "id": 691,
+        "masterRank": 1,
+        "quantity": 1,
+        "resourceId": 123
+      },
+      {
+        "cardRarityType": "rarity_1",
+        "characterId": 24,
+        "id": 721,
+        "masterRank": 1,
+        "quantity": 1,
+        "resourceId": 124
+      },
+      {
+        "cardRarityType": "rarity_1",
+        "characterId": 25,
+        "id": 751,
+        "masterRank": 1,
+        "quantity": 1,
+        "resourceId": 125
+      },
+      {
+        "cardRarityType": "rarity_1",
+        "characterId": 26,
+        "id": 781,
+        "masterRank": 1,
+        "quantity": 1,
+        "resourceId": 126
+      },
+      {
+        "cardRarityType": "rarity_1",
+        "id": 811,
+        "masterRank": 1,
+        "quantity": 1,
+        "resourceId": 127,
+        "unit": "light_sound"
+      },
+      {
+        "cardRarityType": "rarity_1",
+        "id": 841,
+        "masterRank": 1,
+        "quantity": 1,
+        "resourceId": 128,
+        "unit": "idol"
+      },
+      {
+        "cardRarityType": "rarity_1",
+        "id": 871,
+        "masterRank": 1,
+        "quantity": 1,
+        "resourceId": 129,
+        "unit": "street"
+      },
+      {
+        "cardRarityType": "rarity_1",
+        "id": 901,
+        "masterRank": 1,
+        "quantity": 1,
+        "resourceId": 130,
+        "unit": "theme_park"
+      },
+      {
+        "cardRarityType": "rarity_1",
+        "id": 931,
+        "masterRank": 1,
+        "quantity": 1,
+        "resourceId": 131,
+        "unit": "school_refusal"
+      },
+      {
+        "cardRarityType": "rarity_1",
+        "id": 961,
+        "masterRank": 1,
+        "quantity": 1,
+        "resourceId": 132,
+        "unit": "piapro"
+      }
+    ],
+    "masterRank": 1,
+    "power1BonusFixed": 50,
+    "power2BonusFixed": 50,
+    "power3BonusFixed": 50
+  },
+  {
+    "cardRarityType": "rarity_1",
+    "costs": [
+      {
+        "cardRarityType": "rarity_1",
+        "id": 2,
+        "masterRank": 2,
+        "quantity": 1,
+        "resourceId": 15
+      },
+      {
+        "cardRarityType": "rarity_1",
+        "characterId": 1,
+        "id": 32,
+        "masterRank": 2,
+        "quantity": 1,
+        "resourceId": 101
+      },
+      {
+        "cardRarityType": "rarity_1",
+        "characterId": 2,
+        "id": 62,
+        "masterRank": 2,
+        "quantity": 1,
+        "resourceId": 102
+      },
+      {
+        "cardRarityType": "rarity_1",
+        "characterId": 3,
+        "id": 92,
+        "masterRank": 2,
+        "quantity": 1,
+        "resourceId": 103
+      },
+      {
+        "cardRarityType": "rarity_1",
+        "characterId": 4,
+        "id": 122,
+        "masterRank": 2,
+        "quantity": 1,
+        "resourceId": 104
+      },
+      {
+        "cardRarityType": "rarity_1",
+        "characterId": 5,
+        "id": 152,
+        "masterRank": 2,
+        "quantity": 1,
+        "resourceId": 105
+      },
+      {
+        "cardRarityType": "rarity_1",
+        "characterId": 6,
+        "id": 182,
+        "masterRank": 2,
+        "quantity": 1,
+        "resourceId": 106
+      },
+      {
+        "cardRarityType": "rarity_1",
+        "characterId": 7,
+        "id": 212,
+        "masterRank": 2,
+        "quantity": 1,
+        "resourceId": 107
+      },
+      {
+        "cardRarityType": "rarity_1",
+        "characterId": 8,
+        "id": 242,
+        "masterRank": 2,
+        "quantity": 1,
+        "resourceId": 108
+      },
+      {
+        "cardRarityType": "rarity_1",
+        "characterId": 9,
+        "id": 272,
+        "masterRank": 2,
+        "quantity": 1,
+        "resourceId": 109
+      },
+      {
+        "cardRarityType": "rarity_1",
+        "characterId": 10,
+        "id": 302,
+        "masterRank": 2,
+        "quantity": 1,
+        "resourceId": 110
+      },
+      {
+        "cardRarityType": "rarity_1",
+        "characterId": 11,
+        "id": 332,
+        "masterRank": 2,
+        "quantity": 1,
+        "resourceId": 111
+      },
+      {
+        "cardRarityType": "rarity_1",
+        "characterId": 12,
+        "id": 362,
+        "masterRank": 2,
+        "quantity": 1,
+        "resourceId": 112
+      },
+      {
+        "cardRarityType": "rarity_1",
+        "characterId": 13,
+        "id": 392,
+        "masterRank": 2,
+        "quantity": 1,
+        "resourceId": 113
+      },
+      {
+        "cardRarityType": "rarity_1",
+        "characterId": 14,
+        "id": 422,
+        "masterRank": 2,
+        "quantity": 1,
+        "resourceId": 114
+      },
+      {
+        "cardRarityType": "rarity_1",
+        "characterId": 15,
+        "id": 452,
+        "masterRank": 2,
+        "quantity": 1,
+        "resourceId": 115
+      },
+      {
+        "cardRarityType": "rarity_1",
+        "characterId": 16,
+        "id": 482,
+        "masterRank": 2,
+        "quantity": 1,
+        "resourceId": 116
+      },
+      {
+        "cardRarityType": "rarity_1",
+        "characterId": 17,
+        "id": 512,
+        "masterRank": 2,
+        "quantity": 1,
+        "resourceId": 117
+      },
+      {
+        "cardRarityType": "rarity_1",
+        "characterId": 18,
+        "id": 542,
+        "masterRank": 2,
+        "quantity": 1,
+        "resourceId": 118
+      },
+      {
+        "cardRarityType": "rarity_1",
+        "characterId": 19,
+        "id": 572,
+        "masterRank": 2,
+        "quantity": 1,
+        "resourceId": 119
+      },
+      {
+        "cardRarityType": "rarity_1",
+        "characterId": 20,
+        "id": 602,
+        "masterRank": 2,
+        "quantity": 1,
+        "resourceId": 120
+      },
+      {
+        "cardRarityType": "rarity_1",
+        "characterId": 21,
+        "id": 632,
+        "masterRank": 2,
+        "quantity": 1,
+        "resourceId": 121
+      },
+      {
+        "cardRarityType": "rarity_1",
+        "characterId": 22,
+        "id": 662,
+        "masterRank": 2,
+        "quantity": 1,
+        "resourceId": 122
+      },
+      {
+        "cardRarityType": "rarity_1",
+        "characterId": 23,
+        "id": 692,
+        "masterRank": 2,
+        "quantity": 1,
+        "resourceId": 123
+      },
+      {
+        "cardRarityType": "rarity_1",
+        "characterId": 24,
+        "id": 722,
+        "masterRank": 2,
+        "quantity": 1,
+        "resourceId": 124
+      },
+      {
+        "cardRarityType": "rarity_1",
+        "characterId": 25,
+        "id": 752,
+        "masterRank": 2,
+        "quantity": 1,
+        "resourceId": 125
+      },
+      {
+        "cardRarityType": "rarity_1",
+        "characterId": 26,
+        "id": 782,
+        "masterRank": 2,
+        "quantity": 1,
+        "resourceId": 126
+      },
+      {
+        "cardRarityType": "rarity_1",
+        "id": 812,
+        "masterRank": 2,
+        "quantity": 1,
+        "resourceId": 127,
+        "unit": "light_sound"
+      },
+      {
+        "cardRarityType": "rarity_1",
+        "id": 842,
+        "masterRank": 2,
+        "quantity": 1,
+        "resourceId": 128,
+        "unit": "idol"
+      },
+      {
+        "cardRarityType": "rarity_1",
+        "id": 872,
+        "masterRank": 2,
+        "quantity": 1,
+        "resourceId": 129,
+        "unit": "street"
+      },
+      {
+        "cardRarityType": "rarity_1",
+        "id": 902,
+        "masterRank": 2,
+        "quantity": 1,
+        "resourceId": 130,
+        "unit": "theme_park"
+      },
+      {
+        "cardRarityType": "rarity_1",
+        "id": 932,
+        "masterRank": 2,
+        "quantity": 1,
+        "resourceId": 131,
+        "unit": "school_refusal"
+      },
+      {
+        "cardRarityType": "rarity_1",
+        "id": 962,
+        "masterRank": 2,
+        "quantity": 1,
+        "resourceId": 132,
+        "unit": "piapro"
+      }
+    ],
+    "masterRank": 2,
+    "power1BonusFixed": 50,
+    "power2BonusFixed": 50,
+    "power3BonusFixed": 50
+  },
+  {
+    "cardRarityType": "rarity_1",
+    "costs": [
+      {
+        "cardRarityType": "rarity_1",
+        "id": 3,
+        "masterRank": 3,
+        "quantity": 1,
+        "resourceId": 15
+      },
+      {
+        "cardRarityType": "rarity_1",
+        "characterId": 1,
+        "id": 33,
+        "masterRank": 3,
+        "quantity": 1,
+        "resourceId": 101
+      },
+      {
+        "cardRarityType": "rarity_1",
+        "characterId": 2,
+        "id": 63,
+        "masterRank": 3,
+        "quantity": 1,
+        "resourceId": 102
+      },
+      {
+        "cardRarityType": "rarity_1",
+        "characterId": 3,
+        "id": 93,
+        "masterRank": 3,
+        "quantity": 1,
+        "resourceId": 103
+      },
+      {
+        "cardRarityType": "rarity_1",
+        "characterId": 4,
+        "id": 123,
+        "masterRank": 3,
+        "quantity": 1,
+        "resourceId": 104
+      },
+      {
+        "cardRarityType": "rarity_1",
+        "characterId": 5,
+        "id": 153,
+        "masterRank": 3,
+        "quantity": 1,
+        "resourceId": 105
+      },
+      {
+        "cardRarityType": "rarity_1",
+        "characterId": 6,
+        "id": 183,
+        "masterRank": 3,
+        "quantity": 1,
+        "resourceId": 106
+      },
+      {
+        "cardRarityType": "rarity_1",
+        "characterId": 7,
+        "id": 213,
+        "masterRank": 3,
+        "quantity": 1,
+        "resourceId": 107
+      },
+      {
+        "cardRarityType": "rarity_1",
+        "characterId": 8,
+        "id": 243,
+        "masterRank": 3,
+        "quantity": 1,
+        "resourceId": 108
+      },
+      {
+        "cardRarityType": "rarity_1",
+        "characterId": 9,
+        "id": 273,
+        "masterRank": 3,
+        "quantity": 1,
+        "resourceId": 109
+      },
+      {
+        "cardRarityType": "rarity_1",
+        "characterId": 10,
+        "id": 303,
+        "masterRank": 3,
+        "quantity": 1,
+        "resourceId": 110
+      },
+      {
+        "cardRarityType": "rarity_1",
+        "characterId": 11,
+        "id": 333,
+        "masterRank": 3,
+        "quantity": 1,
+        "resourceId": 111
+      },
+      {
+        "cardRarityType": "rarity_1",
+        "characterId": 12,
+        "id": 363,
+        "masterRank": 3,
+        "quantity": 1,
+        "resourceId": 112
+      },
+      {
+        "cardRarityType": "rarity_1",
+        "characterId": 13,
+        "id": 393,
+        "masterRank": 3,
+        "quantity": 1,
+        "resourceId": 113
+      },
+      {
+        "cardRarityType": "rarity_1",
+        "characterId": 14,
+        "id": 423,
+        "masterRank": 3,
+        "quantity": 1,
+        "resourceId": 114
+      },
+      {
+        "cardRarityType": "rarity_1",
+        "characterId": 15,
+        "id": 453,
+        "masterRank": 3,
+        "quantity": 1,
+        "resourceId": 115
+      },
+      {
+        "cardRarityType": "rarity_1",
+        "characterId": 16,
+        "id": 483,
+        "masterRank": 3,
+        "quantity": 1,
+        "resourceId": 116
+      },
+      {
+        "cardRarityType": "rarity_1",
+        "characterId": 17,
+        "id": 513,
+        "masterRank": 3,
+        "quantity": 1,
+        "resourceId": 117
+      },
+      {
+        "cardRarityType": "rarity_1",
+        "characterId": 18,
+        "id": 543,
+        "masterRank": 3,
+        "quantity": 1,
+        "resourceId": 118
+      },
+      {
+        "cardRarityType": "rarity_1",
+        "characterId": 19,
+        "id": 573,
+        "masterRank": 3,
+        "quantity": 1,
+        "resourceId": 119
+      },
+      {
+        "cardRarityType": "rarity_1",
+        "characterId": 20,
+        "id": 603,
+        "masterRank": 3,
+        "quantity": 1,
+        "resourceId": 120
+      },
+      {
+        "cardRarityType": "rarity_1",
+        "characterId": 21,
+        "id": 633,
+        "masterRank": 3,
+        "quantity": 1,
+        "resourceId": 121
+      },
+      {
+        "cardRarityType": "rarity_1",
+        "characterId": 22,
+        "id": 663,
+        "masterRank": 3,
+        "quantity": 1,
+        "resourceId": 122
+      },
+      {
+        "cardRarityType": "rarity_1",
+        "characterId": 23,
+        "id": 693,
+        "masterRank": 3,
+        "quantity": 1,
+        "resourceId": 123
+      },
+      {
+        "cardRarityType": "rarity_1",
+        "characterId": 24,
+        "id": 723,
+        "masterRank": 3,
+        "quantity": 1,
+        "resourceId": 124
+      },
+      {
+        "cardRarityType": "rarity_1",
+        "characterId": 25,
+        "id": 753,
+        "masterRank": 3,
+        "quantity": 1,
+        "resourceId": 125
+      },
+      {
+        "cardRarityType": "rarity_1",
+        "characterId": 26,
+        "id": 783,
+        "masterRank": 3,
+        "quantity": 1,
+        "resourceId": 126
+      },
+      {
+        "cardRarityType": "rarity_1",
+        "id": 813,
+        "masterRank": 3,
+        "quantity": 1,
+        "resourceId": 127,
+        "unit": "light_sound"
+      },
+      {
+        "cardRarityType": "rarity_1",
+        "id": 843,
+        "masterRank": 3,
+        "quantity": 1,
+        "resourceId": 128,
+        "unit": "idol"
+      },
+      {
+        "cardRarityType": "rarity_1",
+        "id": 873,
+        "masterRank": 3,
+        "quantity": 1,
+        "resourceId": 129,
+        "unit": "street"
+      },
+      {
+        "cardRarityType": "rarity_1",
+        "id": 903,
+        "masterRank": 3,
+        "quantity": 1,
+        "resourceId": 130,
+        "unit": "theme_park"
+      },
+      {
+        "cardRarityType": "rarity_1",
+        "id": 933,
+        "masterRank": 3,
+        "quantity": 1,
+        "resourceId": 131,
+        "unit": "school_refusal"
+      },
+      {
+        "cardRarityType": "rarity_1",
+        "id": 963,
+        "masterRank": 3,
+        "quantity": 1,
+        "resourceId": 132,
+        "unit": "piapro"
+      }
+    ],
+    "masterRank": 3,
+    "power1BonusFixed": 50,
+    "power2BonusFixed": 50,
+    "power3BonusFixed": 50
+  },
+  {
+    "cardRarityType": "rarity_1",
+    "costs": [
+      {
+        "cardRarityType": "rarity_1",
+        "id": 4,
+        "masterRank": 4,
+        "quantity": 1,
+        "resourceId": 15
+      },
+      {
+        "cardRarityType": "rarity_1",
+        "characterId": 1,
+        "id": 34,
+        "masterRank": 4,
+        "quantity": 1,
+        "resourceId": 101
+      },
+      {
+        "cardRarityType": "rarity_1",
+        "characterId": 2,
+        "id": 64,
+        "masterRank": 4,
+        "quantity": 1,
+        "resourceId": 102
+      },
+      {
+        "cardRarityType": "rarity_1",
+        "characterId": 3,
+        "id": 94,
+        "masterRank": 4,
+        "quantity": 1,
+        "resourceId": 103
+      },
+      {
+        "cardRarityType": "rarity_1",
+        "characterId": 4,
+        "id": 124,
+        "masterRank": 4,
+        "quantity": 1,
+        "resourceId": 104
+      },
+      {
+        "cardRarityType": "rarity_1",
+        "characterId": 5,
+        "id": 154,
+        "masterRank": 4,
+        "quantity": 1,
+        "resourceId": 105
+      },
+      {
+        "cardRarityType": "rarity_1",
+        "characterId": 6,
+        "id": 184,
+        "masterRank": 4,
+        "quantity": 1,
+        "resourceId": 106
+      },
+      {
+        "cardRarityType": "rarity_1",
+        "characterId": 7,
+        "id": 214,
+        "masterRank": 4,
+        "quantity": 1,
+        "resourceId": 107
+      },
+      {
+        "cardRarityType": "rarity_1",
+        "characterId": 8,
+        "id": 244,
+        "masterRank": 4,
+        "quantity": 1,
+        "resourceId": 108
+      },
+      {
+        "cardRarityType": "rarity_1",
+        "characterId": 9,
+        "id": 274,
+        "masterRank": 4,
+        "quantity": 1,
+        "resourceId": 109
+      },
+      {
+        "cardRarityType": "rarity_1",
+        "characterId": 10,
+        "id": 304,
+        "masterRank": 4,
+        "quantity": 1,
+        "resourceId": 110
+      },
+      {
+        "cardRarityType": "rarity_1",
+        "characterId": 11,
+        "id": 334,
+        "masterRank": 4,
+        "quantity": 1,
+        "resourceId": 111
+      },
+      {
+        "cardRarityType": "rarity_1",
+        "characterId": 12,
+        "id": 364,
+        "masterRank": 4,
+        "quantity": 1,
+        "resourceId": 112
+      },
+      {
+        "cardRarityType": "rarity_1",
+        "characterId": 13,
+        "id": 394,
+        "masterRank": 4,
+        "quantity": 1,
+        "resourceId": 113
+      },
+      {
+        "cardRarityType": "rarity_1",
+        "characterId": 14,
+        "id": 424,
+        "masterRank": 4,
+        "quantity": 1,
+        "resourceId": 114
+      },
+      {
+        "cardRarityType": "rarity_1",
+        "characterId": 15,
+        "id": 454,
+        "masterRank": 4,
+        "quantity": 1,
+        "resourceId": 115
+      },
+      {
+        "cardRarityType": "rarity_1",
+        "characterId": 16,
+        "id": 484,
+        "masterRank": 4,
+        "quantity": 1,
+        "resourceId": 116
+      },
+      {
+        "cardRarityType": "rarity_1",
+        "characterId": 17,
+        "id": 514,
+        "masterRank": 4,
+        "quantity": 1,
+        "resourceId": 117
+      },
+      {
+        "cardRarityType": "rarity_1",
+        "characterId": 18,
+        "id": 544,
+        "masterRank": 4,
+        "quantity": 1,
+        "resourceId": 118
+      },
+      {
+        "cardRarityType": "rarity_1",
+        "characterId": 19,
+        "id": 574,
+        "masterRank": 4,
+        "quantity": 1,
+        "resourceId": 119
+      },
+      {
+        "cardRarityType": "rarity_1",
+        "characterId": 20,
+        "id": 604,
+        "masterRank": 4,
+        "quantity": 1,
+        "resourceId": 120
+      },
+      {
+        "cardRarityType": "rarity_1",
+        "characterId": 21,
+        "id": 634,
+        "masterRank": 4,
+        "quantity": 1,
+        "resourceId": 121
+      },
+      {
+        "cardRarityType": "rarity_1",
+        "characterId": 22,
+        "id": 664,
+        "masterRank": 4,
+        "quantity": 1,
+        "resourceId": 122
+      },
+      {
+        "cardRarityType": "rarity_1",
+        "characterId": 23,
+        "id": 694,
+        "masterRank": 4,
+        "quantity": 1,
+        "resourceId": 123
+      },
+      {
+        "cardRarityType": "rarity_1",
+        "characterId": 24,
+        "id": 724,
+        "masterRank": 4,
+        "quantity": 1,
+        "resourceId": 124
+      },
+      {
+        "cardRarityType": "rarity_1",
+        "characterId": 25,
+        "id": 754,
+        "masterRank": 4,
+        "quantity": 1,
+        "resourceId": 125
+      },
+      {
+        "cardRarityType": "rarity_1",
+        "characterId": 26,
+        "id": 784,
+        "masterRank": 4,
+        "quantity": 1,
+        "resourceId": 126
+      },
+      {
+        "cardRarityType": "rarity_1",
+        "id": 814,
+        "masterRank": 4,
+        "quantity": 1,
+        "resourceId": 127,
+        "unit": "light_sound"
+      },
+      {
+        "cardRarityType": "rarity_1",
+        "id": 844,
+        "masterRank": 4,
+        "quantity": 1,
+        "resourceId": 128,
+        "unit": "idol"
+      },
+      {
+        "cardRarityType": "rarity_1",
+        "id": 874,
+        "masterRank": 4,
+        "quantity": 1,
+        "resourceId": 129,
+        "unit": "street"
+      },
+      {
+        "cardRarityType": "rarity_1",
+        "id": 904,
+        "masterRank": 4,
+        "quantity": 1,
+        "resourceId": 130,
+        "unit": "theme_park"
+      },
+      {
+        "cardRarityType": "rarity_1",
+        "id": 934,
+        "masterRank": 4,
+        "quantity": 1,
+        "resourceId": 131,
+        "unit": "school_refusal"
+      },
+      {
+        "cardRarityType": "rarity_1",
+        "id": 964,
+        "masterRank": 4,
+        "quantity": 1,
+        "resourceId": 132,
+        "unit": "piapro"
+      }
+    ],
+    "masterRank": 4,
+    "power1BonusFixed": 50,
+    "power2BonusFixed": 50,
+    "power3BonusFixed": 50
+  },
+  {
+    "cardRarityType": "rarity_1",
+    "costs": [
+      {
+        "cardRarityType": "rarity_1",
+        "id": 5,
+        "masterRank": 5,
+        "quantity": 1,
+        "resourceId": 15
+      },
+      {
+        "cardRarityType": "rarity_1",
+        "characterId": 1,
+        "id": 35,
+        "masterRank": 5,
+        "quantity": 1,
+        "resourceId": 101
+      },
+      {
+        "cardRarityType": "rarity_1",
+        "characterId": 2,
+        "id": 65,
+        "masterRank": 5,
+        "quantity": 1,
+        "resourceId": 102
+      },
+      {
+        "cardRarityType": "rarity_1",
+        "characterId": 3,
+        "id": 95,
+        "masterRank": 5,
+        "quantity": 1,
+        "resourceId": 103
+      },
+      {
+        "cardRarityType": "rarity_1",
+        "characterId": 4,
+        "id": 125,
+        "masterRank": 5,
+        "quantity": 1,
+        "resourceId": 104
+      },
+      {
+        "cardRarityType": "rarity_1",
+        "characterId": 5,
+        "id": 155,
+        "masterRank": 5,
+        "quantity": 1,
+        "resourceId": 105
+      },
+      {
+        "cardRarityType": "rarity_1",
+        "characterId": 6,
+        "id": 185,
+        "masterRank": 5,
+        "quantity": 1,
+        "resourceId": 106
+      },
+      {
+        "cardRarityType": "rarity_1",
+        "characterId": 7,
+        "id": 215,
+        "masterRank": 5,
+        "quantity": 1,
+        "resourceId": 107
+      },
+      {
+        "cardRarityType": "rarity_1",
+        "characterId": 8,
+        "id": 245,
+        "masterRank": 5,
+        "quantity": 1,
+        "resourceId": 108
+      },
+      {
+        "cardRarityType": "rarity_1",
+        "characterId": 9,
+        "id": 275,
+        "masterRank": 5,
+        "quantity": 1,
+        "resourceId": 109
+      },
+      {
+        "cardRarityType": "rarity_1",
+        "characterId": 10,
+        "id": 305,
+        "masterRank": 5,
+        "quantity": 1,
+        "resourceId": 110
+      },
+      {
+        "cardRarityType": "rarity_1",
+        "characterId": 11,
+        "id": 335,
+        "masterRank": 5,
+        "quantity": 1,
+        "resourceId": 111
+      },
+      {
+        "cardRarityType": "rarity_1",
+        "characterId": 12,
+        "id": 365,
+        "masterRank": 5,
+        "quantity": 1,
+        "resourceId": 112
+      },
+      {
+        "cardRarityType": "rarity_1",
+        "characterId": 13,
+        "id": 395,
+        "masterRank": 5,
+        "quantity": 1,
+        "resourceId": 113
+      },
+      {
+        "cardRarityType": "rarity_1",
+        "characterId": 14,
+        "id": 425,
+        "masterRank": 5,
+        "quantity": 1,
+        "resourceId": 114
+      },
+      {
+        "cardRarityType": "rarity_1",
+        "characterId": 15,
+        "id": 455,
+        "masterRank": 5,
+        "quantity": 1,
+        "resourceId": 115
+      },
+      {
+        "cardRarityType": "rarity_1",
+        "characterId": 16,
+        "id": 485,
+        "masterRank": 5,
+        "quantity": 1,
+        "resourceId": 116
+      },
+      {
+        "cardRarityType": "rarity_1",
+        "characterId": 17,
+        "id": 515,
+        "masterRank": 5,
+        "quantity": 1,
+        "resourceId": 117
+      },
+      {
+        "cardRarityType": "rarity_1",
+        "characterId": 18,
+        "id": 545,
+        "masterRank": 5,
+        "quantity": 1,
+        "resourceId": 118
+      },
+      {
+        "cardRarityType": "rarity_1",
+        "characterId": 19,
+        "id": 575,
+        "masterRank": 5,
+        "quantity": 1,
+        "resourceId": 119
+      },
+      {
+        "cardRarityType": "rarity_1",
+        "characterId": 20,
+        "id": 605,
+        "masterRank": 5,
+        "quantity": 1,
+        "resourceId": 120
+      },
+      {
+        "cardRarityType": "rarity_1",
+        "characterId": 21,
+        "id": 635,
+        "masterRank": 5,
+        "quantity": 1,
+        "resourceId": 121
+      },
+      {
+        "cardRarityType": "rarity_1",
+        "characterId": 22,
+        "id": 665,
+        "masterRank": 5,
+        "quantity": 1,
+        "resourceId": 122
+      },
+      {
+        "cardRarityType": "rarity_1",
+        "characterId": 23,
+        "id": 695,
+        "masterRank": 5,
+        "quantity": 1,
+        "resourceId": 123
+      },
+      {
+        "cardRarityType": "rarity_1",
+        "characterId": 24,
+        "id": 725,
+        "masterRank": 5,
+        "quantity": 1,
+        "resourceId": 124
+      },
+      {
+        "cardRarityType": "rarity_1",
+        "characterId": 25,
+        "id": 755,
+        "masterRank": 5,
+        "quantity": 1,
+        "resourceId": 125
+      },
+      {
+        "cardRarityType": "rarity_1",
+        "characterId": 26,
+        "id": 785,
+        "masterRank": 5,
+        "quantity": 1,
+        "resourceId": 126
+      },
+      {
+        "cardRarityType": "rarity_1",
+        "id": 815,
+        "masterRank": 5,
+        "quantity": 1,
+        "resourceId": 127,
+        "unit": "light_sound"
+      },
+      {
+        "cardRarityType": "rarity_1",
+        "id": 845,
+        "masterRank": 5,
+        "quantity": 1,
+        "resourceId": 128,
+        "unit": "idol"
+      },
+      {
+        "cardRarityType": "rarity_1",
+        "id": 875,
+        "masterRank": 5,
+        "quantity": 1,
+        "resourceId": 129,
+        "unit": "street"
+      },
+      {
+        "cardRarityType": "rarity_1",
+        "id": 905,
+        "masterRank": 5,
+        "quantity": 1,
+        "resourceId": 130,
+        "unit": "theme_park"
+      },
+      {
+        "cardRarityType": "rarity_1",
+        "id": 935,
+        "masterRank": 5,
+        "quantity": 1,
+        "resourceId": 131,
+        "unit": "school_refusal"
+      },
+      {
+        "cardRarityType": "rarity_1",
+        "id": 965,
+        "masterRank": 5,
+        "quantity": 1,
+        "resourceId": 132,
+        "unit": "piapro"
+      }
+    ],
+    "masterRank": 5,
+    "power1BonusFixed": 50,
+    "power2BonusFixed": 50,
+    "power3BonusFixed": 50
+  },
+  {
+    "cardRarityType": "rarity_2",
+    "costs": [
+      {
+        "cardRarityType": "rarity_2",
+        "id": 6,
+        "masterRank": 1,
+        "quantity": 5,
+        "resourceId": 15
+      },
+      {
+        "cardRarityType": "rarity_2",
+        "characterId": 1,
+        "id": 36,
+        "masterRank": 1,
+        "quantity": 5,
+        "resourceId": 101
+      },
+      {
+        "cardRarityType": "rarity_2",
+        "characterId": 2,
+        "id": 66,
+        "masterRank": 1,
+        "quantity": 5,
+        "resourceId": 102
+      },
+      {
+        "cardRarityType": "rarity_2",
+        "characterId": 3,
+        "id": 96,
+        "masterRank": 1,
+        "quantity": 5,
+        "resourceId": 103
+      },
+      {
+        "cardRarityType": "rarity_2",
+        "characterId": 4,
+        "id": 126,
+        "masterRank": 1,
+        "quantity": 5,
+        "resourceId": 104
+      },
+      {
+        "cardRarityType": "rarity_2",
+        "characterId": 5,
+        "id": 156,
+        "masterRank": 1,
+        "quantity": 5,
+        "resourceId": 105
+      },
+      {
+        "cardRarityType": "rarity_2",
+        "characterId": 6,
+        "id": 186,
+        "masterRank": 1,
+        "quantity": 5,
+        "resourceId": 106
+      },
+      {
+        "cardRarityType": "rarity_2",
+        "characterId": 7,
+        "id": 216,
+        "masterRank": 1,
+        "quantity": 5,
+        "resourceId": 107
+      },
+      {
+        "cardRarityType": "rarity_2",
+        "characterId": 8,
+        "id": 246,
+        "masterRank": 1,
+        "quantity": 5,
+        "resourceId": 108
+      },
+      {
+        "cardRarityType": "rarity_2",
+        "characterId": 9,
+        "id": 276,
+        "masterRank": 1,
+        "quantity": 5,
+        "resourceId": 109
+      },
+      {
+        "cardRarityType": "rarity_2",
+        "characterId": 10,
+        "id": 306,
+        "masterRank": 1,
+        "quantity": 5,
+        "resourceId": 110
+      },
+      {
+        "cardRarityType": "rarity_2",
+        "characterId": 11,
+        "id": 336,
+        "masterRank": 1,
+        "quantity": 5,
+        "resourceId": 111
+      },
+      {
+        "cardRarityType": "rarity_2",
+        "characterId": 12,
+        "id": 366,
+        "masterRank": 1,
+        "quantity": 5,
+        "resourceId": 112
+      },
+      {
+        "cardRarityType": "rarity_2",
+        "characterId": 13,
+        "id": 396,
+        "masterRank": 1,
+        "quantity": 5,
+        "resourceId": 113
+      },
+      {
+        "cardRarityType": "rarity_2",
+        "characterId": 14,
+        "id": 426,
+        "masterRank": 1,
+        "quantity": 5,
+        "resourceId": 114
+      },
+      {
+        "cardRarityType": "rarity_2",
+        "characterId": 15,
+        "id": 456,
+        "masterRank": 1,
+        "quantity": 5,
+        "resourceId": 115
+      },
+      {
+        "cardRarityType": "rarity_2",
+        "characterId": 16,
+        "id": 486,
+        "masterRank": 1,
+        "quantity": 5,
+        "resourceId": 116
+      },
+      {
+        "cardRarityType": "rarity_2",
+        "characterId": 17,
+        "id": 516,
+        "masterRank": 1,
+        "quantity": 5,
+        "resourceId": 117
+      },
+      {
+        "cardRarityType": "rarity_2",
+        "characterId": 18,
+        "id": 546,
+        "masterRank": 1,
+        "quantity": 5,
+        "resourceId": 118
+      },
+      {
+        "cardRarityType": "rarity_2",
+        "characterId": 19,
+        "id": 576,
+        "masterRank": 1,
+        "quantity": 5,
+        "resourceId": 119
+      },
+      {
+        "cardRarityType": "rarity_2",
+        "characterId": 20,
+        "id": 606,
+        "masterRank": 1,
+        "quantity": 5,
+        "resourceId": 120
+      },
+      {
+        "cardRarityType": "rarity_2",
+        "characterId": 21,
+        "id": 636,
+        "masterRank": 1,
+        "quantity": 5,
+        "resourceId": 121
+      },
+      {
+        "cardRarityType": "rarity_2",
+        "characterId": 22,
+        "id": 666,
+        "masterRank": 1,
+        "quantity": 5,
+        "resourceId": 122
+      },
+      {
+        "cardRarityType": "rarity_2",
+        "characterId": 23,
+        "id": 696,
+        "masterRank": 1,
+        "quantity": 5,
+        "resourceId": 123
+      },
+      {
+        "cardRarityType": "rarity_2",
+        "characterId": 24,
+        "id": 726,
+        "masterRank": 1,
+        "quantity": 5,
+        "resourceId": 124
+      },
+      {
+        "cardRarityType": "rarity_2",
+        "characterId": 25,
+        "id": 756,
+        "masterRank": 1,
+        "quantity": 5,
+        "resourceId": 125
+      },
+      {
+        "cardRarityType": "rarity_2",
+        "characterId": 26,
+        "id": 786,
+        "masterRank": 1,
+        "quantity": 5,
+        "resourceId": 126
+      },
+      {
+        "cardRarityType": "rarity_2",
+        "id": 816,
+        "masterRank": 1,
+        "quantity": 5,
+        "resourceId": 127,
+        "unit": "light_sound"
+      },
+      {
+        "cardRarityType": "rarity_2",
+        "id": 846,
+        "masterRank": 1,
+        "quantity": 5,
+        "resourceId": 128,
+        "unit": "idol"
+      },
+      {
+        "cardRarityType": "rarity_2",
+        "id": 876,
+        "masterRank": 1,
+        "quantity": 5,
+        "resourceId": 129,
+        "unit": "street"
+      },
+      {
+        "cardRarityType": "rarity_2",
+        "id": 906,
+        "masterRank": 1,
+        "quantity": 5,
+        "resourceId": 130,
+        "unit": "theme_park"
+      },
+      {
+        "cardRarityType": "rarity_2",
+        "id": 936,
+        "masterRank": 1,
+        "quantity": 5,
+        "resourceId": 131,
+        "unit": "school_refusal"
+      },
+      {
+        "cardRarityType": "rarity_2",
+        "id": 966,
+        "masterRank": 1,
+        "quantity": 5,
+        "resourceId": 132,
+        "unit": "piapro"
+      }
+    ],
+    "masterRank": 1,
+    "power1BonusFixed": 100,
+    "power2BonusFixed": 100,
+    "power3BonusFixed": 100
+  },
+  {
+    "cardRarityType": "rarity_2",
+    "costs": [
+      {
+        "cardRarityType": "rarity_2",
+        "id": 7,
+        "masterRank": 2,
+        "quantity": 5,
+        "resourceId": 15
+      },
+      {
+        "cardRarityType": "rarity_2",
+        "characterId": 1,
+        "id": 37,
+        "masterRank": 2,
+        "quantity": 5,
+        "resourceId": 101
+      },
+      {
+        "cardRarityType": "rarity_2",
+        "characterId": 2,
+        "id": 67,
+        "masterRank": 2,
+        "quantity": 5,
+        "resourceId": 102
+      },
+      {
+        "cardRarityType": "rarity_2",
+        "characterId": 3,
+        "id": 97,
+        "masterRank": 2,
+        "quantity": 5,
+        "resourceId": 103
+      },
+      {
+        "cardRarityType": "rarity_2",
+        "characterId": 4,
+        "id": 127,
+        "masterRank": 2,
+        "quantity": 5,
+        "resourceId": 104
+      },
+      {
+        "cardRarityType": "rarity_2",
+        "characterId": 5,
+        "id": 157,
+        "masterRank": 2,
+        "quantity": 5,
+        "resourceId": 105
+      },
+      {
+        "cardRarityType": "rarity_2",
+        "characterId": 6,
+        "id": 187,
+        "masterRank": 2,
+        "quantity": 5,
+        "resourceId": 106
+      },
+      {
+        "cardRarityType": "rarity_2",
+        "characterId": 7,
+        "id": 217,
+        "masterRank": 2,
+        "quantity": 5,
+        "resourceId": 107
+      },
+      {
+        "cardRarityType": "rarity_2",
+        "characterId": 8,
+        "id": 247,
+        "masterRank": 2,
+        "quantity": 5,
+        "resourceId": 108
+      },
+      {
+        "cardRarityType": "rarity_2",
+        "characterId": 9,
+        "id": 277,
+        "masterRank": 2,
+        "quantity": 5,
+        "resourceId": 109
+      },
+      {
+        "cardRarityType": "rarity_2",
+        "characterId": 10,
+        "id": 307,
+        "masterRank": 2,
+        "quantity": 5,
+        "resourceId": 110
+      },
+      {
+        "cardRarityType": "rarity_2",
+        "characterId": 11,
+        "id": 337,
+        "masterRank": 2,
+        "quantity": 5,
+        "resourceId": 111
+      },
+      {
+        "cardRarityType": "rarity_2",
+        "characterId": 12,
+        "id": 367,
+        "masterRank": 2,
+        "quantity": 5,
+        "resourceId": 112
+      },
+      {
+        "cardRarityType": "rarity_2",
+        "characterId": 13,
+        "id": 397,
+        "masterRank": 2,
+        "quantity": 5,
+        "resourceId": 113
+      },
+      {
+        "cardRarityType": "rarity_2",
+        "characterId": 14,
+        "id": 427,
+        "masterRank": 2,
+        "quantity": 5,
+        "resourceId": 114
+      },
+      {
+        "cardRarityType": "rarity_2",
+        "characterId": 15,
+        "id": 457,
+        "masterRank": 2,
+        "quantity": 5,
+        "resourceId": 115
+      },
+      {
+        "cardRarityType": "rarity_2",
+        "characterId": 16,
+        "id": 487,
+        "masterRank": 2,
+        "quantity": 5,
+        "resourceId": 116
+      },
+      {
+        "cardRarityType": "rarity_2",
+        "characterId": 17,
+        "id": 517,
+        "masterRank": 2,
+        "quantity": 5,
+        "resourceId": 117
+      },
+      {
+        "cardRarityType": "rarity_2",
+        "characterId": 18,
+        "id": 547,
+        "masterRank": 2,
+        "quantity": 5,
+        "resourceId": 118
+      },
+      {
+        "cardRarityType": "rarity_2",
+        "characterId": 19,
+        "id": 577,
+        "masterRank": 2,
+        "quantity": 5,
+        "resourceId": 119
+      },
+      {
+        "cardRarityType": "rarity_2",
+        "characterId": 20,
+        "id": 607,
+        "masterRank": 2,
+        "quantity": 5,
+        "resourceId": 120
+      },
+      {
+        "cardRarityType": "rarity_2",
+        "characterId": 21,
+        "id": 637,
+        "masterRank": 2,
+        "quantity": 5,
+        "resourceId": 121
+      },
+      {
+        "cardRarityType": "rarity_2",
+        "characterId": 22,
+        "id": 667,
+        "masterRank": 2,
+        "quantity": 5,
+        "resourceId": 122
+      },
+      {
+        "cardRarityType": "rarity_2",
+        "characterId": 23,
+        "id": 697,
+        "masterRank": 2,
+        "quantity": 5,
+        "resourceId": 123
+      },
+      {
+        "cardRarityType": "rarity_2",
+        "characterId": 24,
+        "id": 727,
+        "masterRank": 2,
+        "quantity": 5,
+        "resourceId": 124
+      },
+      {
+        "cardRarityType": "rarity_2",
+        "characterId": 25,
+        "id": 757,
+        "masterRank": 2,
+        "quantity": 5,
+        "resourceId": 125
+      },
+      {
+        "cardRarityType": "rarity_2",
+        "characterId": 26,
+        "id": 787,
+        "masterRank": 2,
+        "quantity": 5,
+        "resourceId": 126
+      },
+      {
+        "cardRarityType": "rarity_2",
+        "id": 817,
+        "masterRank": 2,
+        "quantity": 5,
+        "resourceId": 127,
+        "unit": "light_sound"
+      },
+      {
+        "cardRarityType": "rarity_2",
+        "id": 847,
+        "masterRank": 2,
+        "quantity": 5,
+        "resourceId": 128,
+        "unit": "idol"
+      },
+      {
+        "cardRarityType": "rarity_2",
+        "id": 877,
+        "masterRank": 2,
+        "quantity": 5,
+        "resourceId": 129,
+        "unit": "street"
+      },
+      {
+        "cardRarityType": "rarity_2",
+        "id": 907,
+        "masterRank": 2,
+        "quantity": 5,
+        "resourceId": 130,
+        "unit": "theme_park"
+      },
+      {
+        "cardRarityType": "rarity_2",
+        "id": 937,
+        "masterRank": 2,
+        "quantity": 5,
+        "resourceId": 131,
+        "unit": "school_refusal"
+      },
+      {
+        "cardRarityType": "rarity_2",
+        "id": 967,
+        "masterRank": 2,
+        "quantity": 5,
+        "resourceId": 132,
+        "unit": "piapro"
+      }
+    ],
+    "masterRank": 2,
+    "power1BonusFixed": 100,
+    "power2BonusFixed": 100,
+    "power3BonusFixed": 100
+  },
+  {
+    "cardRarityType": "rarity_2",
+    "costs": [
+      {
+        "cardRarityType": "rarity_2",
+        "id": 8,
+        "masterRank": 3,
+        "quantity": 5,
+        "resourceId": 15
+      },
+      {
+        "cardRarityType": "rarity_2",
+        "characterId": 1,
+        "id": 38,
+        "masterRank": 3,
+        "quantity": 5,
+        "resourceId": 101
+      },
+      {
+        "cardRarityType": "rarity_2",
+        "characterId": 2,
+        "id": 68,
+        "masterRank": 3,
+        "quantity": 5,
+        "resourceId": 102
+      },
+      {
+        "cardRarityType": "rarity_2",
+        "characterId": 3,
+        "id": 98,
+        "masterRank": 3,
+        "quantity": 5,
+        "resourceId": 103
+      },
+      {
+        "cardRarityType": "rarity_2",
+        "characterId": 4,
+        "id": 128,
+        "masterRank": 3,
+        "quantity": 5,
+        "resourceId": 104
+      },
+      {
+        "cardRarityType": "rarity_2",
+        "characterId": 5,
+        "id": 158,
+        "masterRank": 3,
+        "quantity": 5,
+        "resourceId": 105
+      },
+      {
+        "cardRarityType": "rarity_2",
+        "characterId": 6,
+        "id": 188,
+        "masterRank": 3,
+        "quantity": 5,
+        "resourceId": 106
+      },
+      {
+        "cardRarityType": "rarity_2",
+        "characterId": 7,
+        "id": 218,
+        "masterRank": 3,
+        "quantity": 5,
+        "resourceId": 107
+      },
+      {
+        "cardRarityType": "rarity_2",
+        "characterId": 8,
+        "id": 248,
+        "masterRank": 3,
+        "quantity": 5,
+        "resourceId": 108
+      },
+      {
+        "cardRarityType": "rarity_2",
+        "characterId": 9,
+        "id": 278,
+        "masterRank": 3,
+        "quantity": 5,
+        "resourceId": 109
+      },
+      {
+        "cardRarityType": "rarity_2",
+        "characterId": 10,
+        "id": 308,
+        "masterRank": 3,
+        "quantity": 5,
+        "resourceId": 110
+      },
+      {
+        "cardRarityType": "rarity_2",
+        "characterId": 11,
+        "id": 338,
+        "masterRank": 3,
+        "quantity": 5,
+        "resourceId": 111
+      },
+      {
+        "cardRarityType": "rarity_2",
+        "characterId": 12,
+        "id": 368,
+        "masterRank": 3,
+        "quantity": 5,
+        "resourceId": 112
+      },
+      {
+        "cardRarityType": "rarity_2",
+        "characterId": 13,
+        "id": 398,
+        "masterRank": 3,
+        "quantity": 5,
+        "resourceId": 113
+      },
+      {
+        "cardRarityType": "rarity_2",
+        "characterId": 14,
+        "id": 428,
+        "masterRank": 3,
+        "quantity": 5,
+        "resourceId": 114
+      },
+      {
+        "cardRarityType": "rarity_2",
+        "characterId": 15,
+        "id": 458,
+        "masterRank": 3,
+        "quantity": 5,
+        "resourceId": 115
+      },
+      {
+        "cardRarityType": "rarity_2",
+        "characterId": 16,
+        "id": 488,
+        "masterRank": 3,
+        "quantity": 5,
+        "resourceId": 116
+      },
+      {
+        "cardRarityType": "rarity_2",
+        "characterId": 17,
+        "id": 518,
+        "masterRank": 3,
+        "quantity": 5,
+        "resourceId": 117
+      },
+      {
+        "cardRarityType": "rarity_2",
+        "characterId": 18,
+        "id": 548,
+        "masterRank": 3,
+        "quantity": 5,
+        "resourceId": 118
+      },
+      {
+        "cardRarityType": "rarity_2",
+        "characterId": 19,
+        "id": 578,
+        "masterRank": 3,
+        "quantity": 5,
+        "resourceId": 119
+      },
+      {
+        "cardRarityType": "rarity_2",
+        "characterId": 20,
+        "id": 608,
+        "masterRank": 3,
+        "quantity": 5,
+        "resourceId": 120
+      },
+      {
+        "cardRarityType": "rarity_2",
+        "characterId": 21,
+        "id": 638,
+        "masterRank": 3,
+        "quantity": 5,
+        "resourceId": 121
+      },
+      {
+        "cardRarityType": "rarity_2",
+        "characterId": 22,
+        "id": 668,
+        "masterRank": 3,
+        "quantity": 5,
+        "resourceId": 122
+      },
+      {
+        "cardRarityType": "rarity_2",
+        "characterId": 23,
+        "id": 698,
+        "masterRank": 3,
+        "quantity": 5,
+        "resourceId": 123
+      },
+      {
+        "cardRarityType": "rarity_2",
+        "characterId": 24,
+        "id": 728,
+        "masterRank": 3,
+        "quantity": 5,
+        "resourceId": 124
+      },
+      {
+        "cardRarityType": "rarity_2",
+        "characterId": 25,
+        "id": 758,
+        "masterRank": 3,
+        "quantity": 5,
+        "resourceId": 125
+      },
+      {
+        "cardRarityType": "rarity_2",
+        "characterId": 26,
+        "id": 788,
+        "masterRank": 3,
+        "quantity": 5,
+        "resourceId": 126
+      },
+      {
+        "cardRarityType": "rarity_2",
+        "id": 818,
+        "masterRank": 3,
+        "quantity": 5,
+        "resourceId": 127,
+        "unit": "light_sound"
+      },
+      {
+        "cardRarityType": "rarity_2",
+        "id": 848,
+        "masterRank": 3,
+        "quantity": 5,
+        "resourceId": 128,
+        "unit": "idol"
+      },
+      {
+        "cardRarityType": "rarity_2",
+        "id": 878,
+        "masterRank": 3,
+        "quantity": 5,
+        "resourceId": 129,
+        "unit": "street"
+      },
+      {
+        "cardRarityType": "rarity_2",
+        "id": 908,
+        "masterRank": 3,
+        "quantity": 5,
+        "resourceId": 130,
+        "unit": "theme_park"
+      },
+      {
+        "cardRarityType": "rarity_2",
+        "id": 938,
+        "masterRank": 3,
+        "quantity": 5,
+        "resourceId": 131,
+        "unit": "school_refusal"
+      },
+      {
+        "cardRarityType": "rarity_2",
+        "id": 968,
+        "masterRank": 3,
+        "quantity": 5,
+        "resourceId": 132,
+        "unit": "piapro"
+      }
+    ],
+    "masterRank": 3,
+    "power1BonusFixed": 100,
+    "power2BonusFixed": 100,
+    "power3BonusFixed": 100
+  },
+  {
+    "cardRarityType": "rarity_2",
+    "costs": [
+      {
+        "cardRarityType": "rarity_2",
+        "id": 9,
+        "masterRank": 4,
+        "quantity": 5,
+        "resourceId": 15
+      },
+      {
+        "cardRarityType": "rarity_2",
+        "characterId": 1,
+        "id": 39,
+        "masterRank": 4,
+        "quantity": 5,
+        "resourceId": 101
+      },
+      {
+        "cardRarityType": "rarity_2",
+        "characterId": 2,
+        "id": 69,
+        "masterRank": 4,
+        "quantity": 5,
+        "resourceId": 102
+      },
+      {
+        "cardRarityType": "rarity_2",
+        "characterId": 3,
+        "id": 99,
+        "masterRank": 4,
+        "quantity": 5,
+        "resourceId": 103
+      },
+      {
+        "cardRarityType": "rarity_2",
+        "characterId": 4,
+        "id": 129,
+        "masterRank": 4,
+        "quantity": 5,
+        "resourceId": 104
+      },
+      {
+        "cardRarityType": "rarity_2",
+        "characterId": 5,
+        "id": 159,
+        "masterRank": 4,
+        "quantity": 5,
+        "resourceId": 105
+      },
+      {
+        "cardRarityType": "rarity_2",
+        "characterId": 6,
+        "id": 189,
+        "masterRank": 4,
+        "quantity": 5,
+        "resourceId": 106
+      },
+      {
+        "cardRarityType": "rarity_2",
+        "characterId": 7,
+        "id": 219,
+        "masterRank": 4,
+        "quantity": 5,
+        "resourceId": 107
+      },
+      {
+        "cardRarityType": "rarity_2",
+        "characterId": 8,
+        "id": 249,
+        "masterRank": 4,
+        "quantity": 5,
+        "resourceId": 108
+      },
+      {
+        "cardRarityType": "rarity_2",
+        "characterId": 9,
+        "id": 279,
+        "masterRank": 4,
+        "quantity": 5,
+        "resourceId": 109
+      },
+      {
+        "cardRarityType": "rarity_2",
+        "characterId": 10,
+        "id": 309,
+        "masterRank": 4,
+        "quantity": 5,
+        "resourceId": 110
+      },
+      {
+        "cardRarityType": "rarity_2",
+        "characterId": 11,
+        "id": 339,
+        "masterRank": 4,
+        "quantity": 5,
+        "resourceId": 111
+      },
+      {
+        "cardRarityType": "rarity_2",
+        "characterId": 12,
+        "id": 369,
+        "masterRank": 4,
+        "quantity": 5,
+        "resourceId": 112
+      },
+      {
+        "cardRarityType": "rarity_2",
+        "characterId": 13,
+        "id": 399,
+        "masterRank": 4,
+        "quantity": 5,
+        "resourceId": 113
+      },
+      {
+        "cardRarityType": "rarity_2",
+        "characterId": 14,
+        "id": 429,
+        "masterRank": 4,
+        "quantity": 5,
+        "resourceId": 114
+      },
+      {
+        "cardRarityType": "rarity_2",
+        "characterId": 15,
+        "id": 459,
+        "masterRank": 4,
+        "quantity": 5,
+        "resourceId": 115
+      },
+      {
+        "cardRarityType": "rarity_2",
+        "characterId": 16,
+        "id": 489,
+        "masterRank": 4,
+        "quantity": 5,
+        "resourceId": 116
+      },
+      {
+        "cardRarityType": "rarity_2",
+        "characterId": 17,
+        "id": 519,
+        "masterRank": 4,
+        "quantity": 5,
+        "resourceId": 117
+      },
+      {
+        "cardRarityType": "rarity_2",
+        "characterId": 18,
+        "id": 549,
+        "masterRank": 4,
+        "quantity": 5,
+        "resourceId": 118
+      },
+      {
+        "cardRarityType": "rarity_2",
+        "characterId": 19,
+        "id": 579,
+        "masterRank": 4,
+        "quantity": 5,
+        "resourceId": 119
+      },
+      {
+        "cardRarityType": "rarity_2",
+        "characterId": 20,
+        "id": 609,
+        "masterRank": 4,
+        "quantity": 5,
+        "resourceId": 120
+      },
+      {
+        "cardRarityType": "rarity_2",
+        "characterId": 21,
+        "id": 639,
+        "masterRank": 4,
+        "quantity": 5,
+        "resourceId": 121
+      },
+      {
+        "cardRarityType": "rarity_2",
+        "characterId": 22,
+        "id": 669,
+        "masterRank": 4,
+        "quantity": 5,
+        "resourceId": 122
+      },
+      {
+        "cardRarityType": "rarity_2",
+        "characterId": 23,
+        "id": 699,
+        "masterRank": 4,
+        "quantity": 5,
+        "resourceId": 123
+      },
+      {
+        "cardRarityType": "rarity_2",
+        "characterId": 24,
+        "id": 729,
+        "masterRank": 4,
+        "quantity": 5,
+        "resourceId": 124
+      },
+      {
+        "cardRarityType": "rarity_2",
+        "characterId": 25,
+        "id": 759,
+        "masterRank": 4,
+        "quantity": 5,
+        "resourceId": 125
+      },
+      {
+        "cardRarityType": "rarity_2",
+        "characterId": 26,
+        "id": 789,
+        "masterRank": 4,
+        "quantity": 5,
+        "resourceId": 126
+      },
+      {
+        "cardRarityType": "rarity_2",
+        "id": 819,
+        "masterRank": 4,
+        "quantity": 5,
+        "resourceId": 127,
+        "unit": "light_sound"
+      },
+      {
+        "cardRarityType": "rarity_2",
+        "id": 849,
+        "masterRank": 4,
+        "quantity": 5,
+        "resourceId": 128,
+        "unit": "idol"
+      },
+      {
+        "cardRarityType": "rarity_2",
+        "id": 879,
+        "masterRank": 4,
+        "quantity": 5,
+        "resourceId": 129,
+        "unit": "street"
+      },
+      {
+        "cardRarityType": "rarity_2",
+        "id": 909,
+        "masterRank": 4,
+        "quantity": 5,
+        "resourceId": 130,
+        "unit": "theme_park"
+      },
+      {
+        "cardRarityType": "rarity_2",
+        "id": 939,
+        "masterRank": 4,
+        "quantity": 5,
+        "resourceId": 131,
+        "unit": "school_refusal"
+      },
+      {
+        "cardRarityType": "rarity_2",
+        "id": 969,
+        "masterRank": 4,
+        "quantity": 5,
+        "resourceId": 132,
+        "unit": "piapro"
+      }
+    ],
+    "masterRank": 4,
+    "power1BonusFixed": 100,
+    "power2BonusFixed": 100,
+    "power3BonusFixed": 100
+  },
+  {
+    "cardRarityType": "rarity_2",
+    "costs": [
+      {
+        "cardRarityType": "rarity_2",
+        "id": 10,
+        "masterRank": 5,
+        "quantity": 5,
+        "resourceId": 15
+      },
+      {
+        "cardRarityType": "rarity_2",
+        "characterId": 1,
+        "id": 40,
+        "masterRank": 5,
+        "quantity": 5,
+        "resourceId": 101
+      },
+      {
+        "cardRarityType": "rarity_2",
+        "characterId": 2,
+        "id": 70,
+        "masterRank": 5,
+        "quantity": 5,
+        "resourceId": 102
+      },
+      {
+        "cardRarityType": "rarity_2",
+        "characterId": 3,
+        "id": 100,
+        "masterRank": 5,
+        "quantity": 5,
+        "resourceId": 103
+      },
+      {
+        "cardRarityType": "rarity_2",
+        "characterId": 4,
+        "id": 130,
+        "masterRank": 5,
+        "quantity": 5,
+        "resourceId": 104
+      },
+      {
+        "cardRarityType": "rarity_2",
+        "characterId": 5,
+        "id": 160,
+        "masterRank": 5,
+        "quantity": 5,
+        "resourceId": 105
+      },
+      {
+        "cardRarityType": "rarity_2",
+        "characterId": 6,
+        "id": 190,
+        "masterRank": 5,
+        "quantity": 5,
+        "resourceId": 106
+      },
+      {
+        "cardRarityType": "rarity_2",
+        "characterId": 7,
+        "id": 220,
+        "masterRank": 5,
+        "quantity": 5,
+        "resourceId": 107
+      },
+      {
+        "cardRarityType": "rarity_2",
+        "characterId": 8,
+        "id": 250,
+        "masterRank": 5,
+        "quantity": 5,
+        "resourceId": 108
+      },
+      {
+        "cardRarityType": "rarity_2",
+        "characterId": 9,
+        "id": 280,
+        "masterRank": 5,
+        "quantity": 5,
+        "resourceId": 109
+      },
+      {
+        "cardRarityType": "rarity_2",
+        "characterId": 10,
+        "id": 310,
+        "masterRank": 5,
+        "quantity": 5,
+        "resourceId": 110
+      },
+      {
+        "cardRarityType": "rarity_2",
+        "characterId": 11,
+        "id": 340,
+        "masterRank": 5,
+        "quantity": 5,
+        "resourceId": 111
+      },
+      {
+        "cardRarityType": "rarity_2",
+        "characterId": 12,
+        "id": 370,
+        "masterRank": 5,
+        "quantity": 5,
+        "resourceId": 112
+      },
+      {
+        "cardRarityType": "rarity_2",
+        "characterId": 13,
+        "id": 400,
+        "masterRank": 5,
+        "quantity": 5,
+        "resourceId": 113
+      },
+      {
+        "cardRarityType": "rarity_2",
+        "characterId": 14,
+        "id": 430,
+        "masterRank": 5,
+        "quantity": 5,
+        "resourceId": 114
+      },
+      {
+        "cardRarityType": "rarity_2",
+        "characterId": 15,
+        "id": 460,
+        "masterRank": 5,
+        "quantity": 5,
+        "resourceId": 115
+      },
+      {
+        "cardRarityType": "rarity_2",
+        "characterId": 16,
+        "id": 490,
+        "masterRank": 5,
+        "quantity": 5,
+        "resourceId": 116
+      },
+      {
+        "cardRarityType": "rarity_2",
+        "characterId": 17,
+        "id": 520,
+        "masterRank": 5,
+        "quantity": 5,
+        "resourceId": 117
+      },
+      {
+        "cardRarityType": "rarity_2",
+        "characterId": 18,
+        "id": 550,
+        "masterRank": 5,
+        "quantity": 5,
+        "resourceId": 118
+      },
+      {
+        "cardRarityType": "rarity_2",
+        "characterId": 19,
+        "id": 580,
+        "masterRank": 5,
+        "quantity": 5,
+        "resourceId": 119
+      },
+      {
+        "cardRarityType": "rarity_2",
+        "characterId": 20,
+        "id": 610,
+        "masterRank": 5,
+        "quantity": 5,
+        "resourceId": 120
+      },
+      {
+        "cardRarityType": "rarity_2",
+        "characterId": 21,
+        "id": 640,
+        "masterRank": 5,
+        "quantity": 5,
+        "resourceId": 121
+      },
+      {
+        "cardRarityType": "rarity_2",
+        "characterId": 22,
+        "id": 670,
+        "masterRank": 5,
+        "quantity": 5,
+        "resourceId": 122
+      },
+      {
+        "cardRarityType": "rarity_2",
+        "characterId": 23,
+        "id": 700,
+        "masterRank": 5,
+        "quantity": 5,
+        "resourceId": 123
+      },
+      {
+        "cardRarityType": "rarity_2",
+        "characterId": 24,
+        "id": 730,
+        "masterRank": 5,
+        "quantity": 5,
+        "resourceId": 124
+      },
+      {
+        "cardRarityType": "rarity_2",
+        "characterId": 25,
+        "id": 760,
+        "masterRank": 5,
+        "quantity": 5,
+        "resourceId": 125
+      },
+      {
+        "cardRarityType": "rarity_2",
+        "characterId": 26,
+        "id": 790,
+        "masterRank": 5,
+        "quantity": 5,
+        "resourceId": 126
+      },
+      {
+        "cardRarityType": "rarity_2",
+        "id": 820,
+        "masterRank": 5,
+        "quantity": 5,
+        "resourceId": 127,
+        "unit": "light_sound"
+      },
+      {
+        "cardRarityType": "rarity_2",
+        "id": 850,
+        "masterRank": 5,
+        "quantity": 5,
+        "resourceId": 128,
+        "unit": "idol"
+      },
+      {
+        "cardRarityType": "rarity_2",
+        "id": 880,
+        "masterRank": 5,
+        "quantity": 5,
+        "resourceId": 129,
+        "unit": "street"
+      },
+      {
+        "cardRarityType": "rarity_2",
+        "id": 910,
+        "masterRank": 5,
+        "quantity": 5,
+        "resourceId": 130,
+        "unit": "theme_park"
+      },
+      {
+        "cardRarityType": "rarity_2",
+        "id": 940,
+        "masterRank": 5,
+        "quantity": 5,
+        "resourceId": 131,
+        "unit": "school_refusal"
+      },
+      {
+        "cardRarityType": "rarity_2",
+        "id": 970,
+        "masterRank": 5,
+        "quantity": 5,
+        "resourceId": 132,
+        "unit": "piapro"
+      }
+    ],
+    "masterRank": 5,
+    "power1BonusFixed": 100,
+    "power2BonusFixed": 100,
+    "power3BonusFixed": 100
+  },
+  {
+    "cardRarityType": "rarity_3",
+    "costs": [
+      {
+        "cardRarityType": "rarity_3",
+        "id": 11,
+        "masterRank": 1,
+        "quantity": 50,
+        "resourceId": 15
+      },
+      {
+        "cardRarityType": "rarity_3",
+        "characterId": 1,
+        "id": 41,
+        "masterRank": 1,
+        "quantity": 50,
+        "resourceId": 101
+      },
+      {
+        "cardRarityType": "rarity_3",
+        "characterId": 2,
+        "id": 71,
+        "masterRank": 1,
+        "quantity": 50,
+        "resourceId": 102
+      },
+      {
+        "cardRarityType": "rarity_3",
+        "characterId": 3,
+        "id": 101,
+        "masterRank": 1,
+        "quantity": 50,
+        "resourceId": 103
+      },
+      {
+        "cardRarityType": "rarity_3",
+        "characterId": 4,
+        "id": 131,
+        "masterRank": 1,
+        "quantity": 50,
+        "resourceId": 104
+      },
+      {
+        "cardRarityType": "rarity_3",
+        "characterId": 5,
+        "id": 161,
+        "masterRank": 1,
+        "quantity": 50,
+        "resourceId": 105
+      },
+      {
+        "cardRarityType": "rarity_3",
+        "characterId": 6,
+        "id": 191,
+        "masterRank": 1,
+        "quantity": 50,
+        "resourceId": 106
+      },
+      {
+        "cardRarityType": "rarity_3",
+        "characterId": 7,
+        "id": 221,
+        "masterRank": 1,
+        "quantity": 50,
+        "resourceId": 107
+      },
+      {
+        "cardRarityType": "rarity_3",
+        "characterId": 8,
+        "id": 251,
+        "masterRank": 1,
+        "quantity": 50,
+        "resourceId": 108
+      },
+      {
+        "cardRarityType": "rarity_3",
+        "characterId": 9,
+        "id": 281,
+        "masterRank": 1,
+        "quantity": 50,
+        "resourceId": 109
+      },
+      {
+        "cardRarityType": "rarity_3",
+        "characterId": 10,
+        "id": 311,
+        "masterRank": 1,
+        "quantity": 50,
+        "resourceId": 110
+      },
+      {
+        "cardRarityType": "rarity_3",
+        "characterId": 11,
+        "id": 341,
+        "masterRank": 1,
+        "quantity": 50,
+        "resourceId": 111
+      },
+      {
+        "cardRarityType": "rarity_3",
+        "characterId": 12,
+        "id": 371,
+        "masterRank": 1,
+        "quantity": 50,
+        "resourceId": 112
+      },
+      {
+        "cardRarityType": "rarity_3",
+        "characterId": 13,
+        "id": 401,
+        "masterRank": 1,
+        "quantity": 50,
+        "resourceId": 113
+      },
+      {
+        "cardRarityType": "rarity_3",
+        "characterId": 14,
+        "id": 431,
+        "masterRank": 1,
+        "quantity": 50,
+        "resourceId": 114
+      },
+      {
+        "cardRarityType": "rarity_3",
+        "characterId": 15,
+        "id": 461,
+        "masterRank": 1,
+        "quantity": 50,
+        "resourceId": 115
+      },
+      {
+        "cardRarityType": "rarity_3",
+        "characterId": 16,
+        "id": 491,
+        "masterRank": 1,
+        "quantity": 50,
+        "resourceId": 116
+      },
+      {
+        "cardRarityType": "rarity_3",
+        "characterId": 17,
+        "id": 521,
+        "masterRank": 1,
+        "quantity": 50,
+        "resourceId": 117
+      },
+      {
+        "cardRarityType": "rarity_3",
+        "characterId": 18,
+        "id": 551,
+        "masterRank": 1,
+        "quantity": 50,
+        "resourceId": 118
+      },
+      {
+        "cardRarityType": "rarity_3",
+        "characterId": 19,
+        "id": 581,
+        "masterRank": 1,
+        "quantity": 50,
+        "resourceId": 119
+      },
+      {
+        "cardRarityType": "rarity_3",
+        "characterId": 20,
+        "id": 611,
+        "masterRank": 1,
+        "quantity": 50,
+        "resourceId": 120
+      },
+      {
+        "cardRarityType": "rarity_3",
+        "characterId": 21,
+        "id": 641,
+        "masterRank": 1,
+        "quantity": 50,
+        "resourceId": 121
+      },
+      {
+        "cardRarityType": "rarity_3",
+        "characterId": 22,
+        "id": 671,
+        "masterRank": 1,
+        "quantity": 50,
+        "resourceId": 122
+      },
+      {
+        "cardRarityType": "rarity_3",
+        "characterId": 23,
+        "id": 701,
+        "masterRank": 1,
+        "quantity": 50,
+        "resourceId": 123
+      },
+      {
+        "cardRarityType": "rarity_3",
+        "characterId": 24,
+        "id": 731,
+        "masterRank": 1,
+        "quantity": 50,
+        "resourceId": 124
+      },
+      {
+        "cardRarityType": "rarity_3",
+        "characterId": 25,
+        "id": 761,
+        "masterRank": 1,
+        "quantity": 50,
+        "resourceId": 125
+      },
+      {
+        "cardRarityType": "rarity_3",
+        "characterId": 26,
+        "id": 791,
+        "masterRank": 1,
+        "quantity": 50,
+        "resourceId": 126
+      },
+      {
+        "cardRarityType": "rarity_3",
+        "id": 821,
+        "masterRank": 1,
+        "quantity": 50,
+        "resourceId": 127,
+        "unit": "light_sound"
+      },
+      {
+        "cardRarityType": "rarity_3",
+        "id": 851,
+        "masterRank": 1,
+        "quantity": 50,
+        "resourceId": 128,
+        "unit": "idol"
+      },
+      {
+        "cardRarityType": "rarity_3",
+        "id": 881,
+        "masterRank": 1,
+        "quantity": 50,
+        "resourceId": 129,
+        "unit": "street"
+      },
+      {
+        "cardRarityType": "rarity_3",
+        "id": 911,
+        "masterRank": 1,
+        "quantity": 50,
+        "resourceId": 130,
+        "unit": "theme_park"
+      },
+      {
+        "cardRarityType": "rarity_3",
+        "id": 941,
+        "masterRank": 1,
+        "quantity": 50,
+        "resourceId": 131,
+        "unit": "school_refusal"
+      },
+      {
+        "cardRarityType": "rarity_3",
+        "id": 971,
+        "masterRank": 1,
+        "quantity": 50,
+        "resourceId": 132,
+        "unit": "piapro"
+      }
+    ],
+    "masterRank": 1,
+    "power1BonusFixed": 150,
+    "power2BonusFixed": 150,
+    "power3BonusFixed": 150
+  },
+  {
+    "cardRarityType": "rarity_3",
+    "costs": [
+      {
+        "cardRarityType": "rarity_3",
+        "id": 12,
+        "masterRank": 2,
+        "quantity": 50,
+        "resourceId": 15
+      },
+      {
+        "cardRarityType": "rarity_3",
+        "characterId": 1,
+        "id": 42,
+        "masterRank": 2,
+        "quantity": 50,
+        "resourceId": 101
+      },
+      {
+        "cardRarityType": "rarity_3",
+        "characterId": 2,
+        "id": 72,
+        "masterRank": 2,
+        "quantity": 50,
+        "resourceId": 102
+      },
+      {
+        "cardRarityType": "rarity_3",
+        "characterId": 3,
+        "id": 102,
+        "masterRank": 2,
+        "quantity": 50,
+        "resourceId": 103
+      },
+      {
+        "cardRarityType": "rarity_3",
+        "characterId": 4,
+        "id": 132,
+        "masterRank": 2,
+        "quantity": 50,
+        "resourceId": 104
+      },
+      {
+        "cardRarityType": "rarity_3",
+        "characterId": 5,
+        "id": 162,
+        "masterRank": 2,
+        "quantity": 50,
+        "resourceId": 105
+      },
+      {
+        "cardRarityType": "rarity_3",
+        "characterId": 6,
+        "id": 192,
+        "masterRank": 2,
+        "quantity": 50,
+        "resourceId": 106
+      },
+      {
+        "cardRarityType": "rarity_3",
+        "characterId": 7,
+        "id": 222,
+        "masterRank": 2,
+        "quantity": 50,
+        "resourceId": 107
+      },
+      {
+        "cardRarityType": "rarity_3",
+        "characterId": 8,
+        "id": 252,
+        "masterRank": 2,
+        "quantity": 50,
+        "resourceId": 108
+      },
+      {
+        "cardRarityType": "rarity_3",
+        "characterId": 9,
+        "id": 282,
+        "masterRank": 2,
+        "quantity": 50,
+        "resourceId": 109
+      },
+      {
+        "cardRarityType": "rarity_3",
+        "characterId": 10,
+        "id": 312,
+        "masterRank": 2,
+        "quantity": 50,
+        "resourceId": 110
+      },
+      {
+        "cardRarityType": "rarity_3",
+        "characterId": 11,
+        "id": 342,
+        "masterRank": 2,
+        "quantity": 50,
+        "resourceId": 111
+      },
+      {
+        "cardRarityType": "rarity_3",
+        "characterId": 12,
+        "id": 372,
+        "masterRank": 2,
+        "quantity": 50,
+        "resourceId": 112
+      },
+      {
+        "cardRarityType": "rarity_3",
+        "characterId": 13,
+        "id": 402,
+        "masterRank": 2,
+        "quantity": 50,
+        "resourceId": 113
+      },
+      {
+        "cardRarityType": "rarity_3",
+        "characterId": 14,
+        "id": 432,
+        "masterRank": 2,
+        "quantity": 50,
+        "resourceId": 114
+      },
+      {
+        "cardRarityType": "rarity_3",
+        "characterId": 15,
+        "id": 462,
+        "masterRank": 2,
+        "quantity": 50,
+        "resourceId": 115
+      },
+      {
+        "cardRarityType": "rarity_3",
+        "characterId": 16,
+        "id": 492,
+        "masterRank": 2,
+        "quantity": 50,
+        "resourceId": 116
+      },
+      {
+        "cardRarityType": "rarity_3",
+        "characterId": 17,
+        "id": 522,
+        "masterRank": 2,
+        "quantity": 50,
+        "resourceId": 117
+      },
+      {
+        "cardRarityType": "rarity_3",
+        "characterId": 18,
+        "id": 552,
+        "masterRank": 2,
+        "quantity": 50,
+        "resourceId": 118
+      },
+      {
+        "cardRarityType": "rarity_3",
+        "characterId": 19,
+        "id": 582,
+        "masterRank": 2,
+        "quantity": 50,
+        "resourceId": 119
+      },
+      {
+        "cardRarityType": "rarity_3",
+        "characterId": 20,
+        "id": 612,
+        "masterRank": 2,
+        "quantity": 50,
+        "resourceId": 120
+      },
+      {
+        "cardRarityType": "rarity_3",
+        "characterId": 21,
+        "id": 642,
+        "masterRank": 2,
+        "quantity": 50,
+        "resourceId": 121
+      },
+      {
+        "cardRarityType": "rarity_3",
+        "characterId": 22,
+        "id": 672,
+        "masterRank": 2,
+        "quantity": 50,
+        "resourceId": 122
+      },
+      {
+        "cardRarityType": "rarity_3",
+        "characterId": 23,
+        "id": 702,
+        "masterRank": 2,
+        "quantity": 50,
+        "resourceId": 123
+      },
+      {
+        "cardRarityType": "rarity_3",
+        "characterId": 24,
+        "id": 732,
+        "masterRank": 2,
+        "quantity": 50,
+        "resourceId": 124
+      },
+      {
+        "cardRarityType": "rarity_3",
+        "characterId": 25,
+        "id": 762,
+        "masterRank": 2,
+        "quantity": 50,
+        "resourceId": 125
+      },
+      {
+        "cardRarityType": "rarity_3",
+        "characterId": 26,
+        "id": 792,
+        "masterRank": 2,
+        "quantity": 50,
+        "resourceId": 126
+      },
+      {
+        "cardRarityType": "rarity_3",
+        "id": 822,
+        "masterRank": 2,
+        "quantity": 50,
+        "resourceId": 127,
+        "unit": "light_sound"
+      },
+      {
+        "cardRarityType": "rarity_3",
+        "id": 852,
+        "masterRank": 2,
+        "quantity": 50,
+        "resourceId": 128,
+        "unit": "idol"
+      },
+      {
+        "cardRarityType": "rarity_3",
+        "id": 882,
+        "masterRank": 2,
+        "quantity": 50,
+        "resourceId": 129,
+        "unit": "street"
+      },
+      {
+        "cardRarityType": "rarity_3",
+        "id": 912,
+        "masterRank": 2,
+        "quantity": 50,
+        "resourceId": 130,
+        "unit": "theme_park"
+      },
+      {
+        "cardRarityType": "rarity_3",
+        "id": 942,
+        "masterRank": 2,
+        "quantity": 50,
+        "resourceId": 131,
+        "unit": "school_refusal"
+      },
+      {
+        "cardRarityType": "rarity_3",
+        "id": 972,
+        "masterRank": 2,
+        "quantity": 50,
+        "resourceId": 132,
+        "unit": "piapro"
+      }
+    ],
+    "masterRank": 2,
+    "power1BonusFixed": 150,
+    "power2BonusFixed": 150,
+    "power3BonusFixed": 150
+  },
+  {
+    "cardRarityType": "rarity_3",
+    "costs": [
+      {
+        "cardRarityType": "rarity_3",
+        "id": 13,
+        "masterRank": 3,
+        "quantity": 50,
+        "resourceId": 15
+      },
+      {
+        "cardRarityType": "rarity_3",
+        "characterId": 1,
+        "id": 43,
+        "masterRank": 3,
+        "quantity": 50,
+        "resourceId": 101
+      },
+      {
+        "cardRarityType": "rarity_3",
+        "characterId": 2,
+        "id": 73,
+        "masterRank": 3,
+        "quantity": 50,
+        "resourceId": 102
+      },
+      {
+        "cardRarityType": "rarity_3",
+        "characterId": 3,
+        "id": 103,
+        "masterRank": 3,
+        "quantity": 50,
+        "resourceId": 103
+      },
+      {
+        "cardRarityType": "rarity_3",
+        "characterId": 4,
+        "id": 133,
+        "masterRank": 3,
+        "quantity": 50,
+        "resourceId": 104
+      },
+      {
+        "cardRarityType": "rarity_3",
+        "characterId": 5,
+        "id": 163,
+        "masterRank": 3,
+        "quantity": 50,
+        "resourceId": 105
+      },
+      {
+        "cardRarityType": "rarity_3",
+        "characterId": 6,
+        "id": 193,
+        "masterRank": 3,
+        "quantity": 50,
+        "resourceId": 106
+      },
+      {
+        "cardRarityType": "rarity_3",
+        "characterId": 7,
+        "id": 223,
+        "masterRank": 3,
+        "quantity": 50,
+        "resourceId": 107
+      },
+      {
+        "cardRarityType": "rarity_3",
+        "characterId": 8,
+        "id": 253,
+        "masterRank": 3,
+        "quantity": 50,
+        "resourceId": 108
+      },
+      {
+        "cardRarityType": "rarity_3",
+        "characterId": 9,
+        "id": 283,
+        "masterRank": 3,
+        "quantity": 50,
+        "resourceId": 109
+      },
+      {
+        "cardRarityType": "rarity_3",
+        "characterId": 10,
+        "id": 313,
+        "masterRank": 3,
+        "quantity": 50,
+        "resourceId": 110
+      },
+      {
+        "cardRarityType": "rarity_3",
+        "characterId": 11,
+        "id": 343,
+        "masterRank": 3,
+        "quantity": 50,
+        "resourceId": 111
+      },
+      {
+        "cardRarityType": "rarity_3",
+        "characterId": 12,
+        "id": 373,
+        "masterRank": 3,
+        "quantity": 50,
+        "resourceId": 112
+      },
+      {
+        "cardRarityType": "rarity_3",
+        "characterId": 13,
+        "id": 403,
+        "masterRank": 3,
+        "quantity": 50,
+        "resourceId": 113
+      },
+      {
+        "cardRarityType": "rarity_3",
+        "characterId": 14,
+        "id": 433,
+        "masterRank": 3,
+        "quantity": 50,
+        "resourceId": 114
+      },
+      {
+        "cardRarityType": "rarity_3",
+        "characterId": 15,
+        "id": 463,
+        "masterRank": 3,
+        "quantity": 50,
+        "resourceId": 115
+      },
+      {
+        "cardRarityType": "rarity_3",
+        "characterId": 16,
+        "id": 493,
+        "masterRank": 3,
+        "quantity": 50,
+        "resourceId": 116
+      },
+      {
+        "cardRarityType": "rarity_3",
+        "characterId": 17,
+        "id": 523,
+        "masterRank": 3,
+        "quantity": 50,
+        "resourceId": 117
+      },
+      {
+        "cardRarityType": "rarity_3",
+        "characterId": 18,
+        "id": 553,
+        "masterRank": 3,
+        "quantity": 50,
+        "resourceId": 118
+      },
+      {
+        "cardRarityType": "rarity_3",
+        "characterId": 19,
+        "id": 583,
+        "masterRank": 3,
+        "quantity": 50,
+        "resourceId": 119
+      },
+      {
+        "cardRarityType": "rarity_3",
+        "characterId": 20,
+        "id": 613,
+        "masterRank": 3,
+        "quantity": 50,
+        "resourceId": 120
+      },
+      {
+        "cardRarityType": "rarity_3",
+        "characterId": 21,
+        "id": 643,
+        "masterRank": 3,
+        "quantity": 50,
+        "resourceId": 121
+      },
+      {
+        "cardRarityType": "rarity_3",
+        "characterId": 22,
+        "id": 673,
+        "masterRank": 3,
+        "quantity": 50,
+        "resourceId": 122
+      },
+      {
+        "cardRarityType": "rarity_3",
+        "characterId": 23,
+        "id": 703,
+        "masterRank": 3,
+        "quantity": 50,
+        "resourceId": 123
+      },
+      {
+        "cardRarityType": "rarity_3",
+        "characterId": 24,
+        "id": 733,
+        "masterRank": 3,
+        "quantity": 50,
+        "resourceId": 124
+      },
+      {
+        "cardRarityType": "rarity_3",
+        "characterId": 25,
+        "id": 763,
+        "masterRank": 3,
+        "quantity": 50,
+        "resourceId": 125
+      },
+      {
+        "cardRarityType": "rarity_3",
+        "characterId": 26,
+        "id": 793,
+        "masterRank": 3,
+        "quantity": 50,
+        "resourceId": 126
+      },
+      {
+        "cardRarityType": "rarity_3",
+        "id": 823,
+        "masterRank": 3,
+        "quantity": 50,
+        "resourceId": 127,
+        "unit": "light_sound"
+      },
+      {
+        "cardRarityType": "rarity_3",
+        "id": 853,
+        "masterRank": 3,
+        "quantity": 50,
+        "resourceId": 128,
+        "unit": "idol"
+      },
+      {
+        "cardRarityType": "rarity_3",
+        "id": 883,
+        "masterRank": 3,
+        "quantity": 50,
+        "resourceId": 129,
+        "unit": "street"
+      },
+      {
+        "cardRarityType": "rarity_3",
+        "id": 913,
+        "masterRank": 3,
+        "quantity": 50,
+        "resourceId": 130,
+        "unit": "theme_park"
+      },
+      {
+        "cardRarityType": "rarity_3",
+        "id": 943,
+        "masterRank": 3,
+        "quantity": 50,
+        "resourceId": 131,
+        "unit": "school_refusal"
+      },
+      {
+        "cardRarityType": "rarity_3",
+        "id": 973,
+        "masterRank": 3,
+        "quantity": 50,
+        "resourceId": 132,
+        "unit": "piapro"
+      }
+    ],
+    "masterRank": 3,
+    "power1BonusFixed": 150,
+    "power2BonusFixed": 150,
+    "power3BonusFixed": 150
+  },
+  {
+    "cardRarityType": "rarity_3",
+    "costs": [
+      {
+        "cardRarityType": "rarity_3",
+        "id": 14,
+        "masterRank": 4,
+        "quantity": 50,
+        "resourceId": 15
+      },
+      {
+        "cardRarityType": "rarity_3",
+        "characterId": 1,
+        "id": 44,
+        "masterRank": 4,
+        "quantity": 50,
+        "resourceId": 101
+      },
+      {
+        "cardRarityType": "rarity_3",
+        "characterId": 2,
+        "id": 74,
+        "masterRank": 4,
+        "quantity": 50,
+        "resourceId": 102
+      },
+      {
+        "cardRarityType": "rarity_3",
+        "characterId": 3,
+        "id": 104,
+        "masterRank": 4,
+        "quantity": 50,
+        "resourceId": 103
+      },
+      {
+        "cardRarityType": "rarity_3",
+        "characterId": 4,
+        "id": 134,
+        "masterRank": 4,
+        "quantity": 50,
+        "resourceId": 104
+      },
+      {
+        "cardRarityType": "rarity_3",
+        "characterId": 5,
+        "id": 164,
+        "masterRank": 4,
+        "quantity": 50,
+        "resourceId": 105
+      },
+      {
+        "cardRarityType": "rarity_3",
+        "characterId": 6,
+        "id": 194,
+        "masterRank": 4,
+        "quantity": 50,
+        "resourceId": 106
+      },
+      {
+        "cardRarityType": "rarity_3",
+        "characterId": 7,
+        "id": 224,
+        "masterRank": 4,
+        "quantity": 50,
+        "resourceId": 107
+      },
+      {
+        "cardRarityType": "rarity_3",
+        "characterId": 8,
+        "id": 254,
+        "masterRank": 4,
+        "quantity": 50,
+        "resourceId": 108
+      },
+      {
+        "cardRarityType": "rarity_3",
+        "characterId": 9,
+        "id": 284,
+        "masterRank": 4,
+        "quantity": 50,
+        "resourceId": 109
+      },
+      {
+        "cardRarityType": "rarity_3",
+        "characterId": 10,
+        "id": 314,
+        "masterRank": 4,
+        "quantity": 50,
+        "resourceId": 110
+      },
+      {
+        "cardRarityType": "rarity_3",
+        "characterId": 11,
+        "id": 344,
+        "masterRank": 4,
+        "quantity": 50,
+        "resourceId": 111
+      },
+      {
+        "cardRarityType": "rarity_3",
+        "characterId": 12,
+        "id": 374,
+        "masterRank": 4,
+        "quantity": 50,
+        "resourceId": 112
+      },
+      {
+        "cardRarityType": "rarity_3",
+        "characterId": 13,
+        "id": 404,
+        "masterRank": 4,
+        "quantity": 50,
+        "resourceId": 113
+      },
+      {
+        "cardRarityType": "rarity_3",
+        "characterId": 14,
+        "id": 434,
+        "masterRank": 4,
+        "quantity": 50,
+        "resourceId": 114
+      },
+      {
+        "cardRarityType": "rarity_3",
+        "characterId": 15,
+        "id": 464,
+        "masterRank": 4,
+        "quantity": 50,
+        "resourceId": 115
+      },
+      {
+        "cardRarityType": "rarity_3",
+        "characterId": 16,
+        "id": 494,
+        "masterRank": 4,
+        "quantity": 50,
+        "resourceId": 116
+      },
+      {
+        "cardRarityType": "rarity_3",
+        "characterId": 17,
+        "id": 524,
+        "masterRank": 4,
+        "quantity": 50,
+        "resourceId": 117
+      },
+      {
+        "cardRarityType": "rarity_3",
+        "characterId": 18,
+        "id": 554,
+        "masterRank": 4,
+        "quantity": 50,
+        "resourceId": 118
+      },
+      {
+        "cardRarityType": "rarity_3",
+        "characterId": 19,
+        "id": 584,
+        "masterRank": 4,
+        "quantity": 50,
+        "resourceId": 119
+      },
+      {
+        "cardRarityType": "rarity_3",
+        "characterId": 20,
+        "id": 614,
+        "masterRank": 4,
+        "quantity": 50,
+        "resourceId": 120
+      },
+      {
+        "cardRarityType": "rarity_3",
+        "characterId": 21,
+        "id": 644,
+        "masterRank": 4,
+        "quantity": 50,
+        "resourceId": 121
+      },
+      {
+        "cardRarityType": "rarity_3",
+        "characterId": 22,
+        "id": 674,
+        "masterRank": 4,
+        "quantity": 50,
+        "resourceId": 122
+      },
+      {
+        "cardRarityType": "rarity_3",
+        "characterId": 23,
+        "id": 704,
+        "masterRank": 4,
+        "quantity": 50,
+        "resourceId": 123
+      },
+      {
+        "cardRarityType": "rarity_3",
+        "characterId": 24,
+        "id": 734,
+        "masterRank": 4,
+        "quantity": 50,
+        "resourceId": 124
+      },
+      {
+        "cardRarityType": "rarity_3",
+        "characterId": 25,
+        "id": 764,
+        "masterRank": 4,
+        "quantity": 50,
+        "resourceId": 125
+      },
+      {
+        "cardRarityType": "rarity_3",
+        "characterId": 26,
+        "id": 794,
+        "masterRank": 4,
+        "quantity": 50,
+        "resourceId": 126
+      },
+      {
+        "cardRarityType": "rarity_3",
+        "id": 824,
+        "masterRank": 4,
+        "quantity": 50,
+        "resourceId": 127,
+        "unit": "light_sound"
+      },
+      {
+        "cardRarityType": "rarity_3",
+        "id": 854,
+        "masterRank": 4,
+        "quantity": 50,
+        "resourceId": 128,
+        "unit": "idol"
+      },
+      {
+        "cardRarityType": "rarity_3",
+        "id": 884,
+        "masterRank": 4,
+        "quantity": 50,
+        "resourceId": 129,
+        "unit": "street"
+      },
+      {
+        "cardRarityType": "rarity_3",
+        "id": 914,
+        "masterRank": 4,
+        "quantity": 50,
+        "resourceId": 130,
+        "unit": "theme_park"
+      },
+      {
+        "cardRarityType": "rarity_3",
+        "id": 944,
+        "masterRank": 4,
+        "quantity": 50,
+        "resourceId": 131,
+        "unit": "school_refusal"
+      },
+      {
+        "cardRarityType": "rarity_3",
+        "id": 974,
+        "masterRank": 4,
+        "quantity": 50,
+        "resourceId": 132,
+        "unit": "piapro"
+      }
+    ],
+    "masterRank": 4,
+    "power1BonusFixed": 150,
+    "power2BonusFixed": 150,
+    "power3BonusFixed": 150
+  },
+  {
+    "cardRarityType": "rarity_3",
+    "costs": [
+      {
+        "cardRarityType": "rarity_3",
+        "id": 15,
+        "masterRank": 5,
+        "quantity": 50,
+        "resourceId": 15
+      },
+      {
+        "cardRarityType": "rarity_3",
+        "characterId": 1,
+        "id": 45,
+        "masterRank": 5,
+        "quantity": 50,
+        "resourceId": 101
+      },
+      {
+        "cardRarityType": "rarity_3",
+        "characterId": 2,
+        "id": 75,
+        "masterRank": 5,
+        "quantity": 50,
+        "resourceId": 102
+      },
+      {
+        "cardRarityType": "rarity_3",
+        "characterId": 3,
+        "id": 105,
+        "masterRank": 5,
+        "quantity": 50,
+        "resourceId": 103
+      },
+      {
+        "cardRarityType": "rarity_3",
+        "characterId": 4,
+        "id": 135,
+        "masterRank": 5,
+        "quantity": 50,
+        "resourceId": 104
+      },
+      {
+        "cardRarityType": "rarity_3",
+        "characterId": 5,
+        "id": 165,
+        "masterRank": 5,
+        "quantity": 50,
+        "resourceId": 105
+      },
+      {
+        "cardRarityType": "rarity_3",
+        "characterId": 6,
+        "id": 195,
+        "masterRank": 5,
+        "quantity": 50,
+        "resourceId": 106
+      },
+      {
+        "cardRarityType": "rarity_3",
+        "characterId": 7,
+        "id": 225,
+        "masterRank": 5,
+        "quantity": 50,
+        "resourceId": 107
+      },
+      {
+        "cardRarityType": "rarity_3",
+        "characterId": 8,
+        "id": 255,
+        "masterRank": 5,
+        "quantity": 50,
+        "resourceId": 108
+      },
+      {
+        "cardRarityType": "rarity_3",
+        "characterId": 9,
+        "id": 285,
+        "masterRank": 5,
+        "quantity": 50,
+        "resourceId": 109
+      },
+      {
+        "cardRarityType": "rarity_3",
+        "characterId": 10,
+        "id": 315,
+        "masterRank": 5,
+        "quantity": 50,
+        "resourceId": 110
+      },
+      {
+        "cardRarityType": "rarity_3",
+        "characterId": 11,
+        "id": 345,
+        "masterRank": 5,
+        "quantity": 50,
+        "resourceId": 111
+      },
+      {
+        "cardRarityType": "rarity_3",
+        "characterId": 12,
+        "id": 375,
+        "masterRank": 5,
+        "quantity": 50,
+        "resourceId": 112
+      },
+      {
+        "cardRarityType": "rarity_3",
+        "characterId": 13,
+        "id": 405,
+        "masterRank": 5,
+        "quantity": 50,
+        "resourceId": 113
+      },
+      {
+        "cardRarityType": "rarity_3",
+        "characterId": 14,
+        "id": 435,
+        "masterRank": 5,
+        "quantity": 50,
+        "resourceId": 114
+      },
+      {
+        "cardRarityType": "rarity_3",
+        "characterId": 15,
+        "id": 465,
+        "masterRank": 5,
+        "quantity": 50,
+        "resourceId": 115
+      },
+      {
+        "cardRarityType": "rarity_3",
+        "characterId": 16,
+        "id": 495,
+        "masterRank": 5,
+        "quantity": 50,
+        "resourceId": 116
+      },
+      {
+        "cardRarityType": "rarity_3",
+        "characterId": 17,
+        "id": 525,
+        "masterRank": 5,
+        "quantity": 50,
+        "resourceId": 117
+      },
+      {
+        "cardRarityType": "rarity_3",
+        "characterId": 18,
+        "id": 555,
+        "masterRank": 5,
+        "quantity": 50,
+        "resourceId": 118
+      },
+      {
+        "cardRarityType": "rarity_3",
+        "characterId": 19,
+        "id": 585,
+        "masterRank": 5,
+        "quantity": 50,
+        "resourceId": 119
+      },
+      {
+        "cardRarityType": "rarity_3",
+        "characterId": 20,
+        "id": 615,
+        "masterRank": 5,
+        "quantity": 50,
+        "resourceId": 120
+      },
+      {
+        "cardRarityType": "rarity_3",
+        "characterId": 21,
+        "id": 645,
+        "masterRank": 5,
+        "quantity": 50,
+        "resourceId": 121
+      },
+      {
+        "cardRarityType": "rarity_3",
+        "characterId": 22,
+        "id": 675,
+        "masterRank": 5,
+        "quantity": 50,
+        "resourceId": 122
+      },
+      {
+        "cardRarityType": "rarity_3",
+        "characterId": 23,
+        "id": 705,
+        "masterRank": 5,
+        "quantity": 50,
+        "resourceId": 123
+      },
+      {
+        "cardRarityType": "rarity_3",
+        "characterId": 24,
+        "id": 735,
+        "masterRank": 5,
+        "quantity": 50,
+        "resourceId": 124
+      },
+      {
+        "cardRarityType": "rarity_3",
+        "characterId": 25,
+        "id": 765,
+        "masterRank": 5,
+        "quantity": 50,
+        "resourceId": 125
+      },
+      {
+        "cardRarityType": "rarity_3",
+        "characterId": 26,
+        "id": 795,
+        "masterRank": 5,
+        "quantity": 50,
+        "resourceId": 126
+      },
+      {
+        "cardRarityType": "rarity_3",
+        "id": 825,
+        "masterRank": 5,
+        "quantity": 50,
+        "resourceId": 127,
+        "unit": "light_sound"
+      },
+      {
+        "cardRarityType": "rarity_3",
+        "id": 855,
+        "masterRank": 5,
+        "quantity": 50,
+        "resourceId": 128,
+        "unit": "idol"
+      },
+      {
+        "cardRarityType": "rarity_3",
+        "id": 885,
+        "masterRank": 5,
+        "quantity": 50,
+        "resourceId": 129,
+        "unit": "street"
+      },
+      {
+        "cardRarityType": "rarity_3",
+        "id": 915,
+        "masterRank": 5,
+        "quantity": 50,
+        "resourceId": 130,
+        "unit": "theme_park"
+      },
+      {
+        "cardRarityType": "rarity_3",
+        "id": 945,
+        "masterRank": 5,
+        "quantity": 50,
+        "resourceId": 131,
+        "unit": "school_refusal"
+      },
+      {
+        "cardRarityType": "rarity_3",
+        "id": 975,
+        "masterRank": 5,
+        "quantity": 50,
+        "resourceId": 132,
+        "unit": "piapro"
+      }
+    ],
+    "masterRank": 5,
+    "power1BonusFixed": 150,
+    "power2BonusFixed": 150,
+    "power3BonusFixed": 150
+  },
+  {
+    "cardRarityType": "rarity_4",
+    "costs": [
+      {
+        "cardRarityType": "rarity_4",
+        "id": 16,
+        "masterRank": 1,
+        "quantity": 2000,
+        "resourceId": 15
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "id": 21,
+        "masterRank": 1,
+        "quantity": 1,
+        "resourceId": 16
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 1,
+        "id": 46,
+        "masterRank": 1,
+        "quantity": 2000,
+        "resourceId": 101
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 1,
+        "id": 51,
+        "masterRank": 1,
+        "quantity": 1,
+        "resourceId": 133
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 2,
+        "id": 76,
+        "masterRank": 1,
+        "quantity": 2000,
+        "resourceId": 102
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 2,
+        "id": 81,
+        "masterRank": 1,
+        "quantity": 1,
+        "resourceId": 134
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 3,
+        "id": 106,
+        "masterRank": 1,
+        "quantity": 2000,
+        "resourceId": 103
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 3,
+        "id": 111,
+        "masterRank": 1,
+        "quantity": 1,
+        "resourceId": 135
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 4,
+        "id": 136,
+        "masterRank": 1,
+        "quantity": 2000,
+        "resourceId": 104
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 4,
+        "id": 141,
+        "masterRank": 1,
+        "quantity": 1,
+        "resourceId": 136
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 5,
+        "id": 166,
+        "masterRank": 1,
+        "quantity": 2000,
+        "resourceId": 105
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 5,
+        "id": 171,
+        "masterRank": 1,
+        "quantity": 1,
+        "resourceId": 137
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 6,
+        "id": 196,
+        "masterRank": 1,
+        "quantity": 2000,
+        "resourceId": 106
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 6,
+        "id": 201,
+        "masterRank": 1,
+        "quantity": 1,
+        "resourceId": 138
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 7,
+        "id": 226,
+        "masterRank": 1,
+        "quantity": 2000,
+        "resourceId": 107
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 7,
+        "id": 231,
+        "masterRank": 1,
+        "quantity": 1,
+        "resourceId": 139
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 8,
+        "id": 256,
+        "masterRank": 1,
+        "quantity": 2000,
+        "resourceId": 108
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 8,
+        "id": 261,
+        "masterRank": 1,
+        "quantity": 1,
+        "resourceId": 140
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 9,
+        "id": 286,
+        "masterRank": 1,
+        "quantity": 2000,
+        "resourceId": 109
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 9,
+        "id": 291,
+        "masterRank": 1,
+        "quantity": 1,
+        "resourceId": 141
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 10,
+        "id": 316,
+        "masterRank": 1,
+        "quantity": 2000,
+        "resourceId": 110
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 10,
+        "id": 321,
+        "masterRank": 1,
+        "quantity": 1,
+        "resourceId": 142
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 11,
+        "id": 346,
+        "masterRank": 1,
+        "quantity": 2000,
+        "resourceId": 111
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 11,
+        "id": 351,
+        "masterRank": 1,
+        "quantity": 1,
+        "resourceId": 143
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 12,
+        "id": 376,
+        "masterRank": 1,
+        "quantity": 2000,
+        "resourceId": 112
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 12,
+        "id": 381,
+        "masterRank": 1,
+        "quantity": 1,
+        "resourceId": 144
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 13,
+        "id": 406,
+        "masterRank": 1,
+        "quantity": 2000,
+        "resourceId": 113
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 13,
+        "id": 411,
+        "masterRank": 1,
+        "quantity": 1,
+        "resourceId": 145
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 14,
+        "id": 436,
+        "masterRank": 1,
+        "quantity": 2000,
+        "resourceId": 114
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 14,
+        "id": 441,
+        "masterRank": 1,
+        "quantity": 1,
+        "resourceId": 146
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 15,
+        "id": 466,
+        "masterRank": 1,
+        "quantity": 2000,
+        "resourceId": 115
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 15,
+        "id": 471,
+        "masterRank": 1,
+        "quantity": 1,
+        "resourceId": 147
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 16,
+        "id": 496,
+        "masterRank": 1,
+        "quantity": 2000,
+        "resourceId": 116
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 16,
+        "id": 501,
+        "masterRank": 1,
+        "quantity": 1,
+        "resourceId": 148
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 17,
+        "id": 526,
+        "masterRank": 1,
+        "quantity": 2000,
+        "resourceId": 117
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 17,
+        "id": 531,
+        "masterRank": 1,
+        "quantity": 1,
+        "resourceId": 149
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 18,
+        "id": 556,
+        "masterRank": 1,
+        "quantity": 2000,
+        "resourceId": 118
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 18,
+        "id": 561,
+        "masterRank": 1,
+        "quantity": 1,
+        "resourceId": 150
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 19,
+        "id": 586,
+        "masterRank": 1,
+        "quantity": 2000,
+        "resourceId": 119
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 19,
+        "id": 591,
+        "masterRank": 1,
+        "quantity": 1,
+        "resourceId": 151
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 20,
+        "id": 616,
+        "masterRank": 1,
+        "quantity": 2000,
+        "resourceId": 120
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 20,
+        "id": 621,
+        "masterRank": 1,
+        "quantity": 1,
+        "resourceId": 152
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 21,
+        "id": 646,
+        "masterRank": 1,
+        "quantity": 2000,
+        "resourceId": 121
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 21,
+        "id": 651,
+        "masterRank": 1,
+        "quantity": 1,
+        "resourceId": 153
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 22,
+        "id": 676,
+        "masterRank": 1,
+        "quantity": 2000,
+        "resourceId": 122
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 22,
+        "id": 681,
+        "masterRank": 1,
+        "quantity": 1,
+        "resourceId": 154
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 23,
+        "id": 706,
+        "masterRank": 1,
+        "quantity": 2000,
+        "resourceId": 123
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 23,
+        "id": 711,
+        "masterRank": 1,
+        "quantity": 1,
+        "resourceId": 155
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 24,
+        "id": 736,
+        "masterRank": 1,
+        "quantity": 2000,
+        "resourceId": 124
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 24,
+        "id": 741,
+        "masterRank": 1,
+        "quantity": 1,
+        "resourceId": 156
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 25,
+        "id": 766,
+        "masterRank": 1,
+        "quantity": 2000,
+        "resourceId": 125
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 25,
+        "id": 771,
+        "masterRank": 1,
+        "quantity": 1,
+        "resourceId": 157
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 26,
+        "id": 796,
+        "masterRank": 1,
+        "quantity": 2000,
+        "resourceId": 126
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 26,
+        "id": 801,
+        "masterRank": 1,
+        "quantity": 1,
+        "resourceId": 158
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "id": 826,
+        "masterRank": 1,
+        "quantity": 2000,
+        "resourceId": 127,
+        "unit": "light_sound"
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "id": 831,
+        "masterRank": 1,
+        "quantity": 1,
+        "resourceId": 159,
+        "unit": "light_sound"
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "id": 856,
+        "masterRank": 1,
+        "quantity": 2000,
+        "resourceId": 128,
+        "unit": "idol"
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "id": 861,
+        "masterRank": 1,
+        "quantity": 1,
+        "resourceId": 160,
+        "unit": "idol"
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "id": 886,
+        "masterRank": 1,
+        "quantity": 2000,
+        "resourceId": 129,
+        "unit": "street"
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "id": 891,
+        "masterRank": 1,
+        "quantity": 1,
+        "resourceId": 161,
+        "unit": "street"
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "id": 916,
+        "masterRank": 1,
+        "quantity": 2000,
+        "resourceId": 130,
+        "unit": "theme_park"
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "id": 921,
+        "masterRank": 1,
+        "quantity": 1,
+        "resourceId": 162,
+        "unit": "theme_park"
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "id": 946,
+        "masterRank": 1,
+        "quantity": 2000,
+        "resourceId": 131,
+        "unit": "school_refusal"
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "id": 951,
+        "masterRank": 1,
+        "quantity": 1,
+        "resourceId": 163,
+        "unit": "school_refusal"
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "id": 976,
+        "masterRank": 1,
+        "quantity": 2000,
+        "resourceId": 132,
+        "unit": "piapro"
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "id": 981,
+        "masterRank": 1,
+        "quantity": 1,
+        "resourceId": 164,
+        "unit": "piapro"
+      }
+    ],
+    "masterRank": 1,
+    "power1BonusFixed": 200,
+    "power2BonusFixed": 200,
+    "power3BonusFixed": 200
+  },
+  {
+    "cardRarityType": "rarity_4",
+    "costs": [
+      {
+        "cardRarityType": "rarity_4",
+        "id": 17,
+        "masterRank": 2,
+        "quantity": 2000,
+        "resourceId": 15
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "id": 22,
+        "masterRank": 2,
+        "quantity": 1,
+        "resourceId": 16
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 1,
+        "id": 47,
+        "masterRank": 2,
+        "quantity": 2000,
+        "resourceId": 101
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 1,
+        "id": 52,
+        "masterRank": 2,
+        "quantity": 1,
+        "resourceId": 133
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 2,
+        "id": 77,
+        "masterRank": 2,
+        "quantity": 2000,
+        "resourceId": 102
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 2,
+        "id": 82,
+        "masterRank": 2,
+        "quantity": 1,
+        "resourceId": 134
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 3,
+        "id": 107,
+        "masterRank": 2,
+        "quantity": 2000,
+        "resourceId": 103
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 3,
+        "id": 112,
+        "masterRank": 2,
+        "quantity": 1,
+        "resourceId": 135
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 4,
+        "id": 137,
+        "masterRank": 2,
+        "quantity": 2000,
+        "resourceId": 104
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 4,
+        "id": 142,
+        "masterRank": 2,
+        "quantity": 1,
+        "resourceId": 136
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 5,
+        "id": 167,
+        "masterRank": 2,
+        "quantity": 2000,
+        "resourceId": 105
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 5,
+        "id": 172,
+        "masterRank": 2,
+        "quantity": 1,
+        "resourceId": 137
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 6,
+        "id": 197,
+        "masterRank": 2,
+        "quantity": 2000,
+        "resourceId": 106
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 6,
+        "id": 202,
+        "masterRank": 2,
+        "quantity": 1,
+        "resourceId": 138
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 7,
+        "id": 227,
+        "masterRank": 2,
+        "quantity": 2000,
+        "resourceId": 107
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 7,
+        "id": 232,
+        "masterRank": 2,
+        "quantity": 1,
+        "resourceId": 139
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 8,
+        "id": 257,
+        "masterRank": 2,
+        "quantity": 2000,
+        "resourceId": 108
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 8,
+        "id": 262,
+        "masterRank": 2,
+        "quantity": 1,
+        "resourceId": 140
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 9,
+        "id": 287,
+        "masterRank": 2,
+        "quantity": 2000,
+        "resourceId": 109
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 9,
+        "id": 292,
+        "masterRank": 2,
+        "quantity": 1,
+        "resourceId": 141
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 10,
+        "id": 317,
+        "masterRank": 2,
+        "quantity": 2000,
+        "resourceId": 110
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 10,
+        "id": 322,
+        "masterRank": 2,
+        "quantity": 1,
+        "resourceId": 142
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 11,
+        "id": 347,
+        "masterRank": 2,
+        "quantity": 2000,
+        "resourceId": 111
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 11,
+        "id": 352,
+        "masterRank": 2,
+        "quantity": 1,
+        "resourceId": 143
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 12,
+        "id": 377,
+        "masterRank": 2,
+        "quantity": 2000,
+        "resourceId": 112
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 12,
+        "id": 382,
+        "masterRank": 2,
+        "quantity": 1,
+        "resourceId": 144
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 13,
+        "id": 407,
+        "masterRank": 2,
+        "quantity": 2000,
+        "resourceId": 113
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 13,
+        "id": 412,
+        "masterRank": 2,
+        "quantity": 1,
+        "resourceId": 145
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 14,
+        "id": 437,
+        "masterRank": 2,
+        "quantity": 2000,
+        "resourceId": 114
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 14,
+        "id": 442,
+        "masterRank": 2,
+        "quantity": 1,
+        "resourceId": 146
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 15,
+        "id": 467,
+        "masterRank": 2,
+        "quantity": 2000,
+        "resourceId": 115
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 15,
+        "id": 472,
+        "masterRank": 2,
+        "quantity": 1,
+        "resourceId": 147
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 16,
+        "id": 497,
+        "masterRank": 2,
+        "quantity": 2000,
+        "resourceId": 116
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 16,
+        "id": 502,
+        "masterRank": 2,
+        "quantity": 1,
+        "resourceId": 148
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 17,
+        "id": 527,
+        "masterRank": 2,
+        "quantity": 2000,
+        "resourceId": 117
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 17,
+        "id": 532,
+        "masterRank": 2,
+        "quantity": 1,
+        "resourceId": 149
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 18,
+        "id": 557,
+        "masterRank": 2,
+        "quantity": 2000,
+        "resourceId": 118
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 18,
+        "id": 562,
+        "masterRank": 2,
+        "quantity": 1,
+        "resourceId": 150
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 19,
+        "id": 587,
+        "masterRank": 2,
+        "quantity": 2000,
+        "resourceId": 119
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 19,
+        "id": 592,
+        "masterRank": 2,
+        "quantity": 1,
+        "resourceId": 151
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 20,
+        "id": 617,
+        "masterRank": 2,
+        "quantity": 2000,
+        "resourceId": 120
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 20,
+        "id": 622,
+        "masterRank": 2,
+        "quantity": 1,
+        "resourceId": 152
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 21,
+        "id": 647,
+        "masterRank": 2,
+        "quantity": 2000,
+        "resourceId": 121
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 21,
+        "id": 652,
+        "masterRank": 2,
+        "quantity": 1,
+        "resourceId": 153
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 22,
+        "id": 677,
+        "masterRank": 2,
+        "quantity": 2000,
+        "resourceId": 122
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 22,
+        "id": 682,
+        "masterRank": 2,
+        "quantity": 1,
+        "resourceId": 154
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 23,
+        "id": 707,
+        "masterRank": 2,
+        "quantity": 2000,
+        "resourceId": 123
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 23,
+        "id": 712,
+        "masterRank": 2,
+        "quantity": 1,
+        "resourceId": 155
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 24,
+        "id": 737,
+        "masterRank": 2,
+        "quantity": 2000,
+        "resourceId": 124
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 24,
+        "id": 742,
+        "masterRank": 2,
+        "quantity": 1,
+        "resourceId": 156
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 25,
+        "id": 767,
+        "masterRank": 2,
+        "quantity": 2000,
+        "resourceId": 125
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 25,
+        "id": 772,
+        "masterRank": 2,
+        "quantity": 1,
+        "resourceId": 157
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 26,
+        "id": 797,
+        "masterRank": 2,
+        "quantity": 2000,
+        "resourceId": 126
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 26,
+        "id": 802,
+        "masterRank": 2,
+        "quantity": 1,
+        "resourceId": 158
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "id": 827,
+        "masterRank": 2,
+        "quantity": 2000,
+        "resourceId": 127,
+        "unit": "light_sound"
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "id": 832,
+        "masterRank": 2,
+        "quantity": 1,
+        "resourceId": 159,
+        "unit": "light_sound"
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "id": 857,
+        "masterRank": 2,
+        "quantity": 2000,
+        "resourceId": 128,
+        "unit": "idol"
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "id": 862,
+        "masterRank": 2,
+        "quantity": 1,
+        "resourceId": 160,
+        "unit": "idol"
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "id": 887,
+        "masterRank": 2,
+        "quantity": 2000,
+        "resourceId": 129,
+        "unit": "street"
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "id": 892,
+        "masterRank": 2,
+        "quantity": 1,
+        "resourceId": 161,
+        "unit": "street"
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "id": 917,
+        "masterRank": 2,
+        "quantity": 2000,
+        "resourceId": 130,
+        "unit": "theme_park"
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "id": 922,
+        "masterRank": 2,
+        "quantity": 1,
+        "resourceId": 162,
+        "unit": "theme_park"
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "id": 947,
+        "masterRank": 2,
+        "quantity": 2000,
+        "resourceId": 131,
+        "unit": "school_refusal"
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "id": 952,
+        "masterRank": 2,
+        "quantity": 1,
+        "resourceId": 163,
+        "unit": "school_refusal"
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "id": 977,
+        "masterRank": 2,
+        "quantity": 2000,
+        "resourceId": 132,
+        "unit": "piapro"
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "id": 982,
+        "masterRank": 2,
+        "quantity": 1,
+        "resourceId": 164,
+        "unit": "piapro"
+      }
+    ],
+    "masterRank": 2,
+    "power1BonusFixed": 200,
+    "power2BonusFixed": 200,
+    "power3BonusFixed": 200
+  },
+  {
+    "cardRarityType": "rarity_4",
+    "costs": [
+      {
+        "cardRarityType": "rarity_4",
+        "id": 18,
+        "masterRank": 3,
+        "quantity": 2000,
+        "resourceId": 15
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "id": 23,
+        "masterRank": 3,
+        "quantity": 1,
+        "resourceId": 16
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 1,
+        "id": 48,
+        "masterRank": 3,
+        "quantity": 2000,
+        "resourceId": 101
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 1,
+        "id": 53,
+        "masterRank": 3,
+        "quantity": 1,
+        "resourceId": 133
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 2,
+        "id": 78,
+        "masterRank": 3,
+        "quantity": 2000,
+        "resourceId": 102
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 2,
+        "id": 83,
+        "masterRank": 3,
+        "quantity": 1,
+        "resourceId": 134
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 3,
+        "id": 108,
+        "masterRank": 3,
+        "quantity": 2000,
+        "resourceId": 103
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 3,
+        "id": 113,
+        "masterRank": 3,
+        "quantity": 1,
+        "resourceId": 135
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 4,
+        "id": 138,
+        "masterRank": 3,
+        "quantity": 2000,
+        "resourceId": 104
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 4,
+        "id": 143,
+        "masterRank": 3,
+        "quantity": 1,
+        "resourceId": 136
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 5,
+        "id": 168,
+        "masterRank": 3,
+        "quantity": 2000,
+        "resourceId": 105
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 5,
+        "id": 173,
+        "masterRank": 3,
+        "quantity": 1,
+        "resourceId": 137
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 6,
+        "id": 198,
+        "masterRank": 3,
+        "quantity": 2000,
+        "resourceId": 106
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 6,
+        "id": 203,
+        "masterRank": 3,
+        "quantity": 1,
+        "resourceId": 138
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 7,
+        "id": 228,
+        "masterRank": 3,
+        "quantity": 2000,
+        "resourceId": 107
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 7,
+        "id": 233,
+        "masterRank": 3,
+        "quantity": 1,
+        "resourceId": 139
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 8,
+        "id": 258,
+        "masterRank": 3,
+        "quantity": 2000,
+        "resourceId": 108
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 8,
+        "id": 263,
+        "masterRank": 3,
+        "quantity": 1,
+        "resourceId": 140
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 9,
+        "id": 288,
+        "masterRank": 3,
+        "quantity": 2000,
+        "resourceId": 109
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 9,
+        "id": 293,
+        "masterRank": 3,
+        "quantity": 1,
+        "resourceId": 141
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 10,
+        "id": 318,
+        "masterRank": 3,
+        "quantity": 2000,
+        "resourceId": 110
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 10,
+        "id": 323,
+        "masterRank": 3,
+        "quantity": 1,
+        "resourceId": 142
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 11,
+        "id": 348,
+        "masterRank": 3,
+        "quantity": 2000,
+        "resourceId": 111
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 11,
+        "id": 353,
+        "masterRank": 3,
+        "quantity": 1,
+        "resourceId": 143
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 12,
+        "id": 378,
+        "masterRank": 3,
+        "quantity": 2000,
+        "resourceId": 112
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 12,
+        "id": 383,
+        "masterRank": 3,
+        "quantity": 1,
+        "resourceId": 144
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 13,
+        "id": 408,
+        "masterRank": 3,
+        "quantity": 2000,
+        "resourceId": 113
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 13,
+        "id": 413,
+        "masterRank": 3,
+        "quantity": 1,
+        "resourceId": 145
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 14,
+        "id": 438,
+        "masterRank": 3,
+        "quantity": 2000,
+        "resourceId": 114
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 14,
+        "id": 443,
+        "masterRank": 3,
+        "quantity": 1,
+        "resourceId": 146
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 15,
+        "id": 468,
+        "masterRank": 3,
+        "quantity": 2000,
+        "resourceId": 115
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 15,
+        "id": 473,
+        "masterRank": 3,
+        "quantity": 1,
+        "resourceId": 147
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 16,
+        "id": 498,
+        "masterRank": 3,
+        "quantity": 2000,
+        "resourceId": 116
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 16,
+        "id": 503,
+        "masterRank": 3,
+        "quantity": 1,
+        "resourceId": 148
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 17,
+        "id": 528,
+        "masterRank": 3,
+        "quantity": 2000,
+        "resourceId": 117
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 17,
+        "id": 533,
+        "masterRank": 3,
+        "quantity": 1,
+        "resourceId": 149
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 18,
+        "id": 558,
+        "masterRank": 3,
+        "quantity": 2000,
+        "resourceId": 118
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 18,
+        "id": 563,
+        "masterRank": 3,
+        "quantity": 1,
+        "resourceId": 150
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 19,
+        "id": 588,
+        "masterRank": 3,
+        "quantity": 2000,
+        "resourceId": 119
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 19,
+        "id": 593,
+        "masterRank": 3,
+        "quantity": 1,
+        "resourceId": 151
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 20,
+        "id": 618,
+        "masterRank": 3,
+        "quantity": 2000,
+        "resourceId": 120
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 20,
+        "id": 623,
+        "masterRank": 3,
+        "quantity": 1,
+        "resourceId": 152
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 21,
+        "id": 648,
+        "masterRank": 3,
+        "quantity": 2000,
+        "resourceId": 121
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 21,
+        "id": 653,
+        "masterRank": 3,
+        "quantity": 1,
+        "resourceId": 153
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 22,
+        "id": 678,
+        "masterRank": 3,
+        "quantity": 2000,
+        "resourceId": 122
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 22,
+        "id": 683,
+        "masterRank": 3,
+        "quantity": 1,
+        "resourceId": 154
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 23,
+        "id": 708,
+        "masterRank": 3,
+        "quantity": 2000,
+        "resourceId": 123
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 23,
+        "id": 713,
+        "masterRank": 3,
+        "quantity": 1,
+        "resourceId": 155
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 24,
+        "id": 738,
+        "masterRank": 3,
+        "quantity": 2000,
+        "resourceId": 124
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 24,
+        "id": 743,
+        "masterRank": 3,
+        "quantity": 1,
+        "resourceId": 156
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 25,
+        "id": 768,
+        "masterRank": 3,
+        "quantity": 2000,
+        "resourceId": 125
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 25,
+        "id": 773,
+        "masterRank": 3,
+        "quantity": 1,
+        "resourceId": 157
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 26,
+        "id": 798,
+        "masterRank": 3,
+        "quantity": 2000,
+        "resourceId": 126
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 26,
+        "id": 803,
+        "masterRank": 3,
+        "quantity": 1,
+        "resourceId": 158
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "id": 828,
+        "masterRank": 3,
+        "quantity": 2000,
+        "resourceId": 127,
+        "unit": "light_sound"
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "id": 833,
+        "masterRank": 3,
+        "quantity": 1,
+        "resourceId": 159,
+        "unit": "light_sound"
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "id": 858,
+        "masterRank": 3,
+        "quantity": 2000,
+        "resourceId": 128,
+        "unit": "idol"
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "id": 863,
+        "masterRank": 3,
+        "quantity": 1,
+        "resourceId": 160,
+        "unit": "idol"
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "id": 888,
+        "masterRank": 3,
+        "quantity": 2000,
+        "resourceId": 129,
+        "unit": "street"
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "id": 893,
+        "masterRank": 3,
+        "quantity": 1,
+        "resourceId": 161,
+        "unit": "street"
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "id": 918,
+        "masterRank": 3,
+        "quantity": 2000,
+        "resourceId": 130,
+        "unit": "theme_park"
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "id": 923,
+        "masterRank": 3,
+        "quantity": 1,
+        "resourceId": 162,
+        "unit": "theme_park"
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "id": 948,
+        "masterRank": 3,
+        "quantity": 2000,
+        "resourceId": 131,
+        "unit": "school_refusal"
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "id": 953,
+        "masterRank": 3,
+        "quantity": 1,
+        "resourceId": 163,
+        "unit": "school_refusal"
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "id": 978,
+        "masterRank": 3,
+        "quantity": 2000,
+        "resourceId": 132,
+        "unit": "piapro"
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "id": 983,
+        "masterRank": 3,
+        "quantity": 1,
+        "resourceId": 164,
+        "unit": "piapro"
+      }
+    ],
+    "masterRank": 3,
+    "power1BonusFixed": 200,
+    "power2BonusFixed": 200,
+    "power3BonusFixed": 200
+  },
+  {
+    "cardRarityType": "rarity_4",
+    "costs": [
+      {
+        "cardRarityType": "rarity_4",
+        "id": 19,
+        "masterRank": 4,
+        "quantity": 2000,
+        "resourceId": 15
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "id": 24,
+        "masterRank": 4,
+        "quantity": 1,
+        "resourceId": 16
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 1,
+        "id": 49,
+        "masterRank": 4,
+        "quantity": 2000,
+        "resourceId": 101
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 1,
+        "id": 54,
+        "masterRank": 4,
+        "quantity": 1,
+        "resourceId": 133
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 2,
+        "id": 79,
+        "masterRank": 4,
+        "quantity": 2000,
+        "resourceId": 102
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 2,
+        "id": 84,
+        "masterRank": 4,
+        "quantity": 1,
+        "resourceId": 134
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 3,
+        "id": 109,
+        "masterRank": 4,
+        "quantity": 2000,
+        "resourceId": 103
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 3,
+        "id": 114,
+        "masterRank": 4,
+        "quantity": 1,
+        "resourceId": 135
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 4,
+        "id": 139,
+        "masterRank": 4,
+        "quantity": 2000,
+        "resourceId": 104
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 4,
+        "id": 144,
+        "masterRank": 4,
+        "quantity": 1,
+        "resourceId": 136
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 5,
+        "id": 169,
+        "masterRank": 4,
+        "quantity": 2000,
+        "resourceId": 105
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 5,
+        "id": 174,
+        "masterRank": 4,
+        "quantity": 1,
+        "resourceId": 137
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 6,
+        "id": 199,
+        "masterRank": 4,
+        "quantity": 2000,
+        "resourceId": 106
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 6,
+        "id": 204,
+        "masterRank": 4,
+        "quantity": 1,
+        "resourceId": 138
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 7,
+        "id": 229,
+        "masterRank": 4,
+        "quantity": 2000,
+        "resourceId": 107
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 7,
+        "id": 234,
+        "masterRank": 4,
+        "quantity": 1,
+        "resourceId": 139
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 8,
+        "id": 259,
+        "masterRank": 4,
+        "quantity": 2000,
+        "resourceId": 108
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 8,
+        "id": 264,
+        "masterRank": 4,
+        "quantity": 1,
+        "resourceId": 140
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 9,
+        "id": 289,
+        "masterRank": 4,
+        "quantity": 2000,
+        "resourceId": 109
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 9,
+        "id": 294,
+        "masterRank": 4,
+        "quantity": 1,
+        "resourceId": 141
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 10,
+        "id": 319,
+        "masterRank": 4,
+        "quantity": 2000,
+        "resourceId": 110
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 10,
+        "id": 324,
+        "masterRank": 4,
+        "quantity": 1,
+        "resourceId": 142
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 11,
+        "id": 349,
+        "masterRank": 4,
+        "quantity": 2000,
+        "resourceId": 111
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 11,
+        "id": 354,
+        "masterRank": 4,
+        "quantity": 1,
+        "resourceId": 143
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 12,
+        "id": 379,
+        "masterRank": 4,
+        "quantity": 2000,
+        "resourceId": 112
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 12,
+        "id": 384,
+        "masterRank": 4,
+        "quantity": 1,
+        "resourceId": 144
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 13,
+        "id": 409,
+        "masterRank": 4,
+        "quantity": 2000,
+        "resourceId": 113
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 13,
+        "id": 414,
+        "masterRank": 4,
+        "quantity": 1,
+        "resourceId": 145
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 14,
+        "id": 439,
+        "masterRank": 4,
+        "quantity": 2000,
+        "resourceId": 114
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 14,
+        "id": 444,
+        "masterRank": 4,
+        "quantity": 1,
+        "resourceId": 146
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 15,
+        "id": 469,
+        "masterRank": 4,
+        "quantity": 2000,
+        "resourceId": 115
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 15,
+        "id": 474,
+        "masterRank": 4,
+        "quantity": 1,
+        "resourceId": 147
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 16,
+        "id": 499,
+        "masterRank": 4,
+        "quantity": 2000,
+        "resourceId": 116
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 16,
+        "id": 504,
+        "masterRank": 4,
+        "quantity": 1,
+        "resourceId": 148
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 17,
+        "id": 529,
+        "masterRank": 4,
+        "quantity": 2000,
+        "resourceId": 117
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 17,
+        "id": 534,
+        "masterRank": 4,
+        "quantity": 1,
+        "resourceId": 149
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 18,
+        "id": 559,
+        "masterRank": 4,
+        "quantity": 2000,
+        "resourceId": 118
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 18,
+        "id": 564,
+        "masterRank": 4,
+        "quantity": 1,
+        "resourceId": 150
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 19,
+        "id": 589,
+        "masterRank": 4,
+        "quantity": 2000,
+        "resourceId": 119
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 19,
+        "id": 594,
+        "masterRank": 4,
+        "quantity": 1,
+        "resourceId": 151
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 20,
+        "id": 619,
+        "masterRank": 4,
+        "quantity": 2000,
+        "resourceId": 120
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 20,
+        "id": 624,
+        "masterRank": 4,
+        "quantity": 1,
+        "resourceId": 152
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 21,
+        "id": 649,
+        "masterRank": 4,
+        "quantity": 2000,
+        "resourceId": 121
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 21,
+        "id": 654,
+        "masterRank": 4,
+        "quantity": 1,
+        "resourceId": 153
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 22,
+        "id": 679,
+        "masterRank": 4,
+        "quantity": 2000,
+        "resourceId": 122
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 22,
+        "id": 684,
+        "masterRank": 4,
+        "quantity": 1,
+        "resourceId": 154
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 23,
+        "id": 709,
+        "masterRank": 4,
+        "quantity": 2000,
+        "resourceId": 123
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 23,
+        "id": 714,
+        "masterRank": 4,
+        "quantity": 1,
+        "resourceId": 155
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 24,
+        "id": 739,
+        "masterRank": 4,
+        "quantity": 2000,
+        "resourceId": 124
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 24,
+        "id": 744,
+        "masterRank": 4,
+        "quantity": 1,
+        "resourceId": 156
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 25,
+        "id": 769,
+        "masterRank": 4,
+        "quantity": 2000,
+        "resourceId": 125
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 25,
+        "id": 774,
+        "masterRank": 4,
+        "quantity": 1,
+        "resourceId": 157
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 26,
+        "id": 799,
+        "masterRank": 4,
+        "quantity": 2000,
+        "resourceId": 126
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 26,
+        "id": 804,
+        "masterRank": 4,
+        "quantity": 1,
+        "resourceId": 158
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "id": 829,
+        "masterRank": 4,
+        "quantity": 2000,
+        "resourceId": 127,
+        "unit": "light_sound"
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "id": 834,
+        "masterRank": 4,
+        "quantity": 1,
+        "resourceId": 159,
+        "unit": "light_sound"
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "id": 859,
+        "masterRank": 4,
+        "quantity": 2000,
+        "resourceId": 128,
+        "unit": "idol"
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "id": 864,
+        "masterRank": 4,
+        "quantity": 1,
+        "resourceId": 160,
+        "unit": "idol"
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "id": 889,
+        "masterRank": 4,
+        "quantity": 2000,
+        "resourceId": 129,
+        "unit": "street"
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "id": 894,
+        "masterRank": 4,
+        "quantity": 1,
+        "resourceId": 161,
+        "unit": "street"
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "id": 919,
+        "masterRank": 4,
+        "quantity": 2000,
+        "resourceId": 130,
+        "unit": "theme_park"
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "id": 924,
+        "masterRank": 4,
+        "quantity": 1,
+        "resourceId": 162,
+        "unit": "theme_park"
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "id": 949,
+        "masterRank": 4,
+        "quantity": 2000,
+        "resourceId": 131,
+        "unit": "school_refusal"
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "id": 954,
+        "masterRank": 4,
+        "quantity": 1,
+        "resourceId": 163,
+        "unit": "school_refusal"
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "id": 979,
+        "masterRank": 4,
+        "quantity": 2000,
+        "resourceId": 132,
+        "unit": "piapro"
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "id": 984,
+        "masterRank": 4,
+        "quantity": 1,
+        "resourceId": 164,
+        "unit": "piapro"
+      }
+    ],
+    "masterRank": 4,
+    "power1BonusFixed": 200,
+    "power2BonusFixed": 200,
+    "power3BonusFixed": 200
+  },
+  {
+    "cardRarityType": "rarity_4",
+    "costs": [
+      {
+        "cardRarityType": "rarity_4",
+        "id": 20,
+        "masterRank": 5,
+        "quantity": 2000,
+        "resourceId": 15
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "id": 25,
+        "masterRank": 5,
+        "quantity": 1,
+        "resourceId": 16
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 1,
+        "id": 50,
+        "masterRank": 5,
+        "quantity": 2000,
+        "resourceId": 101
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 1,
+        "id": 55,
+        "masterRank": 5,
+        "quantity": 1,
+        "resourceId": 133
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 2,
+        "id": 80,
+        "masterRank": 5,
+        "quantity": 2000,
+        "resourceId": 102
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 2,
+        "id": 85,
+        "masterRank": 5,
+        "quantity": 1,
+        "resourceId": 134
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 3,
+        "id": 110,
+        "masterRank": 5,
+        "quantity": 2000,
+        "resourceId": 103
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 3,
+        "id": 115,
+        "masterRank": 5,
+        "quantity": 1,
+        "resourceId": 135
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 4,
+        "id": 140,
+        "masterRank": 5,
+        "quantity": 2000,
+        "resourceId": 104
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 4,
+        "id": 145,
+        "masterRank": 5,
+        "quantity": 1,
+        "resourceId": 136
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 5,
+        "id": 170,
+        "masterRank": 5,
+        "quantity": 2000,
+        "resourceId": 105
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 5,
+        "id": 175,
+        "masterRank": 5,
+        "quantity": 1,
+        "resourceId": 137
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 6,
+        "id": 200,
+        "masterRank": 5,
+        "quantity": 2000,
+        "resourceId": 106
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 6,
+        "id": 205,
+        "masterRank": 5,
+        "quantity": 1,
+        "resourceId": 138
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 7,
+        "id": 230,
+        "masterRank": 5,
+        "quantity": 2000,
+        "resourceId": 107
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 7,
+        "id": 235,
+        "masterRank": 5,
+        "quantity": 1,
+        "resourceId": 139
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 8,
+        "id": 260,
+        "masterRank": 5,
+        "quantity": 2000,
+        "resourceId": 108
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 8,
+        "id": 265,
+        "masterRank": 5,
+        "quantity": 1,
+        "resourceId": 140
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 9,
+        "id": 290,
+        "masterRank": 5,
+        "quantity": 2000,
+        "resourceId": 109
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 9,
+        "id": 295,
+        "masterRank": 5,
+        "quantity": 1,
+        "resourceId": 141
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 10,
+        "id": 320,
+        "masterRank": 5,
+        "quantity": 2000,
+        "resourceId": 110
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 10,
+        "id": 325,
+        "masterRank": 5,
+        "quantity": 1,
+        "resourceId": 142
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 11,
+        "id": 350,
+        "masterRank": 5,
+        "quantity": 2000,
+        "resourceId": 111
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 11,
+        "id": 355,
+        "masterRank": 5,
+        "quantity": 1,
+        "resourceId": 143
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 12,
+        "id": 380,
+        "masterRank": 5,
+        "quantity": 2000,
+        "resourceId": 112
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 12,
+        "id": 385,
+        "masterRank": 5,
+        "quantity": 1,
+        "resourceId": 144
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 13,
+        "id": 410,
+        "masterRank": 5,
+        "quantity": 2000,
+        "resourceId": 113
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 13,
+        "id": 415,
+        "masterRank": 5,
+        "quantity": 1,
+        "resourceId": 145
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 14,
+        "id": 440,
+        "masterRank": 5,
+        "quantity": 2000,
+        "resourceId": 114
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 14,
+        "id": 445,
+        "masterRank": 5,
+        "quantity": 1,
+        "resourceId": 146
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 15,
+        "id": 470,
+        "masterRank": 5,
+        "quantity": 2000,
+        "resourceId": 115
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 15,
+        "id": 475,
+        "masterRank": 5,
+        "quantity": 1,
+        "resourceId": 147
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 16,
+        "id": 500,
+        "masterRank": 5,
+        "quantity": 2000,
+        "resourceId": 116
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 16,
+        "id": 505,
+        "masterRank": 5,
+        "quantity": 1,
+        "resourceId": 148
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 17,
+        "id": 530,
+        "masterRank": 5,
+        "quantity": 2000,
+        "resourceId": 117
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 17,
+        "id": 535,
+        "masterRank": 5,
+        "quantity": 1,
+        "resourceId": 149
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 18,
+        "id": 560,
+        "masterRank": 5,
+        "quantity": 2000,
+        "resourceId": 118
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 18,
+        "id": 565,
+        "masterRank": 5,
+        "quantity": 1,
+        "resourceId": 150
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 19,
+        "id": 590,
+        "masterRank": 5,
+        "quantity": 2000,
+        "resourceId": 119
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 19,
+        "id": 595,
+        "masterRank": 5,
+        "quantity": 1,
+        "resourceId": 151
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 20,
+        "id": 620,
+        "masterRank": 5,
+        "quantity": 2000,
+        "resourceId": 120
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 20,
+        "id": 625,
+        "masterRank": 5,
+        "quantity": 1,
+        "resourceId": 152
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 21,
+        "id": 650,
+        "masterRank": 5,
+        "quantity": 2000,
+        "resourceId": 121
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 21,
+        "id": 655,
+        "masterRank": 5,
+        "quantity": 1,
+        "resourceId": 153
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 22,
+        "id": 680,
+        "masterRank": 5,
+        "quantity": 2000,
+        "resourceId": 122
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 22,
+        "id": 685,
+        "masterRank": 5,
+        "quantity": 1,
+        "resourceId": 154
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 23,
+        "id": 710,
+        "masterRank": 5,
+        "quantity": 2000,
+        "resourceId": 123
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 23,
+        "id": 715,
+        "masterRank": 5,
+        "quantity": 1,
+        "resourceId": 155
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 24,
+        "id": 740,
+        "masterRank": 5,
+        "quantity": 2000,
+        "resourceId": 124
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 24,
+        "id": 745,
+        "masterRank": 5,
+        "quantity": 1,
+        "resourceId": 156
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 25,
+        "id": 770,
+        "masterRank": 5,
+        "quantity": 2000,
+        "resourceId": 125
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 25,
+        "id": 775,
+        "masterRank": 5,
+        "quantity": 1,
+        "resourceId": 157
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 26,
+        "id": 800,
+        "masterRank": 5,
+        "quantity": 2000,
+        "resourceId": 126
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "characterId": 26,
+        "id": 805,
+        "masterRank": 5,
+        "quantity": 1,
+        "resourceId": 158
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "id": 830,
+        "masterRank": 5,
+        "quantity": 2000,
+        "resourceId": 127,
+        "unit": "light_sound"
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "id": 835,
+        "masterRank": 5,
+        "quantity": 1,
+        "resourceId": 159,
+        "unit": "light_sound"
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "id": 860,
+        "masterRank": 5,
+        "quantity": 2000,
+        "resourceId": 128,
+        "unit": "idol"
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "id": 865,
+        "masterRank": 5,
+        "quantity": 1,
+        "resourceId": 160,
+        "unit": "idol"
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "id": 890,
+        "masterRank": 5,
+        "quantity": 2000,
+        "resourceId": 129,
+        "unit": "street"
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "id": 895,
+        "masterRank": 5,
+        "quantity": 1,
+        "resourceId": 161,
+        "unit": "street"
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "id": 920,
+        "masterRank": 5,
+        "quantity": 2000,
+        "resourceId": 130,
+        "unit": "theme_park"
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "id": 925,
+        "masterRank": 5,
+        "quantity": 1,
+        "resourceId": 162,
+        "unit": "theme_park"
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "id": 950,
+        "masterRank": 5,
+        "quantity": 2000,
+        "resourceId": 131,
+        "unit": "school_refusal"
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "id": 955,
+        "masterRank": 5,
+        "quantity": 1,
+        "resourceId": 163,
+        "unit": "school_refusal"
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "id": 980,
+        "masterRank": 5,
+        "quantity": 2000,
+        "resourceId": 132,
+        "unit": "piapro"
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "id": 985,
+        "masterRank": 5,
+        "quantity": 1,
+        "resourceId": 164,
+        "unit": "piapro"
+      }
+    ],
+    "masterRank": 5,
+    "power1BonusFixed": 200,
+    "power2BonusFixed": 200,
+    "power3BonusFixed": 200
+  },
+  {
+    "cardRarityType": "rarity_birthday",
+    "costs": [
+      {
+        "cardRarityType": "rarity_birthday",
+        "id": 26,
+        "masterRank": 1,
+        "quantity": 1000,
+        "resourceId": 15
+      },
+      {
+        "cardRarityType": "rarity_birthday",
+        "characterId": 1,
+        "id": 56,
+        "masterRank": 1,
+        "quantity": 1000,
+        "resourceId": 101
+      },
+      {
+        "cardRarityType": "rarity_birthday",
+        "characterId": 2,
+        "id": 86,
+        "masterRank": 1,
+        "quantity": 1000,
+        "resourceId": 102
+      },
+      {
+        "cardRarityType": "rarity_birthday",
+        "characterId": 3,
+        "id": 116,
+        "masterRank": 1,
+        "quantity": 1000,
+        "resourceId": 103
+      },
+      {
+        "cardRarityType": "rarity_birthday",
+        "characterId": 4,
+        "id": 146,
+        "masterRank": 1,
+        "quantity": 1000,
+        "resourceId": 104
+      },
+      {
+        "cardRarityType": "rarity_birthday",
+        "characterId": 5,
+        "id": 176,
+        "masterRank": 1,
+        "quantity": 1000,
+        "resourceId": 105
+      },
+      {
+        "cardRarityType": "rarity_birthday",
+        "characterId": 6,
+        "id": 206,
+        "masterRank": 1,
+        "quantity": 1000,
+        "resourceId": 106
+      },
+      {
+        "cardRarityType": "rarity_birthday",
+        "characterId": 7,
+        "id": 236,
+        "masterRank": 1,
+        "quantity": 1000,
+        "resourceId": 107
+      },
+      {
+        "cardRarityType": "rarity_birthday",
+        "characterId": 8,
+        "id": 266,
+        "masterRank": 1,
+        "quantity": 1000,
+        "resourceId": 108
+      },
+      {
+        "cardRarityType": "rarity_birthday",
+        "characterId": 9,
+        "id": 296,
+        "masterRank": 1,
+        "quantity": 1000,
+        "resourceId": 109
+      },
+      {
+        "cardRarityType": "rarity_birthday",
+        "characterId": 10,
+        "id": 326,
+        "masterRank": 1,
+        "quantity": 1000,
+        "resourceId": 110
+      },
+      {
+        "cardRarityType": "rarity_birthday",
+        "characterId": 11,
+        "id": 356,
+        "masterRank": 1,
+        "quantity": 1000,
+        "resourceId": 111
+      },
+      {
+        "cardRarityType": "rarity_birthday",
+        "characterId": 12,
+        "id": 386,
+        "masterRank": 1,
+        "quantity": 1000,
+        "resourceId": 112
+      },
+      {
+        "cardRarityType": "rarity_birthday",
+        "characterId": 13,
+        "id": 416,
+        "masterRank": 1,
+        "quantity": 1000,
+        "resourceId": 113
+      },
+      {
+        "cardRarityType": "rarity_birthday",
+        "characterId": 14,
+        "id": 446,
+        "masterRank": 1,
+        "quantity": 1000,
+        "resourceId": 114
+      },
+      {
+        "cardRarityType": "rarity_birthday",
+        "characterId": 15,
+        "id": 476,
+        "masterRank": 1,
+        "quantity": 1000,
+        "resourceId": 115
+      },
+      {
+        "cardRarityType": "rarity_birthday",
+        "characterId": 16,
+        "id": 506,
+        "masterRank": 1,
+        "quantity": 1000,
+        "resourceId": 116
+      },
+      {
+        "cardRarityType": "rarity_birthday",
+        "characterId": 17,
+        "id": 536,
+        "masterRank": 1,
+        "quantity": 1000,
+        "resourceId": 117
+      },
+      {
+        "cardRarityType": "rarity_birthday",
+        "characterId": 18,
+        "id": 566,
+        "masterRank": 1,
+        "quantity": 1000,
+        "resourceId": 118
+      },
+      {
+        "cardRarityType": "rarity_birthday",
+        "characterId": 19,
+        "id": 596,
+        "masterRank": 1,
+        "quantity": 1000,
+        "resourceId": 119
+      },
+      {
+        "cardRarityType": "rarity_birthday",
+        "characterId": 20,
+        "id": 626,
+        "masterRank": 1,
+        "quantity": 1000,
+        "resourceId": 120
+      },
+      {
+        "cardRarityType": "rarity_birthday",
+        "characterId": 21,
+        "id": 656,
+        "masterRank": 1,
+        "quantity": 1000,
+        "resourceId": 121
+      },
+      {
+        "cardRarityType": "rarity_birthday",
+        "characterId": 22,
+        "id": 686,
+        "masterRank": 1,
+        "quantity": 1000,
+        "resourceId": 122
+      },
+      {
+        "cardRarityType": "rarity_birthday",
+        "characterId": 23,
+        "id": 716,
+        "masterRank": 1,
+        "quantity": 1000,
+        "resourceId": 123
+      },
+      {
+        "cardRarityType": "rarity_birthday",
+        "characterId": 24,
+        "id": 746,
+        "masterRank": 1,
+        "quantity": 1000,
+        "resourceId": 124
+      },
+      {
+        "cardRarityType": "rarity_birthday",
+        "characterId": 25,
+        "id": 776,
+        "masterRank": 1,
+        "quantity": 1000,
+        "resourceId": 125
+      },
+      {
+        "cardRarityType": "rarity_birthday",
+        "characterId": 26,
+        "id": 806,
+        "masterRank": 1,
+        "quantity": 1000,
+        "resourceId": 126
+      },
+      {
+        "cardRarityType": "rarity_birthday",
+        "id": 836,
+        "masterRank": 1,
+        "quantity": 1000,
+        "resourceId": 127,
+        "unit": "light_sound"
+      },
+      {
+        "cardRarityType": "rarity_birthday",
+        "id": 866,
+        "masterRank": 1,
+        "quantity": 1000,
+        "resourceId": 128,
+        "unit": "idol"
+      },
+      {
+        "cardRarityType": "rarity_birthday",
+        "id": 896,
+        "masterRank": 1,
+        "quantity": 1000,
+        "resourceId": 129,
+        "unit": "street"
+      },
+      {
+        "cardRarityType": "rarity_birthday",
+        "id": 926,
+        "masterRank": 1,
+        "quantity": 1000,
+        "resourceId": 130,
+        "unit": "theme_park"
+      },
+      {
+        "cardRarityType": "rarity_birthday",
+        "id": 956,
+        "masterRank": 1,
+        "quantity": 1000,
+        "resourceId": 131,
+        "unit": "school_refusal"
+      },
+      {
+        "cardRarityType": "rarity_birthday",
+        "id": 986,
+        "masterRank": 1,
+        "quantity": 1000,
+        "resourceId": 132,
+        "unit": "piapro"
+      }
+    ],
+    "masterRank": 1,
+    "power1BonusFixed": 180,
+    "power2BonusFixed": 180,
+    "power3BonusFixed": 180
+  },
+  {
+    "cardRarityType": "rarity_birthday",
+    "costs": [
+      {
+        "cardRarityType": "rarity_birthday",
+        "id": 27,
+        "masterRank": 2,
+        "quantity": 1000,
+        "resourceId": 15
+      },
+      {
+        "cardRarityType": "rarity_birthday",
+        "characterId": 1,
+        "id": 57,
+        "masterRank": 2,
+        "quantity": 1000,
+        "resourceId": 101
+      },
+      {
+        "cardRarityType": "rarity_birthday",
+        "characterId": 2,
+        "id": 87,
+        "masterRank": 2,
+        "quantity": 1000,
+        "resourceId": 102
+      },
+      {
+        "cardRarityType": "rarity_birthday",
+        "characterId": 3,
+        "id": 117,
+        "masterRank": 2,
+        "quantity": 1000,
+        "resourceId": 103
+      },
+      {
+        "cardRarityType": "rarity_birthday",
+        "characterId": 4,
+        "id": 147,
+        "masterRank": 2,
+        "quantity": 1000,
+        "resourceId": 104
+      },
+      {
+        "cardRarityType": "rarity_birthday",
+        "characterId": 5,
+        "id": 177,
+        "masterRank": 2,
+        "quantity": 1000,
+        "resourceId": 105
+      },
+      {
+        "cardRarityType": "rarity_birthday",
+        "characterId": 6,
+        "id": 207,
+        "masterRank": 2,
+        "quantity": 1000,
+        "resourceId": 106
+      },
+      {
+        "cardRarityType": "rarity_birthday",
+        "characterId": 7,
+        "id": 237,
+        "masterRank": 2,
+        "quantity": 1000,
+        "resourceId": 107
+      },
+      {
+        "cardRarityType": "rarity_birthday",
+        "characterId": 8,
+        "id": 267,
+        "masterRank": 2,
+        "quantity": 1000,
+        "resourceId": 108
+      },
+      {
+        "cardRarityType": "rarity_birthday",
+        "characterId": 9,
+        "id": 297,
+        "masterRank": 2,
+        "quantity": 1000,
+        "resourceId": 109
+      },
+      {
+        "cardRarityType": "rarity_birthday",
+        "characterId": 10,
+        "id": 327,
+        "masterRank": 2,
+        "quantity": 1000,
+        "resourceId": 110
+      },
+      {
+        "cardRarityType": "rarity_birthday",
+        "characterId": 11,
+        "id": 357,
+        "masterRank": 2,
+        "quantity": 1000,
+        "resourceId": 111
+      },
+      {
+        "cardRarityType": "rarity_birthday",
+        "characterId": 12,
+        "id": 387,
+        "masterRank": 2,
+        "quantity": 1000,
+        "resourceId": 112
+      },
+      {
+        "cardRarityType": "rarity_birthday",
+        "characterId": 13,
+        "id": 417,
+        "masterRank": 2,
+        "quantity": 1000,
+        "resourceId": 113
+      },
+      {
+        "cardRarityType": "rarity_birthday",
+        "characterId": 14,
+        "id": 447,
+        "masterRank": 2,
+        "quantity": 1000,
+        "resourceId": 114
+      },
+      {
+        "cardRarityType": "rarity_birthday",
+        "characterId": 15,
+        "id": 477,
+        "masterRank": 2,
+        "quantity": 1000,
+        "resourceId": 115
+      },
+      {
+        "cardRarityType": "rarity_birthday",
+        "characterId": 16,
+        "id": 507,
+        "masterRank": 2,
+        "quantity": 1000,
+        "resourceId": 116
+      },
+      {
+        "cardRarityType": "rarity_birthday",
+        "characterId": 17,
+        "id": 537,
+        "masterRank": 2,
+        "quantity": 1000,
+        "resourceId": 117
+      },
+      {
+        "cardRarityType": "rarity_birthday",
+        "characterId": 18,
+        "id": 567,
+        "masterRank": 2,
+        "quantity": 1000,
+        "resourceId": 118
+      },
+      {
+        "cardRarityType": "rarity_birthday",
+        "characterId": 19,
+        "id": 597,
+        "masterRank": 2,
+        "quantity": 1000,
+        "resourceId": 119
+      },
+      {
+        "cardRarityType": "rarity_birthday",
+        "characterId": 20,
+        "id": 627,
+        "masterRank": 2,
+        "quantity": 1000,
+        "resourceId": 120
+      },
+      {
+        "cardRarityType": "rarity_birthday",
+        "characterId": 21,
+        "id": 657,
+        "masterRank": 2,
+        "quantity": 1000,
+        "resourceId": 121
+      },
+      {
+        "cardRarityType": "rarity_birthday",
+        "characterId": 22,
+        "id": 687,
+        "masterRank": 2,
+        "quantity": 1000,
+        "resourceId": 122
+      },
+      {
+        "cardRarityType": "rarity_birthday",
+        "characterId": 23,
+        "id": 717,
+        "masterRank": 2,
+        "quantity": 1000,
+        "resourceId": 123
+      },
+      {
+        "cardRarityType": "rarity_birthday",
+        "characterId": 24,
+        "id": 747,
+        "masterRank": 2,
+        "quantity": 1000,
+        "resourceId": 124
+      },
+      {
+        "cardRarityType": "rarity_birthday",
+        "characterId": 25,
+        "id": 777,
+        "masterRank": 2,
+        "quantity": 1000,
+        "resourceId": 125
+      },
+      {
+        "cardRarityType": "rarity_birthday",
+        "characterId": 26,
+        "id": 807,
+        "masterRank": 2,
+        "quantity": 1000,
+        "resourceId": 126
+      },
+      {
+        "cardRarityType": "rarity_birthday",
+        "id": 837,
+        "masterRank": 2,
+        "quantity": 1000,
+        "resourceId": 127,
+        "unit": "light_sound"
+      },
+      {
+        "cardRarityType": "rarity_birthday",
+        "id": 867,
+        "masterRank": 2,
+        "quantity": 1000,
+        "resourceId": 128,
+        "unit": "idol"
+      },
+      {
+        "cardRarityType": "rarity_birthday",
+        "id": 897,
+        "masterRank": 2,
+        "quantity": 1000,
+        "resourceId": 129,
+        "unit": "street"
+      },
+      {
+        "cardRarityType": "rarity_birthday",
+        "id": 927,
+        "masterRank": 2,
+        "quantity": 1000,
+        "resourceId": 130,
+        "unit": "theme_park"
+      },
+      {
+        "cardRarityType": "rarity_birthday",
+        "id": 957,
+        "masterRank": 2,
+        "quantity": 1000,
+        "resourceId": 131,
+        "unit": "school_refusal"
+      },
+      {
+        "cardRarityType": "rarity_birthday",
+        "id": 987,
+        "masterRank": 2,
+        "quantity": 1000,
+        "resourceId": 132,
+        "unit": "piapro"
+      }
+    ],
+    "masterRank": 2,
+    "power1BonusFixed": 180,
+    "power2BonusFixed": 180,
+    "power3BonusFixed": 180
+  },
+  {
+    "cardRarityType": "rarity_birthday",
+    "costs": [
+      {
+        "cardRarityType": "rarity_birthday",
+        "id": 28,
+        "masterRank": 3,
+        "quantity": 1000,
+        "resourceId": 15
+      },
+      {
+        "cardRarityType": "rarity_birthday",
+        "characterId": 1,
+        "id": 58,
+        "masterRank": 3,
+        "quantity": 1000,
+        "resourceId": 101
+      },
+      {
+        "cardRarityType": "rarity_birthday",
+        "characterId": 2,
+        "id": 88,
+        "masterRank": 3,
+        "quantity": 1000,
+        "resourceId": 102
+      },
+      {
+        "cardRarityType": "rarity_birthday",
+        "characterId": 3,
+        "id": 118,
+        "masterRank": 3,
+        "quantity": 1000,
+        "resourceId": 103
+      },
+      {
+        "cardRarityType": "rarity_birthday",
+        "characterId": 4,
+        "id": 148,
+        "masterRank": 3,
+        "quantity": 1000,
+        "resourceId": 104
+      },
+      {
+        "cardRarityType": "rarity_birthday",
+        "characterId": 5,
+        "id": 178,
+        "masterRank": 3,
+        "quantity": 1000,
+        "resourceId": 105
+      },
+      {
+        "cardRarityType": "rarity_birthday",
+        "characterId": 6,
+        "id": 208,
+        "masterRank": 3,
+        "quantity": 1000,
+        "resourceId": 106
+      },
+      {
+        "cardRarityType": "rarity_birthday",
+        "characterId": 7,
+        "id": 238,
+        "masterRank": 3,
+        "quantity": 1000,
+        "resourceId": 107
+      },
+      {
+        "cardRarityType": "rarity_birthday",
+        "characterId": 8,
+        "id": 268,
+        "masterRank": 3,
+        "quantity": 1000,
+        "resourceId": 108
+      },
+      {
+        "cardRarityType": "rarity_birthday",
+        "characterId": 9,
+        "id": 298,
+        "masterRank": 3,
+        "quantity": 1000,
+        "resourceId": 109
+      },
+      {
+        "cardRarityType": "rarity_birthday",
+        "characterId": 10,
+        "id": 328,
+        "masterRank": 3,
+        "quantity": 1000,
+        "resourceId": 110
+      },
+      {
+        "cardRarityType": "rarity_birthday",
+        "characterId": 11,
+        "id": 358,
+        "masterRank": 3,
+        "quantity": 1000,
+        "resourceId": 111
+      },
+      {
+        "cardRarityType": "rarity_birthday",
+        "characterId": 12,
+        "id": 388,
+        "masterRank": 3,
+        "quantity": 1000,
+        "resourceId": 112
+      },
+      {
+        "cardRarityType": "rarity_birthday",
+        "characterId": 13,
+        "id": 418,
+        "masterRank": 3,
+        "quantity": 1000,
+        "resourceId": 113
+      },
+      {
+        "cardRarityType": "rarity_birthday",
+        "characterId": 14,
+        "id": 448,
+        "masterRank": 3,
+        "quantity": 1000,
+        "resourceId": 114
+      },
+      {
+        "cardRarityType": "rarity_birthday",
+        "characterId": 15,
+        "id": 478,
+        "masterRank": 3,
+        "quantity": 1000,
+        "resourceId": 115
+      },
+      {
+        "cardRarityType": "rarity_birthday",
+        "characterId": 16,
+        "id": 508,
+        "masterRank": 3,
+        "quantity": 1000,
+        "resourceId": 116
+      },
+      {
+        "cardRarityType": "rarity_birthday",
+        "characterId": 17,
+        "id": 538,
+        "masterRank": 3,
+        "quantity": 1000,
+        "resourceId": 117
+      },
+      {
+        "cardRarityType": "rarity_birthday",
+        "characterId": 18,
+        "id": 568,
+        "masterRank": 3,
+        "quantity": 1000,
+        "resourceId": 118
+      },
+      {
+        "cardRarityType": "rarity_birthday",
+        "characterId": 19,
+        "id": 598,
+        "masterRank": 3,
+        "quantity": 1000,
+        "resourceId": 119
+      },
+      {
+        "cardRarityType": "rarity_birthday",
+        "characterId": 20,
+        "id": 628,
+        "masterRank": 3,
+        "quantity": 1000,
+        "resourceId": 120
+      },
+      {
+        "cardRarityType": "rarity_birthday",
+        "characterId": 21,
+        "id": 658,
+        "masterRank": 3,
+        "quantity": 1000,
+        "resourceId": 121
+      },
+      {
+        "cardRarityType": "rarity_birthday",
+        "characterId": 22,
+        "id": 688,
+        "masterRank": 3,
+        "quantity": 1000,
+        "resourceId": 122
+      },
+      {
+        "cardRarityType": "rarity_birthday",
+        "characterId": 23,
+        "id": 718,
+        "masterRank": 3,
+        "quantity": 1000,
+        "resourceId": 123
+      },
+      {
+        "cardRarityType": "rarity_birthday",
+        "characterId": 24,
+        "id": 748,
+        "masterRank": 3,
+        "quantity": 1000,
+        "resourceId": 124
+      },
+      {
+        "cardRarityType": "rarity_birthday",
+        "characterId": 25,
+        "id": 778,
+        "masterRank": 3,
+        "quantity": 1000,
+        "resourceId": 125
+      },
+      {
+        "cardRarityType": "rarity_birthday",
+        "characterId": 26,
+        "id": 808,
+        "masterRank": 3,
+        "quantity": 1000,
+        "resourceId": 126
+      },
+      {
+        "cardRarityType": "rarity_birthday",
+        "id": 838,
+        "masterRank": 3,
+        "quantity": 1000,
+        "resourceId": 127,
+        "unit": "light_sound"
+      },
+      {
+        "cardRarityType": "rarity_birthday",
+        "id": 868,
+        "masterRank": 3,
+        "quantity": 1000,
+        "resourceId": 128,
+        "unit": "idol"
+      },
+      {
+        "cardRarityType": "rarity_birthday",
+        "id": 898,
+        "masterRank": 3,
+        "quantity": 1000,
+        "resourceId": 129,
+        "unit": "street"
+      },
+      {
+        "cardRarityType": "rarity_birthday",
+        "id": 928,
+        "masterRank": 3,
+        "quantity": 1000,
+        "resourceId": 130,
+        "unit": "theme_park"
+      },
+      {
+        "cardRarityType": "rarity_birthday",
+        "id": 958,
+        "masterRank": 3,
+        "quantity": 1000,
+        "resourceId": 131,
+        "unit": "school_refusal"
+      },
+      {
+        "cardRarityType": "rarity_birthday",
+        "id": 988,
+        "masterRank": 3,
+        "quantity": 1000,
+        "resourceId": 132,
+        "unit": "piapro"
+      }
+    ],
+    "masterRank": 3,
+    "power1BonusFixed": 180,
+    "power2BonusFixed": 180,
+    "power3BonusFixed": 180
+  },
+  {
+    "cardRarityType": "rarity_birthday",
+    "costs": [
+      {
+        "cardRarityType": "rarity_birthday",
+        "id": 29,
+        "masterRank": 4,
+        "quantity": 1000,
+        "resourceId": 15
+      },
+      {
+        "cardRarityType": "rarity_birthday",
+        "characterId": 1,
+        "id": 59,
+        "masterRank": 4,
+        "quantity": 1000,
+        "resourceId": 101
+      },
+      {
+        "cardRarityType": "rarity_birthday",
+        "characterId": 2,
+        "id": 89,
+        "masterRank": 4,
+        "quantity": 1000,
+        "resourceId": 102
+      },
+      {
+        "cardRarityType": "rarity_birthday",
+        "characterId": 3,
+        "id": 119,
+        "masterRank": 4,
+        "quantity": 1000,
+        "resourceId": 103
+      },
+      {
+        "cardRarityType": "rarity_birthday",
+        "characterId": 4,
+        "id": 149,
+        "masterRank": 4,
+        "quantity": 1000,
+        "resourceId": 104
+      },
+      {
+        "cardRarityType": "rarity_birthday",
+        "characterId": 5,
+        "id": 179,
+        "masterRank": 4,
+        "quantity": 1000,
+        "resourceId": 105
+      },
+      {
+        "cardRarityType": "rarity_birthday",
+        "characterId": 6,
+        "id": 209,
+        "masterRank": 4,
+        "quantity": 1000,
+        "resourceId": 106
+      },
+      {
+        "cardRarityType": "rarity_birthday",
+        "characterId": 7,
+        "id": 239,
+        "masterRank": 4,
+        "quantity": 1000,
+        "resourceId": 107
+      },
+      {
+        "cardRarityType": "rarity_birthday",
+        "characterId": 8,
+        "id": 269,
+        "masterRank": 4,
+        "quantity": 1000,
+        "resourceId": 108
+      },
+      {
+        "cardRarityType": "rarity_birthday",
+        "characterId": 9,
+        "id": 299,
+        "masterRank": 4,
+        "quantity": 1000,
+        "resourceId": 109
+      },
+      {
+        "cardRarityType": "rarity_birthday",
+        "characterId": 10,
+        "id": 329,
+        "masterRank": 4,
+        "quantity": 1000,
+        "resourceId": 110
+      },
+      {
+        "cardRarityType": "rarity_birthday",
+        "characterId": 11,
+        "id": 359,
+        "masterRank": 4,
+        "quantity": 1000,
+        "resourceId": 111
+      },
+      {
+        "cardRarityType": "rarity_birthday",
+        "characterId": 12,
+        "id": 389,
+        "masterRank": 4,
+        "quantity": 1000,
+        "resourceId": 112
+      },
+      {
+        "cardRarityType": "rarity_birthday",
+        "characterId": 13,
+        "id": 419,
+        "masterRank": 4,
+        "quantity": 1000,
+        "resourceId": 113
+      },
+      {
+        "cardRarityType": "rarity_birthday",
+        "characterId": 14,
+        "id": 449,
+        "masterRank": 4,
+        "quantity": 1000,
+        "resourceId": 114
+      },
+      {
+        "cardRarityType": "rarity_birthday",
+        "characterId": 15,
+        "id": 479,
+        "masterRank": 4,
+        "quantity": 1000,
+        "resourceId": 115
+      },
+      {
+        "cardRarityType": "rarity_birthday",
+        "characterId": 16,
+        "id": 509,
+        "masterRank": 4,
+        "quantity": 1000,
+        "resourceId": 116
+      },
+      {
+        "cardRarityType": "rarity_birthday",
+        "characterId": 17,
+        "id": 539,
+        "masterRank": 4,
+        "quantity": 1000,
+        "resourceId": 117
+      },
+      {
+        "cardRarityType": "rarity_birthday",
+        "characterId": 18,
+        "id": 569,
+        "masterRank": 4,
+        "quantity": 1000,
+        "resourceId": 118
+      },
+      {
+        "cardRarityType": "rarity_birthday",
+        "characterId": 19,
+        "id": 599,
+        "masterRank": 4,
+        "quantity": 1000,
+        "resourceId": 119
+      },
+      {
+        "cardRarityType": "rarity_birthday",
+        "characterId": 20,
+        "id": 629,
+        "masterRank": 4,
+        "quantity": 1000,
+        "resourceId": 120
+      },
+      {
+        "cardRarityType": "rarity_birthday",
+        "characterId": 21,
+        "id": 659,
+        "masterRank": 4,
+        "quantity": 1000,
+        "resourceId": 121
+      },
+      {
+        "cardRarityType": "rarity_birthday",
+        "characterId": 22,
+        "id": 689,
+        "masterRank": 4,
+        "quantity": 1000,
+        "resourceId": 122
+      },
+      {
+        "cardRarityType": "rarity_birthday",
+        "characterId": 23,
+        "id": 719,
+        "masterRank": 4,
+        "quantity": 1000,
+        "resourceId": 123
+      },
+      {
+        "cardRarityType": "rarity_birthday",
+        "characterId": 24,
+        "id": 749,
+        "masterRank": 4,
+        "quantity": 1000,
+        "resourceId": 124
+      },
+      {
+        "cardRarityType": "rarity_birthday",
+        "characterId": 25,
+        "id": 779,
+        "masterRank": 4,
+        "quantity": 1000,
+        "resourceId": 125
+      },
+      {
+        "cardRarityType": "rarity_birthday",
+        "characterId": 26,
+        "id": 809,
+        "masterRank": 4,
+        "quantity": 1000,
+        "resourceId": 126
+      },
+      {
+        "cardRarityType": "rarity_birthday",
+        "id": 839,
+        "masterRank": 4,
+        "quantity": 1000,
+        "resourceId": 127,
+        "unit": "light_sound"
+      },
+      {
+        "cardRarityType": "rarity_birthday",
+        "id": 869,
+        "masterRank": 4,
+        "quantity": 1000,
+        "resourceId": 128,
+        "unit": "idol"
+      },
+      {
+        "cardRarityType": "rarity_birthday",
+        "id": 899,
+        "masterRank": 4,
+        "quantity": 1000,
+        "resourceId": 129,
+        "unit": "street"
+      },
+      {
+        "cardRarityType": "rarity_birthday",
+        "id": 929,
+        "masterRank": 4,
+        "quantity": 1000,
+        "resourceId": 130,
+        "unit": "theme_park"
+      },
+      {
+        "cardRarityType": "rarity_birthday",
+        "id": 959,
+        "masterRank": 4,
+        "quantity": 1000,
+        "resourceId": 131,
+        "unit": "school_refusal"
+      },
+      {
+        "cardRarityType": "rarity_birthday",
+        "id": 989,
+        "masterRank": 4,
+        "quantity": 1000,
+        "resourceId": 132,
+        "unit": "piapro"
+      }
+    ],
+    "masterRank": 4,
+    "power1BonusFixed": 180,
+    "power2BonusFixed": 180,
+    "power3BonusFixed": 180
+  },
+  {
+    "cardRarityType": "rarity_birthday",
+    "costs": [
+      {
+        "cardRarityType": "rarity_birthday",
+        "id": 30,
+        "masterRank": 5,
+        "quantity": 1000,
+        "resourceId": 15
+      },
+      {
+        "cardRarityType": "rarity_birthday",
+        "characterId": 1,
+        "id": 60,
+        "masterRank": 5,
+        "quantity": 1000,
+        "resourceId": 101
+      },
+      {
+        "cardRarityType": "rarity_birthday",
+        "characterId": 2,
+        "id": 90,
+        "masterRank": 5,
+        "quantity": 1000,
+        "resourceId": 102
+      },
+      {
+        "cardRarityType": "rarity_birthday",
+        "characterId": 3,
+        "id": 120,
+        "masterRank": 5,
+        "quantity": 1000,
+        "resourceId": 103
+      },
+      {
+        "cardRarityType": "rarity_birthday",
+        "characterId": 4,
+        "id": 150,
+        "masterRank": 5,
+        "quantity": 1000,
+        "resourceId": 104
+      },
+      {
+        "cardRarityType": "rarity_birthday",
+        "characterId": 5,
+        "id": 180,
+        "masterRank": 5,
+        "quantity": 1000,
+        "resourceId": 105
+      },
+      {
+        "cardRarityType": "rarity_birthday",
+        "characterId": 6,
+        "id": 210,
+        "masterRank": 5,
+        "quantity": 1000,
+        "resourceId": 106
+      },
+      {
+        "cardRarityType": "rarity_birthday",
+        "characterId": 7,
+        "id": 240,
+        "masterRank": 5,
+        "quantity": 1000,
+        "resourceId": 107
+      },
+      {
+        "cardRarityType": "rarity_birthday",
+        "characterId": 8,
+        "id": 270,
+        "masterRank": 5,
+        "quantity": 1000,
+        "resourceId": 108
+      },
+      {
+        "cardRarityType": "rarity_birthday",
+        "characterId": 9,
+        "id": 300,
+        "masterRank": 5,
+        "quantity": 1000,
+        "resourceId": 109
+      },
+      {
+        "cardRarityType": "rarity_birthday",
+        "characterId": 10,
+        "id": 330,
+        "masterRank": 5,
+        "quantity": 1000,
+        "resourceId": 110
+      },
+      {
+        "cardRarityType": "rarity_birthday",
+        "characterId": 11,
+        "id": 360,
+        "masterRank": 5,
+        "quantity": 1000,
+        "resourceId": 111
+      },
+      {
+        "cardRarityType": "rarity_birthday",
+        "characterId": 12,
+        "id": 390,
+        "masterRank": 5,
+        "quantity": 1000,
+        "resourceId": 112
+      },
+      {
+        "cardRarityType": "rarity_birthday",
+        "characterId": 13,
+        "id": 420,
+        "masterRank": 5,
+        "quantity": 1000,
+        "resourceId": 113
+      },
+      {
+        "cardRarityType": "rarity_birthday",
+        "characterId": 14,
+        "id": 450,
+        "masterRank": 5,
+        "quantity": 1000,
+        "resourceId": 114
+      },
+      {
+        "cardRarityType": "rarity_birthday",
+        "characterId": 15,
+        "id": 480,
+        "masterRank": 5,
+        "quantity": 1000,
+        "resourceId": 115
+      },
+      {
+        "cardRarityType": "rarity_birthday",
+        "characterId": 16,
+        "id": 510,
+        "masterRank": 5,
+        "quantity": 1000,
+        "resourceId": 116
+      },
+      {
+        "cardRarityType": "rarity_birthday",
+        "characterId": 17,
+        "id": 540,
+        "masterRank": 5,
+        "quantity": 1000,
+        "resourceId": 117
+      },
+      {
+        "cardRarityType": "rarity_birthday",
+        "characterId": 18,
+        "id": 570,
+        "masterRank": 5,
+        "quantity": 1000,
+        "resourceId": 118
+      },
+      {
+        "cardRarityType": "rarity_birthday",
+        "characterId": 19,
+        "id": 600,
+        "masterRank": 5,
+        "quantity": 1000,
+        "resourceId": 119
+      },
+      {
+        "cardRarityType": "rarity_birthday",
+        "characterId": 20,
+        "id": 630,
+        "masterRank": 5,
+        "quantity": 1000,
+        "resourceId": 120
+      },
+      {
+        "cardRarityType": "rarity_birthday",
+        "characterId": 21,
+        "id": 660,
+        "masterRank": 5,
+        "quantity": 1000,
+        "resourceId": 121
+      },
+      {
+        "cardRarityType": "rarity_birthday",
+        "characterId": 22,
+        "id": 690,
+        "masterRank": 5,
+        "quantity": 1000,
+        "resourceId": 122
+      },
+      {
+        "cardRarityType": "rarity_birthday",
+        "characterId": 23,
+        "id": 720,
+        "masterRank": 5,
+        "quantity": 1000,
+        "resourceId": 123
+      },
+      {
+        "cardRarityType": "rarity_birthday",
+        "characterId": 24,
+        "id": 750,
+        "masterRank": 5,
+        "quantity": 1000,
+        "resourceId": 124
+      },
+      {
+        "cardRarityType": "rarity_birthday",
+        "characterId": 25,
+        "id": 780,
+        "masterRank": 5,
+        "quantity": 1000,
+        "resourceId": 125
+      },
+      {
+        "cardRarityType": "rarity_birthday",
+        "characterId": 26,
+        "id": 810,
+        "masterRank": 5,
+        "quantity": 1000,
+        "resourceId": 126
+      },
+      {
+        "cardRarityType": "rarity_birthday",
+        "id": 840,
+        "masterRank": 5,
+        "quantity": 1000,
+        "resourceId": 127,
+        "unit": "light_sound"
+      },
+      {
+        "cardRarityType": "rarity_birthday",
+        "id": 870,
+        "masterRank": 5,
+        "quantity": 1000,
+        "resourceId": 128,
+        "unit": "idol"
+      },
+      {
+        "cardRarityType": "rarity_birthday",
+        "id": 900,
+        "masterRank": 5,
+        "quantity": 1000,
+        "resourceId": 129,
+        "unit": "street"
+      },
+      {
+        "cardRarityType": "rarity_birthday",
+        "id": 930,
+        "masterRank": 5,
+        "quantity": 1000,
+        "resourceId": 130,
+        "unit": "theme_park"
+      },
+      {
+        "cardRarityType": "rarity_birthday",
+        "id": 960,
+        "masterRank": 5,
+        "quantity": 1000,
+        "resourceId": 131,
+        "unit": "school_refusal"
+      },
+      {
+        "cardRarityType": "rarity_birthday",
+        "id": 990,
+        "masterRank": 5,
+        "quantity": 1000,
+        "resourceId": 132,
+        "unit": "piapro"
+      }
+    ],
+    "masterRank": 5,
+    "power1BonusFixed": 180,
+    "power2BonusFixed": 180,
+    "power3BonusFixed": 180
+  }
+]

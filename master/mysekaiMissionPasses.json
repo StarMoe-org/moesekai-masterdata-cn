@@ -1,0 +1,98 @@
+[
+  {
+    "assetbundleName": "mysekai_mission_pass1",
+    "id": 1,
+    "liveMissionPeriodId": 51,
+    "mysekaiLiveMissionRewardGameCharacterGroupId": 1
+  },
+  {
+    "assetbundleName": "mysekai_mission_pass2",
+    "id": 2,
+    "liveMissionPeriodId": 52,
+    "mysekaiLiveMissionRewardGameCharacterGroupId": 2
+  },
+  {
+    "assetbundleName": "mysekai_mission_pass3",
+    "id": 3,
+    "liveMissionPeriodId": 53,
+    "mysekaiLiveMissionRewardGameCharacterGroupId": 3
+  },
+  {
+    "assetbundleName": "mysekai_mission_pass4",
+    "id": 4,
+    "liveMissionPeriodId": 54,
+    "mysekaiLiveMissionRewardGameCharacterGroupId": 4
+  },
+  {
+    "assetbundleName": "mysekai_mission_pass5",
+    "id": 5,
+    "liveMissionPeriodId": 55,
+    "mysekaiLiveMissionRewardGameCharacterGroupId": 5
+  },
+  {
+    "assetbundleName": "mysekai_mission_pass6",
+    "id": 6,
+    "liveMissionPeriodId": 56,
+    "mysekaiLiveMissionRewardGameCharacterGroupId": 6
+  },
+  {
+    "assetbundleName": "mysekai_mission_pass7",
+    "id": 7,
+    "liveMissionPeriodId": 57,
+    "mysekaiLiveMissionRewardGameCharacterGroupId": 7
+  },
+  {
+    "assetbundleName": "mysekai_mission_pass8",
+    "id": 8,
+    "liveMissionPeriodId": 58,
+    "mysekaiLiveMissionRewardGameCharacterGroupId": 8
+  },
+  {
+    "assetbundleName": "mysekai_mission_pass9",
+    "id": 9,
+    "liveMissionPeriodId": 59,
+    "mysekaiLiveMissionRewardGameCharacterGroupId": 9
+  },
+  {
+    "assetbundleName": "mysekai_mission_pass10",
+    "id": 10,
+    "liveMissionPeriodId": 60,
+    "mysekaiLiveMissionRewardGameCharacterGroupId": 10
+  },
+  {
+    "assetbundleName": "mysekai_mission_pass11",
+    "id": 11,
+    "liveMissionPeriodId": 61,
+    "mysekaiLiveMissionRewardGameCharacterGroupId": 11
+  },
+  {
+    "assetbundleName": "mysekai_mission_pass12",
+    "id": 12,
+    "liveMissionPeriodId": 62,
+    "mysekaiLiveMissionRewardGameCharacterGroupId": 12
+  },
+  {
+    "assetbundleName": "mysekai_mission_pass13",
+    "id": 13,
+    "liveMissionPeriodId": 63,
+    "mysekaiLiveMissionRewardGameCharacterGroupId": 13
+  },
+  {
+    "assetbundleName": "mysekai_mission_pass14",
+    "id": 14,
+    "liveMissionPeriodId": 64,
+    "mysekaiLiveMissionRewardGameCharacterGroupId": 14
+  },
+  {
+    "assetbundleName": "mysekai_mission_pass15",
+    "id": 15,
+    "liveMissionPeriodId": 65,
+    "mysekaiLiveMissionRewardGameCharacterGroupId": 15
+  },
+  {
+    "assetbundleName": "mysekai_mission_pass16",
+    "id": 16,
+    "liveMissionPeriodId": 66,
+    "mysekaiLiveMissionRewardGameCharacterGroupId": 16
+  }
+]

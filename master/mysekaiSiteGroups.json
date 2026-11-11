@@ -1,0 +1,62 @@
+[
+  {
+    "groupId": 1,
+    "id": 1,
+    "mysekaiSiteId": 1
+  },
+  {
+    "groupId": 2,
+    "id": 2,
+    "mysekaiSiteId": 2
+  },
+  {
+    "groupId": 2,
+    "id": 3,
+    "mysekaiSiteId": 3
+  },
+  {
+    "groupId": 2,
+    "id": 4,
+    "mysekaiSiteId": 4
+  },
+  {
+    "groupId": 3,
+    "id": 5,
+    "mysekaiSiteId": 5
+  },
+  {
+    "groupId": 3,
+    "id": 6,
+    "mysekaiSiteId": 6
+  },
+  {
+    "groupId": 3,
+    "id": 7,
+    "mysekaiSiteId": 7
+  },
+  {
+    "groupId": 3,
+    "id": 8,
+    "mysekaiSiteId": 8
+  },
+  {
+    "groupId": 4,
+    "id": 9,
+    "mysekaiSiteId": 1
+  },
+  {
+    "groupId": 4,
+    "id": 10,
+    "mysekaiSiteId": 2
+  },
+  {
+    "groupId": 4,
+    "id": 11,
+    "mysekaiSiteId": 3
+  },
+  {
+    "groupId": 4,
+    "id": 12,
+    "mysekaiSiteId": 4
+  }
+]

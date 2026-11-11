@@ -1,0 +1,580 @@
+[
+  {
+    "assetbundleName": "mysekai/talk/scenario/talk",
+    "id": 1,
+    "lua": "mysekai_talk_tutorial_021_001"
+  },
+  {
+    "assetbundleName": "mysekai/talk/scenario/talk",
+    "id": 2,
+    "lua": "mysekai_talk_tutorial_021_002",
+    "mysekaiCharacterTalkTweetId": 661
+  },
+  {
+    "assetbundleName": "mysekai/talk/scenario/talk",
+    "id": 3,
+    "lua": "mysekai_talk_tutorial_021_003"
+  },
+  {
+    "assetbundleName": "mysekai/talk/scenario/talk",
+    "id": 4,
+    "lua": "mysekai_talk_tutorial_021_004"
+  },
+  {
+    "assetbundleName": "mysekai/talk/scenario/talk",
+    "id": 5,
+    "lua": "mysekai_talk_tutorial_021_005",
+    "mysekaiCharacterTalkTweetId": 662
+  },
+  {
+    "assetbundleName": "mysekai/talk/scenario/talk",
+    "id": 7,
+    "lua": "mysekai_talk_tutorial_021_005",
+    "mysekaiCharacterTalkTweetId": 662
+  },
+  {
+    "assetbundleName": "mysekai/talk/scenario/talk",
+    "id": 8,
+    "lua": "mysekai_talk_tutorial_021_008"
+  },
+  {
+    "assetbundleName": "mysekai/talk/scenario/talk",
+    "id": 9,
+    "lua": "mysekai_talk_tutorial_021_009"
+  },
+  {
+    "assetbundleName": "mysekai/talk/scenario/talk",
+    "id": 10,
+    "lua": "mysekai_talk_tutorial_021_010",
+    "mysekaiCharacterTalkTweetId": 664
+  },
+  {
+    "assetbundleName": "mysekai/talk/scenario/talk",
+    "id": 11,
+    "lua": "mysekai_talk_tutorial_021_011"
+  },
+  {
+    "assetbundleName": "mysekai/talk/scenario/talk",
+    "id": 12,
+    "lua": "mysekai_talk_tutorial_021_012"
+  },
+  {
+    "assetbundleName": "mysekai/talk/scenario/talk",
+    "id": 13,
+    "lua": "mysekai_talk_tutorial_013_001"
+  },
+  {
+    "assetbundleName": "mysekai/talk/scenario/talk",
+    "id": 14,
+    "lua": "mysekai_talk_tutorial_014_001"
+  },
+  {
+    "assetbundleName": "mysekai/talk/scenario/talk",
+    "id": 15,
+    "lua": "mysekai_talk_tutorial_015_001"
+  },
+  {
+    "assetbundleName": "mysekai/talk/scenario/talk",
+    "id": 16,
+    "lua": "mysekai_talk_tutorial_016_001"
+  },
+  {
+    "assetbundleName": "mysekai/talk/scenario/talk",
+    "id": 17,
+    "lua": "mysekai_talk_tutorial_030_001"
+  },
+  {
+    "assetbundleName": "mysekai/talk/scenario/talk",
+    "id": 18,
+    "lua": "mysekai_talk_tutorial_055_001"
+  },
+  {
+    "assetbundleName": "mysekai/talk/scenario/talk",
+    "id": 19,
+    "lua": "mysekai_talk_tutorial_013_002",
+    "mysekaiCharacterTalkTweetId": 665
+  },
+  {
+    "assetbundleName": "mysekai/talk/scenario/talk",
+    "id": 20,
+    "lua": "mysekai_talk_tutorial_014_002",
+    "mysekaiCharacterTalkTweetId": 666
+  },
+  {
+    "assetbundleName": "mysekai/talk/scenario/talk",
+    "id": 21,
+    "lua": "mysekai_talk_tutorial_015_002",
+    "mysekaiCharacterTalkTweetId": 667
+  },
+  {
+    "assetbundleName": "mysekai/talk/scenario/talk",
+    "id": 22,
+    "lua": "mysekai_talk_tutorial_016_002",
+    "mysekaiCharacterTalkTweetId": 668
+  },
+  {
+    "assetbundleName": "mysekai/talk/scenario/talk",
+    "id": 23,
+    "lua": "mysekai_talk_tutorial_030_002",
+    "mysekaiCharacterTalkTweetId": 669
+  },
+  {
+    "assetbundleName": "mysekai/talk/scenario/talk",
+    "id": 24,
+    "lua": "mysekai_talk_tutorial_055_002",
+    "mysekaiCharacterTalkTweetId": 670
+  },
+  {
+    "assetbundleName": "mysekai/talk/scenario/talk",
+    "id": 25,
+    "lua": "mysekai_talk_tutorial_013_003"
+  },
+  {
+    "assetbundleName": "mysekai/talk/scenario/talk",
+    "id": 26,
+    "lua": "mysekai_talk_tutorial_014_003"
+  },
+  {
+    "assetbundleName": "mysekai/talk/scenario/talk",
+    "id": 27,
+    "lua": "mysekai_talk_tutorial_015_003"
+  },
+  {
+    "assetbundleName": "mysekai/talk/scenario/talk",
+    "id": 28,
+    "lua": "mysekai_talk_tutorial_016_003"
+  },
+  {
+    "assetbundleName": "mysekai/talk/scenario/talk",
+    "id": 29,
+    "lua": "mysekai_talk_tutorial_030_003"
+  },
+  {
+    "assetbundleName": "mysekai/talk/scenario/talk",
+    "id": 30,
+    "lua": "mysekai_talk_tutorial_055_003"
+  },
+  {
+    "assetbundleName": "mysekai/talk/scenario/talk",
+    "id": 31,
+    "lua": "mysekai_talk_tutorial_017_001"
+  },
+  {
+    "assetbundleName": "mysekai/talk/scenario/talk",
+    "id": 32,
+    "lua": "mysekai_talk_tutorial_018_001"
+  },
+  {
+    "assetbundleName": "mysekai/talk/scenario/talk",
+    "id": 33,
+    "lua": "mysekai_talk_tutorial_019_001"
+  },
+  {
+    "assetbundleName": "mysekai/talk/scenario/talk",
+    "id": 34,
+    "lua": "mysekai_talk_tutorial_020_001"
+  },
+  {
+    "assetbundleName": "mysekai/talk/scenario/talk",
+    "id": 35,
+    "lua": "mysekai_talk_tutorial_031_001"
+  },
+  {
+    "assetbundleName": "mysekai/talk/scenario/talk",
+    "id": 36,
+    "lua": "mysekai_talk_tutorial_019_002"
+  },
+  {
+    "assetbundleName": "mysekai/talk/scenario/talk",
+    "id": 37,
+    "lua": "mysekai_talk_tutorial_020_002"
+  },
+  {
+    "assetbundleName": "mysekai/talk/scenario/talk",
+    "id": 38,
+    "lua": "mysekai_talk_tutorial_017_002",
+    "mysekaiCharacterTalkTweetId": 671
+  },
+  {
+    "assetbundleName": "mysekai/talk/scenario/talk",
+    "id": 39,
+    "lua": "mysekai_talk_tutorial_018_002",
+    "mysekaiCharacterTalkTweetId": 672
+  },
+  {
+    "assetbundleName": "mysekai/talk/scenario/talk",
+    "id": 40,
+    "lua": "mysekai_talk_tutorial_019_003",
+    "mysekaiCharacterTalkTweetId": 673
+  },
+  {
+    "assetbundleName": "mysekai/talk/scenario/talk",
+    "id": 41,
+    "lua": "mysekai_talk_tutorial_020_003",
+    "mysekaiCharacterTalkTweetId": 674
+  },
+  {
+    "assetbundleName": "mysekai/talk/scenario/talk",
+    "id": 42,
+    "lua": "mysekai_talk_tutorial_031_002",
+    "mysekaiCharacterTalkTweetId": 675
+  },
+  {
+    "assetbundleName": "mysekai/talk/scenario/talk",
+    "id": 43,
+    "lua": "mysekai_talk_tutorial_017_003",
+    "mysekaiCharacterTalkTweetId": 676
+  },
+  {
+    "assetbundleName": "mysekai/talk/scenario/talk",
+    "id": 44,
+    "lua": "mysekai_talk_tutorial_018_003",
+    "mysekaiCharacterTalkTweetId": 677
+  },
+  {
+    "assetbundleName": "mysekai/talk/scenario/talk",
+    "id": 45,
+    "lua": "mysekai_talk_tutorial_019_004",
+    "mysekaiCharacterTalkTweetId": 678
+  },
+  {
+    "assetbundleName": "mysekai/talk/scenario/talk",
+    "id": 46,
+    "lua": "mysekai_talk_tutorial_020_004",
+    "mysekaiCharacterTalkTweetId": 679
+  },
+  {
+    "assetbundleName": "mysekai/talk/scenario/talk",
+    "id": 47,
+    "lua": "mysekai_talk_tutorial_031_003",
+    "mysekaiCharacterTalkTweetId": 680
+  },
+  {
+    "assetbundleName": "mysekai/talk/scenario/talk",
+    "id": 48,
+    "lua": "mysekai_talk_tutorial_005_001"
+  },
+  {
+    "assetbundleName": "mysekai/talk/scenario/talk",
+    "id": 49,
+    "lua": "mysekai_talk_tutorial_006_001"
+  },
+  {
+    "assetbundleName": "mysekai/talk/scenario/talk",
+    "id": 50,
+    "lua": "mysekai_talk_tutorial_007_001"
+  },
+  {
+    "assetbundleName": "mysekai/talk/scenario/talk",
+    "id": 51,
+    "lua": "mysekai_talk_tutorial_008_001"
+  },
+  {
+    "assetbundleName": "mysekai/talk/scenario/talk",
+    "id": 52,
+    "lua": "mysekai_talk_tutorial_028_001"
+  },
+  {
+    "assetbundleName": "mysekai/talk/scenario/talk",
+    "id": 53,
+    "lua": "mysekai_talk_tutorial_033_001"
+  },
+  {
+    "assetbundleName": "mysekai/talk/scenario/talk",
+    "id": 54,
+    "lua": "mysekai_talk_tutorial_005_002",
+    "mysekaiCharacterTalkTweetId": 681
+  },
+  {
+    "assetbundleName": "mysekai/talk/scenario/talk",
+    "id": 55,
+    "lua": "mysekai_talk_tutorial_006_002",
+    "mysekaiCharacterTalkTweetId": 682
+  },
+  {
+    "assetbundleName": "mysekai/talk/scenario/talk",
+    "id": 56,
+    "lua": "mysekai_talk_tutorial_007_002",
+    "mysekaiCharacterTalkTweetId": 683
+  },
+  {
+    "assetbundleName": "mysekai/talk/scenario/talk",
+    "id": 57,
+    "lua": "mysekai_talk_tutorial_008_002",
+    "mysekaiCharacterTalkTweetId": 684
+  },
+  {
+    "assetbundleName": "mysekai/talk/scenario/talk",
+    "id": 58,
+    "lua": "mysekai_talk_tutorial_028_002",
+    "mysekaiCharacterTalkTweetId": 685
+  },
+  {
+    "assetbundleName": "mysekai/talk/scenario/talk",
+    "id": 59,
+    "lua": "mysekai_talk_tutorial_033_002",
+    "mysekaiCharacterTalkTweetId": 686
+  },
+  {
+    "assetbundleName": "mysekai/talk/scenario/talk",
+    "id": 60,
+    "lua": "mysekai_talk_tutorial_005_003",
+    "mysekaiCharacterTalkTweetId": 687
+  },
+  {
+    "assetbundleName": "mysekai/talk/scenario/talk",
+    "id": 61,
+    "lua": "mysekai_talk_tutorial_006_003",
+    "mysekaiCharacterTalkTweetId": 688
+  },
+  {
+    "assetbundleName": "mysekai/talk/scenario/talk",
+    "id": 62,
+    "lua": "mysekai_talk_tutorial_007_003",
+    "mysekaiCharacterTalkTweetId": 689
+  },
+  {
+    "assetbundleName": "mysekai/talk/scenario/talk",
+    "id": 63,
+    "lua": "mysekai_talk_tutorial_008_003",
+    "mysekaiCharacterTalkTweetId": 690
+  },
+  {
+    "assetbundleName": "mysekai/talk/scenario/talk",
+    "id": 64,
+    "lua": "mysekai_talk_tutorial_028_003",
+    "mysekaiCharacterTalkTweetId": 691
+  },
+  {
+    "assetbundleName": "mysekai/talk/scenario/talk",
+    "id": 65,
+    "lua": "mysekai_talk_tutorial_033_003",
+    "mysekaiCharacterTalkTweetId": 692
+  },
+  {
+    "assetbundleName": "mysekai/talk/scenario/talk",
+    "id": 66,
+    "lua": "mysekai_talk_tutorial_009_001"
+  },
+  {
+    "assetbundleName": "mysekai/talk/scenario/talk",
+    "id": 67,
+    "lua": "mysekai_talk_tutorial_010_001"
+  },
+  {
+    "assetbundleName": "mysekai/talk/scenario/talk",
+    "id": 68,
+    "lua": "mysekai_talk_tutorial_011_001"
+  },
+  {
+    "assetbundleName": "mysekai/talk/scenario/talk",
+    "id": 69,
+    "lua": "mysekai_talk_tutorial_012_001"
+  },
+  {
+    "assetbundleName": "mysekai/talk/scenario/talk",
+    "id": 70,
+    "lua": "mysekai_talk_tutorial_029_001"
+  },
+  {
+    "assetbundleName": "mysekai/talk/scenario/talk",
+    "id": 71,
+    "lua": "mysekai_talk_tutorial_039_001"
+  },
+  {
+    "assetbundleName": "mysekai/talk/scenario/talk",
+    "id": 72,
+    "lua": "mysekai_talk_tutorial_049_001"
+  },
+  {
+    "assetbundleName": "mysekai/talk/scenario/talk",
+    "id": 73,
+    "lua": "mysekai_talk_tutorial_009_002",
+    "mysekaiCharacterTalkTweetId": 693
+  },
+  {
+    "assetbundleName": "mysekai/talk/scenario/talk",
+    "id": 74,
+    "lua": "mysekai_talk_tutorial_010_002",
+    "mysekaiCharacterTalkTweetId": 694
+  },
+  {
+    "assetbundleName": "mysekai/talk/scenario/talk",
+    "id": 75,
+    "lua": "mysekai_talk_tutorial_011_002",
+    "mysekaiCharacterTalkTweetId": 695
+  },
+  {
+    "assetbundleName": "mysekai/talk/scenario/talk",
+    "id": 76,
+    "lua": "mysekai_talk_tutorial_012_002",
+    "mysekaiCharacterTalkTweetId": 696
+  },
+  {
+    "assetbundleName": "mysekai/talk/scenario/talk",
+    "id": 77,
+    "lua": "mysekai_talk_tutorial_029_002",
+    "mysekaiCharacterTalkTweetId": 697
+  },
+  {
+    "assetbundleName": "mysekai/talk/scenario/talk",
+    "id": 78,
+    "lua": "mysekai_talk_tutorial_039_002",
+    "mysekaiCharacterTalkTweetId": 698
+  },
+  {
+    "assetbundleName": "mysekai/talk/scenario/talk",
+    "id": 79,
+    "lua": "mysekai_talk_tutorial_049_002",
+    "mysekaiCharacterTalkTweetId": 699
+  },
+  {
+    "assetbundleName": "mysekai/talk/scenario/talk",
+    "id": 80,
+    "lua": "mysekai_talk_tutorial_009_003",
+    "mysekaiCharacterTalkTweetId": 700
+  },
+  {
+    "assetbundleName": "mysekai/talk/scenario/talk",
+    "id": 81,
+    "lua": "mysekai_talk_tutorial_010_003",
+    "mysekaiCharacterTalkTweetId": 701
+  },
+  {
+    "assetbundleName": "mysekai/talk/scenario/talk",
+    "id": 82,
+    "lua": "mysekai_talk_tutorial_011_003",
+    "mysekaiCharacterTalkTweetId": 702
+  },
+  {
+    "assetbundleName": "mysekai/talk/scenario/talk",
+    "id": 83,
+    "lua": "mysekai_talk_tutorial_012_003",
+    "mysekaiCharacterTalkTweetId": 703
+  },
+  {
+    "assetbundleName": "mysekai/talk/scenario/talk",
+    "id": 84,
+    "lua": "mysekai_talk_tutorial_029_003",
+    "mysekaiCharacterTalkTweetId": 704
+  },
+  {
+    "assetbundleName": "mysekai/talk/scenario/talk",
+    "id": 85,
+    "lua": "mysekai_talk_tutorial_039_003",
+    "mysekaiCharacterTalkTweetId": 705
+  },
+  {
+    "assetbundleName": "mysekai/talk/scenario/talk",
+    "id": 86,
+    "lua": "mysekai_talk_tutorial_049_003",
+    "mysekaiCharacterTalkTweetId": 706
+  },
+  {
+    "assetbundleName": "mysekai/talk/scenario/talk",
+    "id": 87,
+    "lua": "mysekai_talk_tutorial_001_001"
+  },
+  {
+    "assetbundleName": "mysekai/talk/scenario/talk",
+    "id": 88,
+    "lua": "mysekai_talk_tutorial_002_001"
+  },
+  {
+    "assetbundleName": "mysekai/talk/scenario/talk",
+    "id": 89,
+    "lua": "mysekai_talk_tutorial_003_001"
+  },
+  {
+    "assetbundleName": "mysekai/talk/scenario/talk",
+    "id": 90,
+    "lua": "mysekai_talk_tutorial_004_001"
+  },
+  {
+    "assetbundleName": "mysekai/talk/scenario/talk",
+    "id": 91,
+    "lua": "mysekai_talk_tutorial_027_001"
+  },
+  {
+    "assetbundleName": "mysekai/talk/scenario/talk",
+    "id": 92,
+    "lua": "mysekai_talk_tutorial_042_001"
+  },
+  {
+    "assetbundleName": "mysekai/talk/scenario/talk",
+    "id": 93,
+    "lua": "mysekai_talk_tutorial_001_002",
+    "mysekaiCharacterTalkTweetId": 707
+  },
+  {
+    "assetbundleName": "mysekai/talk/scenario/talk",
+    "id": 94,
+    "lua": "mysekai_talk_tutorial_002_002",
+    "mysekaiCharacterTalkTweetId": 708
+  },
+  {
+    "assetbundleName": "mysekai/talk/scenario/talk",
+    "id": 95,
+    "lua": "mysekai_talk_tutorial_003_002",
+    "mysekaiCharacterTalkTweetId": 709
+  },
+  {
+    "assetbundleName": "mysekai/talk/scenario/talk",
+    "id": 96,
+    "lua": "mysekai_talk_tutorial_004_002",
+    "mysekaiCharacterTalkTweetId": 710
+  },
+  {
+    "assetbundleName": "mysekai/talk/scenario/talk",
+    "id": 97,
+    "lua": "mysekai_talk_tutorial_027_002",
+    "mysekaiCharacterTalkTweetId": 711
+  },
+  {
+    "assetbundleName": "mysekai/talk/scenario/talk",
+    "id": 98,
+    "lua": "mysekai_talk_tutorial_042_002",
+    "mysekaiCharacterTalkTweetId": 712
+  },
+  {
+    "assetbundleName": "mysekai/talk/scenario/talk",
+    "id": 99,
+    "lua": "mysekai_talk_tutorial_001_003",
+    "mysekaiCharacterTalkTweetId": 713
+  },
+  {
+    "assetbundleName": "mysekai/talk/scenario/talk",
+    "id": 100,
+    "lua": "mysekai_talk_tutorial_002_003",
+    "mysekaiCharacterTalkTweetId": 714
+  },
+  {
+    "assetbundleName": "mysekai/talk/scenario/talk",
+    "id": 101,
+    "lua": "mysekai_talk_tutorial_003_003",
+    "mysekaiCharacterTalkTweetId": 715
+  },
+  {
+    "assetbundleName": "mysekai/talk/scenario/talk",
+    "id": 102,
+    "lua": "mysekai_talk_tutorial_004_003",
+    "mysekaiCharacterTalkTweetId": 716
+  },
+  {
+    "assetbundleName": "mysekai/talk/scenario/talk",
+    "id": 103,
+    "lua": "mysekai_talk_tutorial_027_003",
+    "mysekaiCharacterTalkTweetId": 717
+  },
+  {
+    "assetbundleName": "mysekai/talk/scenario/talk",
+    "id": 104,
+    "lua": "mysekai_talk_tutorial_042_003",
+    "mysekaiCharacterTalkTweetId": 718
+  },
+  {
+    "assetbundleName": "mysekai/talk/scenario/talk",
+    "id": 105,
+    "lua": "mysekai_talk_tutorial_021_013"
+  }
+]

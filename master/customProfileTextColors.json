@@ -1,0 +1,167 @@
+[
+  {
+    "colorCode": "#444466",
+    "id": 1,
+    "seq": 1
+  },
+  {
+    "colorCode": "#ffffff",
+    "id": 2,
+    "seq": 2
+  },
+  {
+    "colorCode": "#33aaee",
+    "id": 3,
+    "seq": 10
+  },
+  {
+    "colorCode": "#ffdd44",
+    "id": 4,
+    "seq": 11
+  },
+  {
+    "colorCode": "#ee6666",
+    "id": 5,
+    "seq": 12
+  },
+  {
+    "colorCode": "#bbdd22",
+    "id": 6,
+    "seq": 13
+  },
+  {
+    "colorCode": "#ffccaa",
+    "id": 7,
+    "seq": 15
+  },
+  {
+    "colorCode": "#99ccff",
+    "id": 8,
+    "seq": 16
+  },
+  {
+    "colorCode": "#ffaacc",
+    "id": 9,
+    "seq": 17
+  },
+  {
+    "colorCode": "#99eedd",
+    "id": 10,
+    "seq": 18
+  },
+  {
+    "colorCode": "#ff6699",
+    "id": 11,
+    "seq": 20
+  },
+  {
+    "colorCode": "#00bbdd",
+    "id": 12,
+    "seq": 21
+  },
+  {
+    "colorCode": "#ff7722",
+    "id": 13,
+    "seq": 22
+  },
+  {
+    "colorCode": "#0077dd",
+    "id": 14,
+    "seq": 23
+  },
+  {
+    "colorCode": "#ffbb00",
+    "id": 15,
+    "seq": 25
+  },
+  {
+    "colorCode": "#ff66bb",
+    "id": 16,
+    "seq": 26
+  },
+  {
+    "colorCode": "#33dd99",
+    "id": 17,
+    "seq": 27
+  },
+  {
+    "colorCode": "#bb88ee",
+    "id": 18,
+    "seq": 28
+  },
+  {
+    "colorCode": "#bb6688",
+    "id": 19,
+    "seq": 30
+  },
+  {
+    "colorCode": "#8888cc",
+    "id": 20,
+    "seq": 31
+  },
+  {
+    "colorCode": "#ccaa88",
+    "id": 21,
+    "seq": 32
+  },
+  {
+    "colorCode": "#ddaacc",
+    "id": 22,
+    "seq": 33
+  },
+  {
+    "colorCode": "#33ccbb",
+    "id": 23,
+    "seq": 3
+  },
+  {
+    "colorCode": "#ffcc11",
+    "id": 24,
+    "seq": 4
+  },
+  {
+    "colorCode": "#ffee11",
+    "id": 25,
+    "seq": 5
+  },
+  {
+    "colorCode": "#ffbbcc",
+    "id": 26,
+    "seq": 6
+  },
+  {
+    "colorCode": "#dd4444",
+    "id": 27,
+    "seq": 7
+  },
+  {
+    "colorCode": "#3366cc",
+    "id": 28,
+    "seq": 8
+  },
+  {
+    "colorCode": "#4455dd",
+    "id": 29,
+    "seq": 9
+  },
+  {
+    "colorCode": "#88dd44",
+    "id": 30,
+    "seq": 14
+  },
+  {
+    "colorCode": "#ee1166",
+    "id": 31,
+    "seq": 19
+  },
+  {
+    "colorCode": "#ff9900",
+    "id": 32,
+    "seq": 24
+  },
+  {
+    "colorCode": "#884499",
+    "id": 33,
+    "seq": 29
+  }
+]

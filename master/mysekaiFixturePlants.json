@@ -1,0 +1,116 @@
+[
+  {
+    "afterMysekaiFixtureId": 122,
+    "beforeMysekaiFixtureId": 118,
+    "growthMin": 1440,
+    "id": 1
+  },
+  {
+    "afterMysekaiFixtureId": 123,
+    "beforeMysekaiFixtureId": 119,
+    "growthMin": 1440,
+    "id": 2
+  },
+  {
+    "afterMysekaiFixtureId": 124,
+    "beforeMysekaiFixtureId": 120,
+    "growthMin": 1440,
+    "id": 3
+  },
+  {
+    "afterMysekaiFixtureId": 125,
+    "beforeMysekaiFixtureId": 121,
+    "growthMin": 1440,
+    "id": 4
+  },
+  {
+    "afterMysekaiFixtureId": 131,
+    "beforeMysekaiFixtureId": 126,
+    "growthMin": 1440,
+    "id": 5
+  },
+  {
+    "afterMysekaiFixtureId": 132,
+    "beforeMysekaiFixtureId": 127,
+    "growthMin": 1440,
+    "id": 6
+  },
+  {
+    "afterMysekaiFixtureId": 133,
+    "beforeMysekaiFixtureId": 128,
+    "growthMin": 1440,
+    "id": 7
+  },
+  {
+    "afterMysekaiFixtureId": 134,
+    "beforeMysekaiFixtureId": 129,
+    "growthMin": 1440,
+    "id": 8
+  },
+  {
+    "afterMysekaiFixtureId": 135,
+    "beforeMysekaiFixtureId": 130,
+    "growthMin": 1440,
+    "id": 9
+  },
+  {
+    "afterMysekaiFixtureId": 484,
+    "beforeMysekaiFixtureId": 474,
+    "growthMin": 1440,
+    "id": 10
+  },
+  {
+    "afterMysekaiFixtureId": 485,
+    "beforeMysekaiFixtureId": 475,
+    "growthMin": 1440,
+    "id": 11
+  },
+  {
+    "afterMysekaiFixtureId": 486,
+    "beforeMysekaiFixtureId": 476,
+    "growthMin": 1440,
+    "id": 12
+  },
+  {
+    "afterMysekaiFixtureId": 487,
+    "beforeMysekaiFixtureId": 477,
+    "growthMin": 1440,
+    "id": 13
+  },
+  {
+    "afterMysekaiFixtureId": 488,
+    "beforeMysekaiFixtureId": 478,
+    "growthMin": 1440,
+    "id": 14
+  },
+  {
+    "afterMysekaiFixtureId": 489,
+    "beforeMysekaiFixtureId": 479,
+    "growthMin": 1440,
+    "id": 15
+  },
+  {
+    "afterMysekaiFixtureId": 490,
+    "beforeMysekaiFixtureId": 480,
+    "growthMin": 1440,
+    "id": 16
+  },
+  {
+    "afterMysekaiFixtureId": 491,
+    "beforeMysekaiFixtureId": 481,
+    "growthMin": 1440,
+    "id": 17
+  },
+  {
+    "afterMysekaiFixtureId": 492,
+    "beforeMysekaiFixtureId": 482,
+    "growthMin": 1440,
+    "id": 18
+  },
+  {
+    "afterMysekaiFixtureId": 493,
+    "beforeMysekaiFixtureId": 483,
+    "growthMin": 1440,
+    "id": 19
+  }
+]

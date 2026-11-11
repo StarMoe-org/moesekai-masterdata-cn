@@ -1,0 +1,42 @@
+[
+  {
+    "groupId": 1,
+    "id": 1,
+    "mysekaiFixtureId": 189
+  },
+  {
+    "groupId": 1,
+    "id": 2,
+    "mysekaiFixtureId": 193
+  },
+  {
+    "groupId": 2,
+    "id": 3,
+    "mysekaiFixtureId": 111
+  },
+  {
+    "groupId": 2,
+    "id": 4,
+    "mysekaiFixtureId": 112
+  },
+  {
+    "groupId": 2,
+    "id": 5,
+    "mysekaiFixtureId": 113
+  },
+  {
+    "groupId": 2,
+    "id": 6,
+    "mysekaiFixtureId": 114
+  },
+  {
+    "groupId": 2,
+    "id": 7,
+    "mysekaiFixtureId": 115
+  },
+  {
+    "groupId": 2,
+    "id": 8,
+    "mysekaiFixtureId": 116
+  }
+]

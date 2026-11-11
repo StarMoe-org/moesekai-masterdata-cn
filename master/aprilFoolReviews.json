@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "name": "愚人节2022",
+    "releaseConditionId": 2000037,
+    "unlockType": "april_fool_2022",
+    "unlockMaterialId": 3003
+  },
+  {
+    "id": 2,
+    "name": "愚人节2023",
+    "releaseConditionId": 2000038,
+    "unlockType": "april_fool_2023",
+    "unlockMaterialId": 3003
+  }
+]

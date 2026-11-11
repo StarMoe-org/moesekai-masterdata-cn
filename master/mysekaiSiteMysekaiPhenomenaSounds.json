@@ -1,0 +1,110 @@
+[
+  {
+    "cue": "se_env_wind",
+    "id": 1,
+    "mysekaiPhenomenaSoundConditionType": "other",
+    "mysekaiSiteId": 5
+  },
+  {
+    "cue": "se_env_wind",
+    "id": 2,
+    "mysekaiPhenomenaSoundConditionType": "other",
+    "mysekaiSiteId": 6
+  },
+  {
+    "cue": "se_env_flower_wind",
+    "id": 3,
+    "mysekaiPhenomenaSoundConditionType": "other",
+    "mysekaiSiteId": 7
+  },
+  {
+    "cue": "se_env_flower_wind",
+    "id": 4,
+    "mysekaiPhenomenaSoundConditionType": "other",
+    "mysekaiSiteId": 8
+  },
+  {
+    "cue": "se_env_rain",
+    "id": 101,
+    "mysekaiPhenomenaId": 6,
+    "mysekaiPhenomenaSoundConditionType": "specific",
+    "mysekaiSiteId": 5
+  },
+  {
+    "cue": "se_env_rain",
+    "id": 102,
+    "mysekaiPhenomenaId": 6,
+    "mysekaiPhenomenaSoundConditionType": "specific",
+    "mysekaiSiteId": 6
+  },
+  {
+    "cue": "se_env_rain",
+    "id": 103,
+    "mysekaiPhenomenaId": 6,
+    "mysekaiPhenomenaSoundConditionType": "specific",
+    "mysekaiSiteId": 7
+  },
+  {
+    "cue": "se_env_rain",
+    "id": 104,
+    "mysekaiPhenomenaId": 6,
+    "mysekaiPhenomenaSoundConditionType": "specific",
+    "mysekaiSiteId": 8
+  },
+  {
+    "cue": "se_shooring_star",
+    "id": 201,
+    "mysekaiPhenomenaId": 9,
+    "mysekaiPhenomenaSoundConditionType": "specific",
+    "mysekaiSiteId": 5
+  },
+  {
+    "cue": "se_shooring_star",
+    "id": 202,
+    "mysekaiPhenomenaId": 9,
+    "mysekaiPhenomenaSoundConditionType": "specific",
+    "mysekaiSiteId": 6
+  },
+  {
+    "cue": "se_shooring_star",
+    "id": 203,
+    "mysekaiPhenomenaId": 9,
+    "mysekaiPhenomenaSoundConditionType": "specific",
+    "mysekaiSiteId": 7
+  },
+  {
+    "cue": "se_shooring_star",
+    "id": 204,
+    "mysekaiPhenomenaId": 9,
+    "mysekaiPhenomenaSoundConditionType": "specific",
+    "mysekaiSiteId": 8
+  },
+  {
+    "cue": "se_env_wind",
+    "id": 301,
+    "mysekaiPhenomenaId": 1,
+    "mysekaiPhenomenaSoundConditionType": "specific",
+    "mysekaiSiteId": 5
+  },
+  {
+    "cue": "se_env_wind",
+    "id": 302,
+    "mysekaiPhenomenaId": 1,
+    "mysekaiPhenomenaSoundConditionType": "specific",
+    "mysekaiSiteId": 6
+  },
+  {
+    "cue": "se_env_flower_wind",
+    "id": 303,
+    "mysekaiPhenomenaId": 1,
+    "mysekaiPhenomenaSoundConditionType": "specific",
+    "mysekaiSiteId": 7
+  },
+  {
+    "cue": "se_env_flower_wind",
+    "id": 304,
+    "mysekaiPhenomenaId": 1,
+    "mysekaiPhenomenaSoundConditionType": "specific",
+    "mysekaiSiteId": 8
+  }
+]

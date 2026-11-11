@@ -1,0 +1,8722 @@
+[
+  {
+    "eventId": 108,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_daily",
+    "id": 217,
+    "requirement1": 6,
+    "rewards": [
+      {
+        "resourceBoxId": 8000
+      }
+    ],
+    "sentence": "1天完成1次演出累计达到6天。",
+    "seq": 1
+  },
+  {
+    "eventId": 108,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "any_live_clear",
+    "id": 218,
+    "requirement1": 50,
+    "rewards": [
+      {
+        "resourceBoxId": 8000
+      }
+    ],
+    "sentence": "完成50次演出。",
+    "seq": 2
+  },
+  {
+    "eventId": 108,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_full_combo",
+    "id": 219,
+    "requirement1": 10,
+    "rewards": [
+      {
+        "resourceBoxId": 8000
+      }
+    ],
+    "sentence": "在演出中以FULL COMBO完成歌曲达到10次。",
+    "seq": 3
+  },
+  {
+    "eventId": 108,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_different_music",
+    "id": 220,
+    "requirement1": 10,
+    "requirement2": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8000
+      }
+    ],
+    "sentence": "在演出中完成10首歌曲。",
+    "seq": 4
+  },
+  {
+    "eventId": 108,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "read_last_event_story_episode",
+    "id": 221,
+    "requirement1": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8000
+      }
+    ],
+    "sentence": "观看活动“Hello·Good·Day!”的活动剧情第8话。",
+    "seq": 5
+  },
+  {
+    "eventId": 108,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "consume_event_item",
+    "id": 222,
+    "requirement1": 20000,
+    "rewards": [
+      {
+        "resourceBoxId": 8000
+      }
+    ],
+    "sentence": "在活动“Hello·Good·Day!”的兑换所消耗20000个徽章。",
+    "seq": 6
+  },
+  {
+    "eventId": 108,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "join_virtual_live",
+    "id": 223,
+    "requirement1": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8000
+      }
+    ],
+    "sentence": "参加“Hello·Good·Day! 后日谈·演唱会”。",
+    "seq": 7
+  },
+  {
+    "eventId": 108,
+    "eventMissionCategory": "complete",
+    "eventMissionType": "achieve_event_mission",
+    "id": 224,
+    "requirement1": 7,
+    "rewards": [
+      {
+        "resourceBoxId": 8001
+      }
+    ],
+    "sentence": "完成所有7个任务。",
+    "seq": 8
+  },
+  {
+    "eventId": 112,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_daily",
+    "id": 225,
+    "requirement1": 8,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "1天完成1次演出累计达到8天。",
+    "seq": 1
+  },
+  {
+    "eventId": 112,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "any_live_clear",
+    "id": 226,
+    "requirement1": 50,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "完成50次演出。",
+    "seq": 2
+  },
+  {
+    "eventId": 112,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_full_combo",
+    "id": 227,
+    "requirement1": 10,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在演出中以FULL COMBO完成歌曲达到10次。",
+    "seq": 3
+  },
+  {
+    "eventId": 112,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_different_music",
+    "id": 228,
+    "requirement1": 10,
+    "requirement2": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在演出中完成10首歌曲。",
+    "seq": 4
+  },
+  {
+    "eventId": 112,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "read_last_event_story_episode",
+    "id": 229,
+    "requirement1": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "观看活动“水底寻影”的活动剧情第8话。",
+    "seq": 5
+  },
+  {
+    "eventId": 112,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "consume_event_item",
+    "id": 230,
+    "requirement1": 20000,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在活动“水底寻影”的兑换所消耗20000个徽章。",
+    "seq": 6
+  },
+  {
+    "eventId": 112,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "join_virtual_live",
+    "id": 231,
+    "requirement1": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "参加“水底寻影 后日谈·演唱会”。",
+    "seq": 7
+  },
+  {
+    "eventId": 112,
+    "eventMissionCategory": "complete_selectable_reward",
+    "eventMissionSelectableRewardGroupId": 1,
+    "eventMissionType": "achieve_event_mission",
+    "id": 232,
+    "requirement1": 7,
+    "rewards": [
+      {
+        "resourceBoxId": 8001
+      }
+    ],
+    "sentence": "完成所有7个任务。",
+    "seq": 8
+  },
+  {
+    "eventId": 118,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_daily",
+    "id": 297,
+    "requirement1": 8,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "1天完成1次演出累计达到8天。",
+    "seq": 1
+  },
+  {
+    "eventId": 118,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "any_live_clear",
+    "id": 298,
+    "requirement1": 50,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "完成50次演出。",
+    "seq": 2
+  },
+  {
+    "eventId": 118,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_full_combo",
+    "id": 299,
+    "requirement1": 10,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在演出中以FULL COMBO完成歌曲达到10次。",
+    "seq": 3
+  },
+  {
+    "eventId": 118,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_different_music",
+    "id": 300,
+    "requirement1": 10,
+    "requirement2": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在演出中完成10首歌曲。",
+    "seq": 4
+  },
+  {
+    "eventId": 118,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "read_last_event_story_episode",
+    "id": 301,
+    "requirement1": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "观看活动“BREAK DOWN THE WALL”的结局。",
+    "seq": 5
+  },
+  {
+    "eventId": 118,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "consume_event_item",
+    "id": 302,
+    "requirement1": 20000,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在活动“BREAK DOWN THE WALL”的兑换所消耗20000个徽章。",
+    "seq": 6
+  },
+  {
+    "eventId": 118,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "join_virtual_live",
+    "id": 303,
+    "requirement1": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "参加“BREAK DOWN THE WALL 后日谈·演唱会”。",
+    "seq": 7
+  },
+  {
+    "eventId": 118,
+    "eventMissionCategory": "complete_selectable_reward",
+    "eventMissionSelectableRewardGroupId": 1,
+    "eventMissionType": "achieve_event_mission",
+    "id": 304,
+    "requirement1": 7,
+    "rewards": [],
+    "sentence": "完成所有7个任务。",
+    "seq": 8
+  },
+  {
+    "eventId": 124,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_daily",
+    "id": 345,
+    "requirement1": 8,
+    "rewards": [
+      {
+        "resourceBoxId": 8000
+      }
+    ],
+    "sentence": "1天完成1次演出累计达到8天。",
+    "seq": 1
+  },
+  {
+    "eventId": 124,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "any_live_clear",
+    "id": 346,
+    "requirement1": 50,
+    "rewards": [
+      {
+        "resourceBoxId": 8000
+      }
+    ],
+    "sentence": "完成50次演出。",
+    "seq": 2
+  },
+  {
+    "eventId": 124,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_full_combo",
+    "id": 347,
+    "requirement1": 10,
+    "rewards": [
+      {
+        "resourceBoxId": 8000
+      }
+    ],
+    "sentence": "在演出中以FULL COMBO完成歌曲达到10次。",
+    "seq": 3
+  },
+  {
+    "eventId": 124,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_different_music",
+    "id": 348,
+    "requirement1": 10,
+    "requirement2": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8000
+      }
+    ],
+    "sentence": "在演出中完成10首歌曲。",
+    "seq": 4
+  },
+  {
+    "eventId": 124,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "read_last_event_story_episode",
+    "id": 349,
+    "requirement1": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8000
+      }
+    ],
+    "sentence": "观看活动“向着星星，启航！”的结局。",
+    "seq": 5
+  },
+  {
+    "eventId": 124,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "consume_event_item",
+    "id": 350,
+    "requirement1": 20000,
+    "rewards": [
+      {
+        "resourceBoxId": 8000
+      }
+    ],
+    "sentence": "在活动“向着星星，启航！”的兑换所消耗20000个徽章。",
+    "seq": 6
+  },
+  {
+    "eventId": 124,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "join_virtual_live",
+    "id": 351,
+    "requirement1": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8000
+      }
+    ],
+    "sentence": "参加“向着星星，启航！ 后日谈·演唱会”。",
+    "seq": 7
+  },
+  {
+    "eventId": 124,
+    "eventMissionCategory": "complete",
+    "eventMissionType": "achieve_event_mission",
+    "id": 352,
+    "requirement1": 7,
+    "rewards": [
+      {
+        "resourceBoxId": 8001
+      }
+    ],
+    "sentence": "完成所有7个任务。",
+    "seq": 8
+  },
+  {
+    "eventId": 125,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_daily",
+    "id": 353,
+    "requirement1": 6,
+    "rewards": [
+      {
+        "resourceBoxId": 8000
+      }
+    ],
+    "sentence": "1天完成1次演出累计达到6天。",
+    "seq": 1
+  },
+  {
+    "eventId": 125,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "any_live_clear",
+    "id": 354,
+    "requirement1": 50,
+    "rewards": [
+      {
+        "resourceBoxId": 8000
+      }
+    ],
+    "sentence": "完成50次演出。",
+    "seq": 2
+  },
+  {
+    "eventId": 125,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_full_combo",
+    "id": 355,
+    "requirement1": 10,
+    "rewards": [
+      {
+        "resourceBoxId": 8000
+      }
+    ],
+    "sentence": "在演出中以FULL COMBO完成歌曲达到10次。",
+    "seq": 3
+  },
+  {
+    "eventId": 125,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_different_music",
+    "id": 356,
+    "requirement1": 10,
+    "requirement2": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8000
+      }
+    ],
+    "sentence": "在演出中完成10首歌曲。",
+    "seq": 4
+  },
+  {
+    "eventId": 125,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "read_last_event_story_episode",
+    "id": 357,
+    "requirement1": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8000
+      }
+    ],
+    "sentence": "观看活动“The first concerto”的活动剧情第8话。",
+    "seq": 5
+  },
+  {
+    "eventId": 125,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "consume_event_item",
+    "id": 358,
+    "requirement1": 20000,
+    "rewards": [
+      {
+        "resourceBoxId": 8000
+      }
+    ],
+    "sentence": "在活动“The first concerto”的兑换所消耗20000个徽章。",
+    "seq": 6
+  },
+  {
+    "eventId": 125,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "join_virtual_live",
+    "id": 359,
+    "requirement1": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8000
+      }
+    ],
+    "sentence": "参加“The first concerto 后日谈·演唱会”。",
+    "seq": 7
+  },
+  {
+    "eventId": 125,
+    "eventMissionCategory": "complete",
+    "eventMissionType": "achieve_event_mission",
+    "id": 360,
+    "requirement1": 7,
+    "rewards": [
+      {
+        "resourceBoxId": 8001
+      }
+    ],
+    "sentence": "完成所有7个任务。",
+    "seq": 8
+  },
+  {
+    "eventId": 126,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_daily",
+    "id": 361,
+    "requirement1": 6,
+    "rewards": [
+      {
+        "resourceBoxId": 8000
+      }
+    ],
+    "sentence": "1天完成1次演出累计达到6天。",
+    "seq": 1
+  },
+  {
+    "eventId": 126,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "any_live_clear",
+    "id": 362,
+    "requirement1": 50,
+    "rewards": [
+      {
+        "resourceBoxId": 8000
+      }
+    ],
+    "sentence": "完成50次演出。",
+    "seq": 2
+  },
+  {
+    "eventId": 126,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_full_combo",
+    "id": 363,
+    "requirement1": 10,
+    "rewards": [
+      {
+        "resourceBoxId": 8000
+      }
+    ],
+    "sentence": "在演出中以FULL COMBO完成歌曲达到10次。",
+    "seq": 3
+  },
+  {
+    "eventId": 126,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_different_music",
+    "id": 364,
+    "requirement1": 10,
+    "requirement2": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8000
+      }
+    ],
+    "sentence": "在演出中完成10首歌曲。",
+    "seq": 4
+  },
+  {
+    "eventId": 126,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "read_last_event_story_episode",
+    "id": 365,
+    "requirement1": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8000
+      }
+    ],
+    "sentence": "观看活动“Rise as ONE！”的活动剧情第8话。",
+    "seq": 5
+  },
+  {
+    "eventId": 126,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "consume_event_item",
+    "id": 366,
+    "requirement1": 20000,
+    "rewards": [
+      {
+        "resourceBoxId": 8000
+      }
+    ],
+    "sentence": "在活动“Rise as ONE！”的兑换所消耗20000个徽章。",
+    "seq": 6
+  },
+  {
+    "eventId": 126,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "join_virtual_live",
+    "id": 367,
+    "requirement1": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8000
+      }
+    ],
+    "sentence": "参加“Rise as ONE！ 后日谈·演唱会”。",
+    "seq": 7
+  },
+  {
+    "eventId": 126,
+    "eventMissionCategory": "complete",
+    "eventMissionType": "achieve_event_mission",
+    "id": 368,
+    "requirement1": 7,
+    "rewards": [
+      {
+        "resourceBoxId": 8001
+      }
+    ],
+    "sentence": "完成所有7个任务。",
+    "seq": 8
+  },
+  {
+    "eventId": 127,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_daily",
+    "id": 369,
+    "requirement1": 6,
+    "rewards": [
+      {
+        "resourceBoxId": 8000
+      }
+    ],
+    "sentence": "1天完成1次演出累计达到6天。",
+    "seq": 1
+  },
+  {
+    "eventId": 127,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "any_live_clear",
+    "id": 370,
+    "requirement1": 50,
+    "rewards": [
+      {
+        "resourceBoxId": 8000
+      }
+    ],
+    "sentence": "完成50次演出。",
+    "seq": 2
+  },
+  {
+    "eventId": 127,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_full_combo",
+    "id": 371,
+    "requirement1": 10,
+    "rewards": [
+      {
+        "resourceBoxId": 8000
+      }
+    ],
+    "sentence": "在演出中以FULL COMBO完成歌曲达到10次。",
+    "seq": 3
+  },
+  {
+    "eventId": 127,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_different_music",
+    "id": 372,
+    "requirement1": 10,
+    "requirement2": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8000
+      }
+    ],
+    "sentence": "在演出中完成10首歌曲。",
+    "seq": 4
+  },
+  {
+    "eventId": 127,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "read_last_event_story_episode",
+    "id": 373,
+    "requirement1": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8000
+      }
+    ],
+    "sentence": "观看活动“Knowing the Unseen”的活动剧情第8话。",
+    "seq": 5
+  },
+  {
+    "eventId": 127,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "consume_event_item",
+    "id": 374,
+    "requirement1": 20000,
+    "rewards": [
+      {
+        "resourceBoxId": 8000
+      }
+    ],
+    "sentence": "在活动“Knowing the Unseen”的兑换所消耗20000个徽章。",
+    "seq": 6
+  },
+  {
+    "eventId": 127,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "join_virtual_live",
+    "id": 375,
+    "requirement1": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8000
+      }
+    ],
+    "sentence": "参加“Knowing the Unseen 后日谈·演唱会”。",
+    "seq": 7
+  },
+  {
+    "eventId": 127,
+    "eventMissionCategory": "complete",
+    "eventMissionType": "achieve_event_mission",
+    "id": 376,
+    "requirement1": 7,
+    "rewards": [
+      {
+        "resourceBoxId": 8001
+      }
+    ],
+    "sentence": "完成所有7个任务。",
+    "seq": 8
+  },
+  {
+    "eventId": 128,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_daily",
+    "id": 377,
+    "requirement1": 6,
+    "rewards": [
+      {
+        "resourceBoxId": 8000
+      }
+    ],
+    "sentence": "1天完成1次演出累计达到6天。",
+    "seq": 1
+  },
+  {
+    "eventId": 128,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "any_live_clear",
+    "id": 378,
+    "requirement1": 50,
+    "rewards": [
+      {
+        "resourceBoxId": 8000
+      }
+    ],
+    "sentence": "完成50次演出。",
+    "seq": 2
+  },
+  {
+    "eventId": 128,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_full_combo",
+    "id": 379,
+    "requirement1": 10,
+    "rewards": [
+      {
+        "resourceBoxId": 8000
+      }
+    ],
+    "sentence": "在演出中以FULL COMBO完成歌曲达到10次。",
+    "seq": 3
+  },
+  {
+    "eventId": 128,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_different_music",
+    "id": 380,
+    "requirement1": 10,
+    "requirement2": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8000
+      }
+    ],
+    "sentence": "在演出中完成10首歌曲。",
+    "seq": 4
+  },
+  {
+    "eventId": 128,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "read_last_event_story_episode",
+    "id": 381,
+    "requirement1": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8000
+      }
+    ],
+    "sentence": "观看活动“Parallel Harmonies”的活动剧情第8话。",
+    "seq": 5
+  },
+  {
+    "eventId": 128,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "consume_event_item",
+    "id": 382,
+    "requirement1": 20000,
+    "rewards": [
+      {
+        "resourceBoxId": 8000
+      }
+    ],
+    "sentence": "在活动“Parallel Harmonies”的兑换所消耗20000个徽章。",
+    "seq": 6
+  },
+  {
+    "eventId": 128,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "join_virtual_live",
+    "id": 383,
+    "requirement1": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8000
+      }
+    ],
+    "sentence": "参加“Parallel Harmonies 后日谈·演唱会”。",
+    "seq": 7
+  },
+  {
+    "eventId": 128,
+    "eventMissionCategory": "complete",
+    "eventMissionType": "achieve_event_mission",
+    "id": 384,
+    "requirement1": 7,
+    "rewards": [
+      {
+        "resourceBoxId": 8001
+      }
+    ],
+    "sentence": "完成所有7个任务。",
+    "seq": 8
+  },
+  {
+    "eventId": 129,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_daily",
+    "id": 385,
+    "requirement1": 6,
+    "rewards": [
+      {
+        "resourceBoxId": 8000
+      }
+    ],
+    "sentence": "1天完成1次演出累计达到6天。",
+    "seq": 1
+  },
+  {
+    "eventId": 129,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "any_live_clear",
+    "id": 386,
+    "requirement1": 50,
+    "rewards": [
+      {
+        "resourceBoxId": 8000
+      }
+    ],
+    "sentence": "完成50次演出。",
+    "seq": 2
+  },
+  {
+    "eventId": 129,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_full_combo",
+    "id": 387,
+    "requirement1": 10,
+    "rewards": [
+      {
+        "resourceBoxId": 8000
+      }
+    ],
+    "sentence": "在演出中以FULL COMBO完成歌曲达到10次。",
+    "seq": 3
+  },
+  {
+    "eventId": 129,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_different_music",
+    "id": 388,
+    "requirement1": 10,
+    "requirement2": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8000
+      }
+    ],
+    "sentence": "在演出中完成10首歌曲。",
+    "seq": 4
+  },
+  {
+    "eventId": 129,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "read_last_event_story_episode",
+    "id": 389,
+    "requirement1": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8000
+      }
+    ],
+    "sentence": "观看活动“Whip the wimp girl!!”的活动剧情第8话。",
+    "seq": 5
+  },
+  {
+    "eventId": 129,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "consume_event_item",
+    "id": 390,
+    "requirement1": 20000,
+    "rewards": [
+      {
+        "resourceBoxId": 8000
+      }
+    ],
+    "sentence": "在活动“Whip the wimp girl!!”的兑换所消耗20000个徽章。",
+    "seq": 6
+  },
+  {
+    "eventId": 129,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "join_virtual_live",
+    "id": 391,
+    "requirement1": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8000
+      }
+    ],
+    "sentence": "参加“Whip the wimp girl!! 后日谈·演唱会”。",
+    "seq": 7
+  },
+  {
+    "eventId": 129,
+    "eventMissionCategory": "complete",
+    "eventMissionType": "achieve_event_mission",
+    "id": 392,
+    "requirement1": 7,
+    "rewards": [
+      {
+        "resourceBoxId": 8001
+      }
+    ],
+    "sentence": "完成所有7个任务。",
+    "seq": 8
+  },
+  {
+    "eventId": 130,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_daily",
+    "id": 393,
+    "requirement1": 8,
+    "rewards": [
+      {
+        "resourceBoxId": 8000
+      }
+    ],
+    "sentence": "1天完成1次演出累计达到8天。",
+    "seq": 1
+  },
+  {
+    "eventId": 130,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "any_live_clear",
+    "id": 394,
+    "requirement1": 50,
+    "rewards": [
+      {
+        "resourceBoxId": 8000
+      }
+    ],
+    "sentence": "完成50次演出。",
+    "seq": 2
+  },
+  {
+    "eventId": 130,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_full_combo",
+    "id": 395,
+    "requirement1": 10,
+    "rewards": [
+      {
+        "resourceBoxId": 8000
+      }
+    ],
+    "sentence": "在演出中以FULL COMBO完成歌曲达到10次。",
+    "seq": 3
+  },
+  {
+    "eventId": 130,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_different_music",
+    "id": 396,
+    "requirement1": 10,
+    "requirement2": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8000
+      }
+    ],
+    "sentence": "在演出中完成10首歌曲。",
+    "seq": 4
+  },
+  {
+    "eventId": 130,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "read_last_event_story_episode",
+    "id": 397,
+    "requirement1": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8000
+      }
+    ],
+    "sentence": "观看活动“总有一日，登上鲜花盛放的舞台”的结局。",
+    "seq": 5
+  },
+  {
+    "eventId": 130,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "consume_event_item",
+    "id": 398,
+    "requirement1": 20000,
+    "rewards": [
+      {
+        "resourceBoxId": 8000
+      }
+    ],
+    "sentence": "在活动“总有一日，登上鲜花盛放的舞台”的兑换所消耗20000个徽章。",
+    "seq": 6
+  },
+  {
+    "eventId": 130,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "join_virtual_live",
+    "id": 399,
+    "requirement1": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8000
+      }
+    ],
+    "sentence": "参加“总有一日，登上鲜花盛放的舞台 后日谈·演唱会”。",
+    "seq": 7
+  },
+  {
+    "eventId": 130,
+    "eventMissionCategory": "complete",
+    "eventMissionType": "achieve_event_mission",
+    "id": 400,
+    "requirement1": 7,
+    "rewards": [
+      {
+        "resourceBoxId": 8001
+      }
+    ],
+    "sentence": "完成所有7个任务。",
+    "seq": 8
+  },
+  {
+    "eventId": 131,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_daily",
+    "id": 401,
+    "requirement1": 6,
+    "rewards": [
+      {
+        "resourceBoxId": 8000
+      }
+    ],
+    "sentence": "1天完成1次演出累计达到6天。",
+    "seq": 1
+  },
+  {
+    "eventId": 131,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "any_live_clear",
+    "id": 402,
+    "requirement1": 50,
+    "rewards": [
+      {
+        "resourceBoxId": 8000
+      }
+    ],
+    "sentence": "完成50次演出。",
+    "seq": 2
+  },
+  {
+    "eventId": 131,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_full_combo",
+    "id": 403,
+    "requirement1": 10,
+    "rewards": [
+      {
+        "resourceBoxId": 8000
+      }
+    ],
+    "sentence": "在演出中以FULL COMBO完成歌曲达到10次。",
+    "seq": 3
+  },
+  {
+    "eventId": 131,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_different_music",
+    "id": 404,
+    "requirement1": 10,
+    "requirement2": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8000
+      }
+    ],
+    "sentence": "在演出中完成10首歌曲。",
+    "seq": 4
+  },
+  {
+    "eventId": 131,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "read_last_event_story_episode",
+    "id": 405,
+    "requirement1": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8000
+      }
+    ],
+    "sentence": "观看活动“perspective for smile”的活动剧情第8话。",
+    "seq": 5
+  },
+  {
+    "eventId": 131,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "consume_event_item",
+    "id": 406,
+    "requirement1": 20000,
+    "rewards": [
+      {
+        "resourceBoxId": 8000
+      }
+    ],
+    "sentence": "在活动“perspective for smile”的兑换所消耗20000个徽章。",
+    "seq": 6
+  },
+  {
+    "eventId": 131,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "join_virtual_live",
+    "id": 407,
+    "requirement1": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8000
+      }
+    ],
+    "sentence": "参加“perspective for smile 后日谈·演唱会”。",
+    "seq": 7
+  },
+  {
+    "eventId": 131,
+    "eventMissionCategory": "complete",
+    "eventMissionType": "achieve_event_mission",
+    "id": 408,
+    "requirement1": 7,
+    "rewards": [
+      {
+        "resourceBoxId": 8001
+      }
+    ],
+    "sentence": "完成所有7个任务。",
+    "seq": 8
+  },
+  {
+    "eventId": 132,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_daily",
+    "id": 409,
+    "requirement1": 6,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "1天完成1次演出累计达到6天。",
+    "seq": 1
+  },
+  {
+    "eventId": 132,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "any_live_clear",
+    "id": 410,
+    "requirement1": 50,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "完成50次演出。",
+    "seq": 2
+  },
+  {
+    "eventId": 132,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_full_combo",
+    "id": 411,
+    "requirement1": 10,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在演出中以FULL COMBO完成歌曲达到10次。",
+    "seq": 3
+  },
+  {
+    "eventId": 132,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_different_music",
+    "id": 412,
+    "requirement1": 10,
+    "requirement2": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在演出中完成10首歌曲。",
+    "seq": 4
+  },
+  {
+    "eventId": 132,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "read_last_event_story_episode",
+    "id": 413,
+    "requirement1": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "观看活动“大家来直播♡WEDDING LIVE！”的活动剧情第8话。",
+    "seq": 5
+  },
+  {
+    "eventId": 132,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "consume_event_item",
+    "id": 414,
+    "requirement1": 20000,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在活动“大家来直播♡WEDDING LIVE！”的兑换所消耗20000个徽章。",
+    "seq": 6
+  },
+  {
+    "eventId": 132,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "join_virtual_live",
+    "id": 415,
+    "requirement1": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "参加“大家来直播♡WEDDING LIVE！ 后日谈·演唱会”。",
+    "seq": 7
+  },
+  {
+    "eventId": 132,
+    "eventMissionCategory": "complete_selectable_reward",
+    "eventMissionSelectableRewardGroupId": 1,
+    "eventMissionType": "achieve_event_mission",
+    "id": 416,
+    "requirement1": 7,
+    "rewards": [],
+    "sentence": "完成所有7个任务。",
+    "seq": 8
+  },
+  {
+    "eventId": 133,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_daily",
+    "id": 417,
+    "requirement1": 6,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "1天完成1次演出累计达到6天。",
+    "seq": 1
+  },
+  {
+    "eventId": 133,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "any_live_clear",
+    "id": 418,
+    "requirement1": 50,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "完成50次演出。",
+    "seq": 2
+  },
+  {
+    "eventId": 133,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_full_combo",
+    "id": 419,
+    "requirement1": 10,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在演出中以FULL COMBO完成歌曲达到10次。",
+    "seq": 3
+  },
+  {
+    "eventId": 133,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_different_music",
+    "id": 420,
+    "requirement1": 10,
+    "requirement2": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在演出中完成10首歌曲。",
+    "seq": 4
+  },
+  {
+    "eventId": 133,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "read_last_event_story_episode",
+    "id": 421,
+    "requirement1": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "观看活动“Lead to shine more”的活动剧情第8话。",
+    "seq": 5
+  },
+  {
+    "eventId": 133,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "consume_event_item",
+    "id": 422,
+    "requirement1": 20000,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在活动“Lead to shine more”的兑换所消耗20000个徽章。",
+    "seq": 6
+  },
+  {
+    "eventId": 133,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "join_virtual_live",
+    "id": 423,
+    "requirement1": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "参加“Lead to shine more 后日谈·演唱会”。",
+    "seq": 7
+  },
+  {
+    "eventId": 133,
+    "eventMissionCategory": "complete_selectable_reward",
+    "eventMissionSelectableRewardGroupId": 1,
+    "eventMissionType": "achieve_event_mission",
+    "id": 424,
+    "requirement1": 7,
+    "rewards": [],
+    "sentence": "完成所有7个任务。",
+    "seq": 8
+  },
+  {
+    "eventId": 134,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_daily",
+    "id": 425,
+    "requirement1": 6,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "1天完成1次演出累计达到6天。",
+    "seq": 1
+  },
+  {
+    "eventId": 134,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "any_live_clear",
+    "id": 426,
+    "requirement1": 50,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "完成50次演出。",
+    "seq": 2
+  },
+  {
+    "eventId": 134,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_full_combo",
+    "id": 427,
+    "requirement1": 10,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在演出中以FULL COMBO完成歌曲达到10次。",
+    "seq": 3
+  },
+  {
+    "eventId": 134,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_different_music",
+    "id": 428,
+    "requirement1": 10,
+    "requirement2": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在演出中完成10首歌曲。",
+    "seq": 4
+  },
+  {
+    "eventId": 134,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "read_last_event_story_episode",
+    "id": 429,
+    "requirement1": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "观看活动“揽灯近前”的活动剧情第8话。",
+    "seq": 5
+  },
+  {
+    "eventId": 134,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "consume_event_item",
+    "id": 430,
+    "requirement1": 20000,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在活动“揽灯近前”的兑换所消耗20000个徽章。",
+    "seq": 6
+  },
+  {
+    "eventId": 134,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "join_virtual_live",
+    "id": 431,
+    "requirement1": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "参加“揽灯近前 后日谈·演唱会”。",
+    "seq": 7
+  },
+  {
+    "eventId": 134,
+    "eventMissionCategory": "complete_selectable_reward",
+    "eventMissionSelectableRewardGroupId": 1,
+    "eventMissionType": "achieve_event_mission",
+    "id": 432,
+    "requirement1": 7,
+    "rewards": [],
+    "sentence": "完成所有7个任务。",
+    "seq": 8
+  },
+  {
+    "eventId": 135,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_daily",
+    "id": 433,
+    "requirement1": 6,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "1天完成1次演出累计达到6天。",
+    "seq": 1
+  },
+  {
+    "eventId": 135,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "any_live_clear",
+    "id": 434,
+    "requirement1": 50,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "完成50次演出。",
+    "seq": 2
+  },
+  {
+    "eventId": 135,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_full_combo",
+    "id": 435,
+    "requirement1": 10,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在演出中以FULL COMBO完成歌曲达到10次。",
+    "seq": 3
+  },
+  {
+    "eventId": 135,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_different_music",
+    "id": 436,
+    "requirement1": 10,
+    "requirement2": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在演出中完成10首歌曲。",
+    "seq": 4
+  },
+  {
+    "eventId": 135,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "read_last_event_story_episode",
+    "id": 437,
+    "requirement1": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "观看活动“OVER RAD SQUAD!!”的活动剧情第8话。",
+    "seq": 5
+  },
+  {
+    "eventId": 135,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "consume_event_item",
+    "id": 438,
+    "requirement1": 20000,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在活动“OVER RAD SQUAD!!”的兑换所消耗20000个徽章。",
+    "seq": 6
+  },
+  {
+    "eventId": 135,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "join_virtual_live",
+    "id": 439,
+    "requirement1": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "参加“OVER RAD SQUAD!! 后日谈·演唱会”。",
+    "seq": 7
+  },
+  {
+    "eventId": 135,
+    "eventMissionCategory": "complete_selectable_reward",
+    "eventMissionSelectableRewardGroupId": 1,
+    "eventMissionType": "achieve_event_mission",
+    "id": 440,
+    "requirement1": 7,
+    "rewards": [],
+    "sentence": "完成所有7个任务。",
+    "seq": 8
+  },
+  {
+    "eventId": 136,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_daily",
+    "id": 441,
+    "requirement1": 6,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "1天完成1次演出累计达到6天。",
+    "seq": 1
+  },
+  {
+    "eventId": 136,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "any_live_clear",
+    "id": 442,
+    "requirement1": 50,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "完成50次演出。",
+    "seq": 2
+  },
+  {
+    "eventId": 136,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_full_combo",
+    "id": 443,
+    "requirement1": 10,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在演出中以FULL COMBO完成歌曲达到10次。",
+    "seq": 3
+  },
+  {
+    "eventId": 136,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_different_music",
+    "id": 444,
+    "requirement1": 10,
+    "requirement2": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在演出中完成10首歌曲。",
+    "seq": 4
+  },
+  {
+    "eventId": 136,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "read_last_event_story_episode",
+    "id": 445,
+    "requirement1": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "观看活动“捉拿归案？！天马捕物帐”的活动剧情第8话。",
+    "seq": 5
+  },
+  {
+    "eventId": 136,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "consume_event_item",
+    "id": 446,
+    "requirement1": 20000,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在活动“捉拿归案？！天马捕物帐”的兑换所消耗20000个徽章。",
+    "seq": 6
+  },
+  {
+    "eventId": 136,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "join_virtual_live",
+    "id": 447,
+    "requirement1": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "参加“捉拿归案？！天马捕物帐 后日谈·演唱会”。",
+    "seq": 7
+  },
+  {
+    "eventId": 136,
+    "eventMissionCategory": "complete_selectable_reward",
+    "eventMissionSelectableRewardGroupId": 1,
+    "eventMissionType": "achieve_event_mission",
+    "id": 448,
+    "requirement1": 7,
+    "rewards": [],
+    "sentence": "完成所有7个任务。",
+    "seq": 8
+  },
+  {
+    "eventId": 137,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_daily",
+    "id": 449,
+    "requirement1": 8,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "1天完成1次演出累计达到8天。",
+    "seq": 1
+  },
+  {
+    "eventId": 137,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "any_live_clear",
+    "id": 450,
+    "requirement1": 50,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "完成50次演出。",
+    "seq": 2
+  },
+  {
+    "eventId": 137,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_full_combo",
+    "id": 451,
+    "requirement1": 10,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在演出中以FULL COMBO完成歌曲达到10次。",
+    "seq": 3
+  },
+  {
+    "eventId": 137,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_different_music",
+    "id": 452,
+    "requirement1": 10,
+    "requirement2": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在演出中完成10首歌曲。",
+    "seq": 4
+  },
+  {
+    "eventId": 137,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "read_last_event_story_episode",
+    "id": 453,
+    "requirement1": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "观看活动“那天仰望的夜空，将通向我们的未来”的结局。",
+    "seq": 5
+  },
+  {
+    "eventId": 137,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "consume_event_item",
+    "id": 454,
+    "requirement1": 20000,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在活动“那天仰望的夜空，将通向我们的未来”的兑换所消耗20000个徽章。",
+    "seq": 6
+  },
+  {
+    "eventId": 137,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "join_virtual_live",
+    "id": 455,
+    "requirement1": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "参加“那天仰望的夜空，将通向我们的未来 后日谈·演唱会”。",
+    "seq": 7
+  },
+  {
+    "eventId": 137,
+    "eventMissionCategory": "complete_selectable_reward",
+    "eventMissionSelectableRewardGroupId": 1,
+    "eventMissionType": "achieve_event_mission",
+    "id": 456,
+    "requirement1": 7,
+    "rewards": [],
+    "sentence": "完成所有7个任务。",
+    "seq": 8
+  },
+  {
+    "eventId": 138,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_daily",
+    "id": 457,
+    "requirement1": 6,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "1天完成1次演出累计达到6天。",
+    "seq": 1
+  },
+  {
+    "eventId": 138,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "any_live_clear",
+    "id": 458,
+    "requirement1": 50,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "完成50次演出。",
+    "seq": 2
+  },
+  {
+    "eventId": 138,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_full_combo",
+    "id": 459,
+    "requirement1": 10,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在演出中以FULL COMBO完成歌曲达到10次。",
+    "seq": 3
+  },
+  {
+    "eventId": 138,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_different_music",
+    "id": 460,
+    "requirement1": 10,
+    "requirement2": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在演出中完成10首歌曲。",
+    "seq": 4
+  },
+  {
+    "eventId": 138,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "read_last_event_story_episode",
+    "id": 461,
+    "requirement1": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "观看活动“Chase my IDEAL IDOL！”的活动剧情第8话。",
+    "seq": 5
+  },
+  {
+    "eventId": 138,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "consume_event_item",
+    "id": 462,
+    "requirement1": 20000,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在活动“Chase my IDEAL IDOL！”的兑换所消耗20000个徽章。",
+    "seq": 6
+  },
+  {
+    "eventId": 138,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "join_virtual_live",
+    "id": 463,
+    "requirement1": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "参加“Chase my IDEAL IDOL！ 后日谈·演唱会”。",
+    "seq": 7
+  },
+  {
+    "eventId": 138,
+    "eventMissionCategory": "complete_selectable_reward",
+    "eventMissionSelectableRewardGroupId": 1,
+    "eventMissionType": "achieve_event_mission",
+    "id": 464,
+    "requirement1": 7,
+    "rewards": [],
+    "sentence": "完成所有7个任务。",
+    "seq": 8
+  },
+  {
+    "eventId": 139,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_daily",
+    "id": 465,
+    "requirement1": 6,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "1天完成1次演出累计达到6天。",
+    "seq": 1
+  },
+  {
+    "eventId": 139,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "any_live_clear",
+    "id": 466,
+    "requirement1": 50,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "完成50次演出。",
+    "seq": 2
+  },
+  {
+    "eventId": 139,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_full_combo",
+    "id": 467,
+    "requirement1": 10,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在演出中以FULL COMBO完成歌曲达到10次。",
+    "seq": 3
+  },
+  {
+    "eventId": 139,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_different_music",
+    "id": 468,
+    "requirement1": 10,
+    "requirement2": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在演出中完成10首歌曲。",
+    "seq": 4
+  },
+  {
+    "eventId": 139,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "read_last_event_story_episode",
+    "id": 469,
+    "requirement1": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "观看活动“奏响美妙乐音！”的活动剧情第8话。",
+    "seq": 5
+  },
+  {
+    "eventId": 139,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "consume_event_item",
+    "id": 470,
+    "requirement1": 20000,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在活动“奏响美妙乐音！”的兑换所消耗20000个徽章。",
+    "seq": 6
+  },
+  {
+    "eventId": 139,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "join_virtual_live",
+    "id": 471,
+    "requirement1": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "参加“奏响美妙乐音！ 后日谈·演唱会”。",
+    "seq": 7
+  },
+  {
+    "eventId": 139,
+    "eventMissionCategory": "complete_selectable_reward",
+    "eventMissionSelectableRewardGroupId": 1,
+    "eventMissionType": "achieve_event_mission",
+    "id": 472,
+    "requirement1": 7,
+    "rewards": [],
+    "sentence": "完成所有7个任务。",
+    "seq": 8
+  },
+  {
+    "eventId": 140,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_daily",
+    "id": 473,
+    "requirement1": 12,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "1天完成1次演出累计达到12天。",
+    "seq": 1
+  },
+  {
+    "eventId": 140,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "any_live_clear",
+    "id": 474,
+    "requirement1": 50,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "完成50次演出。",
+    "seq": 2
+  },
+  {
+    "eventId": 140,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_full_combo",
+    "id": 475,
+    "requirement1": 10,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在演出中以FULL COMBO完成歌曲达到10次。",
+    "seq": 3
+  },
+  {
+    "eventId": 140,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_different_music",
+    "id": 476,
+    "requirement1": 10,
+    "requirement2": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在演出中完成10首歌曲。",
+    "seq": 4
+  },
+  {
+    "eventId": 140,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "read_last_event_story_episode",
+    "id": 477,
+    "requirement1": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "观看活动“和你在「世界」的起点”的结局。",
+    "seq": 5
+  },
+  {
+    "eventId": 140,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "consume_event_item",
+    "id": 478,
+    "requirement1": 20000,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在活动“和你在「世界」的起点”的兑换所消耗20000个徽章。",
+    "seq": 6
+  },
+  {
+    "eventId": 140,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "join_virtual_live",
+    "id": 479,
+    "requirement1": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "参加“和你在「世界」的起点 后日谈·演唱会”。",
+    "seq": 7
+  },
+  {
+    "eventId": 140,
+    "eventMissionCategory": "complete_selectable_reward",
+    "eventMissionSelectableRewardGroupId": 1,
+    "eventMissionType": "achieve_event_mission",
+    "id": 480,
+    "requirement1": 7,
+    "rewards": [],
+    "sentence": "完成所有7个任务。",
+    "seq": 8
+  },
+  {
+    "eventId": 141,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_daily",
+    "id": 481,
+    "requirement1": 7,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "1天完成1次演出累计达到7天。",
+    "seq": 1
+  },
+  {
+    "eventId": 141,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "any_live_clear",
+    "id": 482,
+    "requirement1": 50,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "完成50次演出。",
+    "seq": 2
+  },
+  {
+    "eventId": 141,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_full_combo",
+    "id": 483,
+    "requirement1": 10,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在演出中以FULL COMBO完成歌曲达到10次。",
+    "seq": 3
+  },
+  {
+    "eventId": 141,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_different_music",
+    "id": 484,
+    "requirement1": 10,
+    "requirement2": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在演出中完成10首歌曲。",
+    "seq": 4
+  },
+  {
+    "eventId": 141,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "read_last_event_story_episode",
+    "id": 485,
+    "requirement1": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "观看活动“Wonderhorror～？！的试胆！”的活动剧情第8话。",
+    "seq": 5
+  },
+  {
+    "eventId": 141,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "consume_event_item",
+    "id": 486,
+    "requirement1": 20000,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在活动“Wonderhorror～？！的试胆！”的兑换所消耗20000个徽章。",
+    "seq": 6
+  },
+  {
+    "eventId": 141,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "join_virtual_live",
+    "id": 487,
+    "requirement1": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "参加“Wonderhorror～？！的试胆！ 后日谈·演唱会”。",
+    "seq": 7
+  },
+  {
+    "eventId": 141,
+    "eventMissionCategory": "complete_selectable_reward",
+    "eventMissionSelectableRewardGroupId": 1,
+    "eventMissionType": "achieve_event_mission",
+    "id": 488,
+    "requirement1": 7,
+    "rewards": [],
+    "sentence": "完成所有7个任务。",
+    "seq": 8
+  },
+  {
+    "eventId": 142,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_daily",
+    "id": 489,
+    "requirement1": 7,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "1天完成1次演出累计达到7天。",
+    "seq": 1
+  },
+  {
+    "eventId": 142,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "any_live_clear",
+    "id": 490,
+    "requirement1": 50,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "完成50次演出。",
+    "seq": 2
+  },
+  {
+    "eventId": 142,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_full_combo",
+    "id": 491,
+    "requirement1": 10,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在演出中以FULL COMBO完成歌曲达到10次。",
+    "seq": 3
+  },
+  {
+    "eventId": 142,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_different_music",
+    "id": 492,
+    "requirement1": 10,
+    "requirement2": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在演出中完成10首歌曲。",
+    "seq": 4
+  },
+  {
+    "eventId": 142,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "read_last_event_story_episode",
+    "id": 493,
+    "requirement1": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "观看活动“锻炼后FLY！Muscle Training！”的活动剧情第8话。",
+    "seq": 5
+  },
+  {
+    "eventId": 142,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "consume_event_item",
+    "id": 494,
+    "requirement1": 20000,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在活动“锻炼后FLY！Muscle Training！”的兑换所消耗20000个徽章。",
+    "seq": 6
+  },
+  {
+    "eventId": 142,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "join_virtual_live",
+    "id": 495,
+    "requirement1": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "参加“锻炼后FLY！Muscle Training！ 后日谈·演唱会”。",
+    "seq": 7
+  },
+  {
+    "eventId": 142,
+    "eventMissionCategory": "complete_selectable_reward",
+    "eventMissionSelectableRewardGroupId": 1,
+    "eventMissionType": "achieve_event_mission",
+    "id": 496,
+    "requirement1": 7,
+    "rewards": [],
+    "sentence": "完成所有7个任务。",
+    "seq": 8
+  },
+  {
+    "eventId": 143,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_daily",
+    "id": 497,
+    "requirement1": 7,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "1天完成1次演出累计达到7天。",
+    "seq": 1
+  },
+  {
+    "eventId": 143,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "any_live_clear",
+    "id": 498,
+    "requirement1": 50,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "完成50次演出。",
+    "seq": 2
+  },
+  {
+    "eventId": 143,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_full_combo",
+    "id": 499,
+    "requirement1": 10,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在演出中以FULL COMBO完成歌曲达到10次。",
+    "seq": 3
+  },
+  {
+    "eventId": 143,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_different_music",
+    "id": 500,
+    "requirement1": 10,
+    "requirement2": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在演出中完成10首歌曲。",
+    "seq": 4
+  },
+  {
+    "eventId": 143,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "read_last_event_story_episode",
+    "id": 501,
+    "requirement1": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "观看活动“This moment with you！”的活动剧情第8话。",
+    "seq": 5
+  },
+  {
+    "eventId": 143,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "consume_event_item",
+    "id": 502,
+    "requirement1": 20000,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在活动“This moment with you！”的兑换所消耗20000个徽章。",
+    "seq": 6
+  },
+  {
+    "eventId": 143,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "join_virtual_live",
+    "id": 503,
+    "requirement1": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "参加“This moment with you！ 后日谈·演唱会”。",
+    "seq": 7
+  },
+  {
+    "eventId": 143,
+    "eventMissionCategory": "complete_selectable_reward",
+    "eventMissionSelectableRewardGroupId": 1,
+    "eventMissionType": "achieve_event_mission",
+    "id": 504,
+    "requirement1": 7,
+    "rewards": [],
+    "sentence": "完成所有7个任务。",
+    "seq": 8
+  },
+  {
+    "eventId": 144,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_daily",
+    "id": 505,
+    "requirement1": 10,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "1天完成1次演出累计达到10天。",
+    "seq": 1
+  },
+  {
+    "eventId": 144,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "any_live_clear",
+    "id": 506,
+    "requirement1": 50,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "完成50次演出。",
+    "seq": 2
+  },
+  {
+    "eventId": 144,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_full_combo",
+    "id": 507,
+    "requirement1": 10,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在演出中以FULL COMBO完成歌曲达到10次。",
+    "seq": 3
+  },
+  {
+    "eventId": 144,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_different_music",
+    "id": 508,
+    "requirement1": 10,
+    "requirement2": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在演出中完成10首歌曲。",
+    "seq": 4
+  },
+  {
+    "eventId": 144,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "read_last_event_story_episode",
+    "id": 509,
+    "requirement1": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "观看活动“承载心愿！Dream Stage",
+    "seq": 5
+  },
+  {
+    "eventId": 144,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "consume_event_item",
+    "id": 510,
+    "requirement1": 20000,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在活动“承载心愿！Dream Stage”的兑换所消耗20000个徽章。",
+    "seq": 6
+  },
+  {
+    "eventId": 144,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "join_virtual_live",
+    "id": 511,
+    "requirement1": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "参加“承载心愿！Dream Stage 后日谈·演唱会”。",
+    "seq": 7
+  },
+  {
+    "eventId": 144,
+    "eventMissionCategory": "complete_selectable_reward",
+    "eventMissionSelectableRewardGroupId": 1,
+    "eventMissionType": "achieve_event_mission",
+    "id": 512,
+    "requirement1": 7,
+    "rewards": [],
+    "sentence": "完成所有7个任务。",
+    "seq": 8
+  },
+  {
+    "eventId": 145,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_daily",
+    "id": 513,
+    "requirement1": 8,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "1天完成1次演出累计达到8天。",
+    "seq": 1
+  },
+  {
+    "eventId": 145,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "any_live_clear",
+    "id": 514,
+    "requirement1": 50,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "完成50次演出。",
+    "seq": 2
+  },
+  {
+    "eventId": 145,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_full_combo",
+    "id": 515,
+    "requirement1": 10,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在演出中以FULL COMBO完成歌曲达到10次。",
+    "seq": 3
+  },
+  {
+    "eventId": 145,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_different_music",
+    "id": 516,
+    "requirement1": 10,
+    "requirement2": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在演出中完成10首歌曲。",
+    "seq": 4
+  },
+  {
+    "eventId": 145,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "read_last_event_story_episode",
+    "id": 517,
+    "requirement1": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "观看活动“荆棘之路通往何处”的活动剧情第8话。",
+    "seq": 5
+  },
+  {
+    "eventId": 145,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "consume_event_item",
+    "id": 518,
+    "requirement1": 20000,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在活动“荆棘之路通往何处”的兑换所消耗20000个徽章。",
+    "seq": 6
+  },
+  {
+    "eventId": 145,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "join_virtual_live",
+    "id": 519,
+    "requirement1": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "参加“荆棘之路通往何处 后日谈·演唱会”。",
+    "seq": 7
+  },
+  {
+    "eventId": 145,
+    "eventMissionCategory": "complete_selectable_reward",
+    "eventMissionSelectableRewardGroupId": 1,
+    "eventMissionType": "achieve_event_mission",
+    "id": 520,
+    "requirement1": 7,
+    "rewards": [],
+    "sentence": "完成所有7个任务。",
+    "seq": 8
+  },
+  {
+    "eventId": 146,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_daily",
+    "id": 521,
+    "requirement1": 9,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "1天完成1次演出累计达到9天。",
+    "seq": 1
+  },
+  {
+    "eventId": 146,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "any_live_clear",
+    "id": 522,
+    "requirement1": 50,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "完成50次演出。",
+    "seq": 2
+  },
+  {
+    "eventId": 146,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_full_combo",
+    "id": 523,
+    "requirement1": 10,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在演出中以FULL COMBO完成歌曲达到10次。",
+    "seq": 3
+  },
+  {
+    "eventId": 146,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_different_music",
+    "id": 524,
+    "requirement1": 10,
+    "requirement2": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在演出中完成10首歌曲。",
+    "seq": 4
+  },
+  {
+    "eventId": 146,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "read_last_event_story_episode",
+    "id": 525,
+    "requirement1": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "观看活动“Rekindle the flame”的活动剧情第8话。",
+    "seq": 5
+  },
+  {
+    "eventId": 146,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "consume_event_item",
+    "id": 526,
+    "requirement1": 20000,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在活动“Rekindle the flame”的兑换所消耗20000个徽章。",
+    "seq": 6
+  },
+  {
+    "eventId": 146,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "join_virtual_live",
+    "id": 527,
+    "requirement1": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "参加“Rekindle the flame 后日谈·演唱会”。",
+    "seq": 7
+  },
+  {
+    "eventId": 146,
+    "eventMissionCategory": "complete_selectable_reward",
+    "eventMissionSelectableRewardGroupId": 1,
+    "eventMissionType": "achieve_event_mission",
+    "id": 528,
+    "requirement1": 7,
+    "rewards": [],
+    "sentence": "完成所有7个任务。",
+    "seq": 8
+  },
+  {
+    "eventId": 147,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_daily",
+    "id": 529,
+    "requirement1": 9,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "1天完成1次演出累计达到9天。",
+    "seq": 1
+  },
+  {
+    "eventId": 147,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "any_live_clear",
+    "id": 530,
+    "requirement1": 50,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "完成50次演出。",
+    "seq": 2
+  },
+  {
+    "eventId": 147,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_full_combo",
+    "id": 531,
+    "requirement1": 10,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在演出中以FULL COMBO完成歌曲达到10次。",
+    "seq": 3
+  },
+  {
+    "eventId": 147,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_different_music",
+    "id": 532,
+    "requirement1": 10,
+    "requirement2": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在演出中完成10首歌曲。",
+    "seq": 4
+  },
+  {
+    "eventId": 147,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "read_last_event_story_episode",
+    "id": 533,
+    "requirement1": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "观看活动“Happy Enjoy Music！”的活动剧情第8话。",
+    "seq": 5
+  },
+  {
+    "eventId": 147,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "consume_event_item",
+    "id": 534,
+    "requirement1": 20000,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在活动“Happy Enjoy Music！”的兑换所消耗20000个徽章。",
+    "seq": 6
+  },
+  {
+    "eventId": 147,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "join_virtual_live",
+    "id": 535,
+    "requirement1": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "参加“Happy Enjoy Music！ 后日谈·演唱会”。",
+    "seq": 7
+  },
+  {
+    "eventId": 147,
+    "eventMissionCategory": "complete_selectable_reward",
+    "eventMissionSelectableRewardGroupId": 1,
+    "eventMissionType": "achieve_event_mission",
+    "id": 536,
+    "requirement1": 7,
+    "rewards": [],
+    "sentence": "完成所有7个任务。",
+    "seq": 8
+  },
+  {
+    "eventId": 148,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_daily",
+    "id": 537,
+    "requirement1": 9,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "1天完成1次演出累计达到9天。",
+    "seq": 1
+  },
+  {
+    "eventId": 148,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "any_live_clear",
+    "id": 538,
+    "requirement1": 50,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "完成50次演出。",
+    "seq": 2
+  },
+  {
+    "eventId": 148,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_full_combo",
+    "id": 539,
+    "requirement1": 10,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在演出中以FULL COMBO完成歌曲达到10次。",
+    "seq": 3
+  },
+  {
+    "eventId": 148,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_different_music",
+    "id": 540,
+    "requirement1": 10,
+    "requirement2": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在演出中完成10首歌曲。",
+    "seq": 4
+  },
+  {
+    "eventId": 148,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "read_last_event_story_episode",
+    "id": 541,
+    "requirement1": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "观看活动“又到秋叶染色之时”的活动剧情第8话。",
+    "seq": 5
+  },
+  {
+    "eventId": 148,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "consume_event_item",
+    "id": 542,
+    "requirement1": 20000,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在活动“又到秋叶染色之时”的兑换所消耗20000个徽章。",
+    "seq": 6
+  },
+  {
+    "eventId": 148,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "join_virtual_live",
+    "id": 543,
+    "requirement1": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "参加“又到秋叶染色之时 后日谈·演唱会”。",
+    "seq": 7
+  },
+  {
+    "eventId": 148,
+    "eventMissionCategory": "complete_selectable_reward",
+    "eventMissionSelectableRewardGroupId": 1,
+    "eventMissionType": "achieve_event_mission",
+    "id": 544,
+    "requirement1": 7,
+    "rewards": [],
+    "sentence": "完成所有7个任务。",
+    "seq": 8
+  },
+  {
+    "eventId": 149,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_daily",
+    "id": 545,
+    "requirement1": 9,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "1天完成1次演出累计达到9天。",
+    "seq": 1
+  },
+  {
+    "eventId": 149,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "any_live_clear",
+    "id": 546,
+    "requirement1": 50,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "完成50次演出。",
+    "seq": 2
+  },
+  {
+    "eventId": 149,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_full_combo",
+    "id": 547,
+    "requirement1": 10,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在演出中以FULL COMBO完成歌曲达到10次。",
+    "seq": 3
+  },
+  {
+    "eventId": 149,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_different_music",
+    "id": 548,
+    "requirement1": 10,
+    "requirement2": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在演出中完成10首歌曲。",
+    "seq": 4
+  },
+  {
+    "eventId": 149,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "read_last_event_story_episode",
+    "id": 549,
+    "requirement1": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "观看活动“The Power Of Regret”的活动剧情第8话。",
+    "seq": 5
+  },
+  {
+    "eventId": 149,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "consume_event_item",
+    "id": 550,
+    "requirement1": 20000,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在活动“The Power Of Regret”的兑换所消耗20000个徽章。",
+    "seq": 6
+  },
+  {
+    "eventId": 149,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "join_virtual_live",
+    "id": 551,
+    "requirement1": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "参加“The Power Of Regret 后日谈·演唱会”。",
+    "seq": 7
+  },
+  {
+    "eventId": 149,
+    "eventMissionCategory": "complete_selectable_reward",
+    "eventMissionSelectableRewardGroupId": 1,
+    "eventMissionType": "achieve_event_mission",
+    "id": 552,
+    "requirement1": 7,
+    "rewards": [],
+    "sentence": "完成所有7个任务。",
+    "seq": 8
+  },
+  {
+    "eventId": 150,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_daily",
+    "id": 553,
+    "requirement1": 10,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "1天完成1次演出累计达到10天。",
+    "seq": 1
+  },
+  {
+    "eventId": 150,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "any_live_clear",
+    "id": 554,
+    "requirement1": 50,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "完成50次演出。",
+    "seq": 2
+  },
+  {
+    "eventId": 150,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_full_combo",
+    "id": 555,
+    "requirement1": 10,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在演出中以FULL COMBO完成歌曲达到10次。",
+    "seq": 3
+  },
+  {
+    "eventId": 150,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_different_music",
+    "id": 556,
+    "requirement1": 10,
+    "requirement2": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在演出中完成10首歌曲。",
+    "seq": 4
+  },
+  {
+    "eventId": 150,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "read_last_event_story_episode",
+    "id": 557,
+    "requirement1": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "观看活动“用我们，布满伤痕的双手”的活动剧情第8话。",
+    "seq": 5
+  },
+  {
+    "eventId": 150,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "consume_event_item",
+    "id": 558,
+    "requirement1": 20000,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在活动“用我们，布满伤痕的双手”的兑换所消耗20000个徽章。",
+    "seq": 6
+  },
+  {
+    "eventId": 150,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "join_virtual_live",
+    "id": 559,
+    "requirement1": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "参加“用我们，布满伤痕的双手 后日谈·演唱会”。",
+    "seq": 7
+  },
+  {
+    "eventId": 150,
+    "eventMissionCategory": "complete_selectable_reward",
+    "eventMissionSelectableRewardGroupId": 1,
+    "eventMissionType": "achieve_event_mission",
+    "id": 560,
+    "requirement1": 7,
+    "rewards": [],
+    "sentence": "完成所有7个任务。",
+    "seq": 8
+  },
+  {
+    "eventId": 151,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_daily",
+    "id": 561,
+    "requirement1": 9,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "1天完成1次演出累计达到9天。",
+    "seq": 1
+  },
+  {
+    "eventId": 151,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "any_live_clear",
+    "id": 562,
+    "requirement1": 50,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "完成50次演出。",
+    "seq": 2
+  },
+  {
+    "eventId": 151,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_full_combo",
+    "id": 563,
+    "requirement1": 10,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在演出中以FULL COMBO完成歌曲达到10次。",
+    "seq": 3
+  },
+  {
+    "eventId": 151,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_different_music",
+    "id": 564,
+    "requirement1": 10,
+    "requirement2": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在演出中完成10首歌曲。",
+    "seq": 4
+  },
+  {
+    "eventId": 151,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "read_last_event_story_episode",
+    "id": 565,
+    "requirement1": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "观看活动“Grow glorious glow”的活动剧情第8话。",
+    "seq": 5
+  },
+  {
+    "eventId": 151,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "consume_event_item",
+    "id": 566,
+    "requirement1": 20000,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在活动“Grow glorious glow”的兑换所消耗20000个徽章。",
+    "seq": 6
+  },
+  {
+    "eventId": 151,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "join_virtual_live",
+    "id": 567,
+    "requirement1": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "参加“Grow glorious glow 后日谈·演唱会”。",
+    "seq": 7
+  },
+  {
+    "eventId": 151,
+    "eventMissionCategory": "complete_selectable_reward",
+    "eventMissionSelectableRewardGroupId": 1,
+    "eventMissionType": "achieve_event_mission",
+    "id": 568,
+    "requirement1": 7,
+    "rewards": [],
+    "sentence": "完成所有7个任务。",
+    "seq": 8
+  },
+  {
+    "eventId": 152,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_daily",
+    "id": 569,
+    "requirement1": 9,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "1天完成1次演出累计达到9天。",
+    "seq": 1
+  },
+  {
+    "eventId": 152,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "any_live_clear",
+    "id": 570,
+    "requirement1": 50,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "完成50次演出。",
+    "seq": 2
+  },
+  {
+    "eventId": 152,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_full_combo",
+    "id": 571,
+    "requirement1": 10,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在演出中以FULL COMBO完成歌曲达到10次。",
+    "seq": 3
+  },
+  {
+    "eventId": 152,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_different_music",
+    "id": 572,
+    "requirement1": 10,
+    "requirement2": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在演出中完成10首歌曲。",
+    "seq": 4
+  },
+  {
+    "eventId": 152,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "read_last_event_story_episode",
+    "id": 573,
+    "requirement1": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "观看活动“Special present for YOU！”的活动剧情第8话。",
+    "seq": 5
+  },
+  {
+    "eventId": 152,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "consume_event_item",
+    "id": 574,
+    "requirement1": 20000,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在活动“Special present for YOU！”的兑换所消耗20000个徽章。",
+    "seq": 6
+  },
+  {
+    "eventId": 152,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "join_virtual_live",
+    "id": 575,
+    "requirement1": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "参加“Special present for YOU！ 后日谈·演唱会”。",
+    "seq": 7
+  },
+  {
+    "eventId": 152,
+    "eventMissionCategory": "complete_selectable_reward",
+    "eventMissionSelectableRewardGroupId": 1,
+    "eventMissionType": "achieve_event_mission",
+    "id": 576,
+    "requirement1": 7,
+    "rewards": [],
+    "sentence": "完成所有7个任务。",
+    "seq": 8
+  },
+  {
+    "eventId": 153,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_daily",
+    "id": 577,
+    "requirement1": 10,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "1天完成1次演出累计达到10天。",
+    "seq": 1
+  },
+  {
+    "eventId": 153,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "any_live_clear",
+    "id": 578,
+    "requirement1": 50,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "完成50次演出。",
+    "seq": 2
+  },
+  {
+    "eventId": 153,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_full_combo",
+    "id": 579,
+    "requirement1": 10,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在演出中以FULL COMBO完成歌曲达到10次。",
+    "seq": 3
+  },
+  {
+    "eventId": 153,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_different_music",
+    "id": 580,
+    "requirement1": 10,
+    "requirement2": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在演出中完成10首歌曲。",
+    "seq": 4
+  },
+  {
+    "eventId": 153,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "read_last_event_story_episode",
+    "id": 581,
+    "requirement1": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "观看活动“Unfading wishing”的活动剧情第8话。",
+    "seq": 5
+  },
+  {
+    "eventId": 153,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "consume_event_item",
+    "id": 582,
+    "requirement1": 20000,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在活动“Unfading wishing”的兑换所消耗20000个徽章。",
+    "seq": 6
+  },
+  {
+    "eventId": 153,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "join_virtual_live",
+    "id": 583,
+    "requirement1": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "参加“Unfading wishing 后日谈·演唱会”。",
+    "seq": 7
+  },
+  {
+    "eventId": 153,
+    "eventMissionCategory": "complete_selectable_reward",
+    "eventMissionSelectableRewardGroupId": 1,
+    "eventMissionType": "achieve_event_mission",
+    "id": 584,
+    "requirement1": 7,
+    "rewards": [],
+    "sentence": "完成所有7个任务。",
+    "seq": 8
+  },
+  {
+    "eventId": 154,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_daily",
+    "id": 585,
+    "requirement1": 9,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "1天完成1次演出累计达到9天。",
+    "seq": 1
+  },
+  {
+    "eventId": 154,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "any_live_clear",
+    "id": 586,
+    "requirement1": 50,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "完成50次演出。",
+    "seq": 2
+  },
+  {
+    "eventId": 154,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_full_combo",
+    "id": 587,
+    "requirement1": 10,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在演出中以FULL COMBO完成歌曲达到10次。",
+    "seq": 3
+  },
+  {
+    "eventId": 154,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_different_music",
+    "id": 588,
+    "requirement1": 10,
+    "requirement2": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在演出中完成10首歌曲。",
+    "seq": 4
+  },
+  {
+    "eventId": 154,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "read_last_event_story_episode",
+    "id": 589,
+    "requirement1": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "观看活动“Time to take off！”的活动剧情第8话。",
+    "seq": 5
+  },
+  {
+    "eventId": 154,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "consume_event_item",
+    "id": 590,
+    "requirement1": 20000,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在活动“Time to take off！”的兑换所消耗20000个徽章。",
+    "seq": 6
+  },
+  {
+    "eventId": 154,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "join_virtual_live",
+    "id": 591,
+    "requirement1": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "参加“Time to take off！ 后日谈·演唱会”。",
+    "seq": 7
+  },
+  {
+    "eventId": 154,
+    "eventMissionCategory": "complete_selectable_reward",
+    "eventMissionSelectableRewardGroupId": 1,
+    "eventMissionType": "achieve_event_mission",
+    "id": 592,
+    "requirement1": 7,
+    "rewards": [],
+    "sentence": "完成所有7个任务。",
+    "seq": 8
+  },
+  {
+    "eventId": 155,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_daily",
+    "id": 593,
+    "requirement1": 9,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "1天完成1次演出累计达到9天。",
+    "seq": 1
+  },
+  {
+    "eventId": 155,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "any_live_clear",
+    "id": 594,
+    "requirement1": 50,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "完成50次演出。",
+    "seq": 2
+  },
+  {
+    "eventId": 155,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_full_combo",
+    "id": 595,
+    "requirement1": 10,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在演出中以FULL COMBO完成歌曲达到10次。",
+    "seq": 3
+  },
+  {
+    "eventId": 155,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_different_music",
+    "id": 596,
+    "requirement1": 10,
+    "requirement2": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在演出中完成10首歌曲。",
+    "seq": 4
+  },
+  {
+    "eventId": 155,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "read_last_event_story_episode",
+    "id": 597,
+    "requirement1": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "观看活动“Show your shine”的活动剧情第8话。",
+    "seq": 5
+  },
+  {
+    "eventId": 155,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "consume_event_item",
+    "id": 598,
+    "requirement1": 20000,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在活动“Show your shine”的兑换所消耗20000个徽章。",
+    "seq": 6
+  },
+  {
+    "eventId": 155,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "join_virtual_live",
+    "id": 599,
+    "requirement1": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "参加“Show your shine 后日谈·演唱会”。",
+    "seq": 7
+  },
+  {
+    "eventId": 155,
+    "eventMissionCategory": "complete_selectable_reward",
+    "eventMissionSelectableRewardGroupId": 1,
+    "eventMissionType": "achieve_event_mission",
+    "id": 600,
+    "requirement1": 7,
+    "rewards": [],
+    "sentence": "完成所有7个任务。",
+    "seq": 8
+  },
+  {
+    "eventId": 156,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_daily",
+    "id": 601,
+    "requirement1": 9,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "1天完成1次演出累计达到9天。",
+    "seq": 1
+  },
+  {
+    "eventId": 156,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "any_live_clear",
+    "id": 602,
+    "requirement1": 50,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "完成50次演出。",
+    "seq": 2
+  },
+  {
+    "eventId": 156,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_full_combo",
+    "id": 603,
+    "requirement1": 10,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在演出中以FULL COMBO完成歌曲达到10次。",
+    "seq": 3
+  },
+  {
+    "eventId": 156,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_different_music",
+    "id": 604,
+    "requirement1": 10,
+    "requirement2": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在演出中完成10首歌曲。",
+    "seq": 4
+  },
+  {
+    "eventId": 156,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "read_last_event_story_episode",
+    "id": 605,
+    "requirement1": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "观看活动“在这针线中寄托心意”的活动剧情第8话。",
+    "seq": 5
+  },
+  {
+    "eventId": 156,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "consume_event_item",
+    "id": 606,
+    "requirement1": 20000,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在活动“在这针线中寄托心意”的兑换所消耗20000个徽章。",
+    "seq": 6
+  },
+  {
+    "eventId": 156,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "join_virtual_live",
+    "id": 607,
+    "requirement1": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "参加“在这针线中寄托心意 后日谈·演唱会”。",
+    "seq": 7
+  },
+  {
+    "eventId": 156,
+    "eventMissionCategory": "complete_selectable_reward",
+    "eventMissionSelectableRewardGroupId": 1,
+    "eventMissionType": "achieve_event_mission",
+    "id": 608,
+    "requirement1": 7,
+    "rewards": [],
+    "sentence": "完成所有7个任务。",
+    "seq": 8
+  },
+  {
+    "eventId": 157,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_daily",
+    "id": 609,
+    "requirement1": 9,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "1天完成1次演出累计达到9天。",
+    "seq": 1
+  },
+  {
+    "eventId": 157,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "any_live_clear",
+    "id": 610,
+    "requirement1": 50,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "完成50次演出。",
+    "seq": 2
+  },
+  {
+    "eventId": 157,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_full_combo",
+    "id": 611,
+    "requirement1": 10,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在演出中以FULL COMBO完成歌曲达到10次。",
+    "seq": 3
+  },
+  {
+    "eventId": 157,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_different_music",
+    "id": 612,
+    "requirement1": 10,
+    "requirement2": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在演出中完成10首歌曲。",
+    "seq": 4
+  },
+  {
+    "eventId": 157,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "read_last_event_story_episode",
+    "id": 613,
+    "requirement1": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "观看活动“Rise and Strive”的活动剧情第8话。",
+    "seq": 5
+  },
+  {
+    "eventId": 157,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "consume_event_item",
+    "id": 614,
+    "requirement1": 20000,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在活动“Rise and Strive”的兑换所消耗20000个徽章。",
+    "seq": 6
+  },
+  {
+    "eventId": 157,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "join_virtual_live",
+    "id": 615,
+    "requirement1": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "参加“Rise and Strive 后日谈·演唱会”。",
+    "seq": 7
+  },
+  {
+    "eventId": 157,
+    "eventMissionCategory": "complete_selectable_reward",
+    "eventMissionSelectableRewardGroupId": 1,
+    "eventMissionType": "achieve_event_mission",
+    "id": 616,
+    "requirement1": 7,
+    "rewards": [],
+    "sentence": "完成所有7个任务。",
+    "seq": 8
+  },
+  {
+    "eventId": 158,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_daily",
+    "id": 617,
+    "requirement1": 7,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "1天完成1次演出累计达到7天。",
+    "seq": 1
+  },
+  {
+    "eventId": 158,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "any_live_clear",
+    "id": 618,
+    "requirement1": 50,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "完成50次演出。",
+    "seq": 2
+  },
+  {
+    "eventId": 158,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_full_combo",
+    "id": 619,
+    "requirement1": 10,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在演出中以FULL COMBO完成歌曲达到10次。",
+    "seq": 3
+  },
+  {
+    "eventId": 158,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_different_music",
+    "id": 620,
+    "requirement1": 10,
+    "requirement2": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在演出中完成10首歌曲。",
+    "seq": 4
+  },
+  {
+    "eventId": 158,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "read_last_event_story_episode",
+    "id": 621,
+    "requirement1": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "观看活动“昔日的Read-aloud”的活动剧情第8话。",
+    "seq": 5
+  },
+  {
+    "eventId": 158,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "consume_event_item",
+    "id": 622,
+    "requirement1": 20000,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在活动“昔日的Read-aloud”的兑换所消耗20000个徽章。",
+    "seq": 6
+  },
+  {
+    "eventId": 158,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "join_virtual_live",
+    "id": 623,
+    "requirement1": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "参加“昔日的Read-aloud 后日谈·演唱会”。",
+    "seq": 7
+  },
+  {
+    "eventId": 158,
+    "eventMissionCategory": "complete_selectable_reward",
+    "eventMissionSelectableRewardGroupId": 1,
+    "eventMissionType": "achieve_event_mission",
+    "id": 624,
+    "requirement1": 7,
+    "rewards": [],
+    "sentence": "完成所有7个任务。",
+    "seq": 8
+  },
+  {
+    "eventId": 159,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_daily",
+    "id": 625,
+    "requirement1": 9,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "1天完成1次演出累计达到9天。",
+    "seq": 1
+  },
+  {
+    "eventId": 159,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "any_live_clear",
+    "id": 626,
+    "requirement1": 50,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "完成50次演出。",
+    "seq": 2
+  },
+  {
+    "eventId": 159,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_full_combo",
+    "id": 627,
+    "requirement1": 10,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在演出中以FULL COMBO完成歌曲达到10次。",
+    "seq": 3
+  },
+  {
+    "eventId": 159,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_different_music",
+    "id": 628,
+    "requirement1": 10,
+    "requirement2": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在演出中完成10首歌曲。",
+    "seq": 4
+  },
+  {
+    "eventId": 159,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "read_last_event_story_episode",
+    "id": 629,
+    "requirement1": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "观看活动“Connect hearts message”的活动剧情第8话。",
+    "seq": 5
+  },
+  {
+    "eventId": 159,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "consume_event_item",
+    "id": 630,
+    "requirement1": 20000,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在活动“Connect hearts message”的兑换所消耗20000个徽章。",
+    "seq": 6
+  },
+  {
+    "eventId": 159,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "join_virtual_live",
+    "id": 631,
+    "requirement1": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "参加“Connect hearts message 后日谈·演唱会”。",
+    "seq": 7
+  },
+  {
+    "eventId": 159,
+    "eventMissionCategory": "complete_selectable_reward",
+    "eventMissionSelectableRewardGroupId": 1,
+    "eventMissionType": "achieve_event_mission",
+    "id": 632,
+    "requirement1": 7,
+    "rewards": [],
+    "sentence": "完成所有7个任务。",
+    "seq": 8
+  },
+  {
+    "eventId": 160,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_daily",
+    "id": 633,
+    "requirement1": 9,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "1天完成1次演出累计达到9天。",
+    "seq": 1
+  },
+  {
+    "eventId": 160,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "any_live_clear",
+    "id": 634,
+    "requirement1": 50,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "完成50次演出。",
+    "seq": 2
+  },
+  {
+    "eventId": 160,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_full_combo",
+    "id": 635,
+    "requirement1": 10,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在演出中以FULL COMBO完成歌曲达到10次。",
+    "seq": 3
+  },
+  {
+    "eventId": 160,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_different_music",
+    "id": 636,
+    "requirement1": 10,
+    "requirement2": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在演出中完成10首歌曲。",
+    "seq": 4
+  },
+  {
+    "eventId": 160,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "read_last_event_story_episode",
+    "id": 637,
+    "requirement1": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "观看活动“You are my HERO!!”的活动剧情第8话。",
+    "seq": 5
+  },
+  {
+    "eventId": 160,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "consume_event_item",
+    "id": 638,
+    "requirement1": 20000,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在活动“You are my HERO!!”的兑换所消耗20000个徽章。",
+    "seq": 6
+  },
+  {
+    "eventId": 160,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "join_virtual_live",
+    "id": 639,
+    "requirement1": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "参加“You are my HERO!! 后日谈·演唱会”。",
+    "seq": 7
+  },
+  {
+    "eventId": 160,
+    "eventMissionCategory": "complete_selectable_reward",
+    "eventMissionSelectableRewardGroupId": 1,
+    "eventMissionType": "achieve_event_mission",
+    "id": 640,
+    "requirement1": 7,
+    "rewards": [],
+    "sentence": "完成所有7个任务。",
+    "seq": 8
+  },
+  {
+    "eventId": 161,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_daily",
+    "id": 641,
+    "requirement1": 9,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "1天完成1次演出累计达到9天。",
+    "seq": 1
+  },
+  {
+    "eventId": 161,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "any_live_clear",
+    "id": 642,
+    "requirement1": 50,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "完成50次演出。",
+    "seq": 2
+  },
+  {
+    "eventId": 161,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_full_combo",
+    "id": 643,
+    "requirement1": 10,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在演出中以FULL COMBO完成歌曲达到10次。",
+    "seq": 3
+  },
+  {
+    "eventId": 161,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_different_music",
+    "id": 644,
+    "requirement1": 10,
+    "requirement2": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在演出中完成10首歌曲。",
+    "seq": 4
+  },
+  {
+    "eventId": 161,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "read_last_event_story_episode",
+    "id": 645,
+    "requirement1": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "观看活动“Unreliable Notes”的活动剧情第8话。",
+    "seq": 5
+  },
+  {
+    "eventId": 161,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "consume_event_item",
+    "id": 646,
+    "requirement1": 20000,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在活动“Unreliable Notes”的兑换所消耗20000个徽章。",
+    "seq": 6
+  },
+  {
+    "eventId": 161,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "join_virtual_live",
+    "id": 647,
+    "requirement1": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "参加“Unreliable Notes 后日谈·演唱会”。",
+    "seq": 7
+  },
+  {
+    "eventId": 161,
+    "eventMissionCategory": "complete_selectable_reward",
+    "eventMissionSelectableRewardGroupId": 1,
+    "eventMissionType": "achieve_event_mission",
+    "id": 648,
+    "requirement1": 7,
+    "rewards": [],
+    "sentence": "完成所有7个任务。",
+    "seq": 8
+  },
+  {
+    "eventId": 162,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_daily",
+    "id": 649,
+    "requirement1": 8,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "1天完成1次演出累计达到8天。",
+    "seq": 1
+  },
+  {
+    "eventId": 162,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "any_live_clear",
+    "id": 650,
+    "requirement1": 50,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "完成50次演出。",
+    "seq": 2
+  },
+  {
+    "eventId": 162,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_full_combo",
+    "id": 651,
+    "requirement1": 10,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在演出中以FULL COMBO完成歌曲达到10次。",
+    "seq": 3
+  },
+  {
+    "eventId": 162,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_different_music",
+    "id": 652,
+    "requirement1": 10,
+    "requirement2": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在演出中完成10首歌曲。",
+    "seq": 4
+  },
+  {
+    "eventId": 162,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "read_last_event_story_episode",
+    "id": 653,
+    "requirement1": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "观看活动“Find the dream view”的活动剧情第8话。",
+    "seq": 5
+  },
+  {
+    "eventId": 162,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "consume_event_item",
+    "id": 654,
+    "requirement1": 20000,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在活动“Find the dream view”的兑换所消耗20000个徽章。",
+    "seq": 6
+  },
+  {
+    "eventId": 162,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "join_virtual_live",
+    "id": 655,
+    "requirement1": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "参加“Find the dream view 后日谈·演唱会”。",
+    "seq": 7
+  },
+  {
+    "eventId": 162,
+    "eventMissionCategory": "complete_selectable_reward",
+    "eventMissionSelectableRewardGroupId": 1,
+    "eventMissionType": "achieve_event_mission",
+    "id": 656,
+    "requirement1": 7,
+    "rewards": [],
+    "sentence": "完成所有7个任务。",
+    "seq": 8
+  },
+  {
+    "eventId": 163,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_daily",
+    "id": 657,
+    "requirement1": 13,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "1天完成1次演出累计达到13天。",
+    "seq": 1
+  },
+  {
+    "eventId": 163,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "any_live_clear",
+    "id": 658,
+    "requirement1": 50,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "完成50次演出。",
+    "seq": 2
+  },
+  {
+    "eventId": 163,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_full_combo",
+    "id": 659,
+    "requirement1": 10,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在演出中以FULL COMBO完成歌曲达到10次。",
+    "seq": 3
+  },
+  {
+    "eventId": 163,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_different_music",
+    "id": 660,
+    "requirement1": 10,
+    "requirement2": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在演出中完成10首歌曲。",
+    "seq": 4
+  },
+  {
+    "eventId": 163,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "read_last_event_story_episode",
+    "id": 661,
+    "requirement1": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "观看活动“Turning Pain into Drive”的结局。",
+    "seq": 5
+  },
+  {
+    "eventId": 163,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "consume_event_item",
+    "id": 662,
+    "requirement1": 10,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在活动“Turning Pain into Drive”的兑换所消耗10个徽章。",
+    "seq": 6
+  },
+  {
+    "eventId": 163,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "join_virtual_live",
+    "id": 663,
+    "requirement1": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "参加“Turning Pain into Drive 后日谈·演唱会”。",
+    "seq": 7
+  },
+  {
+    "eventId": 163,
+    "eventMissionCategory": "complete_selectable_reward",
+    "eventMissionSelectableRewardGroupId": 1,
+    "eventMissionType": "achieve_event_mission",
+    "id": 664,
+    "requirement1": 7,
+    "rewards": [],
+    "sentence": "完成所有7个任务。",
+    "seq": 8
+  },
+  {
+    "eventId": 164,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_daily",
+    "id": 665,
+    "requirement1": 7,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "1天完成1次演出累计达到7天。",
+    "seq": 1
+  },
+  {
+    "eventId": 164,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "any_live_clear",
+    "id": 666,
+    "requirement1": 50,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "完成50次演出。",
+    "seq": 2
+  },
+  {
+    "eventId": 164,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_full_combo",
+    "id": 667,
+    "requirement1": 10,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在演出中以FULL COMBO完成歌曲达到10次。",
+    "seq": 3
+  },
+  {
+    "eventId": 164,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_different_music",
+    "id": 668,
+    "requirement1": 10,
+    "requirement2": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在演出中完成10首歌曲。",
+    "seq": 4
+  },
+  {
+    "eventId": 164,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "read_last_event_story_episode",
+    "id": 669,
+    "requirement1": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "观看活动“Choices for the future”的活动剧情第8话。",
+    "seq": 5
+  },
+  {
+    "eventId": 164,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "consume_event_item",
+    "id": 670,
+    "requirement1": 20000,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在活动“Choices for the future”的兑换所消耗20000个徽章。",
+    "seq": 6
+  },
+  {
+    "eventId": 164,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "join_virtual_live",
+    "id": 671,
+    "requirement1": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "参加“Choices for the future 后日谈·演唱会”。",
+    "seq": 7
+  },
+  {
+    "eventId": 164,
+    "eventMissionCategory": "complete_selectable_reward",
+    "eventMissionSelectableRewardGroupId": 1,
+    "eventMissionType": "achieve_event_mission",
+    "id": 672,
+    "requirement1": 7,
+    "rewards": [],
+    "sentence": "完成所有7个任务。",
+    "seq": 8
+  },
+  {
+    "eventId": 165,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_daily",
+    "id": 673,
+    "requirement1": 7,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "1天完成1次演出累计达到7天。",
+    "seq": 1
+  },
+  {
+    "eventId": 165,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "any_live_clear",
+    "id": 674,
+    "requirement1": 50,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "完成50次演出。",
+    "seq": 2
+  },
+  {
+    "eventId": 165,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_full_combo",
+    "id": 675,
+    "requirement1": 10,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在演出中以FULL COMBO完成歌曲达到10次。",
+    "seq": 3
+  },
+  {
+    "eventId": 165,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_different_music",
+    "id": 676,
+    "requirement1": 10,
+    "requirement2": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在演出中完成10首歌曲。",
+    "seq": 4
+  },
+  {
+    "eventId": 165,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "read_last_event_story_episode",
+    "id": 677,
+    "requirement1": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "观看活动“于是，指针开始转动”的活动剧情第8话。",
+    "seq": 5
+  },
+  {
+    "eventId": 165,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "consume_event_item",
+    "id": 678,
+    "requirement1": 20000,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在活动“于是，指针开始转动”的兑换所消耗20000个徽章。",
+    "seq": 6
+  },
+  {
+    "eventId": 165,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "join_virtual_live",
+    "id": 679,
+    "requirement1": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "参加“于是，指针开始转动 后日谈·演唱会”。",
+    "seq": 7
+  },
+  {
+    "eventId": 165,
+    "eventMissionCategory": "complete_selectable_reward",
+    "eventMissionSelectableRewardGroupId": 1,
+    "eventMissionType": "achieve_event_mission",
+    "id": 680,
+    "requirement1": 7,
+    "rewards": [],
+    "sentence": "完成所有7个任务。",
+    "seq": 8
+  },
+  {
+    "eventId": 167,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_daily",
+    "id": 689,
+    "requirement1": 13,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "1天完成1次演出累计达到13天。",
+    "seq": 1
+  },
+  {
+    "eventId": 167,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "any_live_clear",
+    "id": 690,
+    "requirement1": 50,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "完成50次演出。",
+    "seq": 2
+  },
+  {
+    "eventId": 167,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_full_combo",
+    "id": 691,
+    "requirement1": 10,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在演出中以FULL COMBO完成歌曲达到10次。",
+    "seq": 3
+  },
+  {
+    "eventId": 167,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_different_music",
+    "id": 692,
+    "requirement1": 10,
+    "requirement2": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在演出中完成10首歌曲。",
+    "seq": 4
+  },
+  {
+    "eventId": 167,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "read_last_event_story_episode",
+    "id": 693,
+    "requirement1": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "观看活动“Dear my fellows”的结局。",
+    "seq": 5
+  },
+  {
+    "eventId": 167,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "consume_event_item",
+    "id": 694,
+    "requirement1": 20000,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在活动“Dear my fellows”的兑换所消耗20000个徽章。",
+    "seq": 6
+  },
+  {
+    "eventId": 167,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "join_virtual_live",
+    "id": 695,
+    "requirement1": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "参加“Dear my fellows 后日谈·演唱会”。",
+    "seq": 7
+  },
+  {
+    "eventId": 167,
+    "eventMissionCategory": "complete_selectable_reward",
+    "eventMissionSelectableRewardGroupId": 1,
+    "eventMissionType": "achieve_event_mission",
+    "id": 696,
+    "requirement1": 7,
+    "rewards": [],
+    "sentence": "完成所有7个任务。",
+    "seq": 8
+  },
+  {
+    "eventId": 168,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_daily",
+    "id": 697,
+    "requirement1": 7,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "1天完成1次演出累计达到7天。",
+    "seq": 1
+  },
+  {
+    "eventId": 168,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "any_live_clear",
+    "id": 698,
+    "requirement1": 50,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "完成50次演出。",
+    "seq": 2
+  },
+  {
+    "eventId": 168,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_full_combo",
+    "id": 699,
+    "requirement1": 10,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在演出中以FULL COMBO完成歌曲达到10次。",
+    "seq": 3
+  },
+  {
+    "eventId": 168,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_different_music",
+    "id": 700,
+    "requirement1": 10,
+    "requirement2": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在演出中完成10首歌曲。",
+    "seq": 4
+  },
+  {
+    "eventId": 168,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "read_last_event_story_episode",
+    "id": 701,
+    "requirement1": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "观看活动“Cheer with my Heart!”的活动剧情第8话。",
+    "seq": 5
+  },
+  {
+    "eventId": 168,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "consume_event_item",
+    "id": 702,
+    "requirement1": 20000,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在活动“Cheer with my Heart!”的兑换所消耗20000个徽章。",
+    "seq": 6
+  },
+  {
+    "eventId": 168,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "join_virtual_live",
+    "id": 703,
+    "requirement1": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "参加“Cheer with my Heart! 后日谈·演唱会”。",
+    "seq": 7
+  },
+  {
+    "eventId": 168,
+    "eventMissionCategory": "complete_selectable_reward",
+    "eventMissionSelectableRewardGroupId": 1,
+    "eventMissionType": "achieve_event_mission",
+    "id": 704,
+    "requirement1": 7,
+    "rewards": [],
+    "sentence": "完成所有7个任务。",
+    "seq": 8
+  },
+  {
+    "eventId": 169,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_daily",
+    "id": 705,
+    "requirement1": 8,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "1天完成1次演出累计达到8天。",
+    "seq": 1
+  },
+  {
+    "eventId": 169,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "any_live_clear",
+    "id": 706,
+    "requirement1": 50,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "完成50次演出。",
+    "seq": 2
+  },
+  {
+    "eventId": 169,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_full_combo",
+    "id": 707,
+    "requirement1": 10,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在演出中以FULL COMBO完成歌曲达到10次。",
+    "seq": 3
+  },
+  {
+    "eventId": 169,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_different_music",
+    "id": 708,
+    "requirement1": 10,
+    "requirement2": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在演出中完成10首歌曲。",
+    "seq": 4
+  },
+  {
+    "eventId": 169,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "read_last_event_story_episode",
+    "id": 709,
+    "requirement1": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "观看活动“Aim higher and higher！”的活动剧情第8话。",
+    "seq": 5
+  },
+  {
+    "eventId": 169,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "consume_event_item",
+    "id": 710,
+    "requirement1": 20000,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在活动“Aim higher and higher！”的兑换所消耗20000个徽章。",
+    "seq": 6
+  },
+  {
+    "eventId": 169,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "join_virtual_live",
+    "id": 711,
+    "requirement1": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "参加“Aim higher and higher！ 后日谈·演唱会”。",
+    "seq": 7
+  },
+  {
+    "eventId": 169,
+    "eventMissionCategory": "complete_selectable_reward",
+    "eventMissionSelectableRewardGroupId": 1,
+    "eventMissionType": "achieve_event_mission",
+    "id": 712,
+    "requirement1": 7,
+    "rewards": [],
+    "sentence": "完成所有7个任务。",
+    "seq": 8
+  },
+  {
+    "eventId": 170,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_daily",
+    "id": 713,
+    "requirement1": 13,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "1天完成1次演出累计达到13天。",
+    "seq": 1
+  },
+  {
+    "eventId": 170,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "any_live_clear",
+    "id": 714,
+    "requirement1": 50,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "完成50次演出。",
+    "seq": 2
+  },
+  {
+    "eventId": 170,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_full_combo",
+    "id": 715,
+    "requirement1": 10,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在演出中以FULL COMBO完成歌曲达到10次。",
+    "seq": 3
+  },
+  {
+    "eventId": 170,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_different_music",
+    "id": 716,
+    "requirement1": 10,
+    "requirement2": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在演出中完成10首歌曲。",
+    "seq": 4
+  },
+  {
+    "eventId": 170,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "read_last_event_story_episode",
+    "id": 717,
+    "requirement1": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "观看活动“置身于泡沫的环绕”的结局。",
+    "seq": 5
+  },
+  {
+    "eventId": 170,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "consume_event_item",
+    "id": 718,
+    "requirement1": 20000,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在活动“置身于泡沫的环绕”的兑换所消耗20000个徽章。",
+    "seq": 6
+  },
+  {
+    "eventId": 170,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "join_virtual_live",
+    "id": 719,
+    "requirement1": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "参加“置身于泡沫的环绕 后日谈·演唱会”。",
+    "seq": 7
+  },
+  {
+    "eventId": 170,
+    "eventMissionCategory": "complete_selectable_reward",
+    "eventMissionSelectableRewardGroupId": 1,
+    "eventMissionType": "achieve_event_mission",
+    "id": 720,
+    "requirement1": 7,
+    "rewards": [],
+    "sentence": "完成所有7个任务。",
+    "seq": 8
+  },
+  {
+    "eventId": 171,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_daily",
+    "id": 721,
+    "requirement1": 13,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "1天完成1次演出累计达到13天。",
+    "seq": 1
+  },
+  {
+    "eventId": 171,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "any_live_clear",
+    "id": 722,
+    "requirement1": 50,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "完成50次演出。",
+    "seq": 2
+  },
+  {
+    "eventId": 171,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_full_combo",
+    "id": 723,
+    "requirement1": 10,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在演出中以FULL COMBO完成歌曲达到10次。",
+    "seq": 3
+  },
+  {
+    "eventId": 171,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_different_music",
+    "id": 724,
+    "requirement1": 10,
+    "requirement2": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在演出中完成10首歌曲。",
+    "seq": 4
+  },
+  {
+    "eventId": 171,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "read_last_event_story_episode",
+    "id": 725,
+    "requirement1": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "观看活动“ordinary,yet special us”的结局。",
+    "seq": 5
+  },
+  {
+    "eventId": 171,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "consume_event_item",
+    "id": 726,
+    "requirement1": 20000,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在活动“ordinary,yet special us”的兑换所消耗20000个徽章。",
+    "seq": 6
+  },
+  {
+    "eventId": 171,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "join_virtual_live",
+    "id": 727,
+    "requirement1": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "参加“ordinary,yet special us 后日谈·演唱会”。",
+    "seq": 7
+  },
+  {
+    "eventId": 171,
+    "eventMissionCategory": "complete_selectable_reward",
+    "eventMissionSelectableRewardGroupId": 1,
+    "eventMissionType": "achieve_event_mission",
+    "id": 728,
+    "requirement1": 7,
+    "rewards": [],
+    "sentence": "完成所有7个任务。",
+    "seq": 8
+  },
+  {
+    "eventId": 172,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_daily",
+    "id": 729,
+    "requirement1": 7,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "1天完成1次演出累计达到7天。",
+    "seq": 1
+  },
+  {
+    "eventId": 172,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "any_live_clear",
+    "id": 730,
+    "requirement1": 50,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "完成50次演出。",
+    "seq": 2
+  },
+  {
+    "eventId": 172,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_full_combo",
+    "id": 731,
+    "requirement1": 10,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在演出中以FULL COMBO完成歌曲达到10次。",
+    "seq": 3
+  },
+  {
+    "eventId": 172,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_different_music",
+    "id": 732,
+    "requirement1": 10,
+    "requirement2": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在演出中完成10首歌曲。",
+    "seq": 4
+  },
+  {
+    "eventId": 172,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "read_last_event_story_episode",
+    "id": 733,
+    "requirement1": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "观看活动“Deeper and deeper”的活动剧情第8话。",
+    "seq": 5
+  },
+  {
+    "eventId": 172,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "consume_event_item",
+    "id": 734,
+    "requirement1": 20000,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在活动“Deeper and deeper”的兑换所消耗20000个徽章。",
+    "seq": 6
+  },
+  {
+    "eventId": 172,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "join_virtual_live",
+    "id": 735,
+    "requirement1": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "参加“Deeper and deeper 后日谈·演唱会”。",
+    "seq": 7
+  },
+  {
+    "eventId": 172,
+    "eventMissionCategory": "complete_selectable_reward",
+    "eventMissionSelectableRewardGroupId": 1,
+    "eventMissionType": "achieve_event_mission",
+    "id": 736,
+    "requirement1": 7,
+    "rewards": [],
+    "sentence": "完成所有7个任务。",
+    "seq": 8
+  },
+  {
+    "eventId": 173,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_daily",
+    "id": 737,
+    "requirement1": 7,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "1天完成1次演出累计达到7天。",
+    "seq": 1
+  },
+  {
+    "eventId": 173,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "any_live_clear",
+    "id": 738,
+    "requirement1": 50,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "完成50次演出。",
+    "seq": 2
+  },
+  {
+    "eventId": 173,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_full_combo",
+    "id": 739,
+    "requirement1": 10,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在演出中以FULL COMBO完成歌曲达到10次。",
+    "seq": 3
+  },
+  {
+    "eventId": 173,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_different_music",
+    "id": 740,
+    "requirement1": 10,
+    "requirement2": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在演出中完成10首歌曲。",
+    "seq": 4
+  },
+  {
+    "eventId": 173,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "read_last_event_story_episode",
+    "id": 741,
+    "requirement1": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "观看活动“Unsteady, still steady step”的活动剧情第8话。",
+    "seq": 5
+  },
+  {
+    "eventId": 173,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "consume_event_item",
+    "id": 742,
+    "requirement1": 20000,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在活动“Unsteady, still steady step”的兑换所消耗20000个徽章。",
+    "seq": 6
+  },
+  {
+    "eventId": 173,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "join_virtual_live",
+    "id": 743,
+    "requirement1": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "参加“Unsteady, still steady step 后日谈·演唱会”。",
+    "seq": 7
+  },
+  {
+    "eventId": 173,
+    "eventMissionCategory": "complete_selectable_reward",
+    "eventMissionSelectableRewardGroupId": 1,
+    "eventMissionType": "achieve_event_mission",
+    "id": 744,
+    "requirement1": 7,
+    "rewards": [],
+    "sentence": "完成所有7个任务。",
+    "seq": 8
+  },
+  {
+    "eventId": 174,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_daily",
+    "id": 745,
+    "requirement1": 7,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "1天完成1次演出累计达到7天。",
+    "seq": 1
+  },
+  {
+    "eventId": 174,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "any_live_clear",
+    "id": 746,
+    "requirement1": 50,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "完成50次演出。",
+    "seq": 2
+  },
+  {
+    "eventId": 174,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_full_combo",
+    "id": 747,
+    "requirement1": 10,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在演出中以FULL COMBO完成歌曲达到10次。",
+    "seq": 3
+  },
+  {
+    "eventId": 174,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_different_music",
+    "id": 748,
+    "requirement1": 10,
+    "requirement2": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在演出中完成10首歌曲。",
+    "seq": 4
+  },
+  {
+    "eventId": 174,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "read_last_event_story_episode",
+    "id": 749,
+    "requirement1": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "观看活动“start rolling! stars' crossing”的活动剧情第8话。",
+    "seq": 5
+  },
+  {
+    "eventId": 174,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "consume_event_item",
+    "id": 750,
+    "requirement1": 20000,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在活动“start rolling! stars' crossing”的兑换所消耗20000个徽章。",
+    "seq": 6
+  },
+  {
+    "eventId": 174,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "join_virtual_live",
+    "id": 751,
+    "requirement1": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "参加“start rolling! stars' crossing 后日谈·演唱会”。",
+    "seq": 7
+  },
+  {
+    "eventId": 174,
+    "eventMissionCategory": "complete_selectable_reward",
+    "eventMissionSelectableRewardGroupId": 1,
+    "eventMissionType": "achieve_event_mission",
+    "id": 752,
+    "requirement1": 7,
+    "rewards": [],
+    "sentence": "完成所有7个任务。",
+    "seq": 8
+  },
+  {
+    "eventId": 175,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_daily",
+    "id": 753,
+    "requirement1": 7,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "1天完成1次演出累计达到7天。",
+    "seq": 1
+  },
+  {
+    "eventId": 175,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "any_live_clear",
+    "id": 754,
+    "requirement1": 50,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "完成50次演出。",
+    "seq": 2
+  },
+  {
+    "eventId": 175,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_full_combo",
+    "id": 755,
+    "requirement1": 10,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在演出中以FULL COMBO完成歌曲达到10次。",
+    "seq": 3
+  },
+  {
+    "eventId": 175,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_different_music",
+    "id": 756,
+    "requirement1": 10,
+    "requirement2": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在演出中完成10首歌曲。",
+    "seq": 4
+  },
+  {
+    "eventId": 175,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "read_last_event_story_episode",
+    "id": 757,
+    "requirement1": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "观看活动“Competitive fire！”的活动剧情第8话。",
+    "seq": 5
+  },
+  {
+    "eventId": 175,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "consume_event_item",
+    "id": 758,
+    "requirement1": 20000,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在活动“Competitive fire！”的兑换所消耗20000个徽章。",
+    "seq": 6
+  },
+  {
+    "eventId": 175,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "join_virtual_live",
+    "id": 759,
+    "requirement1": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "参加“Competitive fire！ 后日谈·演唱会”。",
+    "seq": 7
+  },
+  {
+    "eventId": 175,
+    "eventMissionCategory": "complete_selectable_reward",
+    "eventMissionSelectableRewardGroupId": 1,
+    "eventMissionType": "achieve_event_mission",
+    "id": 760,
+    "requirement1": 7,
+    "rewards": [],
+    "sentence": "完成所有7个任务。",
+    "seq": 8
+  },
+  {
+    "eventId": 176,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_daily",
+    "id": 761,
+    "requirement1": 13,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "1天完成1次演出累计达到13天。",
+    "seq": 1
+  },
+  {
+    "eventId": 176,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "any_live_clear",
+    "id": 762,
+    "requirement1": 50,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "完成50次演出。",
+    "seq": 2
+  },
+  {
+    "eventId": 176,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_full_combo",
+    "id": 763,
+    "requirement1": 10,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在演出中以FULL COMBO完成歌曲达到10次。",
+    "seq": 3
+  },
+  {
+    "eventId": 176,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_different_music",
+    "id": 764,
+    "requirement1": 10,
+    "requirement2": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在演出中完成10首歌曲。",
+    "seq": 4
+  },
+  {
+    "eventId": 176,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "read_last_event_story_episode",
+    "id": 765,
+    "requirement1": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "观看活动“All ways Jump! with you”的结局。",
+    "seq": 5
+  },
+  {
+    "eventId": 176,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "consume_event_item",
+    "id": 766,
+    "requirement1": 20000,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在活动“All ways Jump! with you”的兑换所消耗20000个徽章。",
+    "seq": 6
+  },
+  {
+    "eventId": 176,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "join_virtual_live",
+    "id": 767,
+    "requirement1": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "参加“All ways Jump! with you 后日谈·演唱会”。",
+    "seq": 7
+  },
+  {
+    "eventId": 176,
+    "eventMissionCategory": "complete_selectable_reward",
+    "eventMissionSelectableRewardGroupId": 1,
+    "eventMissionType": "achieve_event_mission",
+    "id": 768,
+    "requirement1": 7,
+    "rewards": [],
+    "sentence": "完成所有7个任务。",
+    "seq": 8
+  },
+  {
+    "eventId": 177,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_daily",
+    "id": 769,
+    "requirement1": 7,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "1天完成1次演出累计达到7天。",
+    "seq": 1
+  },
+  {
+    "eventId": 177,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "any_live_clear",
+    "id": 770,
+    "requirement1": 50,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "完成50次演出。",
+    "seq": 2
+  },
+  {
+    "eventId": 177,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_full_combo",
+    "id": 771,
+    "requirement1": 10,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在演出中以FULL COMBO完成歌曲达到10次。",
+    "seq": 3
+  },
+  {
+    "eventId": 177,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_different_music",
+    "id": 772,
+    "requirement1": 10,
+    "requirement2": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在演出中完成10首歌曲。",
+    "seq": 4
+  },
+  {
+    "eventId": 177,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "read_last_event_story_episode",
+    "id": 773,
+    "requirement1": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "观看活动“向无法解开的明天伸手”的活动剧情第8话。",
+    "seq": 5
+  },
+  {
+    "eventId": 177,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "consume_event_item",
+    "id": 774,
+    "requirement1": 20000,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在活动“向无法解开的明天伸手”的兑换所消耗20000个徽章。",
+    "seq": 6
+  },
+  {
+    "eventId": 177,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "join_virtual_live",
+    "id": 775,
+    "requirement1": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "参加“向无法解开的明天伸手 后日谈·演唱会”。",
+    "seq": 7
+  },
+  {
+    "eventId": 177,
+    "eventMissionCategory": "complete_selectable_reward",
+    "eventMissionSelectableRewardGroupId": 1,
+    "eventMissionType": "achieve_event_mission",
+    "id": 776,
+    "requirement1": 7,
+    "rewards": [],
+    "sentence": "完成所有7个任务。",
+    "seq": 8
+  },
+  {
+    "eventId": 178,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_daily",
+    "id": 777,
+    "requirement1": 6,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "1天完成1次演出累计达到6天。",
+    "seq": 1
+  },
+  {
+    "eventId": 178,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "any_live_clear",
+    "id": 778,
+    "requirement1": 50,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "完成50次演出。",
+    "seq": 2
+  },
+  {
+    "eventId": 178,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_full_combo",
+    "id": 779,
+    "requirement1": 10,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在演出中以FULL COMBO完成歌曲达到10次。",
+    "seq": 3
+  },
+  {
+    "eventId": 178,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_different_music",
+    "id": 780,
+    "requirement1": 10,
+    "requirement2": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在演出中完成10首歌曲。",
+    "seq": 4
+  },
+  {
+    "eventId": 178,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "read_last_event_story_episode",
+    "id": 781,
+    "requirement1": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "观看活动“Deep Dark For Light”的活动剧情第8话。",
+    "seq": 5
+  },
+  {
+    "eventId": 178,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "consume_event_item",
+    "id": 782,
+    "requirement1": 20000,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在活动“Deep Dark For Light”的兑换所消耗20000个徽章。",
+    "seq": 6
+  },
+  {
+    "eventId": 178,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "join_virtual_live",
+    "id": 783,
+    "requirement1": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "参加“Deep Dark For Light 后日谈·演唱会”。",
+    "seq": 7
+  },
+  {
+    "eventId": 178,
+    "eventMissionCategory": "complete_selectable_reward",
+    "eventMissionSelectableRewardGroupId": 1,
+    "eventMissionType": "achieve_event_mission",
+    "id": 784,
+    "requirement1": 7,
+    "rewards": [],
+    "sentence": "完成所有7个任务。",
+    "seq": 8
+  },
+  {
+    "eventId": 179,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_daily",
+    "id": 785,
+    "requirement1": 13,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "1天完成1次演出累计达到13天。",
+    "seq": 1
+  },
+  {
+    "eventId": 179,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "any_live_clear",
+    "id": 786,
+    "requirement1": 50,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "完成50次演出。",
+    "seq": 2
+  },
+  {
+    "eventId": 179,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_full_combo",
+    "id": 787,
+    "requirement1": 10,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在演出中以FULL COMBO完成歌曲达到10次。",
+    "seq": 3
+  },
+  {
+    "eventId": 179,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_different_music",
+    "id": 788,
+    "requirement1": 10,
+    "requirement2": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在演出中完成10首歌曲。",
+    "seq": 4
+  },
+  {
+    "eventId": 179,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "read_last_event_story_episode",
+    "id": 789,
+    "requirement1": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "观看活动“Link the Beats！”的结局。",
+    "seq": 5
+  },
+  {
+    "eventId": 179,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "consume_event_item",
+    "id": 790,
+    "requirement1": 20000,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在活动“Link the Beats！”的兑换所消耗20000个徽章。",
+    "seq": 6
+  },
+  {
+    "eventId": 179,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "join_virtual_live",
+    "id": 791,
+    "requirement1": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "参加“Link the Beats！ 后日谈·演唱会”。",
+    "seq": 7
+  },
+  {
+    "eventId": 179,
+    "eventMissionCategory": "complete_selectable_reward",
+    "eventMissionSelectableRewardGroupId": 1,
+    "eventMissionType": "achieve_event_mission",
+    "id": 792,
+    "requirement1": 7,
+    "rewards": [],
+    "sentence": "完成所有7个任务。",
+    "seq": 8
+  },
+  {
+    "eventId": 180,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "multi_live_clear",
+    "id": 793,
+    "requirement1": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "完成1次多人演出。",
+    "seq": 1
+  },
+  {
+    "eventId": 180,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "multi_live_clear",
+    "id": 794,
+    "requirement1": 2,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "完成2次多人演出。",
+    "seq": 2
+  },
+  {
+    "eventId": 180,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "multi_live_clear",
+    "id": 795,
+    "requirement1": 3,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "完成3次多人演出。",
+    "seq": 3
+  },
+  {
+    "eventId": 180,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "multi_live_clear",
+    "id": 796,
+    "requirement1": 4,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "完成4次多人演出。",
+    "seq": 4
+  },
+  {
+    "eventId": 180,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "multi_live_clear",
+    "id": 797,
+    "requirement1": 5,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "完成5次多人演出。",
+    "seq": 5
+  },
+  {
+    "eventId": 180,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "multi_live_clear",
+    "id": 798,
+    "requirement1": 7,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "完成7次多人演出。",
+    "seq": 6
+  },
+  {
+    "eventId": 180,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "multi_live_clear",
+    "id": 799,
+    "requirement1": 10,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "完成10次多人演出。",
+    "seq": 7
+  },
+  {
+    "eventId": 180,
+    "eventMissionCategory": "complete_selectable_reward",
+    "eventMissionSelectableRewardGroupId": 1,
+    "eventMissionType": "achieve_event_mission",
+    "id": 800,
+    "requirement1": 7,
+    "rewards": [],
+    "sentence": "完成所有7个任务。",
+    "seq": 8
+  },
+  {
+    "eventId": 181,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_daily",
+    "id": 801,
+    "requirement1": 10,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "1天完成1次演出累计达到10天。",
+    "seq": 1
+  },
+  {
+    "eventId": 181,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "any_live_clear",
+    "id": 802,
+    "requirement1": 50,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "完成50次演出。",
+    "seq": 2
+  },
+  {
+    "eventId": 181,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_full_combo",
+    "id": 803,
+    "requirement1": 10,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在演出中以FULL COMBO完成歌曲达到10次。",
+    "seq": 3
+  },
+  {
+    "eventId": 181,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_different_music",
+    "id": 804,
+    "requirement1": 10,
+    "requirement2": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在演出中完成10首歌曲。",
+    "seq": 4
+  },
+  {
+    "eventId": 181,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "read_last_event_story_episode",
+    "id": 805,
+    "requirement1": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "观看活动“Our Golden Days”的活动剧情第8话。",
+    "seq": 5
+  },
+  {
+    "eventId": 181,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "consume_event_item",
+    "id": 806,
+    "requirement1": 20000,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在活动“Our Golden Days”的兑换所消耗20000个徽章。",
+    "seq": 6
+  },
+  {
+    "eventId": 181,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "join_virtual_live",
+    "id": 807,
+    "requirement1": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "参加“Our Golden Days 后日谈·演唱会”。",
+    "seq": 7
+  },
+  {
+    "eventId": 181,
+    "eventMissionCategory": "complete_selectable_reward",
+    "eventMissionSelectableRewardGroupId": 1,
+    "eventMissionType": "achieve_event_mission",
+    "id": 808,
+    "requirement1": 7,
+    "rewards": [],
+    "sentence": "完成所有7个任务。",
+    "seq": 8
+  },
+  {
+    "eventId": 182,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_daily",
+    "id": 809,
+    "requirement1": 9,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "1天完成1次演出累计达到9天。",
+    "seq": 1
+  },
+  {
+    "eventId": 182,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "any_live_clear",
+    "id": 810,
+    "requirement1": 50,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "完成50次演出。",
+    "seq": 2
+  },
+  {
+    "eventId": 182,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_full_combo",
+    "id": 811,
+    "requirement1": 10,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在演出中以FULL COMBO完成歌曲达到10次。",
+    "seq": 3
+  },
+  {
+    "eventId": 182,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_different_music",
+    "id": 812,
+    "requirement1": 10,
+    "requirement2": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在演出中完成10首歌曲。",
+    "seq": 4
+  },
+  {
+    "eventId": 182,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "read_last_event_story_episode",
+    "id": 813,
+    "requirement1": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "观看活动“与你相连的Heart Beat”的活动剧情第8话。",
+    "seq": 5
+  },
+  {
+    "eventId": 182,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "consume_event_item",
+    "id": 814,
+    "requirement1": 20000,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在活动“与你相连的Heart Beat”的兑换所消耗20000个徽章。",
+    "seq": 6
+  },
+  {
+    "eventId": 182,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "join_virtual_live",
+    "id": 815,
+    "requirement1": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "参加“与你相连的Heart Beat 后日谈·演唱会”。",
+    "seq": 7
+  },
+  {
+    "eventId": 182,
+    "eventMissionCategory": "complete_selectable_reward",
+    "eventMissionSelectableRewardGroupId": 1,
+    "eventMissionType": "achieve_event_mission",
+    "id": 816,
+    "requirement1": 7,
+    "rewards": [],
+    "sentence": "完成所有7个任务。",
+    "seq": 8
+  },
+  {
+    "eventId": 183,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_daily",
+    "id": 817,
+    "requirement1": 9,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "1天完成1次演出累计达到9天。",
+    "seq": 1
+  },
+  {
+    "eventId": 183,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "any_live_clear",
+    "id": 818,
+    "requirement1": 50,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "完成50次演出。",
+    "seq": 2
+  },
+  {
+    "eventId": 183,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_full_combo",
+    "id": 819,
+    "requirement1": 10,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在演出中以FULL COMBO完成歌曲达到10次。",
+    "seq": 3
+  },
+  {
+    "eventId": 183,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_different_music",
+    "id": 820,
+    "requirement1": 10,
+    "requirement2": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在演出中完成10首歌曲。",
+    "seq": 4
+  },
+  {
+    "eventId": 183,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "read_last_event_story_episode",
+    "id": 821,
+    "requirement1": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "观看活动“交织的色彩一如当初”的活动剧情第8话。",
+    "seq": 5
+  },
+  {
+    "eventId": 183,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "consume_event_item",
+    "id": 822,
+    "requirement1": 20000,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在活动“交织的色彩一如当初”的兑换所消耗20000个徽章。",
+    "seq": 6
+  },
+  {
+    "eventId": 183,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "join_virtual_live",
+    "id": 823,
+    "requirement1": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "参加“交织的色彩一如当初 后日谈·演唱会”。",
+    "seq": 7
+  },
+  {
+    "eventId": 183,
+    "eventMissionCategory": "complete_selectable_reward",
+    "eventMissionSelectableRewardGroupId": 1,
+    "eventMissionType": "achieve_event_mission",
+    "id": 824,
+    "requirement1": 7,
+    "rewards": [],
+    "sentence": "完成所有7个任务。",
+    "seq": 8
+  },
+  {
+    "eventId": 184,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_daily",
+    "id": 825,
+    "requirement1": 9,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "1天完成1次演出累计达到9天。",
+    "seq": 1
+  },
+  {
+    "eventId": 184,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "any_live_clear",
+    "id": 826,
+    "requirement1": 50,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "完成50次演出。",
+    "seq": 2
+  },
+  {
+    "eventId": 184,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_full_combo",
+    "id": 827,
+    "requirement1": 10,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在演出中以FULL COMBO完成歌曲达到10次。",
+    "seq": 3
+  },
+  {
+    "eventId": 184,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_different_music",
+    "id": 828,
+    "requirement1": 10,
+    "requirement2": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在演出中完成10首歌曲。",
+    "seq": 4
+  },
+  {
+    "eventId": 184,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "read_last_event_story_episode",
+    "id": 829,
+    "requirement1": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "观看活动“Colors of Pure Sense”的活动剧情第8话。",
+    "seq": 5
+  },
+  {
+    "eventId": 184,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "consume_event_item",
+    "id": 830,
+    "requirement1": 20000,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在活动“Colors of Pure Sense”的兑换所消耗20000个徽章。",
+    "seq": 6
+  },
+  {
+    "eventId": 184,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "join_virtual_live",
+    "id": 831,
+    "requirement1": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "参加“Colors of Pure Sense 后日谈·演唱会”。",
+    "seq": 7
+  },
+  {
+    "eventId": 184,
+    "eventMissionCategory": "complete_selectable_reward",
+    "eventMissionSelectableRewardGroupId": 1,
+    "eventMissionType": "achieve_event_mission",
+    "id": 832,
+    "requirement1": 7,
+    "rewards": [],
+    "sentence": "完成所有7个任务。",
+    "seq": 8
+  },
+  {
+    "eventId": 185,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_daily",
+    "id": 833,
+    "requirement1": 8,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "1天完成1次演出累计达到8天。",
+    "seq": 1
+  },
+  {
+    "eventId": 185,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "any_live_clear",
+    "id": 834,
+    "requirement1": 50,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "完成50次演出。",
+    "seq": 2
+  },
+  {
+    "eventId": 185,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_full_combo",
+    "id": 835,
+    "requirement1": 10,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在演出中以FULL COMBO完成歌曲达到10次。",
+    "seq": 3
+  },
+  {
+    "eventId": 185,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_different_music",
+    "id": 836,
+    "requirement1": 10,
+    "requirement2": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在演出中完成10首歌曲。",
+    "seq": 4
+  },
+  {
+    "eventId": 185,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "read_last_event_story_episode",
+    "id": 837,
+    "requirement1": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "观看活动“超越自我的主角”的活动剧情第8话。",
+    "seq": 5
+  },
+  {
+    "eventId": 185,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "consume_event_item",
+    "id": 838,
+    "requirement1": 20000,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在活动“超越自我的主角”的兑换所消耗20000个徽章。",
+    "seq": 6
+  },
+  {
+    "eventId": 185,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "join_virtual_live",
+    "id": 839,
+    "requirement1": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "参加“超越自我的主角 后日谈·演唱会”。",
+    "seq": 7
+  },
+  {
+    "eventId": 185,
+    "eventMissionCategory": "complete_selectable_reward",
+    "eventMissionSelectableRewardGroupId": 1,
+    "eventMissionType": "achieve_event_mission",
+    "id": 840,
+    "requirement1": 7,
+    "rewards": [],
+    "sentence": "完成所有7个任务。",
+    "seq": 8
+  },
+  {
+    "eventId": 187,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_daily",
+    "id": 849,
+    "requirement1": 9,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "1天完成1次演出累计达到9天。",
+    "seq": 1
+  },
+  {
+    "eventId": 187,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "any_live_clear",
+    "id": 850,
+    "requirement1": 50,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "完成50次演出。",
+    "seq": 2
+  },
+  {
+    "eventId": 187,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_full_combo",
+    "id": 851,
+    "requirement1": 10,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在演出中以FULL COMBO完成歌曲达到10次。",
+    "seq": 3
+  },
+  {
+    "eventId": 187,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_different_music",
+    "id": 852,
+    "requirement1": 10,
+    "requirement2": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在演出中完成10首歌曲。",
+    "seq": 4
+  },
+  {
+    "eventId": 187,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "read_last_event_story_episode",
+    "id": 853,
+    "requirement1": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "观看活动“Overcome one's limits”的活动剧情第8话。",
+    "seq": 5
+  },
+  {
+    "eventId": 187,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "consume_event_item",
+    "id": 854,
+    "requirement1": 20000,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在活动“Overcome one's limits”的兑换所消耗20000个徽章。",
+    "seq": 6
+  },
+  {
+    "eventId": 187,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "join_virtual_live",
+    "id": 855,
+    "requirement1": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "参加“Overcome one's limits 后日谈·演唱会”。",
+    "seq": 7
+  },
+  {
+    "eventId": 187,
+    "eventMissionCategory": "complete_selectable_reward",
+    "eventMissionSelectableRewardGroupId": 1,
+    "eventMissionType": "achieve_event_mission",
+    "id": 856,
+    "requirement1": 7,
+    "rewards": [],
+    "sentence": "完成所有7个任务。",
+    "seq": 8
+  },
+  {
+    "eventId": 188,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_daily",
+    "id": 857,
+    "requirement1": 9,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "1天完成1次演出累计达到9天。",
+    "seq": 1
+  },
+  {
+    "eventId": 188,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "any_live_clear",
+    "id": 858,
+    "requirement1": 50,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "完成50次演出。",
+    "seq": 2
+  },
+  {
+    "eventId": 188,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_full_combo",
+    "id": 859,
+    "requirement1": 10,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在演出中以FULL COMBO完成歌曲达到10次。",
+    "seq": 3
+  },
+  {
+    "eventId": 188,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_different_music",
+    "id": 860,
+    "requirement1": 10,
+    "requirement2": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在演出中完成10首歌曲。",
+    "seq": 4
+  },
+  {
+    "eventId": 188,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "read_last_event_story_episode",
+    "id": 861,
+    "requirement1": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "观看活动“仰望夜空，星影朦胧”的活动剧情第8话。",
+    "seq": 5
+  },
+  {
+    "eventId": 188,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "consume_event_item",
+    "id": 862,
+    "requirement1": 20000,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在活动“仰望夜空，星影朦胧”的兑换所消耗20000个徽章。",
+    "seq": 6
+  },
+  {
+    "eventId": 188,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "join_virtual_live",
+    "id": 863,
+    "requirement1": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "参加“仰望夜空，星影朦胧 后日谈·演唱会”。",
+    "seq": 7
+  },
+  {
+    "eventId": 188,
+    "eventMissionCategory": "complete_selectable_reward",
+    "eventMissionSelectableRewardGroupId": 1,
+    "eventMissionType": "achieve_event_mission",
+    "id": 864,
+    "requirement1": 7,
+    "rewards": [],
+    "sentence": "完成所有7个任务。",
+    "seq": 8
+  },
+  {
+    "eventId": 189,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_daily",
+    "id": 865,
+    "requirement1": 10,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "1天完成1次演出累计达到10天。",
+    "seq": 1
+  },
+  {
+    "eventId": 189,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "any_live_clear",
+    "id": 866,
+    "requirement1": 50,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "完成50次演出。",
+    "seq": 2
+  },
+  {
+    "eventId": 189,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_full_combo",
+    "id": 867,
+    "requirement1": 10,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在演出中以FULL COMBO完成歌曲达到10次。",
+    "seq": 3
+  },
+  {
+    "eventId": 189,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_different_music",
+    "id": 868,
+    "requirement1": 10,
+    "requirement2": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在演出中完成10首歌曲。",
+    "seq": 4
+  },
+  {
+    "eventId": 189,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "read_last_event_story_episode",
+    "id": 869,
+    "requirement1": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "观看活动“携手，奔赴圆满路线”的活动剧情第8话。",
+    "seq": 5
+  },
+  {
+    "eventId": 189,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "consume_event_item",
+    "id": 870,
+    "requirement1": 20000,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在活动“携手，奔赴圆满路线”的兑换所消耗20000个徽章。",
+    "seq": 6
+  },
+  {
+    "eventId": 189,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "join_virtual_live",
+    "id": 871,
+    "requirement1": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "参加“携手，奔赴圆满路线 后日谈·演唱会”。",
+    "seq": 7
+  },
+  {
+    "eventId": 189,
+    "eventMissionCategory": "complete_selectable_reward",
+    "eventMissionSelectableRewardGroupId": 1,
+    "eventMissionType": "achieve_event_mission",
+    "id": 872,
+    "requirement1": 7,
+    "rewards": [],
+    "sentence": "完成所有7个任务。",
+    "seq": 8
+  },
+  {
+    "eventId": 190,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_daily",
+    "id": 873,
+    "requirement1": 9,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "1天完成1次演出累计达到9天。",
+    "seq": 1
+  },
+  {
+    "eventId": 190,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "any_live_clear",
+    "id": 874,
+    "requirement1": 50,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "完成50次演出。",
+    "seq": 2
+  },
+  {
+    "eventId": 190,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_full_combo",
+    "id": 875,
+    "requirement1": 10,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在演出中以FULL COMBO完成歌曲达到10次。",
+    "seq": 3
+  },
+  {
+    "eventId": 190,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_different_music",
+    "id": 876,
+    "requirement1": 10,
+    "requirement2": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在演出中完成10首歌曲。",
+    "seq": 4
+  },
+  {
+    "eventId": 190,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "read_last_event_story_episode",
+    "id": 877,
+    "requirement1": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "观看活动“这则故事承载着希望”的活动剧情第8话。",
+    "seq": 5
+  },
+  {
+    "eventId": 190,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "consume_event_item",
+    "id": 878,
+    "requirement1": 20000,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在活动“这则故事承载着希望”的兑换所消耗20000个徽章。",
+    "seq": 6
+  },
+  {
+    "eventId": 190,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "join_virtual_live",
+    "id": 879,
+    "requirement1": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "参加“这则故事承载着希望 后日谈·演唱会”。",
+    "seq": 7
+  },
+  {
+    "eventId": 190,
+    "eventMissionCategory": "complete_selectable_reward",
+    "eventMissionSelectableRewardGroupId": 1,
+    "eventMissionType": "achieve_event_mission",
+    "id": 880,
+    "requirement1": 7,
+    "rewards": [],
+    "sentence": "完成所有7个任务。",
+    "seq": 8
+  },
+  {
+    "eventId": 191,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_daily",
+    "id": 881,
+    "requirement1": 10,
+    "rewards": [
+      {
+        "resourceBoxId": 8003
+      }
+    ],
+    "sentence": "1天完成1次演出累计达到10天。",
+    "seq": 1
+  },
+  {
+    "eventId": 191,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "any_live_clear",
+    "id": 882,
+    "requirement1": 50,
+    "rewards": [
+      {
+        "resourceBoxId": 8003
+      }
+    ],
+    "sentence": "完成50次演出。",
+    "seq": 2
+  },
+  {
+    "eventId": 191,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_full_combo",
+    "id": 883,
+    "requirement1": 10,
+    "rewards": [
+      {
+        "resourceBoxId": 8003
+      }
+    ],
+    "sentence": "在演出中以FULL COMBO完成歌曲达到10次。",
+    "seq": 3
+  },
+  {
+    "eventId": 191,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_different_music",
+    "id": 884,
+    "requirement1": 10,
+    "requirement2": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8003
+      }
+    ],
+    "sentence": "在演出中完成10首歌曲。",
+    "seq": 4
+  },
+  {
+    "eventId": 191,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "read_last_event_story_episode",
+    "id": 885,
+    "requirement1": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8003
+      }
+    ],
+    "sentence": "观看活动“新年祝福，祈愿之舞”的活动剧情第8话。",
+    "seq": 5
+  },
+  {
+    "eventId": 191,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "consume_event_item",
+    "id": 886,
+    "requirement1": 20000,
+    "rewards": [
+      {
+        "resourceBoxId": 8003
+      }
+    ],
+    "sentence": "在活动“新年祝福，祈愿之舞”的兑换所消耗20000个徽章。",
+    "seq": 6
+  },
+  {
+    "eventId": 191,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "join_virtual_live",
+    "id": 887,
+    "requirement1": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8003
+      }
+    ],
+    "sentence": "参加“新年祝福，祈愿之舞 后日谈·演唱会”。",
+    "seq": 7
+  },
+  {
+    "eventId": 191,
+    "eventMissionCategory": "complete_selectable_reward",
+    "eventMissionSelectableRewardGroupId": 1,
+    "eventMissionType": "achieve_event_mission",
+    "id": 888,
+    "requirement1": 7,
+    "rewards": [],
+    "sentence": "完成所有7个任务。",
+    "seq": 8
+  },
+  {
+    "eventId": 192,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_daily",
+    "id": 889,
+    "requirement1": 9,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "1天完成1次演出累计达到9天。",
+    "seq": 1
+  },
+  {
+    "eventId": 192,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "any_live_clear",
+    "id": 890,
+    "requirement1": 50,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "完成50次演出。",
+    "seq": 2
+  },
+  {
+    "eventId": 192,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_full_combo",
+    "id": 891,
+    "requirement1": 10,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在演出中以FULL COMBO完成歌曲达到10次。",
+    "seq": 3
+  },
+  {
+    "eventId": 192,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_different_music",
+    "id": 892,
+    "requirement1": 10,
+    "requirement2": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在演出中完成10首歌曲。",
+    "seq": 4
+  },
+  {
+    "eventId": 192,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "read_last_event_story_episode",
+    "id": 893,
+    "requirement1": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "观看活动“叩响沉眠的镜中梦”的活动剧情第8话。",
+    "seq": 5
+  },
+  {
+    "eventId": 192,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "consume_event_item",
+    "id": 894,
+    "requirement1": 20000,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在活动“叩响沉眠的镜中梦”的兑换所消耗20000个徽章。",
+    "seq": 6
+  },
+  {
+    "eventId": 192,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "join_virtual_live",
+    "id": 895,
+    "requirement1": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "参加“叩响沉眠的镜中梦 后日谈·演唱会”。",
+    "seq": 7
+  },
+  {
+    "eventId": 192,
+    "eventMissionCategory": "complete_selectable_reward",
+    "eventMissionSelectableRewardGroupId": 1,
+    "eventMissionType": "achieve_event_mission",
+    "id": 896,
+    "requirement1": 7,
+    "rewards": [],
+    "sentence": "完成所有7个任务。",
+    "seq": 8
+  },
+  {
+    "eventId": 193,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_daily",
+    "id": 897,
+    "requirement1": 9,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "1天完成1次演出累计达到9天。",
+    "seq": 1
+  },
+  {
+    "eventId": 193,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "any_live_clear",
+    "id": 898,
+    "requirement1": 50,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "完成50次演出。",
+    "seq": 2
+  },
+  {
+    "eventId": 193,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_full_combo",
+    "id": 899,
+    "requirement1": 10,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在演出中以FULL COMBO完成歌曲达到10次。",
+    "seq": 3
+  },
+  {
+    "eventId": 193,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_different_music",
+    "id": 900,
+    "requirement1": 10,
+    "requirement2": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在演出中完成10首歌曲。",
+    "seq": 4
+  },
+  {
+    "eventId": 193,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "read_last_event_story_episode",
+    "id": 901,
+    "requirement1": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "观看活动“GO ALL OUT”的活动剧情第8话。",
+    "seq": 5
+  },
+  {
+    "eventId": 193,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "consume_event_item",
+    "id": 902,
+    "requirement1": 20000,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在活动“GO ALL OUT”的兑换所消耗20000个徽章。",
+    "seq": 6
+  },
+  {
+    "eventId": 193,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "join_virtual_live",
+    "id": 903,
+    "requirement1": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "参加“GO ALL OUT 后日谈·演唱会”。",
+    "seq": 7
+  },
+  {
+    "eventId": 193,
+    "eventMissionCategory": "complete_selectable_reward",
+    "eventMissionSelectableRewardGroupId": 1,
+    "eventMissionType": "achieve_event_mission",
+    "id": 904,
+    "requirement1": 7,
+    "rewards": [],
+    "sentence": "完成所有7个任务。",
+    "seq": 8
+  },
+  {
+    "eventId": 194,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_daily",
+    "id": 905,
+    "requirement1": 9,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "1天完成1次演出累计达到9天。",
+    "seq": 1
+  },
+  {
+    "eventId": 194,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "any_live_clear",
+    "id": 906,
+    "requirement1": 50,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "完成50次演出。",
+    "seq": 2
+  },
+  {
+    "eventId": 194,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_full_combo",
+    "id": 907,
+    "requirement1": 10,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在演出中以FULL COMBO完成歌曲达到10次。",
+    "seq": 3
+  },
+  {
+    "eventId": 194,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_different_music",
+    "id": 908,
+    "requirement1": 10,
+    "requirement2": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在演出中完成10首歌曲。",
+    "seq": 4
+  },
+  {
+    "eventId": 194,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "read_last_event_story_episode",
+    "id": 909,
+    "requirement1": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "观看活动“粉碎吧！暗瓦伦丁的复仇”的活动剧情第8话。",
+    "seq": 5
+  },
+  {
+    "eventId": 194,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "consume_event_item",
+    "id": 910,
+    "requirement1": 20000,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在活动“粉碎吧！暗瓦伦丁的复仇”的兑换所消耗20000个徽章。",
+    "seq": 6
+  },
+  {
+    "eventId": 194,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "join_virtual_live",
+    "id": 911,
+    "requirement1": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "参加“粉碎吧！暗瓦伦丁的复仇 后日谈·演唱会”。",
+    "seq": 7
+  },
+  {
+    "eventId": 194,
+    "eventMissionCategory": "complete_selectable_reward",
+    "eventMissionSelectableRewardGroupId": 1,
+    "eventMissionType": "achieve_event_mission",
+    "id": 912,
+    "requirement1": 7,
+    "rewards": [],
+    "sentence": "完成所有7个任务。",
+    "seq": 8
+  },
+  {
+    "eventId": 195,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_daily",
+    "id": 913,
+    "requirement1": 8,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "1天完成1次演出累计达到8天。",
+    "seq": 1
+  },
+  {
+    "eventId": 195,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "any_live_clear",
+    "id": 914,
+    "requirement1": 50,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "完成50次演出。",
+    "seq": 2
+  },
+  {
+    "eventId": 195,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_full_combo",
+    "id": 915,
+    "requirement1": 10,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在演出中以FULL COMBO完成歌曲达到10次。",
+    "seq": 3
+  },
+  {
+    "eventId": 195,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_different_music",
+    "id": 916,
+    "requirement1": 10,
+    "requirement2": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在演出中完成10首歌曲。",
+    "seq": 4
+  },
+  {
+    "eventId": 195,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "read_last_event_story_episode",
+    "id": 917,
+    "requirement1": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "观看活动“Path made by faith”的活动剧情第8话。",
+    "seq": 5
+  },
+  {
+    "eventId": 195,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "consume_event_item",
+    "id": 918,
+    "requirement1": 20000,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在活动“Path made by faith”的兑换所消耗20000个徽章。",
+    "seq": 6
+  },
+  {
+    "eventId": 195,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "join_virtual_live",
+    "id": 919,
+    "requirement1": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "参加“Path made by faith 后日谈·演唱会”。",
+    "seq": 7
+  },
+  {
+    "eventId": 195,
+    "eventMissionCategory": "complete_selectable_reward",
+    "eventMissionSelectableRewardGroupId": 1,
+    "eventMissionType": "achieve_event_mission",
+    "id": 920,
+    "requirement1": 7,
+    "rewards": [],
+    "sentence": "完成所有7个任务。",
+    "seq": 8
+  },
+  {
+    "eventId": 196,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_daily",
+    "id": 921,
+    "requirement1": 8,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "1天完成1次演出累计达到8天。",
+    "seq": 1
+  },
+  {
+    "eventId": 196,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "any_live_clear",
+    "id": 922,
+    "requirement1": 50,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "完成50次演出。",
+    "seq": 2
+  },
+  {
+    "eventId": 196,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_full_combo",
+    "id": 923,
+    "requirement1": 10,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在演出中以FULL COMBO完成歌曲达到10次。",
+    "seq": 3
+  },
+  {
+    "eventId": 196,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_different_music",
+    "id": 924,
+    "requirement1": 10,
+    "requirement2": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在演出中完成10首歌曲。",
+    "seq": 4
+  },
+  {
+    "eventId": 196,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "read_last_event_story_episode",
+    "id": 925,
+    "requirement1": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "观看活动“CHANGECHANGE！笑梦变成公主殿下”的活动剧情第8话。",
+    "seq": 5
+  },
+  {
+    "eventId": 196,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "consume_event_item",
+    "id": 926,
+    "requirement1": 20000,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在活动“CHANGECHANGE！笑梦变成公主殿下”的兑换所消耗20000个徽章。",
+    "seq": 6
+  },
+  {
+    "eventId": 196,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "join_virtual_live",
+    "id": 927,
+    "requirement1": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "参加“CHANGECHANGE！笑梦变成公主殿下 后日谈·演唱会”。",
+    "seq": 7
+  },
+  {
+    "eventId": 196,
+    "eventMissionCategory": "complete_selectable_reward",
+    "eventMissionSelectableRewardGroupId": 1,
+    "eventMissionType": "achieve_event_mission",
+    "id": 928,
+    "requirement1": 7,
+    "rewards": [],
+    "sentence": "完成所有7个任务。",
+    "seq": 8
+  },
+  {
+    "eventId": 197,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_daily",
+    "id": 929,
+    "requirement1": 9,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "1天完成1次演出累计达到9天。",
+    "seq": 1
+  },
+  {
+    "eventId": 197,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "any_live_clear",
+    "id": 930,
+    "requirement1": 50,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "完成50次演出。",
+    "seq": 2
+  },
+  {
+    "eventId": 197,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_full_combo",
+    "id": 931,
+    "requirement1": 10,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在演出中以FULL COMBO完成歌曲达到10次。",
+    "seq": 3
+  },
+  {
+    "eventId": 197,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_different_music",
+    "id": 932,
+    "requirement1": 10,
+    "requirement2": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在演出中完成10首歌曲。",
+    "seq": 4
+  },
+  {
+    "eventId": 197,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "read_last_event_story_episode",
+    "id": 933,
+    "requirement1": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "观看活动“于噩梦之庭彻夜长歌”的活动剧情第8话。",
+    "seq": 5
+  },
+  {
+    "eventId": 197,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "consume_event_item",
+    "id": 934,
+    "requirement1": 20000,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在活动“于噩梦之庭彻夜长歌”的兑换所消耗20000个徽章。",
+    "seq": 6
+  },
+  {
+    "eventId": 197,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "join_virtual_live",
+    "id": 935,
+    "requirement1": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "参加“于噩梦之庭彻夜长歌 后日谈·演唱会”。",
+    "seq": 7
+  },
+  {
+    "eventId": 197,
+    "eventMissionCategory": "complete_selectable_reward",
+    "eventMissionSelectableRewardGroupId": 1,
+    "eventMissionType": "achieve_event_mission",
+    "id": 936,
+    "requirement1": 7,
+    "rewards": [],
+    "sentence": "完成所有7个任务。",
+    "seq": 8
+  },
+  {
+    "eventId": 198,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_daily",
+    "id": 937,
+    "requirement1": 9,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "1天完成1次演出累计达到9天。",
+    "seq": 1
+  },
+  {
+    "eventId": 198,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "any_live_clear",
+    "id": 938,
+    "requirement1": 50,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "完成50次演出。",
+    "seq": 2
+  },
+  {
+    "eventId": 198,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_full_combo",
+    "id": 939,
+    "requirement1": 10,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在演出中以FULL COMBO完成歌曲达到10次。",
+    "seq": 3
+  },
+  {
+    "eventId": 198,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_different_music",
+    "id": 940,
+    "requirement1": 10,
+    "requirement2": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在演出中完成10首歌曲。",
+    "seq": 4
+  },
+  {
+    "eventId": 198,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "read_last_event_story_episode",
+    "id": 941,
+    "requirement1": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "观看活动“Open up new horizons”的活动剧情第8话。",
+    "seq": 5
+  },
+  {
+    "eventId": 198,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "consume_event_item",
+    "id": 942,
+    "requirement1": 20000,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在活动“Open up new horizons”的兑换所消耗20000个徽章。",
+    "seq": 6
+  },
+  {
+    "eventId": 198,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "join_virtual_live",
+    "id": 943,
+    "requirement1": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "参加“Open up new horizons 后日谈·演唱会”。",
+    "seq": 7
+  },
+  {
+    "eventId": 198,
+    "eventMissionCategory": "complete_selectable_reward",
+    "eventMissionSelectableRewardGroupId": 1,
+    "eventMissionType": "achieve_event_mission",
+    "id": 944,
+    "requirement1": 7,
+    "rewards": [],
+    "sentence": "完成所有7个任务。",
+    "seq": 8
+  },
+  {
+    "eventId": 199,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_daily",
+    "id": 945,
+    "requirement1": 9,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "1天完成1次演出累计达到9天。",
+    "seq": 1
+  },
+  {
+    "eventId": 199,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "any_live_clear",
+    "id": 946,
+    "requirement1": 50,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "完成50次演出。",
+    "seq": 2
+  },
+  {
+    "eventId": 199,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_full_combo",
+    "id": 947,
+    "requirement1": 10,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在演出中以FULL COMBO完成歌曲达到10次。",
+    "seq": 3
+  },
+  {
+    "eventId": 199,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_different_music",
+    "id": 948,
+    "requirement1": 10,
+    "requirement2": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在演出中完成10首歌曲。",
+    "seq": 4
+  },
+  {
+    "eventId": 199,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "read_last_event_story_episode",
+    "id": 949,
+    "requirement1": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "观看活动“Amid the Wavering Light”的活动剧情第8话。",
+    "seq": 5
+  },
+  {
+    "eventId": 199,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "consume_event_item",
+    "id": 950,
+    "requirement1": 20000,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "在活动“Amid the Wavering Light”的兑换所消耗20000个徽章。",
+    "seq": 6
+  },
+  {
+    "eventId": 199,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "join_virtual_live",
+    "id": 951,
+    "requirement1": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8002
+      }
+    ],
+    "sentence": "参加“Amid the Wavering Light 后日谈·演唱会”。",
+    "seq": 7
+  },
+  {
+    "eventId": 199,
+    "eventMissionCategory": "complete_selectable_reward",
+    "eventMissionSelectableRewardGroupId": 1,
+    "eventMissionType": "achieve_event_mission",
+    "id": 952,
+    "requirement1": 7,
+    "rewards": [],
+    "sentence": "完成所有7个任务。",
+    "seq": 8
+  },
+  {
+    "eventId": 200,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_daily",
+    "id": 953,
+    "requirement1": 9,
+    "rewards": [
+      {
+        "resourceBoxId": 8004
+      }
+    ],
+    "sentence": "1天完成1次演出累计达到9天。",
+    "seq": 1
+  },
+  {
+    "eventId": 200,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "any_live_clear",
+    "id": 954,
+    "requirement1": 50,
+    "rewards": [
+      {
+        "resourceBoxId": 8004
+      }
+    ],
+    "sentence": "完成50次演出。",
+    "seq": 2
+  },
+  {
+    "eventId": 200,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_full_combo",
+    "id": 955,
+    "requirement1": 10,
+    "rewards": [
+      {
+        "resourceBoxId": 8004
+      }
+    ],
+    "sentence": "在演出中以FULL COMBO完成歌曲达到10次。",
+    "seq": 3
+  },
+  {
+    "eventId": 200,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_different_music",
+    "id": 956,
+    "requirement1": 10,
+    "requirement2": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8004
+      }
+    ],
+    "sentence": "在演出中完成10首歌曲。",
+    "seq": 4
+  },
+  {
+    "eventId": 200,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "read_last_event_story_episode",
+    "id": 957,
+    "requirement1": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8004
+      }
+    ],
+    "sentence": "观看活动“余晖的Inside Direction”的活动剧情第8话。",
+    "seq": 5
+  },
+  {
+    "eventId": 200,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "consume_event_item",
+    "id": 958,
+    "requirement1": 20000,
+    "rewards": [
+      {
+        "resourceBoxId": 8004
+      }
+    ],
+    "sentence": "在活动“余晖的Inside Direction”的兑换所消耗20000个徽章。",
+    "seq": 6
+  },
+  {
+    "eventId": 200,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "join_virtual_live",
+    "id": 959,
+    "requirement1": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8004
+      }
+    ],
+    "sentence": "参加“余晖的Inside Direction 后日谈·演唱会”。",
+    "seq": 7
+  },
+  {
+    "eventId": 200,
+    "eventMissionCategory": "complete_selectable_reward",
+    "eventMissionSelectableRewardGroupId": 2,
+    "eventMissionType": "achieve_event_mission",
+    "id": 960,
+    "requirement1": 7,
+    "rewards": [],
+    "sentence": "完成所有7个任务。",
+    "seq": 8
+  },
+  {
+    "eventId": 201,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_daily",
+    "id": 961,
+    "requirement1": 8,
+    "rewards": [
+      {
+        "resourceBoxId": 8004
+      }
+    ],
+    "sentence": "1天完成1次演出累计达到8天。",
+    "seq": 1
+  },
+  {
+    "eventId": 201,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "any_live_clear",
+    "id": 962,
+    "requirement1": 50,
+    "rewards": [
+      {
+        "resourceBoxId": 8004
+      }
+    ],
+    "sentence": "完成50次演出。",
+    "seq": 2
+  },
+  {
+    "eventId": 201,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_full_combo",
+    "id": 963,
+    "requirement1": 10,
+    "rewards": [
+      {
+        "resourceBoxId": 8004
+      }
+    ],
+    "sentence": "在演出中以FULL COMBO完成歌曲达到10次。",
+    "seq": 3
+  },
+  {
+    "eventId": 201,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "live_clear_different_music",
+    "id": 964,
+    "requirement1": 10,
+    "requirement2": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8004
+      }
+    ],
+    "sentence": "在演出中完成10首歌曲。",
+    "seq": 4
+  },
+  {
+    "eventId": 201,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "read_last_event_story_episode",
+    "id": 965,
+    "requirement1": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8004
+      }
+    ],
+    "sentence": "观看活动“Show 'em what's up！”的活动剧情第8话。",
+    "seq": 5
+  },
+  {
+    "eventId": 201,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "consume_event_item",
+    "id": 966,
+    "requirement1": 20000,
+    "rewards": [
+      {
+        "resourceBoxId": 8004
+      }
+    ],
+    "sentence": "在活动“Show 'em what's up！”的兑换所消耗20000个徽章。",
+    "seq": 6
+  },
+  {
+    "eventId": 201,
+    "eventMissionCategory": "normal",
+    "eventMissionType": "join_virtual_live",
+    "id": 967,
+    "requirement1": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 8004
+      }
+    ],
+    "sentence": "参加“Show 'em what's up！ 后日谈·演唱会”。",
+    "seq": 7
+  },
+  {
+    "eventId": 201,
+    "eventMissionCategory": "complete_selectable_reward",
+    "eventMissionSelectableRewardGroupId": 2,
+    "eventMissionType": "achieve_event_mission",
+    "id": 968,
+    "requirement1": 7,
+    "rewards": [],
+    "sentence": "完成所有7个任务。",
+    "seq": 8
+  }
+]

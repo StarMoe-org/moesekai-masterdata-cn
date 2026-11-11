@@ -1,0 +1,365 @@
+[
+  {
+    "id": 1,
+    "possessionLimit": 1,
+    "resourceId": 136,
+    "resourceType": "mysekai_fixture"
+  },
+  {
+    "id": 2,
+    "resourceId": 136,
+    "resourceType": "mysekai_blueprint"
+  },
+  {
+    "id": 3,
+    "possessionLimit": 1,
+    "resourceId": 142,
+    "resourceType": "mysekai_fixture"
+  },
+  {
+    "id": 4,
+    "resourceId": 142,
+    "resourceType": "mysekai_blueprint"
+  },
+  {
+    "id": 5,
+    "possessionLimit": 1,
+    "resourceId": 143,
+    "resourceType": "mysekai_fixture"
+  },
+  {
+    "id": 6,
+    "resourceId": 143,
+    "resourceType": "mysekai_blueprint"
+  },
+  {
+    "id": 7,
+    "possessionLimit": 1,
+    "resourceId": 146,
+    "resourceType": "mysekai_fixture"
+  },
+  {
+    "id": 8,
+    "resourceId": 146,
+    "resourceType": "mysekai_blueprint"
+  },
+  {
+    "id": 9,
+    "possessionLimit": 3,
+    "resourceId": 139,
+    "resourceType": "mysekai_fixture"
+  },
+  {
+    "id": 10,
+    "resourceId": 139,
+    "resourceType": "mysekai_blueprint"
+  },
+  {
+    "id": 11,
+    "possessionLimit": 1,
+    "resourceId": 91,
+    "resourceType": "mysekai_fixture"
+  },
+  {
+    "id": 12,
+    "resourceId": 91,
+    "resourceType": "mysekai_blueprint"
+  },
+  {
+    "id": 13,
+    "possessionLimit": 1,
+    "resourceId": 900002,
+    "resourceType": "mysekai_fixture"
+  },
+  {
+    "id": 14,
+    "possessionLimit": 1,
+    "resourceId": 140,
+    "resourceType": "mysekai_fixture"
+  },
+  {
+    "id": 15,
+    "resourceId": 140,
+    "resourceType": "mysekai_blueprint"
+  },
+  {
+    "id": 16,
+    "possessionLimit": 1,
+    "resourceId": 141,
+    "resourceType": "mysekai_fixture"
+  },
+  {
+    "id": 17,
+    "resourceId": 141,
+    "resourceType": "mysekai_blueprint"
+  },
+  {
+    "id": 18,
+    "possessionLimit": 2,
+    "resourceId": 193,
+    "resourceType": "mysekai_fixture"
+  },
+  {
+    "id": 19,
+    "resourceId": 193,
+    "resourceType": "mysekai_blueprint"
+  },
+  {
+    "id": 20,
+    "possessionLimit": 1,
+    "resourceId": 189,
+    "resourceType": "mysekai_fixture"
+  },
+  {
+    "id": 21,
+    "resourceId": 189,
+    "resourceType": "mysekai_blueprint"
+  },
+  {
+    "id": 22,
+    "possessionLimit": 1,
+    "resourceId": 278,
+    "resourceType": "mysekai_fixture"
+  },
+  {
+    "id": 23,
+    "resourceId": 278,
+    "resourceType": "mysekai_blueprint"
+  },
+  {
+    "id": 24,
+    "possessionLimit": 1,
+    "resourceId": 317,
+    "resourceType": "mysekai_fixture"
+  },
+  {
+    "id": 25,
+    "resourceId": 317,
+    "resourceType": "mysekai_blueprint"
+  },
+  {
+    "id": 26,
+    "possessionLimit": 2,
+    "resourceId": 175,
+    "resourceType": "mysekai_fixture"
+  },
+  {
+    "id": 27,
+    "resourceId": 175,
+    "resourceType": "mysekai_blueprint"
+  },
+  {
+    "id": 28,
+    "possessionLimit": 14,
+    "resourceId": 111,
+    "resourceType": "mysekai_fixture"
+  },
+  {
+    "id": 29,
+    "resourceId": 111,
+    "resourceType": "mysekai_blueprint"
+  },
+  {
+    "id": 30,
+    "possessionLimit": 8,
+    "resourceId": 114,
+    "resourceType": "mysekai_fixture"
+  },
+  {
+    "id": 31,
+    "resourceId": 114,
+    "resourceType": "mysekai_blueprint"
+  },
+  {
+    "id": 32,
+    "possessionLimit": 1,
+    "resourceId": 102,
+    "resourceType": "mysekai_fixture"
+  },
+  {
+    "id": 33,
+    "resourceId": 102,
+    "resourceType": "mysekai_blueprint"
+  },
+  {
+    "id": 34,
+    "possessionLimit": 1,
+    "resourceId": 333,
+    "resourceType": "mysekai_fixture"
+  },
+  {
+    "id": 35,
+    "resourceId": 333,
+    "resourceType": "mysekai_blueprint"
+  },
+  {
+    "id": 36,
+    "resourceId": 100001,
+    "resourceType": "mysekai_blueprint"
+  },
+  {
+    "id": 37,
+    "resourceId": 100006,
+    "resourceType": "mysekai_blueprint"
+  },
+  {
+    "id": 38,
+    "resourceId": 100002,
+    "resourceType": "mysekai_blueprint"
+  },
+  {
+    "id": 39,
+    "resourceId": 100007,
+    "resourceType": "mysekai_blueprint"
+  },
+  {
+    "id": 40,
+    "resourceId": 378,
+    "resourceType": "mysekai_blueprint"
+  },
+  {
+    "id": 41,
+    "resourceId": 381,
+    "resourceType": "mysekai_blueprint"
+  },
+  {
+    "id": 42,
+    "resourceId": 384,
+    "resourceType": "mysekai_blueprint"
+  },
+  {
+    "id": 43,
+    "resourceId": 387,
+    "resourceType": "mysekai_blueprint"
+  },
+  {
+    "id": 44,
+    "resourceId": 390,
+    "resourceType": "mysekai_blueprint"
+  },
+  {
+    "id": 45,
+    "resourceId": 393,
+    "resourceType": "mysekai_blueprint"
+  },
+  {
+    "id": 46,
+    "resourceId": 396,
+    "resourceType": "mysekai_blueprint"
+  },
+  {
+    "id": 47,
+    "resourceId": 399,
+    "resourceType": "mysekai_blueprint"
+  },
+  {
+    "id": 48,
+    "resourceId": 354,
+    "resourceType": "mysekai_blueprint"
+  },
+  {
+    "id": 49,
+    "resourceId": 357,
+    "resourceType": "mysekai_blueprint"
+  },
+  {
+    "id": 50,
+    "resourceId": 360,
+    "resourceType": "mysekai_blueprint"
+  },
+  {
+    "id": 51,
+    "resourceId": 363,
+    "resourceType": "mysekai_blueprint"
+  },
+  {
+    "id": 52,
+    "resourceId": 366,
+    "resourceType": "mysekai_blueprint"
+  },
+  {
+    "id": 53,
+    "resourceId": 369,
+    "resourceType": "mysekai_blueprint"
+  },
+  {
+    "id": 54,
+    "resourceId": 372,
+    "resourceType": "mysekai_blueprint"
+  },
+  {
+    "id": 55,
+    "resourceId": 375,
+    "resourceType": "mysekai_blueprint"
+  },
+  {
+    "id": 56,
+    "resourceId": 342,
+    "resourceType": "mysekai_blueprint"
+  },
+  {
+    "id": 57,
+    "resourceId": 345,
+    "resourceType": "mysekai_blueprint"
+  },
+  {
+    "id": 58,
+    "resourceId": 348,
+    "resourceType": "mysekai_blueprint"
+  },
+  {
+    "id": 59,
+    "resourceId": 351,
+    "resourceType": "mysekai_blueprint"
+  },
+  {
+    "id": 60,
+    "resourceId": 137,
+    "resourceType": "mysekai_fixture"
+  },
+  {
+    "id": 61,
+    "resourceId": 138,
+    "resourceType": "mysekai_fixture"
+  },
+  {
+    "id": 62,
+    "resourceId": 137,
+    "resourceType": "mysekai_blueprint"
+  },
+  {
+    "id": 63,
+    "resourceId": 138,
+    "resourceType": "mysekai_blueprint"
+  },
+  {
+    "id": 64,
+    "resourceId": 513,
+    "resourceType": "mysekai_fixture"
+  },
+  {
+    "id": 65,
+    "resourceId": 514,
+    "resourceType": "mysekai_fixture"
+  },
+  {
+    "id": 66,
+    "resourceId": 837,
+    "resourceType": "mysekai_fixture"
+  },
+  {
+    "id": 67,
+    "resourceId": 838,
+    "resourceType": "mysekai_fixture"
+  },
+  {
+    "id": 68,
+    "resourceId": 839,
+    "resourceType": "mysekai_fixture"
+  },
+  {
+    "id": 69,
+    "resourceId": 840,
+    "resourceType": "mysekai_fixture"
+  }
+]

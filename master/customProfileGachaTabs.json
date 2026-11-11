@@ -1,0 +1,92 @@
+[
+  {
+    "assetbundleName": "resale_collection_gacha_vbs_1st_live",
+    "childCustomProfileGachaIds": [
+      35
+    ],
+    "id": 5,
+    "seq": 5
+  },
+  {
+    "assetbundleName": "resale_collection_gacha_2nd_anv_live",
+    "childCustomProfileGachaIds": [
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42
+    ],
+    "id": 6,
+    "seq": 6
+  },
+  {
+    "assetbundleName": "resale_collection_gacha_mmj_1st_live",
+    "childCustomProfileGachaIds": [
+      43
+    ],
+    "id": 7,
+    "seq": 7
+  },
+  {
+    "assetbundleName": "resale_collection_gacha_lon_1st_live",
+    "childCustomProfileGachaIds": [
+      44
+    ],
+    "id": 8,
+    "seq": 8
+  },
+  {
+    "assetbundleName": "resale_collection_gacha_nig_1st_live",
+    "childCustomProfileGachaIds": [
+      45
+    ],
+    "id": 9,
+    "seq": 9
+  },
+  {
+    "assetbundleName": "resale_collection_gacha_wnd_1st_live",
+    "childCustomProfileGachaIds": [
+      46
+    ],
+    "id": 10,
+    "seq": 10
+  },
+  {
+    "assetbundleName": "resale_collection_gacha_3rd_anv_live",
+    "childCustomProfileGachaIds": [
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53
+    ],
+    "id": 11,
+    "seq": 11
+  },
+  {
+    "assetbundleName": "collection_gacha_5th_live_anv",
+    "childCustomProfileGachaIds": [
+      67,
+      68,
+      69,
+      70,
+      71,
+      72,
+      73
+    ],
+    "id": 15,
+    "seq": 15
+  },
+  {
+    "assetbundleName": "resale_collab_es_collection",
+    "childCustomProfileGachaIds": [
+      78
+    ],
+    "id": 17,
+    "seq": 17
+  }
+]

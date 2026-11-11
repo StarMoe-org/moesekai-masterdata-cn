@@ -1,0 +1,236 @@
+[
+  {
+    "character3dId1": 1421,
+    "character3dId2": 1422,
+    "costumeName": "“茶会”服装",
+    "femaleAssetbundleName": "cos0556_body",
+    "id": 44,
+    "liveMissionPeriodId": 44,
+    "maleAssetbundleName": "cos0557_body"
+  },
+  {
+    "character3dId1": 250401,
+    "character3dId2": 250402,
+    "costumeName": "“林间梦”服装",
+    "femaleAssetbundleName": "cos01080_body",
+    "id": 45,
+    "liveMissionPeriodId": 45,
+    "maleAssetbundleName": "cos01079_body"
+  },
+  {
+    "character3dId1": 250501,
+    "character3dId2": 250502,
+    "costumeName": "“心愿”服装",
+    "femaleAssetbundleName": "cos01090_body",
+    "id": 46,
+    "liveMissionPeriodId": 46,
+    "maleAssetbundleName": "cos01089_body"
+  },
+  {
+    "character3dId1": 250601,
+    "character3dId2": 250602,
+    "costumeName": "“夏夜”服装",
+    "femaleAssetbundleName": "cos01094_body",
+    "id": 47,
+    "liveMissionPeriodId": 47,
+    "maleAssetbundleName": "cos01093_body"
+  },
+  {
+    "character3dId1": 250701,
+    "character3dId2": 250702,
+    "costumeName": "“田园”服装",
+    "femaleAssetbundleName": "cos01098_body",
+    "id": 48,
+    "liveMissionPeriodId": 48,
+    "maleAssetbundleName": "cos01097_body"
+  },
+  {
+    "character3dId1": 250801,
+    "character3dId2": 250802,
+    "costumeName": "“雨天”服装",
+    "femaleAssetbundleName": "cos25081_body",
+    "id": 49,
+    "liveMissionPeriodId": 49,
+    "maleAssetbundleName": "cos25082_body"
+  },
+  {
+    "character3dId1": 250901,
+    "character3dId2": 250902,
+    "costumeName": "“秋装”服装",
+    "femaleAssetbundleName": "cos25091_body",
+    "id": 50,
+    "liveMissionPeriodId": 50,
+    "maleAssetbundleName": "cos25092_body"
+  },
+  {
+    "character3dId1": 251001,
+    "character3dId2": 251002,
+    "costumeName": "“歌剧”服装",
+    "femaleAssetbundleName": "cos25101_body",
+    "id": 51,
+    "liveMissionPeriodId": 51,
+    "maleAssetbundleName": "cos25102_body"
+  },
+  {
+    "character3dId1": 251101,
+    "character3dId2": 251102,
+    "costumeName": "“骑士”服装",
+    "femaleAssetbundleName": "cos25111_body",
+    "id": 52,
+    "liveMissionPeriodId": 52,
+    "maleAssetbundleName": "cos25112_body"
+  },
+  {
+    "character3dId1": 251201,
+    "character3dId2": 251202,
+    "costumeName": "“冬季”服装",
+    "femaleAssetbundleName": "cos25121_body",
+    "id": 53,
+    "liveMissionPeriodId": 53,
+    "maleAssetbundleName": "cos25122_body"
+  },
+  {
+    "character3dId1": 1797,
+    "character3dId2": 1798,
+    "costumeName": "“异国风”服装",
+    "femaleAssetbundleName": "cos0713_body",
+    "id": 54,
+    "liveMissionPeriodId": 54,
+    "maleAssetbundleName": "cos0714_body"
+  },
+  {
+    "character3dId1": 260201,
+    "character3dId2": 260202,
+    "costumeName": "“拼布”服装",
+    "femaleAssetbundleName": "cos26021_body",
+    "id": 55,
+    "liveMissionPeriodId": 55,
+    "maleAssetbundleName": "cos26022_body"
+  },
+  {
+    "character3dId1": 1899,
+    "character3dId2": 1900,
+    "costumeName": "“校园”服装",
+    "femaleAssetbundleName": "cos0749_body",
+    "id": 56,
+    "liveMissionPeriodId": 56,
+    "maleAssetbundleName": "cos0750_body"
+  },
+  {
+    "character3dId1": 260401,
+    "character3dId2": 260402,
+    "costumeName": "“职场”服装",
+    "femaleAssetbundleName": "cos26041_body",
+    "id": 57,
+    "liveMissionPeriodId": 57,
+    "maleAssetbundleName": "cos26042_body"
+  },
+  {
+    "character3dId1": 1966,
+    "character3dId2": 1967,
+    "costumeName": "“健康”服装",
+    "femaleAssetbundleName": "cos0778_body",
+    "id": 58,
+    "liveMissionPeriodId": 58,
+    "maleAssetbundleName": "cos0779_body"
+  },
+  {
+    "character3dId1": 260601,
+    "character3dId2": 260602,
+    "costumeName": "“涂鸦”服装",
+    "femaleAssetbundleName": "cos26061_body",
+    "id": 59,
+    "liveMissionPeriodId": 59,
+    "maleAssetbundleName": "cos26062_body"
+  },
+  {
+    "character3dId1": 2032,
+    "character3dId2": 2033,
+    "costumeName": "“自由”服装",
+    "femaleAssetbundleName": "cos0804_body",
+    "id": 60,
+    "liveMissionPeriodId": 60,
+    "maleAssetbundleName": "cos0805_body"
+  },
+  {
+    "character3dId1": 260801,
+    "character3dId2": 260802,
+    "costumeName": "“毛茸茸”服装",
+    "femaleAssetbundleName": "cos26081_body",
+    "id": 61,
+    "liveMissionPeriodId": 61,
+    "maleAssetbundleName": "cos26082_body"
+  },
+  {
+    "character3dId1": 2093,
+    "character3dId2": 2094,
+    "costumeName": "“梦幻”服装",
+    "femaleAssetbundleName": "cos0841_body",
+    "id": 62,
+    "liveMissionPeriodId": 62,
+    "maleAssetbundleName": "cos0842_body"
+  },
+  {
+    "character3dId1": 261001,
+    "character3dId2": 261002,
+    "costumeName": "“工装”服装",
+    "femaleAssetbundleName": "cos26101_body",
+    "id": 63,
+    "liveMissionPeriodId": 63,
+    "maleAssetbundleName": "cos26102_body"
+  },
+  {
+    "character3dId1": 2151,
+    "character3dId2": 2152,
+    "costumeName": "“科幻”服装",
+    "femaleAssetbundleName": "cos0884_body",
+    "id": 64,
+    "liveMissionPeriodId": 64,
+    "maleAssetbundleName": "cos0885_body"
+  },
+  {
+    "character3dId1": 261201,
+    "character3dId2": 261202,
+    "costumeName": "“荷叶边”服装",
+    "femaleAssetbundleName": "cos26121_body",
+    "id": 65,
+    "liveMissionPeriodId": 65,
+    "maleAssetbundleName": "cos26122_body"
+  },
+  {
+    "character3dId1": 2253,
+    "character3dId2": 2254,
+    "costumeName": "“旅行”服装",
+    "femaleAssetbundleName": "cos0918_body",
+    "id": 66,
+    "liveMissionPeriodId": 66,
+    "maleAssetbundleName": "cos0919_body"
+  },
+  {
+    "character3dId1": 270201,
+    "character3dId2": 270202,
+    "costumeName": "“植物”服装",
+    "femaleAssetbundleName": "cos27021_body",
+    "id": 67,
+    "liveMissionPeriodId": 67,
+    "maleAssetbundleName": "cos27022_body"
+  },
+  {
+    "character3dId1": 2331,
+    "character3dId2": 2332,
+    "costumeName": "“游戏”服装",
+    "femaleAssetbundleName": "cos0942_body",
+    "id": 68,
+    "liveMissionPeriodId": 68,
+    "maleAssetbundleName": "cos0943_body"
+  },
+  {
+    "character3dId1": 270401,
+    "character3dId2": 270402,
+    "costumeName": "“户外”服装",
+    "femaleAssetbundleName": "cos27041_body",
+    "id": 69,
+    "liveMissionPeriodId": 69,
+    "maleAssetbundleName": "cos27042_body"
+  }
+]

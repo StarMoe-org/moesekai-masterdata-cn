@@ -1,0 +1,42 @@
+[
+  {
+    "baseColor": "#a0eeff",
+    "cornerColor": "#6090ff",
+    "gradationColor": "#5d8eff",
+    "groundColor": "#ffffff",
+    "groundHighlightColor": "#cbdcfe",
+    "id": 1
+  },
+  {
+    "baseColor": "#fdcb80",
+    "cornerColor": "#ca8cd4",
+    "gradationColor": "#f783a6",
+    "groundColor": "#f4debc",
+    "groundHighlightColor": "#ffe6bf",
+    "id": 2
+  },
+  {
+    "baseColor": "#6bb7f2",
+    "cornerColor": "#3d4fac",
+    "gradationColor": "#4a50dd",
+    "groundColor": "#ddeefb",
+    "groundHighlightColor": "#478ee2",
+    "id": 3
+  },
+  {
+    "baseColor": "#d0ebf3",
+    "cornerColor": "#99b4e8",
+    "gradationColor": "#b1c4e8",
+    "groundColor": "#e9fbff",
+    "groundHighlightColor": "#d9eaff",
+    "id": 4
+  },
+  {
+    "baseColor": "#bef5fd",
+    "cornerColor": "#d2e1ff",
+    "gradationColor": "#f5d1ff",
+    "groundColor": "#ffffff",
+    "groundHighlightColor": "#e9feff",
+    "id": 5
+  }
+]

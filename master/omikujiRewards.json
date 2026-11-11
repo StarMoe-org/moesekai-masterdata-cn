@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "omikujiGroupId": 1,
+    "resourceId": 15,
+    "resourceQuantity": 10,
+    "resourceType": "material",
+    "seq": 1
+  },
+  {
+    "id": 2,
+    "omikujiGroupId": 1,
+    "resourceId": 1,
+    "resourceQuantity": 1,
+    "resourceType": "custom_profile_collection_resource",
+    "seq": 2
+  },
+  {
+    "id": 3,
+    "omikujiGroupId": 2,
+    "resourceId": 15,
+    "resourceQuantity": 10,
+    "resourceType": "material",
+    "seq": 1
+  },
+  {
+    "id": 4,
+    "omikujiGroupId": 2,
+    "resourceId": 174,
+    "resourceQuantity": 1,
+    "resourceType": "custom_profile_collection_resource",
+    "seq": 2
+  },
+  {
+    "id": 5,
+    "omikujiGroupId": 3,
+    "resourceId": 15,
+    "resourceQuantity": 10,
+    "resourceType": "material",
+    "seq": 1
+  },
+  {
+    "id": 6,
+    "omikujiGroupId": 3,
+    "resourceId": 461,
+    "resourceQuantity": 1,
+    "resourceType": "custom_profile_collection_resource",
+    "seq": 2
+  },
+  {
+    "id": 7,
+    "omikujiGroupId": 4,
+    "resourceId": 15,
+    "resourceQuantity": 10,
+    "resourceType": "material",
+    "seq": 1
+  },
+  {
+    "id": 8,
+    "omikujiGroupId": 4,
+    "resourceId": 727,
+    "resourceQuantity": 1,
+    "resourceType": "custom_profile_collection_resource",
+    "seq": 2
+  },
+  {
+    "id": 9,
+    "omikujiGroupId": 5,
+    "resourceId": 15,
+    "resourceQuantity": 10,
+    "resourceType": "material",
+    "seq": 1
+  },
+  {
+    "id": 10,
+    "omikujiGroupId": 5,
+    "resourceId": 1000,
+    "resourceQuantity": 1,
+    "resourceType": "custom_profile_collection_resource",
+    "seq": 2
+  }
+]

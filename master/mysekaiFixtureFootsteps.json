@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "runCue": "soil",
+    "walkCue": "soil"
+  },
+  {
+    "id": 2,
+    "runCue": "grass",
+    "walkCue": "grass"
+  },
+  {
+    "id": 3,
+    "runCue": "default",
+    "walkCue": "default"
+  },
+  {
+    "id": 4,
+    "runCue": "water",
+    "walkCue": "water"
+  },
+  {
+    "id": 5,
+    "runCue": "mat",
+    "walkCue": "mat"
+  },
+  {
+    "id": 6,
+    "runCue": "wood",
+    "walkCue": "wood"
+  },
+  {
+    "id": 7,
+    "runCue": "stone",
+    "walkCue": "stone"
+  }
+]

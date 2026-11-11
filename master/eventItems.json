@@ -1,0 +1,1521 @@
+[
+  {
+    "eventId": 1,
+    "id": 1,
+    "name": "活动徽章"
+  },
+  {
+    "eventId": 2,
+    "id": 2,
+    "name": "活动徽章"
+  },
+  {
+    "eventId": 3,
+    "id": 3,
+    "name": "活动徽章"
+  },
+  {
+    "eventId": 4,
+    "id": 4,
+    "name": "活动徽章"
+  },
+  {
+    "eventId": 5,
+    "id": 5,
+    "name": "活动徽章"
+  },
+  {
+    "eventId": 6,
+    "id": 6,
+    "name": "活动徽章"
+  },
+  {
+    "eventId": 7,
+    "id": 7,
+    "name": "活动徽章"
+  },
+  {
+    "eventId": 8,
+    "id": 8,
+    "name": "活动徽章"
+  },
+  {
+    "eventId": 9,
+    "id": 9,
+    "name": "活动徽章"
+  },
+  {
+    "eventId": 10,
+    "id": 10,
+    "name": "活动徽章"
+  },
+  {
+    "eventId": 11,
+    "id": 11,
+    "name": "活动徽章"
+  },
+  {
+    "eventId": 12,
+    "id": 12,
+    "name": "活动徽章"
+  },
+  {
+    "eventId": 13,
+    "id": 13,
+    "name": "活动徽章"
+  },
+  {
+    "eventId": 14,
+    "id": 14,
+    "name": "活动徽章"
+  },
+  {
+    "eventId": 15,
+    "id": 15,
+    "name": "活动徽章"
+  },
+  {
+    "eventId": 16,
+    "id": 16,
+    "name": "活动徽章"
+  },
+  {
+    "eventId": 17,
+    "id": 17,
+    "name": "活动徽章"
+  },
+  {
+    "eventId": 18,
+    "id": 18,
+    "name": "活动徽章"
+  },
+  {
+    "eventId": 19,
+    "id": 19,
+    "name": "活动徽章"
+  },
+  {
+    "eventId": 20,
+    "id": 20,
+    "name": "活动徽章"
+  },
+  {
+    "eventId": 21,
+    "id": 21,
+    "name": "活动徽章"
+  },
+  {
+    "eventId": 22,
+    "id": 22,
+    "name": "活动徽章"
+  },
+  {
+    "eventId": 23,
+    "id": 23,
+    "name": "活动徽章"
+  },
+  {
+    "eventId": 24,
+    "id": 24,
+    "name": "活动徽章"
+  },
+  {
+    "eventId": 25,
+    "id": 25,
+    "name": "活动徽章"
+  },
+  {
+    "eventId": 26,
+    "id": 26,
+    "name": "活动徽章"
+  },
+  {
+    "eventId": 27,
+    "id": 27,
+    "name": "活动徽章"
+  },
+  {
+    "eventId": 28,
+    "id": 28,
+    "name": "活动徽章"
+  },
+  {
+    "eventId": 29,
+    "id": 29,
+    "name": "活动徽章"
+  },
+  {
+    "eventId": 30,
+    "id": 30,
+    "name": "活动徽章"
+  },
+  {
+    "eventId": 31,
+    "id": 31,
+    "name": "活动徽章"
+  },
+  {
+    "eventId": 32,
+    "id": 32,
+    "name": "活动徽章"
+  },
+  {
+    "eventId": 33,
+    "id": 33,
+    "name": "活动徽章"
+  },
+  {
+    "assetbundleName": "badge_mysterious",
+    "eventId": 34,
+    "id": 34,
+    "name": "活动徽章"
+  },
+  {
+    "assetbundleName": "badge_happy",
+    "eventId": 35,
+    "id": 35,
+    "name": "活动徽章"
+  },
+  {
+    "assetbundleName": "badge_pure",
+    "eventId": 36,
+    "id": 36,
+    "name": "活动徽章"
+  },
+  {
+    "assetbundleName": "badge_cool",
+    "eventId": 37,
+    "id": 37,
+    "name": "活动徽章"
+  },
+  {
+    "assetbundleName": "badge_happy",
+    "eventId": 38,
+    "id": 38,
+    "name": "活动徽章"
+  },
+  {
+    "assetbundleName": "badge_cute",
+    "eventId": 39,
+    "id": 39,
+    "name": "活动徽章"
+  },
+  {
+    "assetbundleName": "badge_cool",
+    "eventId": 40,
+    "id": 40,
+    "name": "活动徽章"
+  },
+  {
+    "assetbundleName": "badge_happy",
+    "eventId": 41,
+    "id": 41,
+    "name": "活动徽章"
+  },
+  {
+    "assetbundleName": "badge_cute",
+    "eventId": 42,
+    "id": 42,
+    "name": "活动徽章"
+  },
+  {
+    "assetbundleName": "badge_mysterious",
+    "eventId": 43,
+    "id": 43,
+    "name": "活动徽章"
+  },
+  {
+    "assetbundleName": "badge_pure",
+    "eventId": 44,
+    "id": 44,
+    "name": "活动徽章"
+  },
+  {
+    "assetbundleName": "badge_cute",
+    "eventId": 45,
+    "id": 45,
+    "name": "活动徽章"
+  },
+  {
+    "assetbundleName": "badge_cool",
+    "eventId": 46,
+    "id": 46,
+    "name": "活动徽章"
+  },
+  {
+    "assetbundleName": "badge_pure",
+    "eventId": 47,
+    "id": 47,
+    "name": "活动徽章"
+  },
+  {
+    "assetbundleName": "badge_happy",
+    "eventId": 48,
+    "id": 48,
+    "name": "活动徽章"
+  },
+  {
+    "assetbundleName": "badge_mysterious",
+    "eventId": 49,
+    "id": 49,
+    "name": "活动徽章"
+  },
+  {
+    "assetbundleName": "badge_pure",
+    "eventId": 50,
+    "id": 50,
+    "name": "活动徽章"
+  },
+  {
+    "assetbundleName": "badge_mysterious",
+    "eventId": 51,
+    "id": 51,
+    "name": "活动徽章"
+  },
+  {
+    "assetbundleName": "badge_pure",
+    "eventId": 52,
+    "id": 52,
+    "name": "活动徽章"
+  },
+  {
+    "assetbundleName": "badge_cool",
+    "eventId": 53,
+    "id": 53,
+    "name": "活动徽章"
+  },
+  {
+    "assetbundleName": "badge_happy",
+    "eventId": 54,
+    "id": 54,
+    "name": "活动徽章"
+  },
+  {
+    "assetbundleName": "badge_cute",
+    "eventId": 55,
+    "id": 55,
+    "name": "活动徽章"
+  },
+  {
+    "assetbundleName": "badge_mysterious",
+    "eventId": 56,
+    "id": 56,
+    "name": "活动徽章"
+  },
+  {
+    "assetbundleName": "badge_cool",
+    "eventId": 57,
+    "id": 57,
+    "name": "活动徽章"
+  },
+  {
+    "assetbundleName": "badge_cool",
+    "eventId": 58,
+    "id": 58,
+    "name": "活动徽章"
+  },
+  {
+    "assetbundleName": "badge_cute",
+    "eventId": 59,
+    "id": 59,
+    "name": "活动徽章"
+  },
+  {
+    "assetbundleName": "badge_pure",
+    "eventId": 60,
+    "id": 60,
+    "name": "活动徽章"
+  },
+  {
+    "assetbundleName": "badge_cool",
+    "eventId": 61,
+    "id": 61,
+    "name": "活动徽章"
+  },
+  {
+    "assetbundleName": "badge_happy",
+    "eventId": 62,
+    "id": 62,
+    "name": "活动徽章"
+  },
+  {
+    "assetbundleName": "badge_happy",
+    "eventId": 63,
+    "id": 63,
+    "name": "活动徽章"
+  },
+  {
+    "assetbundleName": "badge_mysterious",
+    "eventId": 64,
+    "id": 64,
+    "name": "活动徽章"
+  },
+  {
+    "assetbundleName": "badge_cute",
+    "eventId": 65,
+    "id": 65,
+    "name": "活动徽章"
+  },
+  {
+    "assetbundleName": "badge_cute",
+    "eventId": 66,
+    "id": 66,
+    "name": "活动徽章"
+  },
+  {
+    "assetbundleName": "badge_cool",
+    "eventId": 67,
+    "id": 67,
+    "name": "活动徽章"
+  },
+  {
+    "assetbundleName": "badge_cute",
+    "eventId": 68,
+    "id": 68,
+    "name": "活动徽章"
+  },
+  {
+    "assetbundleName": "badge_pure",
+    "eventId": 69,
+    "id": 69,
+    "name": "活动徽章"
+  },
+  {
+    "assetbundleName": "badge_mysterious",
+    "eventId": 70,
+    "id": 70,
+    "name": "活动徽章"
+  },
+  {
+    "assetbundleName": "badge_cool",
+    "eventId": 71,
+    "id": 71,
+    "name": "活动徽章"
+  },
+  {
+    "assetbundleName": "badge_pure",
+    "eventId": 72,
+    "id": 72,
+    "name": "活动徽章"
+  },
+  {
+    "assetbundleName": "badge_cute",
+    "eventId": 73,
+    "id": 73,
+    "name": "活动徽章"
+  },
+  {
+    "assetbundleName": "badge_cool",
+    "eventId": 74,
+    "id": 74,
+    "name": "活动徽章"
+  },
+  {
+    "assetbundleName": "badge_mysterious",
+    "eventId": 75,
+    "id": 75,
+    "name": "活动徽章"
+  },
+  {
+    "assetbundleName": "badge_happy",
+    "eventId": 76,
+    "id": 76,
+    "name": "活动徽章"
+  },
+  {
+    "assetbundleName": "badge_mysterious",
+    "eventId": 77,
+    "id": 77,
+    "name": "活动徽章"
+  },
+  {
+    "assetbundleName": "badge_pure",
+    "eventId": 78,
+    "id": 78,
+    "name": "活动徽章"
+  },
+  {
+    "assetbundleName": "badge_happy",
+    "eventId": 79,
+    "id": 79,
+    "name": "活动徽章"
+  },
+  {
+    "assetbundleName": "badge_cute",
+    "eventId": 80,
+    "id": 80,
+    "name": "活动徽章"
+  },
+  {
+    "assetbundleName": "badge_mysterious",
+    "eventId": 81,
+    "id": 81,
+    "name": "活动徽章"
+  },
+  {
+    "assetbundleName": "badge_mysterious",
+    "eventId": 82,
+    "id": 82,
+    "name": "活动徽章"
+  },
+  {
+    "assetbundleName": "badge_cute",
+    "eventId": 83,
+    "id": 83,
+    "name": "活动徽章"
+  },
+  {
+    "assetbundleName": "badge_cool",
+    "eventId": 84,
+    "id": 84,
+    "name": "活动徽章"
+  },
+  {
+    "assetbundleName": "badge_happy",
+    "eventId": 85,
+    "id": 85,
+    "name": "活动徽章"
+  },
+  {
+    "assetbundleName": "badge_happy",
+    "eventId": 86,
+    "id": 86,
+    "name": "活动徽章"
+  },
+  {
+    "assetbundleName": "badge_mysterious",
+    "eventId": 87,
+    "id": 87,
+    "name": "活动徽章"
+  },
+  {
+    "assetbundleName": "badge_cute",
+    "eventId": 88,
+    "id": 88,
+    "name": "活动徽章"
+  },
+  {
+    "assetbundleName": "badge_pure",
+    "eventId": 89,
+    "id": 89,
+    "name": "活动徽章"
+  },
+  {
+    "assetbundleName": "badge_happy",
+    "eventId": 90,
+    "id": 90,
+    "name": "活动徽章"
+  },
+  {
+    "assetbundleName": "badge_pure",
+    "eventId": 91,
+    "id": 91,
+    "name": "活动徽章"
+  },
+  {
+    "assetbundleName": "badge_cute",
+    "eventId": 92,
+    "id": 92,
+    "name": "活动徽章"
+  },
+  {
+    "assetbundleName": "badge_cool",
+    "eventId": 93,
+    "id": 93,
+    "name": "活动徽章"
+  },
+  {
+    "assetbundleName": "badge_mysterious",
+    "eventId": 94,
+    "id": 94,
+    "name": "活动徽章"
+  },
+  {
+    "assetbundleName": "badge_pure",
+    "eventId": 95,
+    "id": 95,
+    "name": "活动徽章"
+  },
+  {
+    "assetbundleName": "badge_pure",
+    "eventId": 96,
+    "id": 96,
+    "name": "活动徽章"
+  },
+  {
+    "assetbundleName": "badge_cute",
+    "eventId": 97,
+    "id": 97,
+    "name": "活动徽章"
+  },
+  {
+    "assetbundleName": "badge_cool",
+    "eventId": 98,
+    "id": 98,
+    "name": "活动徽章"
+  },
+  {
+    "assetbundleName": "badge_happy",
+    "eventId": 99,
+    "id": 99,
+    "name": "活动徽章"
+  },
+  {
+    "assetbundleName": "badge_mysterious",
+    "eventId": 100,
+    "id": 100,
+    "name": "活动徽章"
+  },
+  {
+    "assetbundleName": "badge_cool",
+    "eventId": 101,
+    "id": 101,
+    "name": "活动徽章"
+  },
+  {
+    "assetbundleName": "badge_mysterious",
+    "eventId": 102,
+    "id": 102,
+    "name": "活动徽章"
+  },
+  {
+    "assetbundleName": "badge_pure",
+    "eventId": 103,
+    "id": 103,
+    "name": "活动徽章"
+  },
+  {
+    "assetbundleName": "badge_happy",
+    "eventId": 104,
+    "id": 104,
+    "name": "活动徽章"
+  },
+  {
+    "assetbundleName": "badge_cute",
+    "eventId": 105,
+    "id": 105,
+    "name": "活动徽章"
+  },
+  {
+    "assetbundleName": "badge_happy",
+    "eventId": 106,
+    "id": 106,
+    "name": "活动徽章"
+  },
+  {
+    "assetbundleName": "badge_cool",
+    "eventId": 107,
+    "id": 107,
+    "name": "活动徽章"
+  },
+  {
+    "assetbundleName": "badge_cute",
+    "eventId": 108,
+    "id": 108,
+    "name": "活动徽章"
+  },
+  {
+    "assetbundleName": "badge_cute",
+    "eventId": 109,
+    "id": 109,
+    "name": "活动徽章"
+  },
+  {
+    "assetbundleName": "badge_pure",
+    "eventId": 110,
+    "id": 110,
+    "name": "活动徽章"
+  },
+  {
+    "assetbundleName": "badge_cool",
+    "eventId": 111,
+    "id": 111,
+    "name": "活动徽章"
+  },
+  {
+    "assetbundleName": "badge_school_refusal",
+    "eventId": 112,
+    "id": 112,
+    "name": "世界徽章"
+  },
+  {
+    "assetbundleName": "badge_mafuyu",
+    "eventId": 112,
+    "gameCharacterId": 18,
+    "id": 113,
+    "name": "章节1徽章"
+  },
+  {
+    "assetbundleName": "badge_mizuki",
+    "eventId": 112,
+    "gameCharacterId": 20,
+    "id": 114,
+    "name": "章节2徽章"
+  },
+  {
+    "assetbundleName": "badge_ena",
+    "eventId": 112,
+    "gameCharacterId": 19,
+    "id": 115,
+    "name": "章节3徽章"
+  },
+  {
+    "assetbundleName": "badge_kanade",
+    "eventId": 112,
+    "gameCharacterId": 17,
+    "id": 116,
+    "name": "章节4徽章"
+  },
+  {
+    "assetbundleName": "badge_mysterious",
+    "eventId": 113,
+    "id": 117,
+    "name": "活动徽章"
+  },
+  {
+    "assetbundleName": "badge_pure",
+    "eventId": 114,
+    "id": 118,
+    "name": "活动徽章"
+  },
+  {
+    "assetbundleName": "badge_cool",
+    "eventId": 115,
+    "id": 119,
+    "name": "活动徽章"
+  },
+  {
+    "assetbundleName": "badge_happy",
+    "eventId": 116,
+    "id": 120,
+    "name": "活动徽章"
+  },
+  {
+    "assetbundleName": "badge_mysterious",
+    "eventId": 117,
+    "id": 121,
+    "name": "活动徽章"
+  },
+  {
+    "assetbundleName": "badge_street",
+    "eventId": 118,
+    "id": 122,
+    "name": "世界徽章"
+  },
+  {
+    "assetbundleName": "badge_akito",
+    "eventId": 118,
+    "gameCharacterId": 11,
+    "id": 123,
+    "name": "章节1徽章"
+  },
+  {
+    "assetbundleName": "badge_touya",
+    "eventId": 118,
+    "gameCharacterId": 12,
+    "id": 124,
+    "name": "章节2徽章"
+  },
+  {
+    "assetbundleName": "badge_an",
+    "eventId": 118,
+    "gameCharacterId": 10,
+    "id": 125,
+    "name": "章节3徽章"
+  },
+  {
+    "assetbundleName": "badge_kohane",
+    "eventId": 118,
+    "gameCharacterId": 9,
+    "id": 126,
+    "name": "章节4徽章"
+  },
+  {
+    "assetbundleName": "badge_happy",
+    "eventId": 119,
+    "id": 127,
+    "name": "活动徽章"
+  },
+  {
+    "assetbundleName": "badge_mysterious",
+    "eventId": 120,
+    "id": 128,
+    "name": "活动徽章"
+  },
+  {
+    "assetbundleName": "badge_cool",
+    "eventId": 121,
+    "id": 129,
+    "name": "活动徽章"
+  },
+  {
+    "assetbundleName": "badge_pure",
+    "eventId": 122,
+    "id": 130,
+    "name": "活动徽章"
+  },
+  {
+    "assetbundleName": "badge_happy",
+    "eventId": 123,
+    "id": 131,
+    "name": "活动徽章"
+  },
+  {
+    "assetbundleName": "badge_theme_park",
+    "eventId": 124,
+    "id": 132,
+    "name": "世界徽章"
+  },
+  {
+    "assetbundleName": "badge_rui",
+    "eventId": 124,
+    "gameCharacterId": 16,
+    "id": 133,
+    "name": "章节1徽章"
+  },
+  {
+    "assetbundleName": "badge_nene",
+    "eventId": 124,
+    "gameCharacterId": 15,
+    "id": 134,
+    "name": "章节2徽章"
+  },
+  {
+    "assetbundleName": "badge_emu",
+    "eventId": 124,
+    "gameCharacterId": 14,
+    "id": 135,
+    "name": "章节3徽章"
+  },
+  {
+    "assetbundleName": "badge_tsukasa",
+    "eventId": 124,
+    "gameCharacterId": 13,
+    "id": 136,
+    "name": "章节4徽章"
+  },
+  {
+    "assetbundleName": "badge_happy",
+    "eventId": 125,
+    "id": 137,
+    "name": "活动徽章"
+  },
+  {
+    "assetbundleName": "badge_cool",
+    "eventId": 126,
+    "id": 138,
+    "name": "活动徽章"
+  },
+  {
+    "assetbundleName": "badge_pure",
+    "eventId": 127,
+    "id": 139,
+    "name": "活动徽章"
+  },
+  {
+    "assetbundleName": "badge_happy",
+    "eventId": 128,
+    "id": 140,
+    "name": "活动徽章"
+  },
+  {
+    "assetbundleName": "badge_cool",
+    "eventId": 129,
+    "id": 141,
+    "name": "活动徽章"
+  },
+  {
+    "assetbundleName": "badge_idol",
+    "eventId": 130,
+    "id": 151,
+    "name": "世界徽章"
+  },
+  {
+    "assetbundleName": "badge_airi",
+    "eventId": 130,
+    "gameCharacterId": 7,
+    "id": 152,
+    "name": "章节1徽章"
+  },
+  {
+    "assetbundleName": "badge_haruka",
+    "eventId": 130,
+    "gameCharacterId": 6,
+    "id": 153,
+    "name": "章节2徽章"
+  },
+  {
+    "assetbundleName": "badge_shizuku",
+    "eventId": 130,
+    "gameCharacterId": 8,
+    "id": 154,
+    "name": "章节3徽章"
+  },
+  {
+    "assetbundleName": "badge_minori",
+    "eventId": 130,
+    "gameCharacterId": 5,
+    "id": 155,
+    "name": "章节4徽章"
+  },
+  {
+    "assetbundleName": "badge_cute",
+    "eventId": 131,
+    "id": 156,
+    "name": "活动徽章"
+  },
+  {
+    "assetbundleName": "badge_mysterious",
+    "eventId": 132,
+    "id": 157,
+    "name": "活动徽章"
+  },
+  {
+    "assetbundleName": "badge_cool",
+    "eventId": 133,
+    "id": 158,
+    "name": "活动徽章"
+  },
+  {
+    "assetbundleName": "badge_pure",
+    "eventId": 134,
+    "id": 159,
+    "name": "活动徽章"
+  },
+  {
+    "assetbundleName": "badge_mysterious",
+    "eventId": 135,
+    "id": 160,
+    "name": "活动徽章"
+  },
+  {
+    "assetbundleName": "badge_pure",
+    "eventId": 136,
+    "id": 161,
+    "name": "活动徽章"
+  },
+  {
+    "assetbundleName": "badge_light_sound",
+    "eventId": 137,
+    "id": 162,
+    "name": "世界徽章"
+  },
+  {
+    "assetbundleName": "badge_saki",
+    "eventId": 137,
+    "gameCharacterId": 2,
+    "id": 163,
+    "name": "章节1徽章"
+  },
+  {
+    "assetbundleName": "badge_honami",
+    "eventId": 137,
+    "gameCharacterId": 3,
+    "id": 164,
+    "name": "章节2徽章"
+  },
+  {
+    "assetbundleName": "badge_shiho",
+    "eventId": 137,
+    "gameCharacterId": 4,
+    "id": 165,
+    "name": "章节3徽章"
+  },
+  {
+    "assetbundleName": "badge_ichika",
+    "eventId": 137,
+    "gameCharacterId": 1,
+    "id": 166,
+    "name": "章节4徽章"
+  },
+  {
+    "assetbundleName": "badge_cute",
+    "eventId": 138,
+    "id": 167,
+    "name": "活动徽章"
+  },
+  {
+    "assetbundleName": "badge_mysterious",
+    "eventId": 139,
+    "id": 168,
+    "name": "活动徽章"
+  },
+  {
+    "assetbundleName": "badge_piapro",
+    "eventId": 140,
+    "id": 169,
+    "name": "世界徽章"
+  },
+  {
+    "assetbundleName": "badge_luka",
+    "eventId": 140,
+    "gameCharacterId": 24,
+    "id": 170,
+    "name": "章节1徽章"
+  },
+  {
+    "assetbundleName": "badge_rin",
+    "eventId": 140,
+    "gameCharacterId": 22,
+    "id": 171,
+    "name": "章节2徽章"
+  },
+  {
+    "assetbundleName": "badge_meiko",
+    "eventId": 140,
+    "gameCharacterId": 25,
+    "id": 172,
+    "name": "章节3徽章"
+  },
+  {
+    "assetbundleName": "badge_len",
+    "eventId": 140,
+    "gameCharacterId": 23,
+    "id": 173,
+    "name": "章节4徽章"
+  },
+  {
+    "assetbundleName": "badge_kaito",
+    "eventId": 140,
+    "gameCharacterId": 26,
+    "id": 174,
+    "name": "章节5徽章"
+  },
+  {
+    "assetbundleName": "badge_miku",
+    "eventId": 140,
+    "gameCharacterId": 21,
+    "id": 175,
+    "name": "章节6徽章"
+  },
+  {
+    "assetbundleName": "badge_cool",
+    "eventId": 141,
+    "id": 176,
+    "name": "活动徽章"
+  },
+  {
+    "assetbundleName": "badge_happy",
+    "eventId": 142,
+    "id": 177,
+    "name": "活动徽章"
+  },
+  {
+    "assetbundleName": "badge_mysterious",
+    "eventId": 143,
+    "id": 178,
+    "name": "活动徽章"
+  },
+  {
+    "assetbundleName": "badge_pure",
+    "eventId": 144,
+    "id": 179,
+    "name": "活动徽章"
+  },
+  {
+    "assetbundleName": "badge_cute",
+    "eventId": 145,
+    "id": 180,
+    "name": "活动徽章"
+  },
+  {
+    "assetbundleName": "badge_cool",
+    "eventId": 146,
+    "id": 181,
+    "name": "活动徽章"
+  },
+  {
+    "assetbundleName": "badge_happy",
+    "eventId": 147,
+    "id": 182,
+    "name": "活动徽章"
+  },
+  {
+    "assetbundleName": "badge_mysterious",
+    "eventId": 148,
+    "id": 183,
+    "name": "活动徽章"
+  },
+  {
+    "assetbundleName": "badge_pure",
+    "eventId": 149,
+    "id": 184,
+    "name": "活动徽章"
+  },
+  {
+    "assetbundleName": "badge_cool",
+    "eventId": 150,
+    "id": 185,
+    "name": "活动徽章"
+  },
+  {
+    "assetbundleName": "badge_happy",
+    "eventId": 151,
+    "id": 186,
+    "name": "活动徽章"
+  },
+  {
+    "assetbundleName": "badge_pure",
+    "eventId": 152,
+    "id": 187,
+    "name": "活动徽章"
+  },
+  {
+    "assetbundleName": "badge_cute",
+    "eventId": 153,
+    "id": 188,
+    "name": "活动徽章"
+  },
+  {
+    "assetbundleName": "badge_happy",
+    "eventId": 154,
+    "id": 189,
+    "name": "活动徽章"
+  },
+  {
+    "assetbundleName": "badge_cool",
+    "eventId": 155,
+    "id": 190,
+    "name": "活动徽章"
+  },
+  {
+    "assetbundleName": "badge_happy",
+    "eventId": 156,
+    "id": 191,
+    "name": "活动徽章"
+  },
+  {
+    "assetbundleName": "badge_mysterious",
+    "eventId": 157,
+    "id": 192,
+    "name": "活动徽章"
+  },
+  {
+    "assetbundleName": "badge_cute",
+    "eventId": 158,
+    "id": 193,
+    "name": "活动徽章"
+  },
+  {
+    "assetbundleName": "badge_pure",
+    "eventId": 159,
+    "id": 194,
+    "name": "活动徽章"
+  },
+  {
+    "assetbundleName": "badge_mysterious",
+    "eventId": 160,
+    "id": 195,
+    "name": "活动徽章"
+  },
+  {
+    "assetbundleName": "badge_cool",
+    "eventId": 161,
+    "id": 196,
+    "name": "活动徽章"
+  },
+  {
+    "assetbundleName": "badge_cool",
+    "eventId": 162,
+    "id": 197,
+    "name": "活动徽章"
+  },
+  {
+    "assetbundleName": "badge_street",
+    "eventId": 163,
+    "id": 198,
+    "name": "世界徽章"
+  },
+  {
+    "assetbundleName": "badge_touya",
+    "eventId": 163,
+    "gameCharacterId": 12,
+    "id": 199,
+    "name": "章节1徽章"
+  },
+  {
+    "assetbundleName": "badge_akito",
+    "eventId": 163,
+    "gameCharacterId": 11,
+    "id": 200,
+    "name": "章节2徽章"
+  },
+  {
+    "assetbundleName": "badge_kohane",
+    "eventId": 163,
+    "gameCharacterId": 9,
+    "id": 201,
+    "name": "章节3徽章"
+  },
+  {
+    "assetbundleName": "badge_an",
+    "eventId": 163,
+    "gameCharacterId": 10,
+    "id": 202,
+    "name": "章节4徽章"
+  },
+  {
+    "assetbundleName": "badge_mysterious",
+    "eventId": 164,
+    "id": 203,
+    "name": "活动徽章"
+  },
+  {
+    "assetbundleName": "badge_mysterious",
+    "eventId": 165,
+    "id": 204,
+    "name": "活动徽章"
+  },
+  {
+    "assetbundleName": "badge_theme_park",
+    "eventId": 167,
+    "id": 206,
+    "name": "世界徽章"
+  },
+  {
+    "assetbundleName": "badge_rui",
+    "eventId": 167,
+    "gameCharacterId": 16,
+    "id": 207,
+    "name": "章节1徽章"
+  },
+  {
+    "assetbundleName": "badge_tsukasa",
+    "eventId": 167,
+    "gameCharacterId": 13,
+    "id": 208,
+    "name": "章节2徽章"
+  },
+  {
+    "assetbundleName": "badge_nene",
+    "eventId": 167,
+    "gameCharacterId": 15,
+    "id": 209,
+    "name": "章节3徽章"
+  },
+  {
+    "assetbundleName": "badge_emu",
+    "eventId": 167,
+    "gameCharacterId": 14,
+    "id": 210,
+    "name": "章节4徽章"
+  },
+  {
+    "assetbundleName": "badge_happy",
+    "eventId": 168,
+    "id": 211,
+    "name": "活动徽章"
+  },
+  {
+    "assetbundleName": "badge_cute",
+    "eventId": 169,
+    "id": 212,
+    "name": "活动徽章"
+  },
+  {
+    "assetbundleName": "badge_school_refusal",
+    "eventId": 170,
+    "id": 213,
+    "name": "世界徽章"
+  },
+  {
+    "assetbundleName": "badge_kanade",
+    "eventId": 170,
+    "gameCharacterId": 17,
+    "id": 214,
+    "name": "章节1徽章"
+  },
+  {
+    "assetbundleName": "badge_ena",
+    "eventId": 170,
+    "gameCharacterId": 19,
+    "id": 215,
+    "name": "章节2徽章"
+  },
+  {
+    "assetbundleName": "badge_mizuki",
+    "eventId": 170,
+    "gameCharacterId": 20,
+    "id": 216,
+    "name": "章节3徽章"
+  },
+  {
+    "assetbundleName": "badge_mafuyu",
+    "eventId": 170,
+    "gameCharacterId": 18,
+    "id": 217,
+    "name": "章节4徽章"
+  },
+  {
+    "assetbundleName": "badge_light_sound",
+    "eventId": 171,
+    "id": 218,
+    "name": "世界徽章"
+  },
+  {
+    "assetbundleName": "badge_shiho",
+    "eventId": 171,
+    "gameCharacterId": 4,
+    "id": 219,
+    "name": "章节1徽章"
+  },
+  {
+    "assetbundleName": "badge_saki",
+    "eventId": 171,
+    "gameCharacterId": 2,
+    "id": 220,
+    "name": "章节2徽章"
+  },
+  {
+    "assetbundleName": "badge_honami",
+    "eventId": 171,
+    "gameCharacterId": 3,
+    "id": 221,
+    "name": "章节3徽章"
+  },
+  {
+    "assetbundleName": "badge_ichika",
+    "eventId": 171,
+    "gameCharacterId": 1,
+    "id": 222,
+    "name": "章节4徽章"
+  },
+  {
+    "assetbundleName": "badge_happy",
+    "eventId": 172,
+    "id": 223,
+    "name": "活动徽章"
+  },
+  {
+    "assetbundleName": "badge_cute",
+    "eventId": 173,
+    "id": 224,
+    "name": "活动徽章"
+  },
+  {
+    "assetbundleName": "badge_pure",
+    "eventId": 174,
+    "id": 225,
+    "name": "活动徽章"
+  },
+  {
+    "assetbundleName": "badge_happy",
+    "eventId": 175,
+    "id": 226,
+    "name": "活动徽章"
+  },
+  {
+    "assetbundleName": "badge_idol",
+    "eventId": 176,
+    "id": 227,
+    "name": "世界徽章"
+  },
+  {
+    "assetbundleName": "badge_minori",
+    "eventId": 176,
+    "gameCharacterId": 5,
+    "id": 228,
+    "name": "章节1徽章"
+  },
+  {
+    "assetbundleName": "badge_haruka",
+    "eventId": 176,
+    "gameCharacterId": 6,
+    "id": 229,
+    "name": "章节2徽章"
+  },
+  {
+    "assetbundleName": "badge_airi",
+    "eventId": 176,
+    "gameCharacterId": 7,
+    "id": 230,
+    "name": "章节3徽章"
+  },
+  {
+    "assetbundleName": "badge_shizuku",
+    "eventId": 176,
+    "gameCharacterId": 8,
+    "id": 231,
+    "name": "章节4徽章"
+  },
+  {
+    "assetbundleName": "badge_happy",
+    "eventId": 177,
+    "id": 232,
+    "name": "活动徽章"
+  },
+  {
+    "assetbundleName": "badge_cool",
+    "eventId": 178,
+    "id": 233,
+    "name": "活动徽章"
+  },
+  {
+    "assetbundleName": "badge_piapro",
+    "eventId": 179,
+    "id": 234,
+    "name": "世界徽章"
+  },
+  {
+    "assetbundleName": "badge_len",
+    "eventId": 179,
+    "gameCharacterId": 23,
+    "id": 235,
+    "name": "章节1徽章"
+  },
+  {
+    "assetbundleName": "badge_miku",
+    "eventId": 179,
+    "gameCharacterId": 21,
+    "id": 236,
+    "name": "章节2徽章"
+  },
+  {
+    "assetbundleName": "badge_luka",
+    "eventId": 179,
+    "gameCharacterId": 24,
+    "id": 237,
+    "name": "章节3徽章"
+  },
+  {
+    "assetbundleName": "badge_meiko",
+    "eventId": 179,
+    "gameCharacterId": 25,
+    "id": 238,
+    "name": "章节4徽章"
+  },
+  {
+    "assetbundleName": "badge_kaito",
+    "eventId": 179,
+    "gameCharacterId": 26,
+    "id": 239,
+    "name": "章节5徽章"
+  },
+  {
+    "assetbundleName": "badge_rin",
+    "eventId": 179,
+    "gameCharacterId": 22,
+    "id": 240,
+    "name": "章节6徽章"
+  },
+  {
+    "assetbundleName": "badge_all",
+    "eventId": 180,
+    "id": 241,
+    "name": "终章徽章"
+  },
+  {
+    "assetbundleName": "badge_pure",
+    "eventId": 181,
+    "id": 242,
+    "name": "活动徽章"
+  },
+  {
+    "assetbundleName": "badge_happy",
+    "eventId": 182,
+    "id": 243,
+    "name": "活动徽章"
+  },
+  {
+    "assetbundleName": "badge_mysterious",
+    "eventId": 183,
+    "id": 244,
+    "name": "活动徽章"
+  },
+  {
+    "assetbundleName": "badge_pure",
+    "eventId": 184,
+    "id": 245,
+    "name": "活动徽章"
+  },
+  {
+    "assetbundleName": "badge_cute",
+    "eventId": 185,
+    "id": 246,
+    "name": "活动徽章"
+  },
+  {
+    "assetbundleName": "badge_mysterious",
+    "eventId": 187,
+    "id": 248,
+    "name": "活动徽章"
+  },
+  {
+    "assetbundleName": "badge_cute",
+    "eventId": 188,
+    "id": 249,
+    "name": "活动徽章"
+  },
+  {
+    "assetbundleName": "badge_happy",
+    "eventId": 189,
+    "id": 250,
+    "name": "活动徽章"
+  },
+  {
+    "assetbundleName": "badge_cool",
+    "eventId": 190,
+    "id": 251,
+    "name": "活动徽章"
+  },
+  {
+    "assetbundleName": "badge_cool",
+    "eventId": 191,
+    "id": 252,
+    "name": "活动徽章"
+  },
+  {
+    "assetbundleName": "badge_happy",
+    "eventId": 192,
+    "id": 253,
+    "name": "活动徽章"
+  },
+  {
+    "assetbundleName": "badge_pure",
+    "eventId": 193,
+    "id": 254,
+    "name": "活动徽章"
+  },
+  {
+    "assetbundleName": "badge_cute",
+    "eventId": 194,
+    "id": 255,
+    "name": "活动徽章"
+  },
+  {
+    "assetbundleName": "badge_cool",
+    "eventId": 195,
+    "id": 256,
+    "name": "活动徽章"
+  },
+  {
+    "assetbundleName": "badge_mysterious",
+    "eventId": 196,
+    "id": 257,
+    "name": "活动徽章"
+  },
+  {
+    "assetbundleName": "badge_happy",
+    "eventId": 197,
+    "id": 258,
+    "name": "活动徽章"
+  },
+  {
+    "assetbundleName": "badge_pure",
+    "eventId": 198,
+    "id": 259,
+    "name": "活动徽章"
+  },
+  {
+    "assetbundleName": "badge_cute",
+    "eventId": 199,
+    "id": 260,
+    "name": "活动徽章"
+  },
+  {
+    "assetbundleName": "badge_cool",
+    "eventId": 200,
+    "id": 261,
+    "name": "活动徽章"
+  }
+]

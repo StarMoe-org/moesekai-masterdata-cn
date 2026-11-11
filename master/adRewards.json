@@ -1,0 +1,55 @@
+[
+  {
+    "adRewardPlayType": "billing_shop_for_jewel",
+    "dailyLimitCount": 1,
+    "displayFlg": true,
+    "endAt": 4102415999000,
+    "id": 1,
+    "resourceBoxId": 1,
+    "startAt": 1577808000000
+  },
+  {
+    "adRewardPlayType": "present_box",
+    "dailyLimitCount": 2,
+    "displayFlg": true,
+    "endAt": 4102415999000,
+    "id": 2,
+    "resourceBoxId": 2,
+    "startAt": 1577808000000
+  },
+  {
+    "adRewardPlayType": "event_exchange",
+    "dailyLimitCount": 1,
+    "displayFlg": true,
+    "endAt": 4102415999000,
+    "id": 3,
+    "resourceBoxId": 3,
+    "startAt": 1577808000000
+  },
+  {
+    "adRewardPlayType": "boost",
+    "dailyLimitCount": 2,
+    "displayFlg": true,
+    "endAt": 4102415999000,
+    "id": 4,
+    "liveBonusCount": 5,
+    "startAt": 1577808000000
+  },
+  {
+    "adRewardPlayType": "live_mission",
+    "dailyLimitCount": 1,
+    "displayFlg": true,
+    "endAt": 4102415999000,
+    "id": 5,
+    "resourceBoxId": 4,
+    "startAt": 1577808000000
+  },
+  {
+    "adRewardPlayType": "music_shop",
+    "dailyLimitCount": 1,
+    "displayFlg": true,
+    "endAt": 4102415999000,
+    "id": 6,
+    "startAt": 1577808000000
+  }
+]

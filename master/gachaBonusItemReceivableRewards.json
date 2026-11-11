@@ -1,0 +1,948 @@
+[
+  {
+    "gachaBonusBorderPoint": 10,
+    "gachaBonusRewardType": "item",
+    "groupId": 1,
+    "id": 1,
+    "resourceBoxId": 1
+  },
+  {
+    "gachaBonusBorderPoint": 20,
+    "gachaBonusRewardType": "item",
+    "groupId": 1,
+    "id": 2,
+    "resourceBoxId": 1
+  },
+  {
+    "gachaBonusBorderPoint": 30,
+    "gachaBonusRewardType": "item",
+    "groupId": 1,
+    "id": 3,
+    "resourceBoxId": 1
+  },
+  {
+    "gachaBonusBorderPoint": 40,
+    "gachaBonusRewardType": "item",
+    "groupId": 1,
+    "id": 4,
+    "resourceBoxId": 1
+  },
+  {
+    "assetbundleName": "tmb_gachabonus50",
+    "cardSupplyGroupId": 1,
+    "description": "未获得的常规★4成员",
+    "gachaBonusBorderPoint": 50,
+    "gachaBonusRewardType": "not_owned_random_rarity4_fixed",
+    "groupId": 1,
+    "id": 5
+  },
+  {
+    "gachaBonusBorderPoint": 60,
+    "gachaBonusRewardType": "item",
+    "groupId": 1,
+    "id": 6,
+    "resourceBoxId": 1
+  },
+  {
+    "gachaBonusBorderPoint": 70,
+    "gachaBonusRewardType": "item",
+    "groupId": 1,
+    "id": 7,
+    "resourceBoxId": 1
+  },
+  {
+    "gachaBonusBorderPoint": 80,
+    "gachaBonusRewardType": "item",
+    "groupId": 1,
+    "id": 8,
+    "resourceBoxId": 1
+  },
+  {
+    "gachaBonusBorderPoint": 90,
+    "gachaBonusRewardType": "item",
+    "groupId": 1,
+    "id": 9,
+    "resourceBoxId": 1
+  },
+  {
+    "assetbundleName": "tmb_gachabonus100",
+    "cardSupplyGroupId": 2,
+    "description": "未获得★4成员",
+    "gachaBonusBorderPoint": 100,
+    "gachaBonusRewardType": "not_owned_random_rarity4_fixed",
+    "groupId": 1,
+    "id": 10
+  },
+  {
+    "gachaBonusBorderPoint": 110,
+    "gachaBonusRewardType": "item",
+    "groupId": 1,
+    "id": 11,
+    "resourceBoxId": 1
+  },
+  {
+    "gachaBonusBorderPoint": 120,
+    "gachaBonusRewardType": "item",
+    "groupId": 1,
+    "id": 12,
+    "resourceBoxId": 1
+  },
+  {
+    "gachaBonusBorderPoint": 130,
+    "gachaBonusRewardType": "item",
+    "groupId": 1,
+    "id": 13,
+    "resourceBoxId": 1
+  },
+  {
+    "gachaBonusBorderPoint": 140,
+    "gachaBonusRewardType": "item",
+    "groupId": 1,
+    "id": 14,
+    "resourceBoxId": 1
+  },
+  {
+    "assetbundleName": "tmb_gachabonus150",
+    "cardSupplyGroupId": 1,
+    "description": "自选的常规★4成员",
+    "gachaBonusBorderPoint": 150,
+    "gachaBonusRewardType": "selectable_rarity4_fixed",
+    "groupId": 1,
+    "id": 15
+  },
+  {
+    "gachaBonusBorderPoint": 160,
+    "gachaBonusRewardType": "item",
+    "groupId": 1,
+    "id": 16,
+    "resourceBoxId": 1
+  },
+  {
+    "gachaBonusBorderPoint": 170,
+    "gachaBonusRewardType": "item",
+    "groupId": 1,
+    "id": 17,
+    "resourceBoxId": 1
+  },
+  {
+    "gachaBonusBorderPoint": 180,
+    "gachaBonusRewardType": "item",
+    "groupId": 1,
+    "id": 18,
+    "resourceBoxId": 1
+  },
+  {
+    "gachaBonusBorderPoint": 190,
+    "gachaBonusRewardType": "item",
+    "groupId": 1,
+    "id": 19,
+    "resourceBoxId": 1
+  },
+  {
+    "assetbundleName": "tmb_gachabonus200",
+    "cardSupplyGroupId": 2,
+    "description": "自选★4成员",
+    "gachaBonusBorderPoint": 200,
+    "gachaBonusRewardType": "selectable_rarity4_fixed",
+    "groupId": 1,
+    "id": 20
+  },
+  {
+    "gachaBonusBorderPoint": 50,
+    "gachaBonusRewardType": "item",
+    "groupId": 2,
+    "id": 21,
+    "resourceBoxId": 2
+  },
+  {
+    "gachaBonusBorderPoint": 100,
+    "gachaBonusRewardType": "item",
+    "groupId": 2,
+    "id": 22,
+    "resourceBoxId": 2
+  },
+  {
+    "gachaBonusBorderPoint": 10,
+    "gachaBonusRewardType": "item",
+    "groupId": 3,
+    "id": 23,
+    "resourceBoxId": 3
+  },
+  {
+    "gachaBonusBorderPoint": 20,
+    "gachaBonusRewardType": "item",
+    "groupId": 3,
+    "id": 24,
+    "resourceBoxId": 3
+  },
+  {
+    "gachaBonusBorderPoint": 30,
+    "gachaBonusRewardType": "item",
+    "groupId": 3,
+    "id": 25,
+    "resourceBoxId": 3
+  },
+  {
+    "gachaBonusBorderPoint": 40,
+    "gachaBonusRewardType": "item",
+    "groupId": 3,
+    "id": 26,
+    "resourceBoxId": 3
+  },
+  {
+    "assetbundleName": "tmb_gachabonus50",
+    "cardSupplyGroupId": 1,
+    "description": "未获得的常规★4成员",
+    "gachaBonusBorderPoint": 50,
+    "gachaBonusRewardType": "not_owned_random_rarity4_fixed",
+    "groupId": 3,
+    "id": 27
+  },
+  {
+    "gachaBonusBorderPoint": 60,
+    "gachaBonusRewardType": "item",
+    "groupId": 3,
+    "id": 28,
+    "resourceBoxId": 3
+  },
+  {
+    "gachaBonusBorderPoint": 70,
+    "gachaBonusRewardType": "item",
+    "groupId": 3,
+    "id": 29,
+    "resourceBoxId": 3
+  },
+  {
+    "gachaBonusBorderPoint": 80,
+    "gachaBonusRewardType": "item",
+    "groupId": 3,
+    "id": 30,
+    "resourceBoxId": 3
+  },
+  {
+    "gachaBonusBorderPoint": 90,
+    "gachaBonusRewardType": "item",
+    "groupId": 3,
+    "id": 31,
+    "resourceBoxId": 3
+  },
+  {
+    "assetbundleName": "tmb_gachabonus100",
+    "cardSupplyGroupId": 3,
+    "description": "未获得★4成员",
+    "gachaBonusBorderPoint": 100,
+    "gachaBonusRewardType": "not_owned_random_rarity4_fixed",
+    "groupId": 3,
+    "id": 32
+  },
+  {
+    "gachaBonusBorderPoint": 110,
+    "gachaBonusRewardType": "item",
+    "groupId": 3,
+    "id": 33,
+    "resourceBoxId": 3
+  },
+  {
+    "gachaBonusBorderPoint": 120,
+    "gachaBonusRewardType": "item",
+    "groupId": 3,
+    "id": 34,
+    "resourceBoxId": 3
+  },
+  {
+    "gachaBonusBorderPoint": 130,
+    "gachaBonusRewardType": "item",
+    "groupId": 3,
+    "id": 35,
+    "resourceBoxId": 3
+  },
+  {
+    "gachaBonusBorderPoint": 140,
+    "gachaBonusRewardType": "item",
+    "groupId": 3,
+    "id": 36,
+    "resourceBoxId": 3
+  },
+  {
+    "assetbundleName": "tmb_gachabonus150",
+    "cardSupplyGroupId": 1,
+    "description": "自选的常规★4成员",
+    "gachaBonusBorderPoint": 150,
+    "gachaBonusRewardType": "selectable_rarity4_fixed",
+    "groupId": 3,
+    "id": 37
+  },
+  {
+    "gachaBonusBorderPoint": 160,
+    "gachaBonusRewardType": "item",
+    "groupId": 3,
+    "id": 38,
+    "resourceBoxId": 3
+  },
+  {
+    "gachaBonusBorderPoint": 170,
+    "gachaBonusRewardType": "item",
+    "groupId": 3,
+    "id": 39,
+    "resourceBoxId": 3
+  },
+  {
+    "gachaBonusBorderPoint": 180,
+    "gachaBonusRewardType": "item",
+    "groupId": 3,
+    "id": 40,
+    "resourceBoxId": 3
+  },
+  {
+    "gachaBonusBorderPoint": 190,
+    "gachaBonusRewardType": "item",
+    "groupId": 3,
+    "id": 41,
+    "resourceBoxId": 3
+  },
+  {
+    "assetbundleName": "tmb_gachabonus200",
+    "cardSupplyGroupId": 3,
+    "description": "自选★4成员",
+    "gachaBonusBorderPoint": 200,
+    "gachaBonusRewardType": "selectable_rarity4_fixed",
+    "groupId": 3,
+    "id": 42
+  },
+  {
+    "gachaBonusBorderPoint": 10,
+    "gachaBonusRewardType": "item",
+    "groupId": 4,
+    "id": 43,
+    "resourceBoxId": 4
+  },
+  {
+    "gachaBonusBorderPoint": 20,
+    "gachaBonusRewardType": "item",
+    "groupId": 4,
+    "id": 44,
+    "resourceBoxId": 4
+  },
+  {
+    "gachaBonusBorderPoint": 30,
+    "gachaBonusRewardType": "item",
+    "groupId": 4,
+    "id": 45,
+    "resourceBoxId": 4
+  },
+  {
+    "gachaBonusBorderPoint": 40,
+    "gachaBonusRewardType": "item",
+    "groupId": 4,
+    "id": 46,
+    "resourceBoxId": 4
+  },
+  {
+    "assetbundleName": "tmb_gachabonus50",
+    "cardSupplyGroupId": 1,
+    "description": "未获得的常规★4成员",
+    "gachaBonusBorderPoint": 50,
+    "gachaBonusRewardType": "not_owned_random_rarity4_fixed",
+    "groupId": 4,
+    "id": 47
+  },
+  {
+    "gachaBonusBorderPoint": 60,
+    "gachaBonusRewardType": "item",
+    "groupId": 4,
+    "id": 48,
+    "resourceBoxId": 4
+  },
+  {
+    "gachaBonusBorderPoint": 70,
+    "gachaBonusRewardType": "item",
+    "groupId": 4,
+    "id": 49,
+    "resourceBoxId": 4
+  },
+  {
+    "gachaBonusBorderPoint": 80,
+    "gachaBonusRewardType": "item",
+    "groupId": 4,
+    "id": 50,
+    "resourceBoxId": 4
+  },
+  {
+    "gachaBonusBorderPoint": 90,
+    "gachaBonusRewardType": "item",
+    "groupId": 4,
+    "id": 51,
+    "resourceBoxId": 4
+  },
+  {
+    "assetbundleName": "tmb_gachabonus100",
+    "cardSupplyGroupId": 3,
+    "description": "未获得★4成员",
+    "gachaBonusBorderPoint": 100,
+    "gachaBonusRewardType": "not_owned_random_rarity4_fixed",
+    "groupId": 4,
+    "id": 52
+  },
+  {
+    "gachaBonusBorderPoint": 110,
+    "gachaBonusRewardType": "item",
+    "groupId": 4,
+    "id": 53,
+    "resourceBoxId": 4
+  },
+  {
+    "gachaBonusBorderPoint": 120,
+    "gachaBonusRewardType": "item",
+    "groupId": 4,
+    "id": 54,
+    "resourceBoxId": 4
+  },
+  {
+    "gachaBonusBorderPoint": 130,
+    "gachaBonusRewardType": "item",
+    "groupId": 4,
+    "id": 55,
+    "resourceBoxId": 4
+  },
+  {
+    "gachaBonusBorderPoint": 140,
+    "gachaBonusRewardType": "item",
+    "groupId": 4,
+    "id": 56,
+    "resourceBoxId": 4
+  },
+  {
+    "assetbundleName": "tmb_gachabonus150",
+    "cardSupplyGroupId": 1,
+    "description": "自选的常规★4成员",
+    "gachaBonusBorderPoint": 150,
+    "gachaBonusRewardType": "selectable_rarity4_fixed",
+    "groupId": 4,
+    "id": 57
+  },
+  {
+    "gachaBonusBorderPoint": 160,
+    "gachaBonusRewardType": "item",
+    "groupId": 4,
+    "id": 58,
+    "resourceBoxId": 4
+  },
+  {
+    "gachaBonusBorderPoint": 170,
+    "gachaBonusRewardType": "item",
+    "groupId": 4,
+    "id": 59,
+    "resourceBoxId": 4
+  },
+  {
+    "gachaBonusBorderPoint": 180,
+    "gachaBonusRewardType": "item",
+    "groupId": 4,
+    "id": 60,
+    "resourceBoxId": 4
+  },
+  {
+    "gachaBonusBorderPoint": 190,
+    "gachaBonusRewardType": "item",
+    "groupId": 4,
+    "id": 61,
+    "resourceBoxId": 4
+  },
+  {
+    "assetbundleName": "tmb_gachabonus200",
+    "cardSupplyGroupId": 3,
+    "description": "自选★4成员",
+    "gachaBonusBorderPoint": 200,
+    "gachaBonusRewardType": "selectable_rarity4_fixed",
+    "groupId": 4,
+    "id": 62
+  },
+  {
+    "gachaBonusBorderPoint": 10,
+    "gachaBonusRewardType": "item",
+    "groupId": 5,
+    "id": 63,
+    "resourceBoxId": 5
+  },
+  {
+    "gachaBonusBorderPoint": 20,
+    "gachaBonusRewardType": "item",
+    "groupId": 5,
+    "id": 64,
+    "resourceBoxId": 5
+  },
+  {
+    "gachaBonusBorderPoint": 30,
+    "gachaBonusRewardType": "item",
+    "groupId": 5,
+    "id": 65,
+    "resourceBoxId": 5
+  },
+  {
+    "gachaBonusBorderPoint": 40,
+    "gachaBonusRewardType": "item",
+    "groupId": 5,
+    "id": 66,
+    "resourceBoxId": 5
+  },
+  {
+    "assetbundleName": "tmb_gachabonus50",
+    "cardSupplyGroupId": 1,
+    "description": "未获得的常规★4成员",
+    "gachaBonusBorderPoint": 50,
+    "gachaBonusRewardType": "not_owned_random_rarity4_fixed",
+    "groupId": 5,
+    "id": 67
+  },
+  {
+    "gachaBonusBorderPoint": 60,
+    "gachaBonusRewardType": "item",
+    "groupId": 5,
+    "id": 68,
+    "resourceBoxId": 5
+  },
+  {
+    "gachaBonusBorderPoint": 70,
+    "gachaBonusRewardType": "item",
+    "groupId": 5,
+    "id": 69,
+    "resourceBoxId": 5
+  },
+  {
+    "gachaBonusBorderPoint": 80,
+    "gachaBonusRewardType": "item",
+    "groupId": 5,
+    "id": 70,
+    "resourceBoxId": 5
+  },
+  {
+    "gachaBonusBorderPoint": 90,
+    "gachaBonusRewardType": "item",
+    "groupId": 5,
+    "id": 71,
+    "resourceBoxId": 5
+  },
+  {
+    "assetbundleName": "tmb_gachabonus100",
+    "cardSupplyGroupId": 3,
+    "description": "未获得★4成员",
+    "gachaBonusBorderPoint": 100,
+    "gachaBonusRewardType": "not_owned_random_rarity4_fixed",
+    "groupId": 5,
+    "id": 72
+  },
+  {
+    "gachaBonusBorderPoint": 110,
+    "gachaBonusRewardType": "item",
+    "groupId": 5,
+    "id": 73,
+    "resourceBoxId": 5
+  },
+  {
+    "gachaBonusBorderPoint": 120,
+    "gachaBonusRewardType": "item",
+    "groupId": 5,
+    "id": 74,
+    "resourceBoxId": 5
+  },
+  {
+    "gachaBonusBorderPoint": 130,
+    "gachaBonusRewardType": "item",
+    "groupId": 5,
+    "id": 75,
+    "resourceBoxId": 5
+  },
+  {
+    "gachaBonusBorderPoint": 140,
+    "gachaBonusRewardType": "item",
+    "groupId": 5,
+    "id": 76,
+    "resourceBoxId": 5
+  },
+  {
+    "assetbundleName": "tmb_gachabonus150",
+    "cardSupplyGroupId": 1,
+    "description": "自选的常规★4成员",
+    "gachaBonusBorderPoint": 150,
+    "gachaBonusRewardType": "selectable_rarity4_fixed",
+    "groupId": 5,
+    "id": 77
+  },
+  {
+    "gachaBonusBorderPoint": 160,
+    "gachaBonusRewardType": "item",
+    "groupId": 5,
+    "id": 78,
+    "resourceBoxId": 5
+  },
+  {
+    "gachaBonusBorderPoint": 170,
+    "gachaBonusRewardType": "item",
+    "groupId": 5,
+    "id": 79,
+    "resourceBoxId": 5
+  },
+  {
+    "gachaBonusBorderPoint": 180,
+    "gachaBonusRewardType": "item",
+    "groupId": 5,
+    "id": 80,
+    "resourceBoxId": 5
+  },
+  {
+    "gachaBonusBorderPoint": 190,
+    "gachaBonusRewardType": "item",
+    "groupId": 5,
+    "id": 81,
+    "resourceBoxId": 5
+  },
+  {
+    "assetbundleName": "tmb_gachabonus200",
+    "cardSupplyGroupId": 3,
+    "description": "自选★4成员",
+    "gachaBonusBorderPoint": 200,
+    "gachaBonusRewardType": "selectable_rarity4_fixed",
+    "groupId": 5,
+    "id": 82
+  },
+  {
+    "gachaBonusBorderPoint": 10,
+    "gachaBonusRewardType": "item",
+    "groupId": 6,
+    "id": 83,
+    "resourceBoxId": 6
+  },
+  {
+    "gachaBonusBorderPoint": 20,
+    "gachaBonusRewardType": "item",
+    "groupId": 6,
+    "id": 84,
+    "resourceBoxId": 6
+  },
+  {
+    "gachaBonusBorderPoint": 30,
+    "gachaBonusRewardType": "item",
+    "groupId": 6,
+    "id": 85,
+    "resourceBoxId": 6
+  },
+  {
+    "gachaBonusBorderPoint": 40,
+    "gachaBonusRewardType": "item",
+    "groupId": 6,
+    "id": 86,
+    "resourceBoxId": 6
+  },
+  {
+    "assetbundleName": "tmb_gachabonus50",
+    "cardSupplyGroupId": 1,
+    "description": "未获得的常规★4成员",
+    "gachaBonusBorderPoint": 50,
+    "gachaBonusRewardType": "not_owned_random_rarity4_fixed",
+    "groupId": 6,
+    "id": 87
+  },
+  {
+    "gachaBonusBorderPoint": 60,
+    "gachaBonusRewardType": "item",
+    "groupId": 6,
+    "id": 88,
+    "resourceBoxId": 6
+  },
+  {
+    "gachaBonusBorderPoint": 70,
+    "gachaBonusRewardType": "item",
+    "groupId": 6,
+    "id": 89,
+    "resourceBoxId": 6
+  },
+  {
+    "gachaBonusBorderPoint": 80,
+    "gachaBonusRewardType": "item",
+    "groupId": 6,
+    "id": 90,
+    "resourceBoxId": 6
+  },
+  {
+    "gachaBonusBorderPoint": 90,
+    "gachaBonusRewardType": "item",
+    "groupId": 6,
+    "id": 91,
+    "resourceBoxId": 6
+  },
+  {
+    "assetbundleName": "tmb_gachabonus100",
+    "cardSupplyGroupId": 3,
+    "description": "未获得★4成员",
+    "gachaBonusBorderPoint": 100,
+    "gachaBonusRewardType": "not_owned_random_rarity4_fixed",
+    "groupId": 6,
+    "id": 92
+  },
+  {
+    "gachaBonusBorderPoint": 110,
+    "gachaBonusRewardType": "item",
+    "groupId": 6,
+    "id": 93,
+    "resourceBoxId": 6
+  },
+  {
+    "gachaBonusBorderPoint": 120,
+    "gachaBonusRewardType": "item",
+    "groupId": 6,
+    "id": 94,
+    "resourceBoxId": 6
+  },
+  {
+    "gachaBonusBorderPoint": 130,
+    "gachaBonusRewardType": "item",
+    "groupId": 6,
+    "id": 95,
+    "resourceBoxId": 6
+  },
+  {
+    "gachaBonusBorderPoint": 140,
+    "gachaBonusRewardType": "item",
+    "groupId": 6,
+    "id": 96,
+    "resourceBoxId": 6
+  },
+  {
+    "assetbundleName": "tmb_gachabonus150",
+    "cardSupplyGroupId": 1,
+    "description": "自选的常规★4成员",
+    "gachaBonusBorderPoint": 150,
+    "gachaBonusRewardType": "selectable_rarity4_fixed",
+    "groupId": 6,
+    "id": 97
+  },
+  {
+    "gachaBonusBorderPoint": 160,
+    "gachaBonusRewardType": "item",
+    "groupId": 6,
+    "id": 98,
+    "resourceBoxId": 6
+  },
+  {
+    "gachaBonusBorderPoint": 170,
+    "gachaBonusRewardType": "item",
+    "groupId": 6,
+    "id": 99,
+    "resourceBoxId": 6
+  },
+  {
+    "gachaBonusBorderPoint": 180,
+    "gachaBonusRewardType": "item",
+    "groupId": 6,
+    "id": 100,
+    "resourceBoxId": 6
+  },
+  {
+    "gachaBonusBorderPoint": 190,
+    "gachaBonusRewardType": "item",
+    "groupId": 6,
+    "id": 101,
+    "resourceBoxId": 6
+  },
+  {
+    "assetbundleName": "tmb_gachabonus200",
+    "cardSupplyGroupId": 3,
+    "description": "自选★4成员",
+    "gachaBonusBorderPoint": 200,
+    "gachaBonusRewardType": "selectable_rarity4_fixed",
+    "groupId": 6,
+    "id": 102
+  },
+  {
+    "gachaBonusBorderPoint": 10,
+    "gachaBonusRewardType": "item",
+    "groupId": 7,
+    "id": 103,
+    "resourceBoxId": 7
+  },
+  {
+    "gachaBonusBorderPoint": 20,
+    "gachaBonusRewardType": "item",
+    "groupId": 7,
+    "id": 104,
+    "resourceBoxId": 7
+  },
+  {
+    "gachaBonusBorderPoint": 30,
+    "gachaBonusRewardType": "item",
+    "groupId": 7,
+    "id": 105,
+    "resourceBoxId": 7
+  },
+  {
+    "gachaBonusBorderPoint": 40,
+    "gachaBonusRewardType": "item",
+    "groupId": 7,
+    "id": 106,
+    "resourceBoxId": 7
+  },
+  {
+    "assetbundleName": "tmb_gachabonus50",
+    "cardSupplyGroupId": 1,
+    "description": "未获得的常规★4成员",
+    "gachaBonusBorderPoint": 50,
+    "gachaBonusRewardType": "not_owned_random_rarity4_fixed",
+    "groupId": 7,
+    "id": 107
+  },
+  {
+    "gachaBonusBorderPoint": 60,
+    "gachaBonusRewardType": "item",
+    "groupId": 7,
+    "id": 108,
+    "resourceBoxId": 7
+  },
+  {
+    "gachaBonusBorderPoint": 70,
+    "gachaBonusRewardType": "item",
+    "groupId": 7,
+    "id": 109,
+    "resourceBoxId": 7
+  },
+  {
+    "gachaBonusBorderPoint": 80,
+    "gachaBonusRewardType": "item",
+    "groupId": 7,
+    "id": 110,
+    "resourceBoxId": 7
+  },
+  {
+    "gachaBonusBorderPoint": 90,
+    "gachaBonusRewardType": "item",
+    "groupId": 7,
+    "id": 111,
+    "resourceBoxId": 7
+  },
+  {
+    "assetbundleName": "tmb_gachabonus100",
+    "cardSupplyGroupId": 3,
+    "description": "未获得★4成员",
+    "gachaBonusBorderPoint": 100,
+    "gachaBonusRewardType": "not_owned_random_rarity4_fixed",
+    "groupId": 7,
+    "id": 112
+  },
+  {
+    "gachaBonusBorderPoint": 110,
+    "gachaBonusRewardType": "item",
+    "groupId": 7,
+    "id": 113,
+    "resourceBoxId": 7
+  },
+  {
+    "gachaBonusBorderPoint": 120,
+    "gachaBonusRewardType": "item",
+    "groupId": 7,
+    "id": 114,
+    "resourceBoxId": 7
+  },
+  {
+    "gachaBonusBorderPoint": 130,
+    "gachaBonusRewardType": "item",
+    "groupId": 7,
+    "id": 115,
+    "resourceBoxId": 7
+  },
+  {
+    "gachaBonusBorderPoint": 140,
+    "gachaBonusRewardType": "item",
+    "groupId": 7,
+    "id": 116,
+    "resourceBoxId": 7
+  },
+  {
+    "assetbundleName": "tmb_gachabonus150",
+    "cardSupplyGroupId": 1,
+    "description": "自选的常规★4成员",
+    "gachaBonusBorderPoint": 150,
+    "gachaBonusRewardType": "selectable_rarity4_fixed",
+    "groupId": 7,
+    "id": 117
+  },
+  {
+    "gachaBonusBorderPoint": 160,
+    "gachaBonusRewardType": "item",
+    "groupId": 7,
+    "id": 118,
+    "resourceBoxId": 7
+  },
+  {
+    "gachaBonusBorderPoint": 170,
+    "gachaBonusRewardType": "item",
+    "groupId": 7,
+    "id": 119,
+    "resourceBoxId": 7
+  },
+  {
+    "gachaBonusBorderPoint": 180,
+    "gachaBonusRewardType": "item",
+    "groupId": 7,
+    "id": 120,
+    "resourceBoxId": 7
+  },
+  {
+    "gachaBonusBorderPoint": 190,
+    "gachaBonusRewardType": "item",
+    "groupId": 7,
+    "id": 121,
+    "resourceBoxId": 7
+  },
+  {
+    "assetbundleName": "tmb_gachabonus200",
+    "cardSupplyGroupId": 3,
+    "description": "自选★4成员",
+    "gachaBonusBorderPoint": 200,
+    "gachaBonusRewardType": "selectable_rarity4_fixed",
+    "groupId": 7,
+    "id": 122
+  },
+  {
+    "gachaBonusBorderPoint": 50,
+    "gachaBonusRewardType": "item",
+    "groupId": 8,
+    "id": 123,
+    "resourceBoxId": 8
+  },
+  {
+    "gachaBonusBorderPoint": 100,
+    "gachaBonusRewardType": "item",
+    "groupId": 8,
+    "id": 124,
+    "resourceBoxId": 8
+  },
+  {
+    "gachaBonusBorderPoint": 50,
+    "gachaBonusRewardType": "item",
+    "groupId": 9,
+    "id": 125,
+    "resourceBoxId": 9
+  },
+  {
+    "gachaBonusBorderPoint": 100,
+    "gachaBonusRewardType": "item",
+    "groupId": 9,
+    "id": 126,
+    "resourceBoxId": 9
+  },
+  {
+    "assetbundleName": "gauge_balloon_item_material_170",
+    "gachaBonusBorderPoint": 50,
+    "gachaBonusRewardType": "item",
+    "groupId": 10001,
+    "id": 10001,
+    "resourceBoxId": 10001
+  },
+  {
+    "assetbundleName": "gauge_balloon_item_material_170",
+    "gachaBonusBorderPoint": 100,
+    "gachaBonusRewardType": "item",
+    "groupId": 10001,
+    "id": 10002,
+    "resourceBoxId": 10001
+  }
+]

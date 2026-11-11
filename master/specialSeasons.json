@@ -1,0 +1,37 @@
+[
+  {
+    "endAt": 1680364800000,
+    "id": 1,
+    "priority": 1,
+    "specialSeasonType": "april_fool_2022",
+    "startAt": 1680278400000
+  },
+  {
+    "endAt": 1711987200000,
+    "id": 2,
+    "priority": 1,
+    "specialSeasonType": "april_fool_2022",
+    "startAt": 1711900800000
+  },
+  {
+    "endAt": 1743523200000,
+    "id": 3,
+    "priority": 1,
+    "specialSeasonType": "april_fool_2022",
+    "startAt": 1743436800000
+  },
+  {
+    "endAt": 1775059200000,
+    "id": 4,
+    "priority": 1,
+    "specialSeasonType": "april_fool_2022",
+    "startAt": 1774972800000
+  },
+  {
+    "endAt": 1806595201000,
+    "id": 5,
+    "priority": 1,
+    "specialSeasonType": "april_fool_2022",
+    "startAt": 1806508801000
+  }
+]

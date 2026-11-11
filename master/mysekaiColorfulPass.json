@@ -1,0 +1,6 @@
+{
+  "expireDays": 30,
+  "id": 1,
+  "mysekaiConvertFixtureConvertMinutesDecreaseRate": 0.5,
+  "mysekaiSiteHousingPresetSlotExpireDays": 365
+}

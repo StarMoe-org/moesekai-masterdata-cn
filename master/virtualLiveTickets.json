@@ -1,0 +1,9 @@
+[
+  {
+    "assetbundleName": "vlm_ticket_5th_anniversary",
+    "flavorText": "可用来观看“1.5th Anniversary Special Message”的票券。",
+    "id": 25,
+    "name": "1.5周年特别寄语券",
+    "virtualLiveTicketType": "paid_virtual_live"
+  }
+]

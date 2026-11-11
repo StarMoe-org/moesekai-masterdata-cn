@@ -1,0 +1,310 @@
+[
+  {
+    "assetbundleName": "motion_avatar_idle",
+    "id": 1,
+    "name": "待命",
+    "seq": 35,
+    "syncMusicFlg": false
+  },
+  {
+    "assetbundleName": "motion_avatar_01",
+    "id": 2,
+    "name": "双手绕圈",
+    "seq": 33,
+    "syncMusicFlg": true
+  },
+  {
+    "assetbundleName": "motion_avatar_02",
+    "id": 3,
+    "name": "PPPH",
+    "seq": 5,
+    "syncMusicFlg": true
+  },
+  {
+    "assetbundleName": "motion_avatar_03",
+    "id": 4,
+    "name": "8字拍手",
+    "seq": 34,
+    "syncMusicFlg": true
+  },
+  {
+    "assetbundleName": "motion_avatar_04",
+    "id": 5,
+    "name": "挥动双手",
+    "seq": 2,
+    "syncMusicFlg": false
+  },
+  {
+    "assetbundleName": "motion_avatar_05",
+    "id": 6,
+    "name": "开心跳跃",
+    "seq": 6,
+    "syncMusicFlg": false
+  },
+  {
+    "assetbundleName": "motion_avatar_06",
+    "id": 7,
+    "name": "挥手",
+    "seq": 7,
+    "syncMusicFlg": false
+  },
+  {
+    "assetbundleName": "motion_avatar_07",
+    "id": 8,
+    "name": "左右大幅摇摆",
+    "seq": 8,
+    "syncMusicFlg": false
+  },
+  {
+    "assetbundleName": "motion_avatar_08",
+    "id": 9,
+    "name": "太神了",
+    "seq": 9,
+    "syncMusicFlg": false
+  },
+  {
+    "assetbundleName": "motion_avatar_09",
+    "id": 10,
+    "name": "欢欣雀跃",
+    "seq": 10,
+    "syncMusicFlg": false
+  },
+  {
+    "assetbundleName": "motion_avatar_10",
+    "id": 11,
+    "name": "胜利握拳",
+    "seq": 11,
+    "syncMusicFlg": false
+  },
+  {
+    "assetbundleName": "motion_avatar_11",
+    "id": 12,
+    "name": "画爱心",
+    "seq": 12,
+    "syncMusicFlg": false
+  },
+  {
+    "assetbundleName": "motion_avatar_12",
+    "id": 13,
+    "name": "画星星",
+    "seq": 13,
+    "syncMusicFlg": false
+  },
+  {
+    "assetbundleName": "motion_avatar_13",
+    "id": 14,
+    "name": "受挫",
+    "seq": 14,
+    "syncMusicFlg": false
+  },
+  {
+    "assetbundleName": "motion_avatar_14",
+    "id": 15,
+    "name": "鞠躬",
+    "seq": 15,
+    "syncMusicFlg": false
+  },
+  {
+    "assetbundleName": "motion_avatar_15",
+    "id": 16,
+    "name": "打招呼",
+    "seq": 16,
+    "syncMusicFlg": false
+  },
+  {
+    "assetbundleName": "motion_avatar_16",
+    "id": 17,
+    "name": "点头",
+    "seq": 17,
+    "syncMusicFlg": false
+  },
+  {
+    "assetbundleName": "motion_avatar_17",
+    "id": 18,
+    "name": "摇头",
+    "seq": 18,
+    "syncMusicFlg": false
+  },
+  {
+    "assetbundleName": "motion_avatar_18",
+    "id": 19,
+    "name": "坐下",
+    "seq": 19,
+    "syncMusicFlg": false
+  },
+  {
+    "assetbundleName": "motion_avatar_19",
+    "id": 20,
+    "name": "蹲下",
+    "seq": 20,
+    "syncMusicFlg": false
+  },
+  {
+    "assetbundleName": "motion_avatar_20",
+    "id": 21,
+    "name": "跳舞",
+    "seq": 21,
+    "syncMusicFlg": false
+  },
+  {
+    "assetbundleName": "motion_avatar_21",
+    "id": 22,
+    "name": "敬礼",
+    "seq": 22,
+    "syncMusicFlg": false
+  },
+  {
+    "assetbundleName": "motion_avatar_22",
+    "id": 23,
+    "name": "初音拳",
+    "seq": 23,
+    "syncMusicFlg": false
+  },
+  {
+    "assetbundleName": "motion_avatar_23",
+    "id": 24,
+    "name": "转一圈",
+    "seq": 24,
+    "syncMusicFlg": false
+  },
+  {
+    "assetbundleName": "motion_avatar_24",
+    "id": 25,
+    "name": "慌张",
+    "seq": 25,
+    "syncMusicFlg": false
+  },
+  {
+    "assetbundleName": "motion_avatar_25",
+    "id": 26,
+    "name": "倒地",
+    "seq": 26,
+    "syncMusicFlg": false
+  },
+  {
+    "assetbundleName": "motion_avatar_26",
+    "id": 27,
+    "name": "后空翻",
+    "seq": 27,
+    "syncMusicFlg": false
+  },
+  {
+    "assetbundleName": "motion_avatar_27",
+    "id": 28,
+    "name": "Wonderho～i",
+    "seq": 28,
+    "syncMusicFlg": false
+  },
+  {
+    "assetbundleName": "motion_avatar_28",
+    "id": 29,
+    "name": "膜拜",
+    "seq": 29,
+    "syncMusicFlg": false
+  },
+  {
+    "assetbundleName": "motion_avatar_29",
+    "id": 30,
+    "name": "生气",
+    "seq": 30,
+    "syncMusicFlg": false
+  },
+  {
+    "assetbundleName": "motion_avatar_30",
+    "id": 31,
+    "name": "耍无赖",
+    "seq": 31,
+    "syncMusicFlg": false
+  },
+  {
+    "assetbundleName": "motion_avatar_31",
+    "id": 32,
+    "name": "向前挥动",
+    "seq": 32,
+    "syncMusicFlg": true
+  },
+  {
+    "assetbundleName": "motion_avatar_32",
+    "id": 33,
+    "name": "左右挥动",
+    "seq": 3,
+    "syncMusicFlg": true
+  },
+  {
+    "assetbundleName": "motion_avatar_33",
+    "id": 34,
+    "name": "缓缓向上挥动",
+    "seq": 4,
+    "syncMusicFlg": true
+  },
+  {
+    "assetbundleName": "motion_avatar_34",
+    "id": 35,
+    "name": "鼓掌",
+    "seq": 1,
+    "syncMusicFlg": true
+  },
+  {
+    "assetbundleName": "motion_avatar_walk",
+    "id": 36,
+    "name": "走路",
+    "seq": 36,
+    "syncMusicFlg": false
+  },
+  {
+    "assetbundleName": "motion_avatar_run",
+    "id": 37,
+    "name": "走路2",
+    "seq": 37,
+    "syncMusicFlg": false
+  },
+  {
+    "assetbundleName": "motion_avatar_clap",
+    "id": 38,
+    "name": "鼓掌（一下）",
+    "seq": 38,
+    "syncMusicFlg": false
+  },
+  {
+    "assetbundleName": "motion_avatar_35",
+    "id": 39,
+    "name": "鼓掌（1次）",
+    "seq": 39,
+    "syncMusicFlg": false
+  },
+  {
+    "assetbundleName": "motion_avatar_36",
+    "id": 40,
+    "name": "行礼",
+    "seq": 40,
+    "syncMusicFlg": false
+  },
+  {
+    "assetbundleName": "motion_avatar_37",
+    "id": 41,
+    "name": "Journey",
+    "seq": 41,
+    "syncMusicFlg": false
+  },
+  {
+    "assetbundleName": "c_000_mov_idle_00",
+    "id": 42,
+    "name": "我的「世界」偶像",
+    "seq": 42,
+    "syncMusicFlg": false
+  },
+  {
+    "assetbundleName": "mov_u000_site_run001_o",
+    "id": 43,
+    "name": "我的「世界」冲刺",
+    "seq": 43,
+    "syncMusicFlg": false
+  },
+  {
+    "assetbundleName": "mov_u000_site_walk001_o",
+    "id": 44,
+    "name": "我的「世界」漫步",
+    "seq": 44,
+    "syncMusicFlg": false
+  }
+]

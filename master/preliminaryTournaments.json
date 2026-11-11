@@ -1,0 +1,131 @@
+[
+  {
+    "endAt": 1661659200000,
+    "id": 1,
+    "preliminaryTournamentCards": [
+      {
+        "cardId": 81
+      },
+      {
+        "cardId": 89
+      },
+      {
+        "cardId": 93
+      },
+      {
+        "cardId": 97
+      },
+      {
+        "cardId": 101
+      },
+      {
+        "cardId": 105
+      }
+    ],
+    "preliminaryTournamentMusics": [
+      {
+        "id": 1,
+        "musicDifficultyId": 10,
+        "musicId": 2,
+        "preliminaryTournamentId": 1
+      },
+      {
+        "id": 2,
+        "musicDifficultyId": 130,
+        "musicId": 26,
+        "preliminaryTournamentId": 1
+      }
+    ],
+    "preliminaryTournamentType": "first",
+    "releaseConditionId": 10015,
+    "startAt": 1658721600000
+  },
+  {
+    "endAt": 1705892400000,
+    "id": 1001,
+    "preliminaryTournamentCards": [
+      {
+        "cardId": 81
+      },
+      {
+        "cardId": 89
+      },
+      {
+        "cardId": 93
+      },
+      {
+        "cardId": 97
+      },
+      {
+        "cardId": 101
+      },
+      {
+        "cardId": 105
+      }
+    ],
+    "preliminaryTournamentMusics": [
+      {
+        "id": 1001,
+        "musicDifficultyId": 15,
+        "musicId": 3,
+        "preliminaryTournamentId": 1001
+      },
+      {
+        "id": 1002,
+        "musicDifficultyId": 655,
+        "musicId": 131,
+        "preliminaryTournamentId": 1001
+      }
+    ],
+    "preliminaryTournamentType": "first",
+    "releaseConditionId": 19000,
+    "startAt": 1705633200000
+  },
+  {
+    "endAt": 1706497200000,
+    "id": 1002,
+    "preliminaryTournamentCards": [
+      {
+        "cardId": 81
+      },
+      {
+        "cardId": 89
+      },
+      {
+        "cardId": 93
+      },
+      {
+        "cardId": 97
+      },
+      {
+        "cardId": 101
+      },
+      {
+        "cardId": 105
+      }
+    ],
+    "preliminaryTournamentMusics": [
+      {
+        "id": 1003,
+        "musicDifficultyId": 995,
+        "musicId": 199,
+        "preliminaryTournamentId": 1002
+      },
+      {
+        "id": 1004,
+        "musicDifficultyId": 880,
+        "musicId": 176,
+        "preliminaryTournamentId": 1002
+      },
+      {
+        "id": 1005,
+        "musicDifficultyId": 820,
+        "musicId": 164,
+        "preliminaryTournamentId": 1002
+      }
+    ],
+    "preliminaryTournamentType": "second",
+    "releaseConditionId": 19000,
+    "startAt": 1706238000000
+  }
+]

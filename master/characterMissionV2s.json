@@ -1,0 +1,5150 @@
+[
+  {
+    "characterId": 1,
+    "characterMissionType": "play_live",
+    "id": 1001,
+    "isAchievementMission": true,
+    "parameterGroupId": 1,
+    "progressSentence": "{progress}次",
+    "sentence": "将“星乃一歌”设为队长并进行{requirement}次演出。"
+  },
+  {
+    "characterId": 1,
+    "characterMissionType": "waiting_room",
+    "id": 1002,
+    "isAchievementMission": true,
+    "parameterGroupId": 2,
+    "progressSentence": "{progress}次",
+    "sentence": "将“星乃一歌”送到休息室{requirement}次。"
+  },
+  {
+    "characterId": 1,
+    "characterMissionType": "collect_costume_3d",
+    "id": 1003,
+    "isAchievementMission": false,
+    "parameterGroupId": 3,
+    "progressSentence": "{progress}套",
+    "sentence": "持有{requirement}套“星乃一歌”3D服装。"
+  },
+  {
+    "characterId": 1,
+    "characterMissionType": "collect_stamp",
+    "id": 1004,
+    "isAchievementMission": false,
+    "parameterGroupId": 4,
+    "progressSentence": "{progress}种",
+    "sentence": "持有{requirement}种“星乃一歌”的表情。"
+  },
+  {
+    "characterId": 1,
+    "characterMissionType": "read_area_talk",
+    "id": 1005,
+    "isAchievementMission": false,
+    "parameterGroupId": 5,
+    "progressSentence": "{progress}种",
+    "sentence": "观看{requirement}种“星乃一歌”的区域对话。"
+  },
+  {
+    "characterId": 1,
+    "characterMissionType": "read_card_episode_first",
+    "id": 1006,
+    "isAchievementMission": true,
+    "parameterGroupId": 6,
+    "progressSentence": "{progress}种",
+    "sentence": "观看{requirement}种“星乃一歌”卡牌剧情上篇。"
+  },
+  {
+    "characterId": 1,
+    "characterMissionType": "read_card_episode_second",
+    "id": 1007,
+    "isAchievementMission": true,
+    "parameterGroupId": 7,
+    "progressSentence": "{progress}种",
+    "sentence": "观看{requirement}种“星乃一歌”卡牌剧情下篇。"
+  },
+  {
+    "characterId": 1,
+    "characterMissionType": "collect_another_vocal",
+    "id": 1008,
+    "isAchievementMission": false,
+    "parameterGroupId": 8,
+    "progressSentence": "{progress}种",
+    "sentence": "持有{requirement}种“星乃一歌”的Another Vocal。"
+  },
+  {
+    "characterId": 1,
+    "characterMissionType": "area_item_level_up_character",
+    "id": 1009,
+    "isAchievementMission": true,
+    "parameterGroupId": 9,
+    "progressSentence": "{progress}次",
+    "sentence": "“星乃一歌”的区域道具的等级累计提升{requirement}次。"
+  },
+  {
+    "characterId": 1,
+    "characterMissionType": "area_item_level_up_unit",
+    "id": 1010,
+    "isAchievementMission": true,
+    "parameterGroupId": 11,
+    "progressSentence": "{progress}次",
+    "sentence": "指定组合的区域道具的等级累计提升{requirement}次。"
+  },
+  {
+    "characterId": 1,
+    "characterMissionType": "area_item_level_up_reality_world",
+    "id": 1011,
+    "isAchievementMission": true,
+    "parameterGroupId": 13,
+    "progressSentence": "{progress}次",
+    "sentence": "现实世界的区域道具的等级累计提升{requirement}次。"
+  },
+  {
+    "characterId": 1,
+    "characterMissionType": "collect_member",
+    "id": 1012,
+    "isAchievementMission": false,
+    "parameterGroupId": 14,
+    "progressSentence": "{progress}种",
+    "sentence": "持有{requirement}种“星乃一歌”的卡牌。"
+  },
+  {
+    "characterId": 1,
+    "characterMissionType": "skill_level_up_rare",
+    "id": 1013,
+    "isAchievementMission": true,
+    "parameterGroupId": 15,
+    "progressSentence": "{progress}次",
+    "sentence": "“星乃一歌”★4/生日稀有度卡牌的技能等级提升{requirement}次。"
+  },
+  {
+    "characterId": 1,
+    "characterMissionType": "skill_level_up_standard",
+    "id": 1014,
+    "isAchievementMission": true,
+    "parameterGroupId": 16,
+    "progressSentence": "{progress}次",
+    "sentence": "“星乃一歌”★1/★2/★3稀有度卡牌的技能等级提升{requirement}次。"
+  },
+  {
+    "characterId": 1,
+    "characterMissionType": "master_rank_up_rare",
+    "id": 1015,
+    "isAchievementMission": true,
+    "parameterGroupId": 17,
+    "progressSentence": "{progress}次",
+    "sentence": "“星乃一歌”★4/生日稀有度卡牌的专家等级提升{requirement}次。"
+  },
+  {
+    "characterId": 1,
+    "characterMissionType": "master_rank_up_standard",
+    "id": 1016,
+    "isAchievementMission": true,
+    "parameterGroupId": 18,
+    "progressSentence": "{progress}次",
+    "sentence": "“星乃一歌”★1/★2/★3稀有度卡牌的专家等级提升{requirement}次。"
+  },
+  {
+    "characterId": 1,
+    "characterMissionType": "collect_character_archive_voice",
+    "id": 1019,
+    "isAchievementMission": false,
+    "parameterGroupId": 19,
+    "progressSentence": "{progress}种",
+    "sentence": "收集“星乃一歌”的演出台词、招募台词总计{requirement}种。"
+  },
+  {
+    "characterId": 1,
+    "characterMissionType": "collect_mysekai_fixture",
+    "id": 1020,
+    "isAchievementMission": true,
+    "parameterGroupId": 20,
+    "progressSentence": "{progress}种",
+    "sentence": "在我的「世界」获得{requirement}种带“星乃一歌”标签的家具。"
+  },
+  {
+    "characterId": 1,
+    "characterMissionType": "collect_mysekai_canvas",
+    "id": 1021,
+    "isAchievementMission": true,
+    "parameterGroupId": 21,
+    "progressSentence": "{progress}种",
+    "sentence": "在我的「世界」制作{requirement}种“星乃一歌”成员的装饰画。"
+  },
+  {
+    "characterId": 1,
+    "characterMissionType": "read_mysekai_fixture_unique_character_talk",
+    "id": 1022,
+    "isAchievementMission": false,
+    "parameterGroupId": 22,
+    "progressSentence": "{progress}种",
+    "sentence": "在我的「世界」制作会触发“星乃一歌”对话的家具，并观看{requirement}种对话。"
+  },
+  {
+    "characterId": 1,
+    "characterMissionType": "play_live_ex",
+    "id": 1101,
+    "isAchievementMission": true,
+    "parameterGroupId": 101,
+    "progressSentence": "{progress}次",
+    "sentence": "将“星乃一歌”设为队长并进行{requirement}次演出。"
+  },
+  {
+    "characterId": 1,
+    "characterMissionType": "waiting_room_ex",
+    "id": 1102,
+    "isAchievementMission": true,
+    "parameterGroupId": 102,
+    "progressSentence": "{progress}次",
+    "sentence": "将“星乃一歌”送到休息室{requirement}次。"
+  },
+  {
+    "characterId": 2,
+    "characterMissionType": "play_live",
+    "id": 2001,
+    "isAchievementMission": true,
+    "parameterGroupId": 1,
+    "progressSentence": "{progress}次",
+    "sentence": "将“天马咲希”设为队长并进行{requirement}次演出。"
+  },
+  {
+    "characterId": 2,
+    "characterMissionType": "waiting_room",
+    "id": 2002,
+    "isAchievementMission": true,
+    "parameterGroupId": 2,
+    "progressSentence": "{progress}次",
+    "sentence": "将“天马咲希”送到休息室{requirement}次。"
+  },
+  {
+    "characterId": 2,
+    "characterMissionType": "collect_costume_3d",
+    "id": 2003,
+    "isAchievementMission": false,
+    "parameterGroupId": 3,
+    "progressSentence": "{progress}套",
+    "sentence": "持有{requirement}套“天马咲希”3D服装。"
+  },
+  {
+    "characterId": 2,
+    "characterMissionType": "collect_stamp",
+    "id": 2004,
+    "isAchievementMission": false,
+    "parameterGroupId": 4,
+    "progressSentence": "{progress}种",
+    "sentence": "持有{requirement}种“天马咲希”的表情。"
+  },
+  {
+    "characterId": 2,
+    "characterMissionType": "read_area_talk",
+    "id": 2005,
+    "isAchievementMission": false,
+    "parameterGroupId": 5,
+    "progressSentence": "{progress}种",
+    "sentence": "观看{requirement}种“天马咲希”的区域对话。"
+  },
+  {
+    "characterId": 2,
+    "characterMissionType": "read_card_episode_first",
+    "id": 2006,
+    "isAchievementMission": true,
+    "parameterGroupId": 6,
+    "progressSentence": "{progress}种",
+    "sentence": "观看{requirement}种“天马咲希”卡牌剧情上篇。"
+  },
+  {
+    "characterId": 2,
+    "characterMissionType": "read_card_episode_second",
+    "id": 2007,
+    "isAchievementMission": true,
+    "parameterGroupId": 7,
+    "progressSentence": "{progress}种",
+    "sentence": "观看{requirement}种“天马咲希”卡牌剧情下篇。"
+  },
+  {
+    "characterId": 2,
+    "characterMissionType": "collect_another_vocal",
+    "id": 2008,
+    "isAchievementMission": false,
+    "parameterGroupId": 8,
+    "progressSentence": "{progress}种",
+    "sentence": "持有{requirement}种“天马咲希”的Another Vocal。"
+  },
+  {
+    "characterId": 2,
+    "characterMissionType": "area_item_level_up_character",
+    "id": 2009,
+    "isAchievementMission": true,
+    "parameterGroupId": 9,
+    "progressSentence": "{progress}次",
+    "sentence": "“天马咲希”的区域道具的等级累计提升{requirement}次。"
+  },
+  {
+    "characterId": 2,
+    "characterMissionType": "area_item_level_up_unit",
+    "id": 2010,
+    "isAchievementMission": true,
+    "parameterGroupId": 11,
+    "progressSentence": "{progress}次",
+    "sentence": "指定组合的区域道具的等级累计提升{requirement}次。"
+  },
+  {
+    "characterId": 2,
+    "characterMissionType": "area_item_level_up_reality_world",
+    "id": 2011,
+    "isAchievementMission": true,
+    "parameterGroupId": 13,
+    "progressSentence": "{progress}次",
+    "sentence": "现实世界的区域道具的等级累计提升{requirement}次。"
+  },
+  {
+    "characterId": 2,
+    "characterMissionType": "collect_member",
+    "id": 2012,
+    "isAchievementMission": false,
+    "parameterGroupId": 14,
+    "progressSentence": "{progress}种",
+    "sentence": "持有{requirement}种“天马咲希”的卡牌。"
+  },
+  {
+    "characterId": 2,
+    "characterMissionType": "skill_level_up_rare",
+    "id": 2013,
+    "isAchievementMission": true,
+    "parameterGroupId": 15,
+    "progressSentence": "{progress}次",
+    "sentence": "“天马咲希”★4/生日稀有度卡牌的技能等级提升{requirement}次。"
+  },
+  {
+    "characterId": 2,
+    "characterMissionType": "skill_level_up_standard",
+    "id": 2014,
+    "isAchievementMission": true,
+    "parameterGroupId": 16,
+    "progressSentence": "{progress}次",
+    "sentence": "“天马咲希”★1/★2/★3稀有度卡牌的技能等级提升{requirement}次。"
+  },
+  {
+    "characterId": 2,
+    "characterMissionType": "master_rank_up_rare",
+    "id": 2015,
+    "isAchievementMission": true,
+    "parameterGroupId": 17,
+    "progressSentence": "{progress}次",
+    "sentence": "“天马咲希”★4/生日稀有度卡牌的专家等级提升{requirement}次。"
+  },
+  {
+    "characterId": 2,
+    "characterMissionType": "master_rank_up_standard",
+    "id": 2016,
+    "isAchievementMission": true,
+    "parameterGroupId": 18,
+    "progressSentence": "{progress}次",
+    "sentence": "“天马咲希”★1/★2/★3稀有度卡牌的专家等级提升{requirement}次。"
+  },
+  {
+    "characterId": 2,
+    "characterMissionType": "collect_character_archive_voice",
+    "id": 2019,
+    "isAchievementMission": false,
+    "parameterGroupId": 19,
+    "progressSentence": "{progress}种",
+    "sentence": "收集“天马咲希”的演出台词、招募台词总计{requirement}种。"
+  },
+  {
+    "characterId": 2,
+    "characterMissionType": "collect_mysekai_fixture",
+    "id": 2020,
+    "isAchievementMission": true,
+    "parameterGroupId": 20,
+    "progressSentence": "{progress}种",
+    "sentence": "在我的「世界」获得{requirement}种带“天马咲希”标签的家具。"
+  },
+  {
+    "characterId": 2,
+    "characterMissionType": "collect_mysekai_canvas",
+    "id": 2021,
+    "isAchievementMission": true,
+    "parameterGroupId": 21,
+    "progressSentence": "{progress}种",
+    "sentence": "在我的「世界」制作{requirement}种“天马咲希”成员的装饰画。"
+  },
+  {
+    "characterId": 2,
+    "characterMissionType": "read_mysekai_fixture_unique_character_talk",
+    "id": 2022,
+    "isAchievementMission": false,
+    "parameterGroupId": 22,
+    "progressSentence": "{progress}种",
+    "sentence": "在我的「世界」制作会触发“天马咲希”对话的家具，并观看{requirement}种对话。"
+  },
+  {
+    "characterId": 2,
+    "characterMissionType": "play_live_ex",
+    "id": 2101,
+    "isAchievementMission": true,
+    "parameterGroupId": 101,
+    "progressSentence": "{progress}次",
+    "sentence": "将“天马咲希”设为队长并进行{requirement}次演出。"
+  },
+  {
+    "characterId": 2,
+    "characterMissionType": "waiting_room_ex",
+    "id": 2102,
+    "isAchievementMission": true,
+    "parameterGroupId": 102,
+    "progressSentence": "{progress}次",
+    "sentence": "将“天马咲希”送到休息室{requirement}次。"
+  },
+  {
+    "characterId": 3,
+    "characterMissionType": "play_live",
+    "id": 3001,
+    "isAchievementMission": true,
+    "parameterGroupId": 1,
+    "progressSentence": "{progress}次",
+    "sentence": "将“望月穗波”设为队长并进行{requirement}次演出。"
+  },
+  {
+    "characterId": 3,
+    "characterMissionType": "waiting_room",
+    "id": 3002,
+    "isAchievementMission": true,
+    "parameterGroupId": 2,
+    "progressSentence": "{progress}次",
+    "sentence": "将“望月穗波”送到休息室{requirement}次。"
+  },
+  {
+    "characterId": 3,
+    "characterMissionType": "collect_costume_3d",
+    "id": 3003,
+    "isAchievementMission": false,
+    "parameterGroupId": 3,
+    "progressSentence": "{progress}套",
+    "sentence": "持有{requirement}套“望月穗波”3D服装。"
+  },
+  {
+    "characterId": 3,
+    "characterMissionType": "collect_stamp",
+    "id": 3004,
+    "isAchievementMission": false,
+    "parameterGroupId": 4,
+    "progressSentence": "{progress}种",
+    "sentence": "持有{requirement}种“望月穗波”的表情。"
+  },
+  {
+    "characterId": 3,
+    "characterMissionType": "read_area_talk",
+    "id": 3005,
+    "isAchievementMission": false,
+    "parameterGroupId": 5,
+    "progressSentence": "{progress}种",
+    "sentence": "观看{requirement}种“望月穗波”的区域对话。"
+  },
+  {
+    "characterId": 3,
+    "characterMissionType": "read_card_episode_first",
+    "id": 3006,
+    "isAchievementMission": true,
+    "parameterGroupId": 6,
+    "progressSentence": "{progress}种",
+    "sentence": "观看{requirement}种“望月穗波”卡牌剧情上篇。"
+  },
+  {
+    "characterId": 3,
+    "characterMissionType": "read_card_episode_second",
+    "id": 3007,
+    "isAchievementMission": true,
+    "parameterGroupId": 7,
+    "progressSentence": "{progress}种",
+    "sentence": "观看{requirement}种“望月穗波”卡牌剧情下篇。"
+  },
+  {
+    "characterId": 3,
+    "characterMissionType": "collect_another_vocal",
+    "id": 3008,
+    "isAchievementMission": false,
+    "parameterGroupId": 8,
+    "progressSentence": "{progress}种",
+    "sentence": "持有{requirement}种“望月穗波”的Another Vocal。"
+  },
+  {
+    "characterId": 3,
+    "characterMissionType": "area_item_level_up_character",
+    "id": 3009,
+    "isAchievementMission": true,
+    "parameterGroupId": 9,
+    "progressSentence": "{progress}次",
+    "sentence": "“望月穗波”的区域道具的等级累计提升{requirement}次。"
+  },
+  {
+    "characterId": 3,
+    "characterMissionType": "area_item_level_up_unit",
+    "id": 3010,
+    "isAchievementMission": true,
+    "parameterGroupId": 11,
+    "progressSentence": "{progress}次",
+    "sentence": "指定组合的区域道具的等级累计提升{requirement}次。"
+  },
+  {
+    "characterId": 3,
+    "characterMissionType": "area_item_level_up_reality_world",
+    "id": 3011,
+    "isAchievementMission": true,
+    "parameterGroupId": 13,
+    "progressSentence": "{progress}次",
+    "sentence": "现实世界的区域道具的等级累计提升{requirement}次。"
+  },
+  {
+    "characterId": 3,
+    "characterMissionType": "collect_member",
+    "id": 3012,
+    "isAchievementMission": false,
+    "parameterGroupId": 14,
+    "progressSentence": "{progress}种",
+    "sentence": "持有{requirement}种“望月穗波”的卡牌。"
+  },
+  {
+    "characterId": 3,
+    "characterMissionType": "skill_level_up_rare",
+    "id": 3013,
+    "isAchievementMission": true,
+    "parameterGroupId": 15,
+    "progressSentence": "{progress}次",
+    "sentence": "“望月穗波”★4/生日稀有度卡牌的技能等级提升{requirement}次。"
+  },
+  {
+    "characterId": 3,
+    "characterMissionType": "skill_level_up_standard",
+    "id": 3014,
+    "isAchievementMission": true,
+    "parameterGroupId": 16,
+    "progressSentence": "{progress}次",
+    "sentence": "“望月穗波”★1/★2/★3稀有度卡牌的技能等级提升{requirement}次。"
+  },
+  {
+    "characterId": 3,
+    "characterMissionType": "master_rank_up_rare",
+    "id": 3015,
+    "isAchievementMission": true,
+    "parameterGroupId": 17,
+    "progressSentence": "{progress}次",
+    "sentence": "“望月穗波”★4/生日稀有度卡牌的专家等级提升{requirement}次。"
+  },
+  {
+    "characterId": 3,
+    "characterMissionType": "master_rank_up_standard",
+    "id": 3016,
+    "isAchievementMission": true,
+    "parameterGroupId": 18,
+    "progressSentence": "{progress}次",
+    "sentence": "“望月穗波”★1/★2/★3稀有度卡牌的专家等级提升{requirement}次。"
+  },
+  {
+    "characterId": 3,
+    "characterMissionType": "collect_character_archive_voice",
+    "id": 3019,
+    "isAchievementMission": false,
+    "parameterGroupId": 19,
+    "progressSentence": "{progress}种",
+    "sentence": "收集“望月穗波”的演出台词、招募台词总计{requirement}种。"
+  },
+  {
+    "characterId": 3,
+    "characterMissionType": "collect_mysekai_fixture",
+    "id": 3020,
+    "isAchievementMission": true,
+    "parameterGroupId": 20,
+    "progressSentence": "{progress}种",
+    "sentence": "在我的「世界」获得{requirement}种带“望月穗波”标签的家具。"
+  },
+  {
+    "characterId": 3,
+    "characterMissionType": "collect_mysekai_canvas",
+    "id": 3021,
+    "isAchievementMission": true,
+    "parameterGroupId": 21,
+    "progressSentence": "{progress}种",
+    "sentence": "在我的「世界」制作{requirement}种“望月穗波”成员的装饰画。"
+  },
+  {
+    "characterId": 3,
+    "characterMissionType": "read_mysekai_fixture_unique_character_talk",
+    "id": 3022,
+    "isAchievementMission": false,
+    "parameterGroupId": 22,
+    "progressSentence": "{progress}种",
+    "sentence": "在我的「世界」制作会触发“望月穗波”对话的家具，并观看{requirement}种对话。"
+  },
+  {
+    "characterId": 3,
+    "characterMissionType": "play_live_ex",
+    "id": 3101,
+    "isAchievementMission": true,
+    "parameterGroupId": 101,
+    "progressSentence": "{progress}次",
+    "sentence": "将“望月穗波”设为队长并进行{requirement}次演出。"
+  },
+  {
+    "characterId": 3,
+    "characterMissionType": "waiting_room_ex",
+    "id": 3102,
+    "isAchievementMission": true,
+    "parameterGroupId": 102,
+    "progressSentence": "{progress}次",
+    "sentence": "将“望月穗波”送到休息室{requirement}次。"
+  },
+  {
+    "characterId": 4,
+    "characterMissionType": "play_live",
+    "id": 4001,
+    "isAchievementMission": true,
+    "parameterGroupId": 1,
+    "progressSentence": "{progress}次",
+    "sentence": "将“日野森志步”设为队长并进行{requirement}次演出。"
+  },
+  {
+    "characterId": 4,
+    "characterMissionType": "waiting_room",
+    "id": 4002,
+    "isAchievementMission": true,
+    "parameterGroupId": 2,
+    "progressSentence": "{progress}次",
+    "sentence": "将“日野森志步”送到休息室{requirement}次。"
+  },
+  {
+    "characterId": 4,
+    "characterMissionType": "collect_costume_3d",
+    "id": 4003,
+    "isAchievementMission": false,
+    "parameterGroupId": 3,
+    "progressSentence": "{progress}套",
+    "sentence": "持有{requirement}套“日野森志步”3D服装。"
+  },
+  {
+    "characterId": 4,
+    "characterMissionType": "collect_stamp",
+    "id": 4004,
+    "isAchievementMission": false,
+    "parameterGroupId": 4,
+    "progressSentence": "{progress}种",
+    "sentence": "持有{requirement}种“日野森志步”的表情。"
+  },
+  {
+    "characterId": 4,
+    "characterMissionType": "read_area_talk",
+    "id": 4005,
+    "isAchievementMission": false,
+    "parameterGroupId": 5,
+    "progressSentence": "{progress}种",
+    "sentence": "观看{requirement}种“日野森志步”的区域对话。"
+  },
+  {
+    "characterId": 4,
+    "characterMissionType": "read_card_episode_first",
+    "id": 4006,
+    "isAchievementMission": true,
+    "parameterGroupId": 6,
+    "progressSentence": "{progress}种",
+    "sentence": "观看{requirement}种“日野森志步”卡牌剧情上篇。"
+  },
+  {
+    "characterId": 4,
+    "characterMissionType": "read_card_episode_second",
+    "id": 4007,
+    "isAchievementMission": true,
+    "parameterGroupId": 7,
+    "progressSentence": "{progress}种",
+    "sentence": "观看{requirement}种“日野森志步”卡牌剧情下篇。"
+  },
+  {
+    "characterId": 4,
+    "characterMissionType": "collect_another_vocal",
+    "id": 4008,
+    "isAchievementMission": false,
+    "parameterGroupId": 8,
+    "progressSentence": "{progress}种",
+    "sentence": "持有{requirement}种“日野森志步”的Another Vocal。"
+  },
+  {
+    "characterId": 4,
+    "characterMissionType": "area_item_level_up_character",
+    "id": 4009,
+    "isAchievementMission": true,
+    "parameterGroupId": 9,
+    "progressSentence": "{progress}次",
+    "sentence": "“日野森志步”的区域道具的等级累计提升{requirement}次。"
+  },
+  {
+    "characterId": 4,
+    "characterMissionType": "area_item_level_up_unit",
+    "id": 4010,
+    "isAchievementMission": true,
+    "parameterGroupId": 11,
+    "progressSentence": "{progress}次",
+    "sentence": "指定组合的区域道具的等级累计提升{requirement}次。"
+  },
+  {
+    "characterId": 4,
+    "characterMissionType": "area_item_level_up_reality_world",
+    "id": 4011,
+    "isAchievementMission": true,
+    "parameterGroupId": 13,
+    "progressSentence": "{progress}次",
+    "sentence": "现实世界的区域道具的等级累计提升{requirement}次。"
+  },
+  {
+    "characterId": 4,
+    "characterMissionType": "collect_member",
+    "id": 4012,
+    "isAchievementMission": false,
+    "parameterGroupId": 14,
+    "progressSentence": "{progress}种",
+    "sentence": "持有{requirement}种“日野森志步”的卡牌。"
+  },
+  {
+    "characterId": 4,
+    "characterMissionType": "skill_level_up_rare",
+    "id": 4013,
+    "isAchievementMission": true,
+    "parameterGroupId": 15,
+    "progressSentence": "{progress}次",
+    "sentence": "“日野森志步”★4/生日稀有度卡牌的技能等级提升{requirement}次。"
+  },
+  {
+    "characterId": 4,
+    "characterMissionType": "skill_level_up_standard",
+    "id": 4014,
+    "isAchievementMission": true,
+    "parameterGroupId": 16,
+    "progressSentence": "{progress}次",
+    "sentence": "“日野森志步”★1/★2/★3稀有度卡牌的技能等级提升{requirement}次。"
+  },
+  {
+    "characterId": 4,
+    "characterMissionType": "master_rank_up_rare",
+    "id": 4015,
+    "isAchievementMission": true,
+    "parameterGroupId": 17,
+    "progressSentence": "{progress}次",
+    "sentence": "“日野森志步”★4/生日稀有度卡牌的专家等级提升{requirement}次。"
+  },
+  {
+    "characterId": 4,
+    "characterMissionType": "master_rank_up_standard",
+    "id": 4016,
+    "isAchievementMission": true,
+    "parameterGroupId": 18,
+    "progressSentence": "{progress}次",
+    "sentence": "“日野森志步”★1/★2/★3稀有度卡牌的专家等级提升{requirement}次。"
+  },
+  {
+    "characterId": 4,
+    "characterMissionType": "collect_character_archive_voice",
+    "id": 4019,
+    "isAchievementMission": false,
+    "parameterGroupId": 19,
+    "progressSentence": "{progress}种",
+    "sentence": "收集“日野森志步”的演出台词、招募台词总计{requirement}种。"
+  },
+  {
+    "characterId": 4,
+    "characterMissionType": "collect_mysekai_fixture",
+    "id": 4020,
+    "isAchievementMission": true,
+    "parameterGroupId": 20,
+    "progressSentence": "{progress}种",
+    "sentence": "在我的「世界」获得{requirement}种带“日野森志步”标签的家具。"
+  },
+  {
+    "characterId": 4,
+    "characterMissionType": "collect_mysekai_canvas",
+    "id": 4021,
+    "isAchievementMission": true,
+    "parameterGroupId": 21,
+    "progressSentence": "{progress}种",
+    "sentence": "在我的「世界」制作{requirement}种“日野森志步”成员的装饰画。"
+  },
+  {
+    "characterId": 4,
+    "characterMissionType": "read_mysekai_fixture_unique_character_talk",
+    "id": 4022,
+    "isAchievementMission": false,
+    "parameterGroupId": 22,
+    "progressSentence": "{progress}种",
+    "sentence": "在我的「世界」制作会触发“日野森志步”对话的家具，并观看{requirement}种对话。"
+  },
+  {
+    "characterId": 4,
+    "characterMissionType": "play_live_ex",
+    "id": 4101,
+    "isAchievementMission": true,
+    "parameterGroupId": 101,
+    "progressSentence": "{progress}次",
+    "sentence": "将“日野森志步”设为队长并进行{requirement}次演出。"
+  },
+  {
+    "characterId": 4,
+    "characterMissionType": "waiting_room_ex",
+    "id": 4102,
+    "isAchievementMission": true,
+    "parameterGroupId": 102,
+    "progressSentence": "{progress}次",
+    "sentence": "将“日野森志步”送到休息室{requirement}次。"
+  },
+  {
+    "characterId": 5,
+    "characterMissionType": "play_live",
+    "id": 5001,
+    "isAchievementMission": true,
+    "parameterGroupId": 1,
+    "progressSentence": "{progress}次",
+    "sentence": "将“花里实乃理”设为队长并进行{requirement}次演出。"
+  },
+  {
+    "characterId": 5,
+    "characterMissionType": "waiting_room",
+    "id": 5002,
+    "isAchievementMission": true,
+    "parameterGroupId": 2,
+    "progressSentence": "{progress}次",
+    "sentence": "将“花里实乃理”送到休息室{requirement}次。"
+  },
+  {
+    "characterId": 5,
+    "characterMissionType": "collect_costume_3d",
+    "id": 5003,
+    "isAchievementMission": false,
+    "parameterGroupId": 3,
+    "progressSentence": "{progress}套",
+    "sentence": "持有{requirement}套“花里实乃理”3D服装。"
+  },
+  {
+    "characterId": 5,
+    "characterMissionType": "collect_stamp",
+    "id": 5004,
+    "isAchievementMission": false,
+    "parameterGroupId": 4,
+    "progressSentence": "{progress}种",
+    "sentence": "持有{requirement}种“花里实乃理”的表情。"
+  },
+  {
+    "characterId": 5,
+    "characterMissionType": "read_area_talk",
+    "id": 5005,
+    "isAchievementMission": false,
+    "parameterGroupId": 5,
+    "progressSentence": "{progress}种",
+    "sentence": "观看{requirement}种“花里实乃理”的区域对话。"
+  },
+  {
+    "characterId": 5,
+    "characterMissionType": "read_card_episode_first",
+    "id": 5006,
+    "isAchievementMission": true,
+    "parameterGroupId": 6,
+    "progressSentence": "{progress}种",
+    "sentence": "观看{requirement}种“花里实乃理”卡牌剧情上篇。"
+  },
+  {
+    "characterId": 5,
+    "characterMissionType": "read_card_episode_second",
+    "id": 5007,
+    "isAchievementMission": true,
+    "parameterGroupId": 7,
+    "progressSentence": "{progress}种",
+    "sentence": "观看{requirement}种“花里实乃理”卡牌剧情下篇。"
+  },
+  {
+    "characterId": 5,
+    "characterMissionType": "collect_another_vocal",
+    "id": 5008,
+    "isAchievementMission": false,
+    "parameterGroupId": 8,
+    "progressSentence": "{progress}种",
+    "sentence": "持有{requirement}种“花里实乃理”的Another Vocal。"
+  },
+  {
+    "characterId": 5,
+    "characterMissionType": "area_item_level_up_character",
+    "id": 5009,
+    "isAchievementMission": true,
+    "parameterGroupId": 9,
+    "progressSentence": "{progress}次",
+    "sentence": "“花里实乃理”的区域道具的等级累计提升{requirement}次。"
+  },
+  {
+    "characterId": 5,
+    "characterMissionType": "area_item_level_up_unit",
+    "id": 5010,
+    "isAchievementMission": true,
+    "parameterGroupId": 11,
+    "progressSentence": "{progress}次",
+    "sentence": "指定组合的区域道具的等级累计提升{requirement}次。"
+  },
+  {
+    "characterId": 5,
+    "characterMissionType": "area_item_level_up_reality_world",
+    "id": 5011,
+    "isAchievementMission": true,
+    "parameterGroupId": 13,
+    "progressSentence": "{progress}次",
+    "sentence": "现实世界的区域道具的等级累计提升{requirement}次。"
+  },
+  {
+    "characterId": 5,
+    "characterMissionType": "collect_member",
+    "id": 5012,
+    "isAchievementMission": false,
+    "parameterGroupId": 14,
+    "progressSentence": "{progress}种",
+    "sentence": "持有{requirement}种“花里实乃理”的卡牌。"
+  },
+  {
+    "characterId": 5,
+    "characterMissionType": "skill_level_up_rare",
+    "id": 5013,
+    "isAchievementMission": true,
+    "parameterGroupId": 15,
+    "progressSentence": "{progress}次",
+    "sentence": "“花里实乃理”★4/生日稀有度卡牌的技能等级提升{requirement}次。"
+  },
+  {
+    "characterId": 5,
+    "characterMissionType": "skill_level_up_standard",
+    "id": 5014,
+    "isAchievementMission": true,
+    "parameterGroupId": 16,
+    "progressSentence": "{progress}次",
+    "sentence": "“花里实乃理”★1/★2/★3稀有度卡牌的技能等级提升{requirement}次。"
+  },
+  {
+    "characterId": 5,
+    "characterMissionType": "master_rank_up_rare",
+    "id": 5015,
+    "isAchievementMission": true,
+    "parameterGroupId": 17,
+    "progressSentence": "{progress}次",
+    "sentence": "“花里实乃理”★4/生日稀有度卡牌的专家等级提升{requirement}次。"
+  },
+  {
+    "characterId": 5,
+    "characterMissionType": "master_rank_up_standard",
+    "id": 5016,
+    "isAchievementMission": true,
+    "parameterGroupId": 18,
+    "progressSentence": "{progress}次",
+    "sentence": "“花里实乃理”★1/★2/★3稀有度卡牌的专家等级提升{requirement}次。"
+  },
+  {
+    "characterId": 5,
+    "characterMissionType": "collect_character_archive_voice",
+    "id": 5019,
+    "isAchievementMission": false,
+    "parameterGroupId": 19,
+    "progressSentence": "{progress}种",
+    "sentence": "收集“花里实乃理”的演出台词、招募台词总计{requirement}种。"
+  },
+  {
+    "characterId": 5,
+    "characterMissionType": "collect_mysekai_fixture",
+    "id": 5020,
+    "isAchievementMission": true,
+    "parameterGroupId": 20,
+    "progressSentence": "{progress}种",
+    "sentence": "在我的「世界」获得{requirement}种带“花里实乃理”标签的家具。"
+  },
+  {
+    "characterId": 5,
+    "characterMissionType": "collect_mysekai_canvas",
+    "id": 5021,
+    "isAchievementMission": true,
+    "parameterGroupId": 21,
+    "progressSentence": "{progress}种",
+    "sentence": "在我的「世界」制作{requirement}种“花里实乃理”成员的装饰画。"
+  },
+  {
+    "characterId": 5,
+    "characterMissionType": "read_mysekai_fixture_unique_character_talk",
+    "id": 5022,
+    "isAchievementMission": false,
+    "parameterGroupId": 22,
+    "progressSentence": "{progress}种",
+    "sentence": "在我的「世界」制作会触发“花里实乃理”对话的家具，并观看{requirement}种对话。"
+  },
+  {
+    "characterId": 5,
+    "characterMissionType": "play_live_ex",
+    "id": 5101,
+    "isAchievementMission": true,
+    "parameterGroupId": 101,
+    "progressSentence": "{progress}次",
+    "sentence": "将“花里实乃理”设为队长并进行{requirement}次演出。"
+  },
+  {
+    "characterId": 5,
+    "characterMissionType": "waiting_room_ex",
+    "id": 5102,
+    "isAchievementMission": true,
+    "parameterGroupId": 102,
+    "progressSentence": "{progress}次",
+    "sentence": "将“花里实乃理”送到休息室{requirement}次。"
+  },
+  {
+    "characterId": 6,
+    "characterMissionType": "play_live",
+    "id": 6001,
+    "isAchievementMission": true,
+    "parameterGroupId": 1,
+    "progressSentence": "{progress}次",
+    "sentence": "将“桐谷遥”设为队长并进行{requirement}次演出。"
+  },
+  {
+    "characterId": 6,
+    "characterMissionType": "waiting_room",
+    "id": 6002,
+    "isAchievementMission": true,
+    "parameterGroupId": 2,
+    "progressSentence": "{progress}次",
+    "sentence": "将“桐谷遥”送到休息室{requirement}次。"
+  },
+  {
+    "characterId": 6,
+    "characterMissionType": "collect_costume_3d",
+    "id": 6003,
+    "isAchievementMission": false,
+    "parameterGroupId": 3,
+    "progressSentence": "{progress}套",
+    "sentence": "持有{requirement}套“桐谷遥”3D服装。"
+  },
+  {
+    "characterId": 6,
+    "characterMissionType": "collect_stamp",
+    "id": 6004,
+    "isAchievementMission": false,
+    "parameterGroupId": 4,
+    "progressSentence": "{progress}种",
+    "sentence": "持有{requirement}种“桐谷遥”的表情。"
+  },
+  {
+    "characterId": 6,
+    "characterMissionType": "read_area_talk",
+    "id": 6005,
+    "isAchievementMission": false,
+    "parameterGroupId": 5,
+    "progressSentence": "{progress}种",
+    "sentence": "观看{requirement}种“桐谷遥”的区域对话。"
+  },
+  {
+    "characterId": 6,
+    "characterMissionType": "read_card_episode_first",
+    "id": 6006,
+    "isAchievementMission": true,
+    "parameterGroupId": 6,
+    "progressSentence": "{progress}种",
+    "sentence": "观看{requirement}种“桐谷遥”卡牌剧情上篇。"
+  },
+  {
+    "characterId": 6,
+    "characterMissionType": "read_card_episode_second",
+    "id": 6007,
+    "isAchievementMission": true,
+    "parameterGroupId": 7,
+    "progressSentence": "{progress}种",
+    "sentence": "观看{requirement}种“桐谷遥”卡牌剧情下篇。"
+  },
+  {
+    "characterId": 6,
+    "characterMissionType": "collect_another_vocal",
+    "id": 6008,
+    "isAchievementMission": false,
+    "parameterGroupId": 8,
+    "progressSentence": "{progress}种",
+    "sentence": "持有{requirement}种“桐谷遥”的Another Vocal。"
+  },
+  {
+    "characterId": 6,
+    "characterMissionType": "area_item_level_up_character",
+    "id": 6009,
+    "isAchievementMission": true,
+    "parameterGroupId": 9,
+    "progressSentence": "{progress}次",
+    "sentence": "“桐谷遥”的区域道具的等级累计提升{requirement}次。"
+  },
+  {
+    "characterId": 6,
+    "characterMissionType": "area_item_level_up_unit",
+    "id": 6010,
+    "isAchievementMission": true,
+    "parameterGroupId": 11,
+    "progressSentence": "{progress}次",
+    "sentence": "指定组合的区域道具的等级累计提升{requirement}次。"
+  },
+  {
+    "characterId": 6,
+    "characterMissionType": "area_item_level_up_reality_world",
+    "id": 6011,
+    "isAchievementMission": true,
+    "parameterGroupId": 13,
+    "progressSentence": "{progress}次",
+    "sentence": "现实世界的区域道具的等级累计提升{requirement}次。"
+  },
+  {
+    "characterId": 6,
+    "characterMissionType": "collect_member",
+    "id": 6012,
+    "isAchievementMission": false,
+    "parameterGroupId": 14,
+    "progressSentence": "{progress}种",
+    "sentence": "持有{requirement}种“桐谷遥”的卡牌。"
+  },
+  {
+    "characterId": 6,
+    "characterMissionType": "skill_level_up_rare",
+    "id": 6013,
+    "isAchievementMission": true,
+    "parameterGroupId": 15,
+    "progressSentence": "{progress}次",
+    "sentence": "“桐谷遥”★4/生日稀有度卡牌的技能等级提升{requirement}次。"
+  },
+  {
+    "characterId": 6,
+    "characterMissionType": "skill_level_up_standard",
+    "id": 6014,
+    "isAchievementMission": true,
+    "parameterGroupId": 16,
+    "progressSentence": "{progress}次",
+    "sentence": "“桐谷遥”★1/★2/★3稀有度卡牌的技能等级提升{requirement}次。"
+  },
+  {
+    "characterId": 6,
+    "characterMissionType": "master_rank_up_rare",
+    "id": 6015,
+    "isAchievementMission": true,
+    "parameterGroupId": 17,
+    "progressSentence": "{progress}次",
+    "sentence": "“桐谷遥”★4/生日稀有度卡牌的专家等级提升{requirement}次。"
+  },
+  {
+    "characterId": 6,
+    "characterMissionType": "master_rank_up_standard",
+    "id": 6016,
+    "isAchievementMission": true,
+    "parameterGroupId": 18,
+    "progressSentence": "{progress}次",
+    "sentence": "“桐谷遥”★1/★2/★3稀有度卡牌的专家等级提升{requirement}次。"
+  },
+  {
+    "characterId": 6,
+    "characterMissionType": "collect_character_archive_voice",
+    "id": 6019,
+    "isAchievementMission": false,
+    "parameterGroupId": 19,
+    "progressSentence": "{progress}种",
+    "sentence": "收集“桐谷遥”的演出台词、招募台词总计{requirement}种。"
+  },
+  {
+    "characterId": 6,
+    "characterMissionType": "collect_mysekai_fixture",
+    "id": 6020,
+    "isAchievementMission": true,
+    "parameterGroupId": 20,
+    "progressSentence": "{progress}种",
+    "sentence": "在我的「世界」获得{requirement}种带“桐谷遥”标签的家具。"
+  },
+  {
+    "characterId": 6,
+    "characterMissionType": "collect_mysekai_canvas",
+    "id": 6021,
+    "isAchievementMission": true,
+    "parameterGroupId": 21,
+    "progressSentence": "{progress}种",
+    "sentence": "在我的「世界」制作{requirement}种“桐谷遥”成员的装饰画。"
+  },
+  {
+    "characterId": 6,
+    "characterMissionType": "read_mysekai_fixture_unique_character_talk",
+    "id": 6022,
+    "isAchievementMission": false,
+    "parameterGroupId": 22,
+    "progressSentence": "{progress}种",
+    "sentence": "在我的「世界」制作会触发“桐谷遥”对话的家具，并观看{requirement}种对话。"
+  },
+  {
+    "characterId": 6,
+    "characterMissionType": "play_live_ex",
+    "id": 6101,
+    "isAchievementMission": true,
+    "parameterGroupId": 101,
+    "progressSentence": "{progress}次",
+    "sentence": "将“桐谷遥”设为队长并进行{requirement}次演出。"
+  },
+  {
+    "characterId": 6,
+    "characterMissionType": "waiting_room_ex",
+    "id": 6102,
+    "isAchievementMission": true,
+    "parameterGroupId": 102,
+    "progressSentence": "{progress}次",
+    "sentence": "将“桐谷遥”送到休息室{requirement}次。"
+  },
+  {
+    "characterId": 7,
+    "characterMissionType": "play_live",
+    "id": 7001,
+    "isAchievementMission": true,
+    "parameterGroupId": 1,
+    "progressSentence": "{progress}次",
+    "sentence": "将“桃井爱莉”设为队长并进行{requirement}次演出。"
+  },
+  {
+    "characterId": 7,
+    "characterMissionType": "waiting_room",
+    "id": 7002,
+    "isAchievementMission": true,
+    "parameterGroupId": 2,
+    "progressSentence": "{progress}次",
+    "sentence": "将“桃井爱莉”送到休息室{requirement}次。"
+  },
+  {
+    "characterId": 7,
+    "characterMissionType": "collect_costume_3d",
+    "id": 7003,
+    "isAchievementMission": false,
+    "parameterGroupId": 3,
+    "progressSentence": "{progress}套",
+    "sentence": "持有{requirement}套“桃井爱莉”3D服装。"
+  },
+  {
+    "characterId": 7,
+    "characterMissionType": "collect_stamp",
+    "id": 7004,
+    "isAchievementMission": false,
+    "parameterGroupId": 4,
+    "progressSentence": "{progress}种",
+    "sentence": "持有{requirement}种“桃井爱莉”的表情。"
+  },
+  {
+    "characterId": 7,
+    "characterMissionType": "read_area_talk",
+    "id": 7005,
+    "isAchievementMission": false,
+    "parameterGroupId": 5,
+    "progressSentence": "{progress}种",
+    "sentence": "观看{requirement}种“桃井爱莉”的区域对话。"
+  },
+  {
+    "characterId": 7,
+    "characterMissionType": "read_card_episode_first",
+    "id": 7006,
+    "isAchievementMission": true,
+    "parameterGroupId": 6,
+    "progressSentence": "{progress}种",
+    "sentence": "观看{requirement}种“桃井爱莉”卡牌剧情上篇。"
+  },
+  {
+    "characterId": 7,
+    "characterMissionType": "read_card_episode_second",
+    "id": 7007,
+    "isAchievementMission": true,
+    "parameterGroupId": 7,
+    "progressSentence": "{progress}种",
+    "sentence": "观看{requirement}种“桃井爱莉”卡牌剧情下篇。"
+  },
+  {
+    "characterId": 7,
+    "characterMissionType": "collect_another_vocal",
+    "id": 7008,
+    "isAchievementMission": false,
+    "parameterGroupId": 8,
+    "progressSentence": "{progress}种",
+    "sentence": "持有{requirement}种“桃井爱莉”的Another Vocal。"
+  },
+  {
+    "characterId": 7,
+    "characterMissionType": "area_item_level_up_character",
+    "id": 7009,
+    "isAchievementMission": true,
+    "parameterGroupId": 9,
+    "progressSentence": "{progress}次",
+    "sentence": "“桃井爱莉”的区域道具的等级累计提升{requirement}次。"
+  },
+  {
+    "characterId": 7,
+    "characterMissionType": "area_item_level_up_unit",
+    "id": 7010,
+    "isAchievementMission": true,
+    "parameterGroupId": 11,
+    "progressSentence": "{progress}次",
+    "sentence": "指定组合的区域道具的等级累计提升{requirement}次。"
+  },
+  {
+    "characterId": 7,
+    "characterMissionType": "area_item_level_up_reality_world",
+    "id": 7011,
+    "isAchievementMission": true,
+    "parameterGroupId": 13,
+    "progressSentence": "{progress}次",
+    "sentence": "现实世界的区域道具的等级累计提升{requirement}次。"
+  },
+  {
+    "characterId": 7,
+    "characterMissionType": "collect_member",
+    "id": 7012,
+    "isAchievementMission": false,
+    "parameterGroupId": 14,
+    "progressSentence": "{progress}种",
+    "sentence": "持有{requirement}种“桃井爱莉”的卡牌。"
+  },
+  {
+    "characterId": 7,
+    "characterMissionType": "skill_level_up_rare",
+    "id": 7013,
+    "isAchievementMission": true,
+    "parameterGroupId": 15,
+    "progressSentence": "{progress}次",
+    "sentence": "“桃井爱莉”★4/生日稀有度卡牌的技能等级提升{requirement}次。"
+  },
+  {
+    "characterId": 7,
+    "characterMissionType": "skill_level_up_standard",
+    "id": 7014,
+    "isAchievementMission": true,
+    "parameterGroupId": 16,
+    "progressSentence": "{progress}次",
+    "sentence": "“桃井爱莉”★1/★2/★3稀有度卡牌的技能等级提升{requirement}次。"
+  },
+  {
+    "characterId": 7,
+    "characterMissionType": "master_rank_up_rare",
+    "id": 7015,
+    "isAchievementMission": true,
+    "parameterGroupId": 17,
+    "progressSentence": "{progress}次",
+    "sentence": "“桃井爱莉”★4/生日稀有度卡牌的专家等级提升{requirement}次。"
+  },
+  {
+    "characterId": 7,
+    "characterMissionType": "master_rank_up_standard",
+    "id": 7016,
+    "isAchievementMission": true,
+    "parameterGroupId": 18,
+    "progressSentence": "{progress}次",
+    "sentence": "“桃井爱莉”★1/★2/★3稀有度卡牌的专家等级提升{requirement}次。"
+  },
+  {
+    "characterId": 7,
+    "characterMissionType": "collect_character_archive_voice",
+    "id": 7019,
+    "isAchievementMission": false,
+    "parameterGroupId": 19,
+    "progressSentence": "{progress}种",
+    "sentence": "收集“桃井爱莉”的演出台词、招募台词总计{requirement}种。"
+  },
+  {
+    "characterId": 7,
+    "characterMissionType": "collect_mysekai_fixture",
+    "id": 7020,
+    "isAchievementMission": true,
+    "parameterGroupId": 20,
+    "progressSentence": "{progress}种",
+    "sentence": "在我的「世界」获得{requirement}种带“桃井爱莉”标签的家具。"
+  },
+  {
+    "characterId": 7,
+    "characterMissionType": "collect_mysekai_canvas",
+    "id": 7021,
+    "isAchievementMission": true,
+    "parameterGroupId": 21,
+    "progressSentence": "{progress}种",
+    "sentence": "在我的「世界」制作{requirement}种“桃井爱莉”成员的装饰画。"
+  },
+  {
+    "characterId": 7,
+    "characterMissionType": "read_mysekai_fixture_unique_character_talk",
+    "id": 7022,
+    "isAchievementMission": false,
+    "parameterGroupId": 22,
+    "progressSentence": "{progress}种",
+    "sentence": "在我的「世界」制作会触发“桃井爱莉”对话的家具，并观看{requirement}种对话。"
+  },
+  {
+    "characterId": 7,
+    "characterMissionType": "play_live_ex",
+    "id": 7101,
+    "isAchievementMission": true,
+    "parameterGroupId": 101,
+    "progressSentence": "{progress}次",
+    "sentence": "将“桃井爱莉”设为队长并进行{requirement}次演出。"
+  },
+  {
+    "characterId": 7,
+    "characterMissionType": "waiting_room_ex",
+    "id": 7102,
+    "isAchievementMission": true,
+    "parameterGroupId": 102,
+    "progressSentence": "{progress}次",
+    "sentence": "将“桃井爱莉”送到休息室{requirement}次。"
+  },
+  {
+    "characterId": 8,
+    "characterMissionType": "play_live",
+    "id": 8001,
+    "isAchievementMission": true,
+    "parameterGroupId": 1,
+    "progressSentence": "{progress}次",
+    "sentence": "将“日野森雫”设为队长并进行{requirement}次演出。"
+  },
+  {
+    "characterId": 8,
+    "characterMissionType": "waiting_room",
+    "id": 8002,
+    "isAchievementMission": true,
+    "parameterGroupId": 2,
+    "progressSentence": "{progress}次",
+    "sentence": "将“日野森雫”送到休息室{requirement}次。"
+  },
+  {
+    "characterId": 8,
+    "characterMissionType": "collect_costume_3d",
+    "id": 8003,
+    "isAchievementMission": false,
+    "parameterGroupId": 3,
+    "progressSentence": "{progress}套",
+    "sentence": "持有{requirement}套“日野森雫”3D服装。"
+  },
+  {
+    "characterId": 8,
+    "characterMissionType": "collect_stamp",
+    "id": 8004,
+    "isAchievementMission": false,
+    "parameterGroupId": 4,
+    "progressSentence": "{progress}种",
+    "sentence": "持有{requirement}种“日野森雫”的表情。"
+  },
+  {
+    "characterId": 8,
+    "characterMissionType": "read_area_talk",
+    "id": 8005,
+    "isAchievementMission": false,
+    "parameterGroupId": 5,
+    "progressSentence": "{progress}种",
+    "sentence": "观看{requirement}种“日野森雫”的区域对话。"
+  },
+  {
+    "characterId": 8,
+    "characterMissionType": "read_card_episode_first",
+    "id": 8006,
+    "isAchievementMission": true,
+    "parameterGroupId": 6,
+    "progressSentence": "{progress}种",
+    "sentence": "观看{requirement}种“日野森雫”卡牌剧情上篇。"
+  },
+  {
+    "characterId": 8,
+    "characterMissionType": "read_card_episode_second",
+    "id": 8007,
+    "isAchievementMission": true,
+    "parameterGroupId": 7,
+    "progressSentence": "{progress}种",
+    "sentence": "观看{requirement}种“日野森雫”卡牌剧情下篇。"
+  },
+  {
+    "characterId": 8,
+    "characterMissionType": "collect_another_vocal",
+    "id": 8008,
+    "isAchievementMission": false,
+    "parameterGroupId": 8,
+    "progressSentence": "{progress}种",
+    "sentence": "持有{requirement}种“日野森雫”的Another Vocal。"
+  },
+  {
+    "characterId": 8,
+    "characterMissionType": "area_item_level_up_character",
+    "id": 8009,
+    "isAchievementMission": true,
+    "parameterGroupId": 9,
+    "progressSentence": "{progress}次",
+    "sentence": "“日野森雫”的区域道具的等级累计提升{requirement}次。"
+  },
+  {
+    "characterId": 8,
+    "characterMissionType": "area_item_level_up_unit",
+    "id": 8010,
+    "isAchievementMission": true,
+    "parameterGroupId": 11,
+    "progressSentence": "{progress}次",
+    "sentence": "指定组合的区域道具的等级累计提升{requirement}次。"
+  },
+  {
+    "characterId": 8,
+    "characterMissionType": "area_item_level_up_reality_world",
+    "id": 8011,
+    "isAchievementMission": true,
+    "parameterGroupId": 13,
+    "progressSentence": "{progress}次",
+    "sentence": "现实世界的区域道具的等级累计提升{requirement}次。"
+  },
+  {
+    "characterId": 8,
+    "characterMissionType": "collect_member",
+    "id": 8012,
+    "isAchievementMission": false,
+    "parameterGroupId": 14,
+    "progressSentence": "{progress}种",
+    "sentence": "持有{requirement}种“日野森雫”的卡牌。"
+  },
+  {
+    "characterId": 8,
+    "characterMissionType": "skill_level_up_rare",
+    "id": 8013,
+    "isAchievementMission": true,
+    "parameterGroupId": 15,
+    "progressSentence": "{progress}次",
+    "sentence": "“日野森雫”★4/生日稀有度卡牌的技能等级提升{requirement}次。"
+  },
+  {
+    "characterId": 8,
+    "characterMissionType": "skill_level_up_standard",
+    "id": 8014,
+    "isAchievementMission": true,
+    "parameterGroupId": 16,
+    "progressSentence": "{progress}次",
+    "sentence": "“日野森雫”★1/★2/★3稀有度卡牌的技能等级提升{requirement}次。"
+  },
+  {
+    "characterId": 8,
+    "characterMissionType": "master_rank_up_rare",
+    "id": 8015,
+    "isAchievementMission": true,
+    "parameterGroupId": 17,
+    "progressSentence": "{progress}次",
+    "sentence": "“日野森雫”★4/生日稀有度卡牌的专家等级提升{requirement}次。"
+  },
+  {
+    "characterId": 8,
+    "characterMissionType": "master_rank_up_standard",
+    "id": 8016,
+    "isAchievementMission": true,
+    "parameterGroupId": 18,
+    "progressSentence": "{progress}次",
+    "sentence": "“日野森雫”★1/★2/★3稀有度卡牌的专家等级提升{requirement}次。"
+  },
+  {
+    "characterId": 8,
+    "characterMissionType": "collect_character_archive_voice",
+    "id": 8019,
+    "isAchievementMission": false,
+    "parameterGroupId": 19,
+    "progressSentence": "{progress}种",
+    "sentence": "收集“日野森雫”的演出台词、招募台词总计{requirement}种。"
+  },
+  {
+    "characterId": 8,
+    "characterMissionType": "collect_mysekai_fixture",
+    "id": 8020,
+    "isAchievementMission": true,
+    "parameterGroupId": 20,
+    "progressSentence": "{progress}种",
+    "sentence": "在我的「世界」获得{requirement}种带“日野森雫”标签的家具。"
+  },
+  {
+    "characterId": 8,
+    "characterMissionType": "collect_mysekai_canvas",
+    "id": 8021,
+    "isAchievementMission": true,
+    "parameterGroupId": 21,
+    "progressSentence": "{progress}种",
+    "sentence": "在我的「世界」制作{requirement}种“日野森雫”成员的装饰画。"
+  },
+  {
+    "characterId": 8,
+    "characterMissionType": "read_mysekai_fixture_unique_character_talk",
+    "id": 8022,
+    "isAchievementMission": false,
+    "parameterGroupId": 22,
+    "progressSentence": "{progress}种",
+    "sentence": "在我的「世界」制作会触发“日野森雫”对话的家具，并观看{requirement}种对话。"
+  },
+  {
+    "characterId": 8,
+    "characterMissionType": "play_live_ex",
+    "id": 8101,
+    "isAchievementMission": true,
+    "parameterGroupId": 101,
+    "progressSentence": "{progress}次",
+    "sentence": "将“日野森雫”设为队长并进行{requirement}次演出。"
+  },
+  {
+    "characterId": 8,
+    "characterMissionType": "waiting_room_ex",
+    "id": 8102,
+    "isAchievementMission": true,
+    "parameterGroupId": 102,
+    "progressSentence": "{progress}次",
+    "sentence": "将“日野森雫”送到休息室{requirement}次。"
+  },
+  {
+    "characterId": 9,
+    "characterMissionType": "play_live",
+    "id": 9001,
+    "isAchievementMission": true,
+    "parameterGroupId": 1,
+    "progressSentence": "{progress}次",
+    "sentence": "将“小豆泽心羽”设为队长并进行{requirement}次演出。"
+  },
+  {
+    "characterId": 9,
+    "characterMissionType": "waiting_room",
+    "id": 9002,
+    "isAchievementMission": true,
+    "parameterGroupId": 2,
+    "progressSentence": "{progress}次",
+    "sentence": "将“小豆泽心羽”送到休息室{requirement}次。"
+  },
+  {
+    "characterId": 9,
+    "characterMissionType": "collect_costume_3d",
+    "id": 9003,
+    "isAchievementMission": false,
+    "parameterGroupId": 3,
+    "progressSentence": "{progress}套",
+    "sentence": "持有{requirement}套“小豆泽心羽”3D服装。"
+  },
+  {
+    "characterId": 9,
+    "characterMissionType": "collect_stamp",
+    "id": 9004,
+    "isAchievementMission": false,
+    "parameterGroupId": 4,
+    "progressSentence": "{progress}种",
+    "sentence": "持有{requirement}种“小豆泽心羽”的表情。"
+  },
+  {
+    "characterId": 9,
+    "characterMissionType": "read_area_talk",
+    "id": 9005,
+    "isAchievementMission": false,
+    "parameterGroupId": 5,
+    "progressSentence": "{progress}种",
+    "sentence": "观看{requirement}种“小豆泽心羽”的区域对话。"
+  },
+  {
+    "characterId": 9,
+    "characterMissionType": "read_card_episode_first",
+    "id": 9006,
+    "isAchievementMission": true,
+    "parameterGroupId": 6,
+    "progressSentence": "{progress}种",
+    "sentence": "观看{requirement}种“小豆泽心羽”卡牌剧情上篇。"
+  },
+  {
+    "characterId": 9,
+    "characterMissionType": "read_card_episode_second",
+    "id": 9007,
+    "isAchievementMission": true,
+    "parameterGroupId": 7,
+    "progressSentence": "{progress}种",
+    "sentence": "观看{requirement}种“小豆泽心羽”卡牌剧情下篇。"
+  },
+  {
+    "characterId": 9,
+    "characterMissionType": "collect_another_vocal",
+    "id": 9008,
+    "isAchievementMission": false,
+    "parameterGroupId": 8,
+    "progressSentence": "{progress}种",
+    "sentence": "持有{requirement}种“小豆泽心羽”的Another Vocal。"
+  },
+  {
+    "characterId": 9,
+    "characterMissionType": "area_item_level_up_character",
+    "id": 9009,
+    "isAchievementMission": true,
+    "parameterGroupId": 9,
+    "progressSentence": "{progress}次",
+    "sentence": "“小豆泽心羽”的区域道具的等级累计提升{requirement}次。"
+  },
+  {
+    "characterId": 9,
+    "characterMissionType": "area_item_level_up_unit",
+    "id": 9010,
+    "isAchievementMission": true,
+    "parameterGroupId": 11,
+    "progressSentence": "{progress}次",
+    "sentence": "指定组合的区域道具的等级累计提升{requirement}次。"
+  },
+  {
+    "characterId": 9,
+    "characterMissionType": "area_item_level_up_reality_world",
+    "id": 9011,
+    "isAchievementMission": true,
+    "parameterGroupId": 13,
+    "progressSentence": "{progress}次",
+    "sentence": "现实世界的区域道具的等级累计提升{requirement}次。"
+  },
+  {
+    "characterId": 9,
+    "characterMissionType": "collect_member",
+    "id": 9012,
+    "isAchievementMission": false,
+    "parameterGroupId": 14,
+    "progressSentence": "{progress}种",
+    "sentence": "持有{requirement}种“小豆泽心羽”的卡牌。"
+  },
+  {
+    "characterId": 9,
+    "characterMissionType": "skill_level_up_rare",
+    "id": 9013,
+    "isAchievementMission": true,
+    "parameterGroupId": 15,
+    "progressSentence": "{progress}次",
+    "sentence": "“小豆泽心羽”★4/生日稀有度卡牌的技能等级提升{requirement}次。"
+  },
+  {
+    "characterId": 9,
+    "characterMissionType": "skill_level_up_standard",
+    "id": 9014,
+    "isAchievementMission": true,
+    "parameterGroupId": 16,
+    "progressSentence": "{progress}次",
+    "sentence": "“小豆泽心羽”★1/★2/★3稀有度卡牌的技能等级提升{requirement}次。"
+  },
+  {
+    "characterId": 9,
+    "characterMissionType": "master_rank_up_rare",
+    "id": 9015,
+    "isAchievementMission": true,
+    "parameterGroupId": 17,
+    "progressSentence": "{progress}次",
+    "sentence": "“小豆泽心羽”★4/生日稀有度卡牌的专家等级提升{requirement}次。"
+  },
+  {
+    "characterId": 9,
+    "characterMissionType": "master_rank_up_standard",
+    "id": 9016,
+    "isAchievementMission": true,
+    "parameterGroupId": 18,
+    "progressSentence": "{progress}次",
+    "sentence": "“小豆泽心羽”★1/★2/★3稀有度卡牌的专家等级提升{requirement}次。"
+  },
+  {
+    "characterId": 9,
+    "characterMissionType": "collect_character_archive_voice",
+    "id": 9019,
+    "isAchievementMission": false,
+    "parameterGroupId": 19,
+    "progressSentence": "{progress}种",
+    "sentence": "收集“小豆泽心羽”的演出台词、招募台词总计{requirement}种。"
+  },
+  {
+    "characterId": 9,
+    "characterMissionType": "collect_mysekai_fixture",
+    "id": 9020,
+    "isAchievementMission": true,
+    "parameterGroupId": 20,
+    "progressSentence": "{progress}种",
+    "sentence": "在我的「世界」获得{requirement}种带“小豆泽心羽”标签的家具。"
+  },
+  {
+    "characterId": 9,
+    "characterMissionType": "collect_mysekai_canvas",
+    "id": 9021,
+    "isAchievementMission": true,
+    "parameterGroupId": 21,
+    "progressSentence": "{progress}种",
+    "sentence": "在我的「世界」制作{requirement}种“小豆泽心羽”成员的装饰画。"
+  },
+  {
+    "characterId": 9,
+    "characterMissionType": "read_mysekai_fixture_unique_character_talk",
+    "id": 9022,
+    "isAchievementMission": false,
+    "parameterGroupId": 22,
+    "progressSentence": "{progress}种",
+    "sentence": "在我的「世界」制作会触发“小豆泽心羽”对话的家具，并观看{requirement}种对话。"
+  },
+  {
+    "characterId": 9,
+    "characterMissionType": "play_live_ex",
+    "id": 9101,
+    "isAchievementMission": true,
+    "parameterGroupId": 101,
+    "progressSentence": "{progress}次",
+    "sentence": "将“小豆泽心羽”设为队长并进行{requirement}次演出。"
+  },
+  {
+    "characterId": 9,
+    "characterMissionType": "waiting_room_ex",
+    "id": 9102,
+    "isAchievementMission": true,
+    "parameterGroupId": 102,
+    "progressSentence": "{progress}次",
+    "sentence": "将“小豆泽心羽”送到休息室{requirement}次。"
+  },
+  {
+    "characterId": 10,
+    "characterMissionType": "play_live",
+    "id": 10001,
+    "isAchievementMission": true,
+    "parameterGroupId": 1,
+    "progressSentence": "{progress}次",
+    "sentence": "将“白石杏”设为队长并进行{requirement}次演出。"
+  },
+  {
+    "characterId": 10,
+    "characterMissionType": "waiting_room",
+    "id": 10002,
+    "isAchievementMission": true,
+    "parameterGroupId": 2,
+    "progressSentence": "{progress}次",
+    "sentence": "将“白石杏”送到休息室{requirement}次。"
+  },
+  {
+    "characterId": 10,
+    "characterMissionType": "collect_costume_3d",
+    "id": 10003,
+    "isAchievementMission": false,
+    "parameterGroupId": 3,
+    "progressSentence": "{progress}套",
+    "sentence": "持有{requirement}套“白石杏”3D服装。"
+  },
+  {
+    "characterId": 10,
+    "characterMissionType": "collect_stamp",
+    "id": 10004,
+    "isAchievementMission": false,
+    "parameterGroupId": 4,
+    "progressSentence": "{progress}种",
+    "sentence": "持有{requirement}种“白石杏”的表情。"
+  },
+  {
+    "characterId": 10,
+    "characterMissionType": "read_area_talk",
+    "id": 10005,
+    "isAchievementMission": false,
+    "parameterGroupId": 5,
+    "progressSentence": "{progress}种",
+    "sentence": "观看{requirement}种“白石杏”的区域对话。"
+  },
+  {
+    "characterId": 10,
+    "characterMissionType": "read_card_episode_first",
+    "id": 10006,
+    "isAchievementMission": true,
+    "parameterGroupId": 6,
+    "progressSentence": "{progress}种",
+    "sentence": "观看{requirement}种“白石杏”卡牌剧情上篇。"
+  },
+  {
+    "characterId": 10,
+    "characterMissionType": "read_card_episode_second",
+    "id": 10007,
+    "isAchievementMission": true,
+    "parameterGroupId": 7,
+    "progressSentence": "{progress}种",
+    "sentence": "观看{requirement}种“白石杏”卡牌剧情下篇。"
+  },
+  {
+    "characterId": 10,
+    "characterMissionType": "collect_another_vocal",
+    "id": 10008,
+    "isAchievementMission": false,
+    "parameterGroupId": 8,
+    "progressSentence": "{progress}种",
+    "sentence": "持有{requirement}种“白石杏”的Another Vocal。"
+  },
+  {
+    "characterId": 10,
+    "characterMissionType": "area_item_level_up_character",
+    "id": 10009,
+    "isAchievementMission": true,
+    "parameterGroupId": 9,
+    "progressSentence": "{progress}次",
+    "sentence": "“白石杏”的区域道具的等级累计提升{requirement}次。"
+  },
+  {
+    "characterId": 10,
+    "characterMissionType": "area_item_level_up_unit",
+    "id": 10010,
+    "isAchievementMission": true,
+    "parameterGroupId": 11,
+    "progressSentence": "{progress}次",
+    "sentence": "指定组合的区域道具的等级累计提升{requirement}次。"
+  },
+  {
+    "characterId": 10,
+    "characterMissionType": "area_item_level_up_reality_world",
+    "id": 10011,
+    "isAchievementMission": true,
+    "parameterGroupId": 13,
+    "progressSentence": "{progress}次",
+    "sentence": "现实世界的区域道具的等级累计提升{requirement}次。"
+  },
+  {
+    "characterId": 10,
+    "characterMissionType": "collect_member",
+    "id": 10012,
+    "isAchievementMission": false,
+    "parameterGroupId": 14,
+    "progressSentence": "{progress}种",
+    "sentence": "持有{requirement}种“白石杏”的卡牌。"
+  },
+  {
+    "characterId": 10,
+    "characterMissionType": "skill_level_up_rare",
+    "id": 10013,
+    "isAchievementMission": true,
+    "parameterGroupId": 15,
+    "progressSentence": "{progress}次",
+    "sentence": "“白石杏”★4/生日稀有度卡牌的技能等级提升{requirement}次。"
+  },
+  {
+    "characterId": 10,
+    "characterMissionType": "skill_level_up_standard",
+    "id": 10014,
+    "isAchievementMission": true,
+    "parameterGroupId": 16,
+    "progressSentence": "{progress}次",
+    "sentence": "“白石杏”★1/★2/★3稀有度卡牌的技能等级提升{requirement}次。"
+  },
+  {
+    "characterId": 10,
+    "characterMissionType": "master_rank_up_rare",
+    "id": 10015,
+    "isAchievementMission": true,
+    "parameterGroupId": 17,
+    "progressSentence": "{progress}次",
+    "sentence": "“白石杏”★4/生日稀有度卡牌的专家等级提升{requirement}次。"
+  },
+  {
+    "characterId": 10,
+    "characterMissionType": "master_rank_up_standard",
+    "id": 10016,
+    "isAchievementMission": true,
+    "parameterGroupId": 18,
+    "progressSentence": "{progress}次",
+    "sentence": "“白石杏”★1/★2/★3稀有度卡牌的专家等级提升{requirement}次。"
+  },
+  {
+    "characterId": 10,
+    "characterMissionType": "collect_character_archive_voice",
+    "id": 10019,
+    "isAchievementMission": false,
+    "parameterGroupId": 19,
+    "progressSentence": "{progress}种",
+    "sentence": "收集“白石杏”的演出台词、招募台词总计{requirement}种。"
+  },
+  {
+    "characterId": 10,
+    "characterMissionType": "collect_mysekai_fixture",
+    "id": 10020,
+    "isAchievementMission": true,
+    "parameterGroupId": 20,
+    "progressSentence": "{progress}种",
+    "sentence": "在我的「世界」获得{requirement}种带“白石杏”标签的家具。"
+  },
+  {
+    "characterId": 10,
+    "characterMissionType": "collect_mysekai_canvas",
+    "id": 10021,
+    "isAchievementMission": true,
+    "parameterGroupId": 21,
+    "progressSentence": "{progress}种",
+    "sentence": "在我的「世界」制作{requirement}种“白石杏”成员的装饰画。"
+  },
+  {
+    "characterId": 10,
+    "characterMissionType": "read_mysekai_fixture_unique_character_talk",
+    "id": 10022,
+    "isAchievementMission": false,
+    "parameterGroupId": 22,
+    "progressSentence": "{progress}种",
+    "sentence": "在我的「世界」制作会触发“白石杏”对话的家具，并观看{requirement}种对话。"
+  },
+  {
+    "characterId": 10,
+    "characterMissionType": "play_live_ex",
+    "id": 10101,
+    "isAchievementMission": true,
+    "parameterGroupId": 101,
+    "progressSentence": "{progress}次",
+    "sentence": "将“白石杏”设为队长并进行{requirement}次演出。"
+  },
+  {
+    "characterId": 10,
+    "characterMissionType": "waiting_room_ex",
+    "id": 10102,
+    "isAchievementMission": true,
+    "parameterGroupId": 102,
+    "progressSentence": "{progress}次",
+    "sentence": "将“白石杏”送到休息室{requirement}次。"
+  },
+  {
+    "characterId": 11,
+    "characterMissionType": "play_live",
+    "id": 11001,
+    "isAchievementMission": true,
+    "parameterGroupId": 1,
+    "progressSentence": "{progress}次",
+    "sentence": "将“东云彰人”设为队长并进行{requirement}次演出。"
+  },
+  {
+    "characterId": 11,
+    "characterMissionType": "waiting_room",
+    "id": 11002,
+    "isAchievementMission": true,
+    "parameterGroupId": 2,
+    "progressSentence": "{progress}次",
+    "sentence": "将“东云彰人”送到休息室{requirement}次。"
+  },
+  {
+    "characterId": 11,
+    "characterMissionType": "collect_costume_3d",
+    "id": 11003,
+    "isAchievementMission": false,
+    "parameterGroupId": 3,
+    "progressSentence": "{progress}套",
+    "sentence": "持有{requirement}套“东云彰人”3D服装。"
+  },
+  {
+    "characterId": 11,
+    "characterMissionType": "collect_stamp",
+    "id": 11004,
+    "isAchievementMission": false,
+    "parameterGroupId": 4,
+    "progressSentence": "{progress}种",
+    "sentence": "持有{requirement}种“东云彰人”的表情。"
+  },
+  {
+    "characterId": 11,
+    "characterMissionType": "read_area_talk",
+    "id": 11005,
+    "isAchievementMission": false,
+    "parameterGroupId": 5,
+    "progressSentence": "{progress}种",
+    "sentence": "观看{requirement}种“东云彰人”的区域对话。"
+  },
+  {
+    "characterId": 11,
+    "characterMissionType": "read_card_episode_first",
+    "id": 11006,
+    "isAchievementMission": true,
+    "parameterGroupId": 6,
+    "progressSentence": "{progress}种",
+    "sentence": "观看{requirement}种“东云彰人”卡牌剧情上篇。"
+  },
+  {
+    "characterId": 11,
+    "characterMissionType": "read_card_episode_second",
+    "id": 11007,
+    "isAchievementMission": true,
+    "parameterGroupId": 7,
+    "progressSentence": "{progress}种",
+    "sentence": "观看{requirement}种“东云彰人”卡牌剧情下篇。"
+  },
+  {
+    "characterId": 11,
+    "characterMissionType": "collect_another_vocal",
+    "id": 11008,
+    "isAchievementMission": false,
+    "parameterGroupId": 8,
+    "progressSentence": "{progress}种",
+    "sentence": "持有{requirement}种“东云彰人”的Another Vocal。"
+  },
+  {
+    "characterId": 11,
+    "characterMissionType": "area_item_level_up_character",
+    "id": 11009,
+    "isAchievementMission": true,
+    "parameterGroupId": 9,
+    "progressSentence": "{progress}次",
+    "sentence": "“东云彰人”的区域道具的等级累计提升{requirement}次。"
+  },
+  {
+    "characterId": 11,
+    "characterMissionType": "area_item_level_up_unit",
+    "id": 11010,
+    "isAchievementMission": true,
+    "parameterGroupId": 11,
+    "progressSentence": "{progress}次",
+    "sentence": "指定组合的区域道具的等级累计提升{requirement}次。"
+  },
+  {
+    "characterId": 11,
+    "characterMissionType": "area_item_level_up_reality_world",
+    "id": 11011,
+    "isAchievementMission": true,
+    "parameterGroupId": 13,
+    "progressSentence": "{progress}次",
+    "sentence": "现实世界的区域道具的等级累计提升{requirement}次。"
+  },
+  {
+    "characterId": 11,
+    "characterMissionType": "collect_member",
+    "id": 11012,
+    "isAchievementMission": false,
+    "parameterGroupId": 14,
+    "progressSentence": "{progress}种",
+    "sentence": "持有{requirement}种“东云彰人”的卡牌。"
+  },
+  {
+    "characterId": 11,
+    "characterMissionType": "skill_level_up_rare",
+    "id": 11013,
+    "isAchievementMission": true,
+    "parameterGroupId": 15,
+    "progressSentence": "{progress}次",
+    "sentence": "“东云彰人”★4/生日稀有度卡牌的技能等级提升{requirement}次。"
+  },
+  {
+    "characterId": 11,
+    "characterMissionType": "skill_level_up_standard",
+    "id": 11014,
+    "isAchievementMission": true,
+    "parameterGroupId": 16,
+    "progressSentence": "{progress}次",
+    "sentence": "“东云彰人”★1/★2/★3稀有度卡牌的技能等级提升{requirement}次。"
+  },
+  {
+    "characterId": 11,
+    "characterMissionType": "master_rank_up_rare",
+    "id": 11015,
+    "isAchievementMission": true,
+    "parameterGroupId": 17,
+    "progressSentence": "{progress}次",
+    "sentence": "“东云彰人”★4/生日稀有度卡牌的专家等级提升{requirement}次。"
+  },
+  {
+    "characterId": 11,
+    "characterMissionType": "master_rank_up_standard",
+    "id": 11016,
+    "isAchievementMission": true,
+    "parameterGroupId": 18,
+    "progressSentence": "{progress}次",
+    "sentence": "“东云彰人”★1/★2/★3稀有度卡牌的专家等级提升{requirement}次。"
+  },
+  {
+    "characterId": 11,
+    "characterMissionType": "collect_character_archive_voice",
+    "id": 11019,
+    "isAchievementMission": false,
+    "parameterGroupId": 19,
+    "progressSentence": "{progress}种",
+    "sentence": "收集“东云彰人”的演出台词、招募台词总计{requirement}种。"
+  },
+  {
+    "characterId": 11,
+    "characterMissionType": "collect_mysekai_fixture",
+    "id": 11020,
+    "isAchievementMission": true,
+    "parameterGroupId": 20,
+    "progressSentence": "{progress}种",
+    "sentence": "在我的「世界」获得{requirement}种带“东云彰人”标签的家具。"
+  },
+  {
+    "characterId": 11,
+    "characterMissionType": "collect_mysekai_canvas",
+    "id": 11021,
+    "isAchievementMission": true,
+    "parameterGroupId": 21,
+    "progressSentence": "{progress}种",
+    "sentence": "在我的「世界」制作{requirement}种“东云彰人”成员的装饰画。"
+  },
+  {
+    "characterId": 11,
+    "characterMissionType": "read_mysekai_fixture_unique_character_talk",
+    "id": 11022,
+    "isAchievementMission": false,
+    "parameterGroupId": 22,
+    "progressSentence": "{progress}种",
+    "sentence": "在我的「世界」制作会触发“东云彰人”对话的家具，并观看{requirement}种对话。"
+  },
+  {
+    "characterId": 11,
+    "characterMissionType": "play_live_ex",
+    "id": 11101,
+    "isAchievementMission": true,
+    "parameterGroupId": 101,
+    "progressSentence": "{progress}次",
+    "sentence": "将“东云彰人”设为队长并进行{requirement}次演出。"
+  },
+  {
+    "characterId": 11,
+    "characterMissionType": "waiting_room_ex",
+    "id": 11102,
+    "isAchievementMission": true,
+    "parameterGroupId": 102,
+    "progressSentence": "{progress}次",
+    "sentence": "将“东云彰人”送到休息室{requirement}次。"
+  },
+  {
+    "characterId": 12,
+    "characterMissionType": "play_live",
+    "id": 12001,
+    "isAchievementMission": true,
+    "parameterGroupId": 1,
+    "progressSentence": "{progress}次",
+    "sentence": "将“青柳冬弥”设为队长并进行{requirement}次演出。"
+  },
+  {
+    "characterId": 12,
+    "characterMissionType": "waiting_room",
+    "id": 12002,
+    "isAchievementMission": true,
+    "parameterGroupId": 2,
+    "progressSentence": "{progress}次",
+    "sentence": "将“青柳冬弥”送到休息室{requirement}次。"
+  },
+  {
+    "characterId": 12,
+    "characterMissionType": "collect_costume_3d",
+    "id": 12003,
+    "isAchievementMission": false,
+    "parameterGroupId": 3,
+    "progressSentence": "{progress}套",
+    "sentence": "持有{requirement}套“青柳冬弥”3D服装。"
+  },
+  {
+    "characterId": 12,
+    "characterMissionType": "collect_stamp",
+    "id": 12004,
+    "isAchievementMission": false,
+    "parameterGroupId": 4,
+    "progressSentence": "{progress}种",
+    "sentence": "持有{requirement}种“青柳冬弥”的表情。"
+  },
+  {
+    "characterId": 12,
+    "characterMissionType": "read_area_talk",
+    "id": 12005,
+    "isAchievementMission": false,
+    "parameterGroupId": 5,
+    "progressSentence": "{progress}种",
+    "sentence": "观看{requirement}种“青柳冬弥”的区域对话。"
+  },
+  {
+    "characterId": 12,
+    "characterMissionType": "read_card_episode_first",
+    "id": 12006,
+    "isAchievementMission": true,
+    "parameterGroupId": 6,
+    "progressSentence": "{progress}种",
+    "sentence": "观看{requirement}种“青柳冬弥”卡牌剧情上篇。"
+  },
+  {
+    "characterId": 12,
+    "characterMissionType": "read_card_episode_second",
+    "id": 12007,
+    "isAchievementMission": true,
+    "parameterGroupId": 7,
+    "progressSentence": "{progress}种",
+    "sentence": "观看{requirement}种“青柳冬弥”卡牌剧情下篇。"
+  },
+  {
+    "characterId": 12,
+    "characterMissionType": "collect_another_vocal",
+    "id": 12008,
+    "isAchievementMission": false,
+    "parameterGroupId": 8,
+    "progressSentence": "{progress}种",
+    "sentence": "持有{requirement}种“青柳冬弥”的Another Vocal。"
+  },
+  {
+    "characterId": 12,
+    "characterMissionType": "area_item_level_up_character",
+    "id": 12009,
+    "isAchievementMission": true,
+    "parameterGroupId": 9,
+    "progressSentence": "{progress}次",
+    "sentence": "“青柳冬弥”的区域道具的等级累计提升{requirement}次。"
+  },
+  {
+    "characterId": 12,
+    "characterMissionType": "area_item_level_up_unit",
+    "id": 12010,
+    "isAchievementMission": true,
+    "parameterGroupId": 11,
+    "progressSentence": "{progress}次",
+    "sentence": "指定组合的区域道具的等级累计提升{requirement}次。"
+  },
+  {
+    "characterId": 12,
+    "characterMissionType": "area_item_level_up_reality_world",
+    "id": 12011,
+    "isAchievementMission": true,
+    "parameterGroupId": 13,
+    "progressSentence": "{progress}次",
+    "sentence": "现实世界的区域道具的等级累计提升{requirement}次。"
+  },
+  {
+    "characterId": 12,
+    "characterMissionType": "collect_member",
+    "id": 12012,
+    "isAchievementMission": false,
+    "parameterGroupId": 14,
+    "progressSentence": "{progress}种",
+    "sentence": "持有{requirement}种“青柳冬弥”的卡牌。"
+  },
+  {
+    "characterId": 12,
+    "characterMissionType": "skill_level_up_rare",
+    "id": 12013,
+    "isAchievementMission": true,
+    "parameterGroupId": 15,
+    "progressSentence": "{progress}次",
+    "sentence": "“青柳冬弥”★4/生日稀有度卡牌的技能等级提升{requirement}次。"
+  },
+  {
+    "characterId": 12,
+    "characterMissionType": "skill_level_up_standard",
+    "id": 12014,
+    "isAchievementMission": true,
+    "parameterGroupId": 16,
+    "progressSentence": "{progress}次",
+    "sentence": "“青柳冬弥”★1/★2/★3稀有度卡牌的技能等级提升{requirement}次。"
+  },
+  {
+    "characterId": 12,
+    "characterMissionType": "master_rank_up_rare",
+    "id": 12015,
+    "isAchievementMission": true,
+    "parameterGroupId": 17,
+    "progressSentence": "{progress}次",
+    "sentence": "“青柳冬弥”★4/生日稀有度卡牌的专家等级提升{requirement}次。"
+  },
+  {
+    "characterId": 12,
+    "characterMissionType": "master_rank_up_standard",
+    "id": 12016,
+    "isAchievementMission": true,
+    "parameterGroupId": 18,
+    "progressSentence": "{progress}次",
+    "sentence": "“青柳冬弥”★1/★2/★3稀有度卡牌的专家等级提升{requirement}次。"
+  },
+  {
+    "characterId": 12,
+    "characterMissionType": "collect_character_archive_voice",
+    "id": 12019,
+    "isAchievementMission": false,
+    "parameterGroupId": 19,
+    "progressSentence": "{progress}种",
+    "sentence": "收集“青柳冬弥”的演出台词、招募台词总计{requirement}种。"
+  },
+  {
+    "characterId": 12,
+    "characterMissionType": "collect_mysekai_fixture",
+    "id": 12020,
+    "isAchievementMission": true,
+    "parameterGroupId": 20,
+    "progressSentence": "{progress}种",
+    "sentence": "在我的「世界」获得{requirement}种带“青柳冬弥”标签的家具。"
+  },
+  {
+    "characterId": 12,
+    "characterMissionType": "collect_mysekai_canvas",
+    "id": 12021,
+    "isAchievementMission": true,
+    "parameterGroupId": 21,
+    "progressSentence": "{progress}种",
+    "sentence": "在我的「世界」制作{requirement}种“青柳冬弥”成员的装饰画。"
+  },
+  {
+    "characterId": 12,
+    "characterMissionType": "read_mysekai_fixture_unique_character_talk",
+    "id": 12022,
+    "isAchievementMission": false,
+    "parameterGroupId": 22,
+    "progressSentence": "{progress}种",
+    "sentence": "在我的「世界」制作会触发“青柳冬弥”对话的家具，并观看{requirement}种对话。"
+  },
+  {
+    "characterId": 12,
+    "characterMissionType": "play_live_ex",
+    "id": 12101,
+    "isAchievementMission": true,
+    "parameterGroupId": 101,
+    "progressSentence": "{progress}次",
+    "sentence": "将“青柳冬弥”设为队长并进行{requirement}次演出。"
+  },
+  {
+    "characterId": 12,
+    "characterMissionType": "waiting_room_ex",
+    "id": 12102,
+    "isAchievementMission": true,
+    "parameterGroupId": 102,
+    "progressSentence": "{progress}次",
+    "sentence": "将“青柳冬弥”送到休息室{requirement}次。"
+  },
+  {
+    "characterId": 13,
+    "characterMissionType": "play_live",
+    "id": 13001,
+    "isAchievementMission": true,
+    "parameterGroupId": 1,
+    "progressSentence": "{progress}次",
+    "sentence": "将“天马司”设为队长并进行{requirement}次演出。"
+  },
+  {
+    "characterId": 13,
+    "characterMissionType": "waiting_room",
+    "id": 13002,
+    "isAchievementMission": true,
+    "parameterGroupId": 2,
+    "progressSentence": "{progress}次",
+    "sentence": "将“天马司”送到休息室{requirement}次。"
+  },
+  {
+    "characterId": 13,
+    "characterMissionType": "collect_costume_3d",
+    "id": 13003,
+    "isAchievementMission": false,
+    "parameterGroupId": 3,
+    "progressSentence": "{progress}套",
+    "sentence": "持有{requirement}套“天马司”3D服装。"
+  },
+  {
+    "characterId": 13,
+    "characterMissionType": "collect_stamp",
+    "id": 13004,
+    "isAchievementMission": false,
+    "parameterGroupId": 4,
+    "progressSentence": "{progress}种",
+    "sentence": "持有{requirement}种“天马司”的表情。"
+  },
+  {
+    "characterId": 13,
+    "characterMissionType": "read_area_talk",
+    "id": 13005,
+    "isAchievementMission": false,
+    "parameterGroupId": 5,
+    "progressSentence": "{progress}种",
+    "sentence": "观看{requirement}种“天马司”的区域对话。"
+  },
+  {
+    "characterId": 13,
+    "characterMissionType": "read_card_episode_first",
+    "id": 13006,
+    "isAchievementMission": true,
+    "parameterGroupId": 6,
+    "progressSentence": "{progress}种",
+    "sentence": "观看{requirement}种“天马司”卡牌剧情上篇。"
+  },
+  {
+    "characterId": 13,
+    "characterMissionType": "read_card_episode_second",
+    "id": 13007,
+    "isAchievementMission": true,
+    "parameterGroupId": 7,
+    "progressSentence": "{progress}种",
+    "sentence": "观看{requirement}种“天马司”卡牌剧情下篇。"
+  },
+  {
+    "characterId": 13,
+    "characterMissionType": "collect_another_vocal",
+    "id": 13008,
+    "isAchievementMission": false,
+    "parameterGroupId": 8,
+    "progressSentence": "{progress}种",
+    "sentence": "持有{requirement}种“天马司”的Another Vocal。"
+  },
+  {
+    "characterId": 13,
+    "characterMissionType": "area_item_level_up_character",
+    "id": 13009,
+    "isAchievementMission": true,
+    "parameterGroupId": 9,
+    "progressSentence": "{progress}次",
+    "sentence": "“天马司”的区域道具的等级累计提升{requirement}次。"
+  },
+  {
+    "characterId": 13,
+    "characterMissionType": "area_item_level_up_unit",
+    "id": 13010,
+    "isAchievementMission": true,
+    "parameterGroupId": 11,
+    "progressSentence": "{progress}次",
+    "sentence": "指定组合的区域道具的等级累计提升{requirement}次。"
+  },
+  {
+    "characterId": 13,
+    "characterMissionType": "area_item_level_up_reality_world",
+    "id": 13011,
+    "isAchievementMission": true,
+    "parameterGroupId": 13,
+    "progressSentence": "{progress}次",
+    "sentence": "现实世界的区域道具的等级累计提升{requirement}次。"
+  },
+  {
+    "characterId": 13,
+    "characterMissionType": "collect_member",
+    "id": 13012,
+    "isAchievementMission": false,
+    "parameterGroupId": 14,
+    "progressSentence": "{progress}种",
+    "sentence": "持有{requirement}种“天马司”的卡牌。"
+  },
+  {
+    "characterId": 13,
+    "characterMissionType": "skill_level_up_rare",
+    "id": 13013,
+    "isAchievementMission": true,
+    "parameterGroupId": 15,
+    "progressSentence": "{progress}次",
+    "sentence": "“天马司”★4/生日稀有度卡牌的技能等级提升{requirement}次。"
+  },
+  {
+    "characterId": 13,
+    "characterMissionType": "skill_level_up_standard",
+    "id": 13014,
+    "isAchievementMission": true,
+    "parameterGroupId": 16,
+    "progressSentence": "{progress}次",
+    "sentence": "“天马司”★1/★2/★3稀有度卡牌的技能等级提升{requirement}次。"
+  },
+  {
+    "characterId": 13,
+    "characterMissionType": "master_rank_up_rare",
+    "id": 13015,
+    "isAchievementMission": true,
+    "parameterGroupId": 17,
+    "progressSentence": "{progress}次",
+    "sentence": "“天马司”★4/生日稀有度卡牌的专家等级提升{requirement}次。"
+  },
+  {
+    "characterId": 13,
+    "characterMissionType": "master_rank_up_standard",
+    "id": 13016,
+    "isAchievementMission": true,
+    "parameterGroupId": 18,
+    "progressSentence": "{progress}次",
+    "sentence": "“天马司”★1/★2/★3稀有度卡牌的专家等级提升{requirement}次。"
+  },
+  {
+    "characterId": 13,
+    "characterMissionType": "collect_character_archive_voice",
+    "id": 13019,
+    "isAchievementMission": false,
+    "parameterGroupId": 19,
+    "progressSentence": "{progress}种",
+    "sentence": "收集“天马司”的演出台词、招募台词总计{requirement}种。"
+  },
+  {
+    "characterId": 13,
+    "characterMissionType": "collect_mysekai_fixture",
+    "id": 13020,
+    "isAchievementMission": true,
+    "parameterGroupId": 20,
+    "progressSentence": "{progress}种",
+    "sentence": "在我的「世界」获得{requirement}种带“天马司”标签的家具。"
+  },
+  {
+    "characterId": 13,
+    "characterMissionType": "collect_mysekai_canvas",
+    "id": 13021,
+    "isAchievementMission": true,
+    "parameterGroupId": 21,
+    "progressSentence": "{progress}种",
+    "sentence": "在我的「世界」制作{requirement}种“天马司”成员的装饰画。"
+  },
+  {
+    "characterId": 13,
+    "characterMissionType": "read_mysekai_fixture_unique_character_talk",
+    "id": 13022,
+    "isAchievementMission": false,
+    "parameterGroupId": 22,
+    "progressSentence": "{progress}种",
+    "sentence": "在我的「世界」制作会触发“天马司”对话的家具，并观看{requirement}种对话。"
+  },
+  {
+    "characterId": 13,
+    "characterMissionType": "play_live_ex",
+    "id": 13101,
+    "isAchievementMission": true,
+    "parameterGroupId": 101,
+    "progressSentence": "{progress}次",
+    "sentence": "将“天马司”设为队长并进行{requirement}次演出。"
+  },
+  {
+    "characterId": 13,
+    "characterMissionType": "waiting_room_ex",
+    "id": 13102,
+    "isAchievementMission": true,
+    "parameterGroupId": 102,
+    "progressSentence": "{progress}次",
+    "sentence": "将“天马司”送到休息室{requirement}次。"
+  },
+  {
+    "characterId": 14,
+    "characterMissionType": "play_live",
+    "id": 14001,
+    "isAchievementMission": true,
+    "parameterGroupId": 1,
+    "progressSentence": "{progress}次",
+    "sentence": "将“凤笑梦”设为队长并进行{requirement}次演出。"
+  },
+  {
+    "characterId": 14,
+    "characterMissionType": "waiting_room",
+    "id": 14002,
+    "isAchievementMission": true,
+    "parameterGroupId": 2,
+    "progressSentence": "{progress}次",
+    "sentence": "将“凤笑梦”送到休息室{requirement}次。"
+  },
+  {
+    "characterId": 14,
+    "characterMissionType": "collect_costume_3d",
+    "id": 14003,
+    "isAchievementMission": false,
+    "parameterGroupId": 3,
+    "progressSentence": "{progress}套",
+    "sentence": "持有{requirement}套“凤笑梦”3D服装。"
+  },
+  {
+    "characterId": 14,
+    "characterMissionType": "collect_stamp",
+    "id": 14004,
+    "isAchievementMission": false,
+    "parameterGroupId": 4,
+    "progressSentence": "{progress}种",
+    "sentence": "持有{requirement}种“凤笑梦”的表情。"
+  },
+  {
+    "characterId": 14,
+    "characterMissionType": "read_area_talk",
+    "id": 14005,
+    "isAchievementMission": false,
+    "parameterGroupId": 5,
+    "progressSentence": "{progress}种",
+    "sentence": "观看{requirement}种“凤笑梦”的区域对话。"
+  },
+  {
+    "characterId": 14,
+    "characterMissionType": "read_card_episode_first",
+    "id": 14006,
+    "isAchievementMission": true,
+    "parameterGroupId": 6,
+    "progressSentence": "{progress}种",
+    "sentence": "观看{requirement}种“凤笑梦”卡牌剧情上篇。"
+  },
+  {
+    "characterId": 14,
+    "characterMissionType": "read_card_episode_second",
+    "id": 14007,
+    "isAchievementMission": true,
+    "parameterGroupId": 7,
+    "progressSentence": "{progress}种",
+    "sentence": "观看{requirement}种“凤笑梦”卡牌剧情下篇。"
+  },
+  {
+    "characterId": 14,
+    "characterMissionType": "collect_another_vocal",
+    "id": 14008,
+    "isAchievementMission": false,
+    "parameterGroupId": 8,
+    "progressSentence": "{progress}种",
+    "sentence": "持有{requirement}种“凤笑梦”的Another Vocal。"
+  },
+  {
+    "characterId": 14,
+    "characterMissionType": "area_item_level_up_character",
+    "id": 14009,
+    "isAchievementMission": true,
+    "parameterGroupId": 9,
+    "progressSentence": "{progress}次",
+    "sentence": "“凤笑梦”的区域道具的等级累计提升{requirement}次。"
+  },
+  {
+    "characterId": 14,
+    "characterMissionType": "area_item_level_up_unit",
+    "id": 14010,
+    "isAchievementMission": true,
+    "parameterGroupId": 11,
+    "progressSentence": "{progress}次",
+    "sentence": "指定组合的区域道具的等级累计提升{requirement}次。"
+  },
+  {
+    "characterId": 14,
+    "characterMissionType": "area_item_level_up_reality_world",
+    "id": 14011,
+    "isAchievementMission": true,
+    "parameterGroupId": 13,
+    "progressSentence": "{progress}次",
+    "sentence": "现实世界的区域道具的等级累计提升{requirement}次。"
+  },
+  {
+    "characterId": 14,
+    "characterMissionType": "collect_member",
+    "id": 14012,
+    "isAchievementMission": false,
+    "parameterGroupId": 14,
+    "progressSentence": "{progress}种",
+    "sentence": "持有{requirement}种“凤笑梦”的卡牌。"
+  },
+  {
+    "characterId": 14,
+    "characterMissionType": "skill_level_up_rare",
+    "id": 14013,
+    "isAchievementMission": true,
+    "parameterGroupId": 15,
+    "progressSentence": "{progress}次",
+    "sentence": "“凤笑梦”★4/生日稀有度卡牌的技能等级提升{requirement}次。"
+  },
+  {
+    "characterId": 14,
+    "characterMissionType": "skill_level_up_standard",
+    "id": 14014,
+    "isAchievementMission": true,
+    "parameterGroupId": 16,
+    "progressSentence": "{progress}次",
+    "sentence": "“凤笑梦”★1/★2/★3稀有度卡牌的技能等级提升{requirement}次。"
+  },
+  {
+    "characterId": 14,
+    "characterMissionType": "master_rank_up_rare",
+    "id": 14015,
+    "isAchievementMission": true,
+    "parameterGroupId": 17,
+    "progressSentence": "{progress}次",
+    "sentence": "“凤笑梦”★4/生日稀有度卡牌的专家等级提升{requirement}次。"
+  },
+  {
+    "characterId": 14,
+    "characterMissionType": "master_rank_up_standard",
+    "id": 14016,
+    "isAchievementMission": true,
+    "parameterGroupId": 18,
+    "progressSentence": "{progress}次",
+    "sentence": "“凤笑梦”★1/★2/★3稀有度卡牌的专家等级提升{requirement}次。"
+  },
+  {
+    "characterId": 14,
+    "characterMissionType": "collect_character_archive_voice",
+    "id": 14019,
+    "isAchievementMission": false,
+    "parameterGroupId": 19,
+    "progressSentence": "{progress}种",
+    "sentence": "收集“凤笑梦”的演出台词、招募台词总计{requirement}种。"
+  },
+  {
+    "characterId": 14,
+    "characterMissionType": "collect_mysekai_fixture",
+    "id": 14020,
+    "isAchievementMission": true,
+    "parameterGroupId": 20,
+    "progressSentence": "{progress}种",
+    "sentence": "在我的「世界」获得{requirement}种带“凤笑梦”标签的家具。"
+  },
+  {
+    "characterId": 14,
+    "characterMissionType": "collect_mysekai_canvas",
+    "id": 14021,
+    "isAchievementMission": true,
+    "parameterGroupId": 21,
+    "progressSentence": "{progress}种",
+    "sentence": "在我的「世界」制作{requirement}种“凤笑梦”成员的装饰画。"
+  },
+  {
+    "characterId": 14,
+    "characterMissionType": "read_mysekai_fixture_unique_character_talk",
+    "id": 14022,
+    "isAchievementMission": false,
+    "parameterGroupId": 22,
+    "progressSentence": "{progress}种",
+    "sentence": "在我的「世界」制作会触发“凤笑梦”对话的家具，并观看{requirement}种对话。"
+  },
+  {
+    "characterId": 14,
+    "characterMissionType": "play_live_ex",
+    "id": 14101,
+    "isAchievementMission": true,
+    "parameterGroupId": 101,
+    "progressSentence": "{progress}次",
+    "sentence": "将“凤笑梦”设为队长并进行{requirement}次演出。"
+  },
+  {
+    "characterId": 14,
+    "characterMissionType": "waiting_room_ex",
+    "id": 14102,
+    "isAchievementMission": true,
+    "parameterGroupId": 102,
+    "progressSentence": "{progress}次",
+    "sentence": "将“凤笑梦”送到休息室{requirement}次。"
+  },
+  {
+    "characterId": 15,
+    "characterMissionType": "play_live",
+    "id": 15001,
+    "isAchievementMission": true,
+    "parameterGroupId": 1,
+    "progressSentence": "{progress}次",
+    "sentence": "将“草薙宁宁”设为队长并进行{requirement}次演出。"
+  },
+  {
+    "characterId": 15,
+    "characterMissionType": "waiting_room",
+    "id": 15002,
+    "isAchievementMission": true,
+    "parameterGroupId": 2,
+    "progressSentence": "{progress}次",
+    "sentence": "将“草薙宁宁”送到休息室{requirement}次。"
+  },
+  {
+    "characterId": 15,
+    "characterMissionType": "collect_costume_3d",
+    "id": 15003,
+    "isAchievementMission": false,
+    "parameterGroupId": 3,
+    "progressSentence": "{progress}套",
+    "sentence": "持有{requirement}套“草薙宁宁”3D服装。"
+  },
+  {
+    "characterId": 15,
+    "characterMissionType": "collect_stamp",
+    "id": 15004,
+    "isAchievementMission": false,
+    "parameterGroupId": 4,
+    "progressSentence": "{progress}种",
+    "sentence": "持有{requirement}种“草薙宁宁”的表情。"
+  },
+  {
+    "characterId": 15,
+    "characterMissionType": "read_area_talk",
+    "id": 15005,
+    "isAchievementMission": false,
+    "parameterGroupId": 5,
+    "progressSentence": "{progress}种",
+    "sentence": "观看{requirement}种“草薙宁宁”的区域对话。"
+  },
+  {
+    "characterId": 15,
+    "characterMissionType": "read_card_episode_first",
+    "id": 15006,
+    "isAchievementMission": true,
+    "parameterGroupId": 6,
+    "progressSentence": "{progress}种",
+    "sentence": "观看{requirement}种“草薙宁宁”卡牌剧情上篇。"
+  },
+  {
+    "characterId": 15,
+    "characterMissionType": "read_card_episode_second",
+    "id": 15007,
+    "isAchievementMission": true,
+    "parameterGroupId": 7,
+    "progressSentence": "{progress}种",
+    "sentence": "观看{requirement}种“草薙宁宁”卡牌剧情下篇。"
+  },
+  {
+    "characterId": 15,
+    "characterMissionType": "collect_another_vocal",
+    "id": 15008,
+    "isAchievementMission": false,
+    "parameterGroupId": 8,
+    "progressSentence": "{progress}种",
+    "sentence": "持有{requirement}种“草薙宁宁”的Another Vocal。"
+  },
+  {
+    "characterId": 15,
+    "characterMissionType": "area_item_level_up_character",
+    "id": 15009,
+    "isAchievementMission": true,
+    "parameterGroupId": 9,
+    "progressSentence": "{progress}次",
+    "sentence": "“草薙宁宁”的区域道具的等级累计提升{requirement}次。"
+  },
+  {
+    "characterId": 15,
+    "characterMissionType": "area_item_level_up_unit",
+    "id": 15010,
+    "isAchievementMission": true,
+    "parameterGroupId": 11,
+    "progressSentence": "{progress}次",
+    "sentence": "指定组合的区域道具的等级累计提升{requirement}次。"
+  },
+  {
+    "characterId": 15,
+    "characterMissionType": "area_item_level_up_reality_world",
+    "id": 15011,
+    "isAchievementMission": true,
+    "parameterGroupId": 13,
+    "progressSentence": "{progress}次",
+    "sentence": "现实世界的区域道具的等级累计提升{requirement}次。"
+  },
+  {
+    "characterId": 15,
+    "characterMissionType": "collect_member",
+    "id": 15012,
+    "isAchievementMission": false,
+    "parameterGroupId": 14,
+    "progressSentence": "{progress}种",
+    "sentence": "持有{requirement}种“草薙宁宁”的卡牌。"
+  },
+  {
+    "characterId": 15,
+    "characterMissionType": "skill_level_up_rare",
+    "id": 15013,
+    "isAchievementMission": true,
+    "parameterGroupId": 15,
+    "progressSentence": "{progress}次",
+    "sentence": "“草薙宁宁”★4/生日稀有度卡牌的技能等级提升{requirement}次。"
+  },
+  {
+    "characterId": 15,
+    "characterMissionType": "skill_level_up_standard",
+    "id": 15014,
+    "isAchievementMission": true,
+    "parameterGroupId": 16,
+    "progressSentence": "{progress}次",
+    "sentence": "“草薙宁宁”★1/★2/★3稀有度卡牌的技能等级提升{requirement}次。"
+  },
+  {
+    "characterId": 15,
+    "characterMissionType": "master_rank_up_rare",
+    "id": 15015,
+    "isAchievementMission": true,
+    "parameterGroupId": 17,
+    "progressSentence": "{progress}次",
+    "sentence": "“草薙宁宁”★4/生日稀有度卡牌的专家等级提升{requirement}次。"
+  },
+  {
+    "characterId": 15,
+    "characterMissionType": "master_rank_up_standard",
+    "id": 15016,
+    "isAchievementMission": true,
+    "parameterGroupId": 18,
+    "progressSentence": "{progress}次",
+    "sentence": "“草薙宁宁”★1/★2/★3稀有度卡牌的专家等级提升{requirement}次。"
+  },
+  {
+    "characterId": 15,
+    "characterMissionType": "collect_character_archive_voice",
+    "id": 15019,
+    "isAchievementMission": false,
+    "parameterGroupId": 19,
+    "progressSentence": "{progress}种",
+    "sentence": "收集“草薙宁宁”的演出台词、招募台词总计{requirement}种。"
+  },
+  {
+    "characterId": 15,
+    "characterMissionType": "collect_mysekai_fixture",
+    "id": 15020,
+    "isAchievementMission": true,
+    "parameterGroupId": 20,
+    "progressSentence": "{progress}种",
+    "sentence": "在我的「世界」获得{requirement}种带“草薙宁宁”标签的家具。"
+  },
+  {
+    "characterId": 15,
+    "characterMissionType": "collect_mysekai_canvas",
+    "id": 15021,
+    "isAchievementMission": true,
+    "parameterGroupId": 21,
+    "progressSentence": "{progress}种",
+    "sentence": "在我的「世界」制作{requirement}种“草薙宁宁”成员的装饰画。"
+  },
+  {
+    "characterId": 15,
+    "characterMissionType": "read_mysekai_fixture_unique_character_talk",
+    "id": 15022,
+    "isAchievementMission": false,
+    "parameterGroupId": 22,
+    "progressSentence": "{progress}种",
+    "sentence": "在我的「世界」制作会触发“草薙宁宁”对话的家具，并观看{requirement}种对话。"
+  },
+  {
+    "characterId": 15,
+    "characterMissionType": "play_live_ex",
+    "id": 15101,
+    "isAchievementMission": true,
+    "parameterGroupId": 101,
+    "progressSentence": "{progress}次",
+    "sentence": "将“草薙宁宁”设为队长并进行{requirement}次演出。"
+  },
+  {
+    "characterId": 15,
+    "characterMissionType": "waiting_room_ex",
+    "id": 15102,
+    "isAchievementMission": true,
+    "parameterGroupId": 102,
+    "progressSentence": "{progress}次",
+    "sentence": "将“草薙宁宁”送到休息室{requirement}次。"
+  },
+  {
+    "characterId": 16,
+    "characterMissionType": "play_live",
+    "id": 16001,
+    "isAchievementMission": true,
+    "parameterGroupId": 1,
+    "progressSentence": "{progress}次",
+    "sentence": "将“神代类”设为队长并进行{requirement}次演出。"
+  },
+  {
+    "characterId": 16,
+    "characterMissionType": "waiting_room",
+    "id": 16002,
+    "isAchievementMission": true,
+    "parameterGroupId": 2,
+    "progressSentence": "{progress}次",
+    "sentence": "将“神代类”送到休息室{requirement}次。"
+  },
+  {
+    "characterId": 16,
+    "characterMissionType": "collect_costume_3d",
+    "id": 16003,
+    "isAchievementMission": false,
+    "parameterGroupId": 3,
+    "progressSentence": "{progress}套",
+    "sentence": "持有{requirement}套“神代类”3D服装。"
+  },
+  {
+    "characterId": 16,
+    "characterMissionType": "collect_stamp",
+    "id": 16004,
+    "isAchievementMission": false,
+    "parameterGroupId": 4,
+    "progressSentence": "{progress}种",
+    "sentence": "持有{requirement}种“神代类”的表情。"
+  },
+  {
+    "characterId": 16,
+    "characterMissionType": "read_area_talk",
+    "id": 16005,
+    "isAchievementMission": false,
+    "parameterGroupId": 5,
+    "progressSentence": "{progress}种",
+    "sentence": "观看{requirement}种“神代类”的区域对话。"
+  },
+  {
+    "characterId": 16,
+    "characterMissionType": "read_card_episode_first",
+    "id": 16006,
+    "isAchievementMission": true,
+    "parameterGroupId": 6,
+    "progressSentence": "{progress}种",
+    "sentence": "观看{requirement}种“神代类”卡牌剧情上篇。"
+  },
+  {
+    "characterId": 16,
+    "characterMissionType": "read_card_episode_second",
+    "id": 16007,
+    "isAchievementMission": true,
+    "parameterGroupId": 7,
+    "progressSentence": "{progress}种",
+    "sentence": "观看{requirement}种“神代类”卡牌剧情下篇。"
+  },
+  {
+    "characterId": 16,
+    "characterMissionType": "collect_another_vocal",
+    "id": 16008,
+    "isAchievementMission": false,
+    "parameterGroupId": 8,
+    "progressSentence": "{progress}种",
+    "sentence": "持有{requirement}种“神代类”的Another Vocal。"
+  },
+  {
+    "characterId": 16,
+    "characterMissionType": "area_item_level_up_character",
+    "id": 16009,
+    "isAchievementMission": true,
+    "parameterGroupId": 9,
+    "progressSentence": "{progress}次",
+    "sentence": "“神代类”的区域道具的等级累计提升{requirement}次。"
+  },
+  {
+    "characterId": 16,
+    "characterMissionType": "area_item_level_up_unit",
+    "id": 16010,
+    "isAchievementMission": true,
+    "parameterGroupId": 11,
+    "progressSentence": "{progress}次",
+    "sentence": "指定组合的区域道具的等级累计提升{requirement}次。"
+  },
+  {
+    "characterId": 16,
+    "characterMissionType": "area_item_level_up_reality_world",
+    "id": 16011,
+    "isAchievementMission": true,
+    "parameterGroupId": 13,
+    "progressSentence": "{progress}次",
+    "sentence": "现实世界的区域道具的等级累计提升{requirement}次。"
+  },
+  {
+    "characterId": 16,
+    "characterMissionType": "collect_member",
+    "id": 16012,
+    "isAchievementMission": false,
+    "parameterGroupId": 14,
+    "progressSentence": "{progress}种",
+    "sentence": "持有{requirement}种“神代类”的卡牌。"
+  },
+  {
+    "characterId": 16,
+    "characterMissionType": "skill_level_up_rare",
+    "id": 16013,
+    "isAchievementMission": true,
+    "parameterGroupId": 15,
+    "progressSentence": "{progress}次",
+    "sentence": "“神代类”★4/生日稀有度卡牌的技能等级提升{requirement}次。"
+  },
+  {
+    "characterId": 16,
+    "characterMissionType": "skill_level_up_standard",
+    "id": 16014,
+    "isAchievementMission": true,
+    "parameterGroupId": 16,
+    "progressSentence": "{progress}次",
+    "sentence": "“神代类”★1/★2/★3稀有度卡牌的技能等级提升{requirement}次。"
+  },
+  {
+    "characterId": 16,
+    "characterMissionType": "master_rank_up_rare",
+    "id": 16015,
+    "isAchievementMission": true,
+    "parameterGroupId": 17,
+    "progressSentence": "{progress}次",
+    "sentence": "“神代类”★4/生日稀有度卡牌的专家等级提升{requirement}次。"
+  },
+  {
+    "characterId": 16,
+    "characterMissionType": "master_rank_up_standard",
+    "id": 16016,
+    "isAchievementMission": true,
+    "parameterGroupId": 18,
+    "progressSentence": "{progress}次",
+    "sentence": "“神代类”★1/★2/★3稀有度卡牌的专家等级提升{requirement}次。"
+  },
+  {
+    "characterId": 16,
+    "characterMissionType": "collect_character_archive_voice",
+    "id": 16019,
+    "isAchievementMission": false,
+    "parameterGroupId": 19,
+    "progressSentence": "{progress}种",
+    "sentence": "收集“神代类”的演出台词、招募台词总计{requirement}种。"
+  },
+  {
+    "characterId": 16,
+    "characterMissionType": "collect_mysekai_fixture",
+    "id": 16020,
+    "isAchievementMission": true,
+    "parameterGroupId": 20,
+    "progressSentence": "{progress}种",
+    "sentence": "在我的「世界」获得{requirement}种带“神代类”标签的家具。"
+  },
+  {
+    "characterId": 16,
+    "characterMissionType": "collect_mysekai_canvas",
+    "id": 16021,
+    "isAchievementMission": true,
+    "parameterGroupId": 21,
+    "progressSentence": "{progress}种",
+    "sentence": "在我的「世界」制作{requirement}种“神代类”成员的装饰画。"
+  },
+  {
+    "characterId": 16,
+    "characterMissionType": "read_mysekai_fixture_unique_character_talk",
+    "id": 16022,
+    "isAchievementMission": false,
+    "parameterGroupId": 22,
+    "progressSentence": "{progress}种",
+    "sentence": "在我的「世界」制作会触发“神代类”对话的家具，并观看{requirement}种对话。"
+  },
+  {
+    "characterId": 16,
+    "characterMissionType": "play_live_ex",
+    "id": 16101,
+    "isAchievementMission": true,
+    "parameterGroupId": 101,
+    "progressSentence": "{progress}次",
+    "sentence": "将“神代类”设为队长并进行{requirement}次演出。"
+  },
+  {
+    "characterId": 16,
+    "characterMissionType": "waiting_room_ex",
+    "id": 16102,
+    "isAchievementMission": true,
+    "parameterGroupId": 102,
+    "progressSentence": "{progress}次",
+    "sentence": "将“神代类”送到休息室{requirement}次。"
+  },
+  {
+    "characterId": 17,
+    "characterMissionType": "play_live",
+    "id": 17001,
+    "isAchievementMission": true,
+    "parameterGroupId": 1,
+    "progressSentence": "{progress}次",
+    "sentence": "将“宵崎奏”设为队长并进行{requirement}次演出。"
+  },
+  {
+    "characterId": 17,
+    "characterMissionType": "waiting_room",
+    "id": 17002,
+    "isAchievementMission": true,
+    "parameterGroupId": 2,
+    "progressSentence": "{progress}次",
+    "sentence": "将“宵崎奏”送到休息室{requirement}次。"
+  },
+  {
+    "characterId": 17,
+    "characterMissionType": "collect_costume_3d",
+    "id": 17003,
+    "isAchievementMission": false,
+    "parameterGroupId": 3,
+    "progressSentence": "{progress}套",
+    "sentence": "持有{requirement}套“宵崎奏”3D服装。"
+  },
+  {
+    "characterId": 17,
+    "characterMissionType": "collect_stamp",
+    "id": 17004,
+    "isAchievementMission": false,
+    "parameterGroupId": 4,
+    "progressSentence": "{progress}种",
+    "sentence": "持有{requirement}种“宵崎奏”的表情。"
+  },
+  {
+    "characterId": 17,
+    "characterMissionType": "read_area_talk",
+    "id": 17005,
+    "isAchievementMission": false,
+    "parameterGroupId": 5,
+    "progressSentence": "{progress}种",
+    "sentence": "观看{requirement}种“宵崎奏”的区域对话。"
+  },
+  {
+    "characterId": 17,
+    "characterMissionType": "read_card_episode_first",
+    "id": 17006,
+    "isAchievementMission": true,
+    "parameterGroupId": 6,
+    "progressSentence": "{progress}种",
+    "sentence": "观看{requirement}种“宵崎奏”卡牌剧情上篇。"
+  },
+  {
+    "characterId": 17,
+    "characterMissionType": "read_card_episode_second",
+    "id": 17007,
+    "isAchievementMission": true,
+    "parameterGroupId": 7,
+    "progressSentence": "{progress}种",
+    "sentence": "观看{requirement}种“宵崎奏”卡牌剧情下篇。"
+  },
+  {
+    "characterId": 17,
+    "characterMissionType": "collect_another_vocal",
+    "id": 17008,
+    "isAchievementMission": false,
+    "parameterGroupId": 8,
+    "progressSentence": "{progress}种",
+    "sentence": "持有{requirement}种“宵崎奏”的Another Vocal。"
+  },
+  {
+    "characterId": 17,
+    "characterMissionType": "area_item_level_up_character",
+    "id": 17009,
+    "isAchievementMission": true,
+    "parameterGroupId": 9,
+    "progressSentence": "{progress}次",
+    "sentence": "“宵崎奏”的区域道具的等级累计提升{requirement}次。"
+  },
+  {
+    "characterId": 17,
+    "characterMissionType": "area_item_level_up_unit",
+    "id": 17010,
+    "isAchievementMission": true,
+    "parameterGroupId": 11,
+    "progressSentence": "{progress}次",
+    "sentence": "指定组合的区域道具的等级累计提升{requirement}次。"
+  },
+  {
+    "characterId": 17,
+    "characterMissionType": "area_item_level_up_reality_world",
+    "id": 17011,
+    "isAchievementMission": true,
+    "parameterGroupId": 13,
+    "progressSentence": "{progress}次",
+    "sentence": "现实世界的区域道具的等级累计提升{requirement}次。"
+  },
+  {
+    "characterId": 17,
+    "characterMissionType": "collect_member",
+    "id": 17012,
+    "isAchievementMission": false,
+    "parameterGroupId": 14,
+    "progressSentence": "{progress}种",
+    "sentence": "持有{requirement}种“宵崎奏”的卡牌。"
+  },
+  {
+    "characterId": 17,
+    "characterMissionType": "skill_level_up_rare",
+    "id": 17013,
+    "isAchievementMission": true,
+    "parameterGroupId": 15,
+    "progressSentence": "{progress}次",
+    "sentence": "“宵崎奏”★4/生日稀有度卡牌的技能等级提升{requirement}次。"
+  },
+  {
+    "characterId": 17,
+    "characterMissionType": "skill_level_up_standard",
+    "id": 17014,
+    "isAchievementMission": true,
+    "parameterGroupId": 16,
+    "progressSentence": "{progress}次",
+    "sentence": "“宵崎奏”★1/★2/★3稀有度卡牌的技能等级提升{requirement}次。"
+  },
+  {
+    "characterId": 17,
+    "characterMissionType": "master_rank_up_rare",
+    "id": 17015,
+    "isAchievementMission": true,
+    "parameterGroupId": 17,
+    "progressSentence": "{progress}次",
+    "sentence": "“宵崎奏”★4/生日稀有度卡牌的专家等级提升{requirement}次。"
+  },
+  {
+    "characterId": 17,
+    "characterMissionType": "master_rank_up_standard",
+    "id": 17016,
+    "isAchievementMission": true,
+    "parameterGroupId": 18,
+    "progressSentence": "{progress}次",
+    "sentence": "“宵崎奏”★1/★2/★3稀有度卡牌的专家等级提升{requirement}次。"
+  },
+  {
+    "characterId": 17,
+    "characterMissionType": "collect_character_archive_voice",
+    "id": 17019,
+    "isAchievementMission": false,
+    "parameterGroupId": 19,
+    "progressSentence": "{progress}种",
+    "sentence": "收集“宵崎奏”的演出台词、招募台词总计{requirement}种。"
+  },
+  {
+    "characterId": 17,
+    "characterMissionType": "collect_mysekai_fixture",
+    "id": 17020,
+    "isAchievementMission": true,
+    "parameterGroupId": 20,
+    "progressSentence": "{progress}种",
+    "sentence": "在我的「世界」获得{requirement}种带“宵崎奏”标签的家具。"
+  },
+  {
+    "characterId": 17,
+    "characterMissionType": "collect_mysekai_canvas",
+    "id": 17021,
+    "isAchievementMission": true,
+    "parameterGroupId": 21,
+    "progressSentence": "{progress}种",
+    "sentence": "在我的「世界」制作{requirement}种“宵崎奏”成员的装饰画。"
+  },
+  {
+    "characterId": 17,
+    "characterMissionType": "read_mysekai_fixture_unique_character_talk",
+    "id": 17022,
+    "isAchievementMission": false,
+    "parameterGroupId": 22,
+    "progressSentence": "{progress}种",
+    "sentence": "在我的「世界」制作会触发“宵崎奏”对话的家具，并观看{requirement}种对话。"
+  },
+  {
+    "characterId": 17,
+    "characterMissionType": "play_live_ex",
+    "id": 17101,
+    "isAchievementMission": true,
+    "parameterGroupId": 101,
+    "progressSentence": "{progress}次",
+    "sentence": "将“宵崎奏”设为队长并进行{requirement}次演出。"
+  },
+  {
+    "characterId": 17,
+    "characterMissionType": "waiting_room_ex",
+    "id": 17102,
+    "isAchievementMission": true,
+    "parameterGroupId": 102,
+    "progressSentence": "{progress}次",
+    "sentence": "将“宵崎奏”送到休息室{requirement}次。"
+  },
+  {
+    "characterId": 18,
+    "characterMissionType": "play_live",
+    "id": 18001,
+    "isAchievementMission": true,
+    "parameterGroupId": 1,
+    "progressSentence": "{progress}次",
+    "sentence": "将“朝比奈真冬”设为队长并进行{requirement}次演出。"
+  },
+  {
+    "characterId": 18,
+    "characterMissionType": "waiting_room",
+    "id": 18002,
+    "isAchievementMission": true,
+    "parameterGroupId": 2,
+    "progressSentence": "{progress}次",
+    "sentence": "将“朝比奈真冬”送到休息室{requirement}次。"
+  },
+  {
+    "characterId": 18,
+    "characterMissionType": "collect_costume_3d",
+    "id": 18003,
+    "isAchievementMission": false,
+    "parameterGroupId": 3,
+    "progressSentence": "{progress}套",
+    "sentence": "持有{requirement}套“朝比奈真冬”3D服装。"
+  },
+  {
+    "characterId": 18,
+    "characterMissionType": "collect_stamp",
+    "id": 18004,
+    "isAchievementMission": false,
+    "parameterGroupId": 4,
+    "progressSentence": "{progress}种",
+    "sentence": "持有{requirement}种“朝比奈真冬”的表情。"
+  },
+  {
+    "characterId": 18,
+    "characterMissionType": "read_area_talk",
+    "id": 18005,
+    "isAchievementMission": false,
+    "parameterGroupId": 5,
+    "progressSentence": "{progress}种",
+    "sentence": "观看{requirement}种“朝比奈真冬”的区域对话。"
+  },
+  {
+    "characterId": 18,
+    "characterMissionType": "read_card_episode_first",
+    "id": 18006,
+    "isAchievementMission": true,
+    "parameterGroupId": 6,
+    "progressSentence": "{progress}种",
+    "sentence": "观看{requirement}种“朝比奈真冬”卡牌剧情上篇。"
+  },
+  {
+    "characterId": 18,
+    "characterMissionType": "read_card_episode_second",
+    "id": 18007,
+    "isAchievementMission": true,
+    "parameterGroupId": 7,
+    "progressSentence": "{progress}种",
+    "sentence": "观看{requirement}种“朝比奈真冬”卡牌剧情下篇。"
+  },
+  {
+    "characterId": 18,
+    "characterMissionType": "collect_another_vocal",
+    "id": 18008,
+    "isAchievementMission": false,
+    "parameterGroupId": 8,
+    "progressSentence": "{progress}种",
+    "sentence": "持有{requirement}种“朝比奈真冬”的Another Vocal。"
+  },
+  {
+    "characterId": 18,
+    "characterMissionType": "area_item_level_up_character",
+    "id": 18009,
+    "isAchievementMission": true,
+    "parameterGroupId": 9,
+    "progressSentence": "{progress}次",
+    "sentence": "“朝比奈真冬”的区域道具的等级累计提升{requirement}次。"
+  },
+  {
+    "characterId": 18,
+    "characterMissionType": "area_item_level_up_unit",
+    "id": 18010,
+    "isAchievementMission": true,
+    "parameterGroupId": 11,
+    "progressSentence": "{progress}次",
+    "sentence": "指定组合的区域道具的等级累计提升{requirement}次。"
+  },
+  {
+    "characterId": 18,
+    "characterMissionType": "area_item_level_up_reality_world",
+    "id": 18011,
+    "isAchievementMission": true,
+    "parameterGroupId": 13,
+    "progressSentence": "{progress}次",
+    "sentence": "现实世界的区域道具的等级累计提升{requirement}次。"
+  },
+  {
+    "characterId": 18,
+    "characterMissionType": "collect_member",
+    "id": 18012,
+    "isAchievementMission": false,
+    "parameterGroupId": 14,
+    "progressSentence": "{progress}种",
+    "sentence": "持有{requirement}种“朝比奈真冬”的卡牌。"
+  },
+  {
+    "characterId": 18,
+    "characterMissionType": "skill_level_up_rare",
+    "id": 18013,
+    "isAchievementMission": true,
+    "parameterGroupId": 15,
+    "progressSentence": "{progress}次",
+    "sentence": "“朝比奈真冬”★4/生日稀有度卡牌的技能等级提升{requirement}次。"
+  },
+  {
+    "characterId": 18,
+    "characterMissionType": "skill_level_up_standard",
+    "id": 18014,
+    "isAchievementMission": true,
+    "parameterGroupId": 16,
+    "progressSentence": "{progress}次",
+    "sentence": "“朝比奈真冬”★1/★2/★3稀有度卡牌的技能等级提升{requirement}次。"
+  },
+  {
+    "characterId": 18,
+    "characterMissionType": "master_rank_up_rare",
+    "id": 18015,
+    "isAchievementMission": true,
+    "parameterGroupId": 17,
+    "progressSentence": "{progress}次",
+    "sentence": "“朝比奈真冬”★4/生日稀有度卡牌的专家等级提升{requirement}次。"
+  },
+  {
+    "characterId": 18,
+    "characterMissionType": "master_rank_up_standard",
+    "id": 18016,
+    "isAchievementMission": true,
+    "parameterGroupId": 18,
+    "progressSentence": "{progress}次",
+    "sentence": "“朝比奈真冬”★1/★2/★3稀有度卡牌的专家等级提升{requirement}次。"
+  },
+  {
+    "characterId": 18,
+    "characterMissionType": "collect_character_archive_voice",
+    "id": 18019,
+    "isAchievementMission": false,
+    "parameterGroupId": 19,
+    "progressSentence": "{progress}种",
+    "sentence": "收集“朝比奈真冬”的演出台词、招募台词总计{requirement}种。"
+  },
+  {
+    "characterId": 18,
+    "characterMissionType": "collect_mysekai_fixture",
+    "id": 18020,
+    "isAchievementMission": true,
+    "parameterGroupId": 20,
+    "progressSentence": "{progress}种",
+    "sentence": "在我的「世界」获得{requirement}种带“朝比奈真冬”标签的家具。"
+  },
+  {
+    "characterId": 18,
+    "characterMissionType": "collect_mysekai_canvas",
+    "id": 18021,
+    "isAchievementMission": true,
+    "parameterGroupId": 21,
+    "progressSentence": "{progress}种",
+    "sentence": "在我的「世界」制作{requirement}种“朝比奈真冬”成员的装饰画。"
+  },
+  {
+    "characterId": 18,
+    "characterMissionType": "read_mysekai_fixture_unique_character_talk",
+    "id": 18022,
+    "isAchievementMission": false,
+    "parameterGroupId": 22,
+    "progressSentence": "{progress}种",
+    "sentence": "在我的「世界」制作会触发“朝比奈真冬”对话的家具，并观看{requirement}种对话。"
+  },
+  {
+    "characterId": 18,
+    "characterMissionType": "play_live_ex",
+    "id": 18101,
+    "isAchievementMission": true,
+    "parameterGroupId": 101,
+    "progressSentence": "{progress}次",
+    "sentence": "将“朝比奈真冬”设为队长并进行{requirement}次演出。"
+  },
+  {
+    "characterId": 18,
+    "characterMissionType": "waiting_room_ex",
+    "id": 18102,
+    "isAchievementMission": true,
+    "parameterGroupId": 102,
+    "progressSentence": "{progress}次",
+    "sentence": "将“朝比奈真冬”送到休息室{requirement}次。"
+  },
+  {
+    "characterId": 19,
+    "characterMissionType": "play_live",
+    "id": 19001,
+    "isAchievementMission": true,
+    "parameterGroupId": 1,
+    "progressSentence": "{progress}次",
+    "sentence": "将“东云绘名”设为队长并进行{requirement}次演出。"
+  },
+  {
+    "characterId": 19,
+    "characterMissionType": "waiting_room",
+    "id": 19002,
+    "isAchievementMission": true,
+    "parameterGroupId": 2,
+    "progressSentence": "{progress}次",
+    "sentence": "将“东云绘名”送到休息室{requirement}次。"
+  },
+  {
+    "characterId": 19,
+    "characterMissionType": "collect_costume_3d",
+    "id": 19003,
+    "isAchievementMission": false,
+    "parameterGroupId": 3,
+    "progressSentence": "{progress}套",
+    "sentence": "持有{requirement}套“东云绘名”3D服装。"
+  },
+  {
+    "characterId": 19,
+    "characterMissionType": "collect_stamp",
+    "id": 19004,
+    "isAchievementMission": false,
+    "parameterGroupId": 4,
+    "progressSentence": "{progress}种",
+    "sentence": "持有{requirement}种“东云绘名”的表情。"
+  },
+  {
+    "characterId": 19,
+    "characterMissionType": "read_area_talk",
+    "id": 19005,
+    "isAchievementMission": false,
+    "parameterGroupId": 5,
+    "progressSentence": "{progress}种",
+    "sentence": "观看{requirement}种“东云绘名”的区域对话。"
+  },
+  {
+    "characterId": 19,
+    "characterMissionType": "read_card_episode_first",
+    "id": 19006,
+    "isAchievementMission": true,
+    "parameterGroupId": 6,
+    "progressSentence": "{progress}种",
+    "sentence": "观看{requirement}种“东云绘名”卡牌剧情上篇。"
+  },
+  {
+    "characterId": 19,
+    "characterMissionType": "read_card_episode_second",
+    "id": 19007,
+    "isAchievementMission": true,
+    "parameterGroupId": 7,
+    "progressSentence": "{progress}种",
+    "sentence": "观看{requirement}种“东云绘名”卡牌剧情下篇。"
+  },
+  {
+    "characterId": 19,
+    "characterMissionType": "collect_another_vocal",
+    "id": 19008,
+    "isAchievementMission": false,
+    "parameterGroupId": 8,
+    "progressSentence": "{progress}种",
+    "sentence": "持有{requirement}种“东云绘名”的Another Vocal。"
+  },
+  {
+    "characterId": 19,
+    "characterMissionType": "area_item_level_up_character",
+    "id": 19009,
+    "isAchievementMission": true,
+    "parameterGroupId": 9,
+    "progressSentence": "{progress}次",
+    "sentence": "“东云绘名”的区域道具的等级累计提升{requirement}次。"
+  },
+  {
+    "characterId": 19,
+    "characterMissionType": "area_item_level_up_unit",
+    "id": 19010,
+    "isAchievementMission": true,
+    "parameterGroupId": 11,
+    "progressSentence": "{progress}次",
+    "sentence": "指定组合的区域道具的等级累计提升{requirement}次。"
+  },
+  {
+    "characterId": 19,
+    "characterMissionType": "area_item_level_up_reality_world",
+    "id": 19011,
+    "isAchievementMission": true,
+    "parameterGroupId": 13,
+    "progressSentence": "{progress}次",
+    "sentence": "现实世界的区域道具的等级累计提升{requirement}次。"
+  },
+  {
+    "characterId": 19,
+    "characterMissionType": "collect_member",
+    "id": 19012,
+    "isAchievementMission": false,
+    "parameterGroupId": 14,
+    "progressSentence": "{progress}种",
+    "sentence": "持有{requirement}种“东云绘名”的卡牌。"
+  },
+  {
+    "characterId": 19,
+    "characterMissionType": "skill_level_up_rare",
+    "id": 19013,
+    "isAchievementMission": true,
+    "parameterGroupId": 15,
+    "progressSentence": "{progress}次",
+    "sentence": "“东云绘名”★4/生日稀有度卡牌的技能等级提升{requirement}次。"
+  },
+  {
+    "characterId": 19,
+    "characterMissionType": "skill_level_up_standard",
+    "id": 19014,
+    "isAchievementMission": true,
+    "parameterGroupId": 16,
+    "progressSentence": "{progress}次",
+    "sentence": "“东云绘名”★1/★2/★3稀有度卡牌的技能等级提升{requirement}次。"
+  },
+  {
+    "characterId": 19,
+    "characterMissionType": "master_rank_up_rare",
+    "id": 19015,
+    "isAchievementMission": true,
+    "parameterGroupId": 17,
+    "progressSentence": "{progress}次",
+    "sentence": "“东云绘名”★4/生日稀有度卡牌的专家等级提升{requirement}次。"
+  },
+  {
+    "characterId": 19,
+    "characterMissionType": "master_rank_up_standard",
+    "id": 19016,
+    "isAchievementMission": true,
+    "parameterGroupId": 18,
+    "progressSentence": "{progress}次",
+    "sentence": "“东云绘名”★1/★2/★3稀有度卡牌的专家等级提升{requirement}次。"
+  },
+  {
+    "characterId": 19,
+    "characterMissionType": "collect_character_archive_voice",
+    "id": 19019,
+    "isAchievementMission": false,
+    "parameterGroupId": 19,
+    "progressSentence": "{progress}种",
+    "sentence": "收集“东云绘名”的演出台词、招募台词总计{requirement}种。"
+  },
+  {
+    "characterId": 19,
+    "characterMissionType": "collect_mysekai_fixture",
+    "id": 19020,
+    "isAchievementMission": true,
+    "parameterGroupId": 20,
+    "progressSentence": "{progress}种",
+    "sentence": "在我的「世界」获得{requirement}种带“东云绘名”标签的家具。"
+  },
+  {
+    "characterId": 19,
+    "characterMissionType": "collect_mysekai_canvas",
+    "id": 19021,
+    "isAchievementMission": true,
+    "parameterGroupId": 21,
+    "progressSentence": "{progress}种",
+    "sentence": "在我的「世界」制作{requirement}种“东云绘名”成员的装饰画。"
+  },
+  {
+    "characterId": 19,
+    "characterMissionType": "read_mysekai_fixture_unique_character_talk",
+    "id": 19022,
+    "isAchievementMission": false,
+    "parameterGroupId": 22,
+    "progressSentence": "{progress}种",
+    "sentence": "在我的「世界」制作会触发“东云绘名”对话的家具，并观看{requirement}种对话。"
+  },
+  {
+    "characterId": 19,
+    "characterMissionType": "play_live_ex",
+    "id": 19101,
+    "isAchievementMission": true,
+    "parameterGroupId": 101,
+    "progressSentence": "{progress}次",
+    "sentence": "将“东云绘名”设为队长并进行{requirement}次演出。"
+  },
+  {
+    "characterId": 19,
+    "characterMissionType": "waiting_room_ex",
+    "id": 19102,
+    "isAchievementMission": true,
+    "parameterGroupId": 102,
+    "progressSentence": "{progress}次",
+    "sentence": "将“东云绘名”送到休息室{requirement}次。"
+  },
+  {
+    "characterId": 20,
+    "characterMissionType": "play_live",
+    "id": 20001,
+    "isAchievementMission": true,
+    "parameterGroupId": 1,
+    "progressSentence": "{progress}次",
+    "sentence": "将“晓山瑞希”设为队长并进行{requirement}次演出。"
+  },
+  {
+    "characterId": 20,
+    "characterMissionType": "waiting_room",
+    "id": 20002,
+    "isAchievementMission": true,
+    "parameterGroupId": 2,
+    "progressSentence": "{progress}次",
+    "sentence": "将“晓山瑞希”送到休息室{requirement}次。"
+  },
+  {
+    "characterId": 20,
+    "characterMissionType": "collect_costume_3d",
+    "id": 20003,
+    "isAchievementMission": false,
+    "parameterGroupId": 3,
+    "progressSentence": "{progress}套",
+    "sentence": "持有{requirement}套“晓山瑞希”3D服装。"
+  },
+  {
+    "characterId": 20,
+    "characterMissionType": "collect_stamp",
+    "id": 20004,
+    "isAchievementMission": false,
+    "parameterGroupId": 4,
+    "progressSentence": "{progress}种",
+    "sentence": "持有{requirement}种“晓山瑞希”的表情。"
+  },
+  {
+    "characterId": 20,
+    "characterMissionType": "read_area_talk",
+    "id": 20005,
+    "isAchievementMission": false,
+    "parameterGroupId": 5,
+    "progressSentence": "{progress}种",
+    "sentence": "观看{requirement}种“晓山瑞希”的区域对话。"
+  },
+  {
+    "characterId": 20,
+    "characterMissionType": "read_card_episode_first",
+    "id": 20006,
+    "isAchievementMission": true,
+    "parameterGroupId": 6,
+    "progressSentence": "{progress}种",
+    "sentence": "观看{requirement}种“晓山瑞希”卡牌剧情上篇。"
+  },
+  {
+    "characterId": 20,
+    "characterMissionType": "read_card_episode_second",
+    "id": 20007,
+    "isAchievementMission": true,
+    "parameterGroupId": 7,
+    "progressSentence": "{progress}种",
+    "sentence": "观看{requirement}种“晓山瑞希”卡牌剧情下篇。"
+  },
+  {
+    "characterId": 20,
+    "characterMissionType": "collect_another_vocal",
+    "id": 20008,
+    "isAchievementMission": false,
+    "parameterGroupId": 8,
+    "progressSentence": "{progress}种",
+    "sentence": "持有{requirement}种“晓山瑞希”的Another Vocal。"
+  },
+  {
+    "characterId": 20,
+    "characterMissionType": "area_item_level_up_character",
+    "id": 20009,
+    "isAchievementMission": true,
+    "parameterGroupId": 9,
+    "progressSentence": "{progress}次",
+    "sentence": "“晓山瑞希”的区域道具的等级累计提升{requirement}次。"
+  },
+  {
+    "characterId": 20,
+    "characterMissionType": "area_item_level_up_unit",
+    "id": 20010,
+    "isAchievementMission": true,
+    "parameterGroupId": 11,
+    "progressSentence": "{progress}次",
+    "sentence": "指定组合的区域道具的等级累计提升{requirement}次。"
+  },
+  {
+    "characterId": 20,
+    "characterMissionType": "area_item_level_up_reality_world",
+    "id": 20011,
+    "isAchievementMission": true,
+    "parameterGroupId": 13,
+    "progressSentence": "{progress}次",
+    "sentence": "现实世界的区域道具的等级累计提升{requirement}次。"
+  },
+  {
+    "characterId": 20,
+    "characterMissionType": "collect_member",
+    "id": 20012,
+    "isAchievementMission": false,
+    "parameterGroupId": 14,
+    "progressSentence": "{progress}种",
+    "sentence": "持有{requirement}种“晓山瑞希”的卡牌。"
+  },
+  {
+    "characterId": 20,
+    "characterMissionType": "skill_level_up_rare",
+    "id": 20013,
+    "isAchievementMission": true,
+    "parameterGroupId": 15,
+    "progressSentence": "{progress}次",
+    "sentence": "“晓山瑞希”★4/生日稀有度卡牌的技能等级提升{requirement}次。"
+  },
+  {
+    "characterId": 20,
+    "characterMissionType": "skill_level_up_standard",
+    "id": 20014,
+    "isAchievementMission": true,
+    "parameterGroupId": 16,
+    "progressSentence": "{progress}次",
+    "sentence": "“晓山瑞希”★1/★2/★3稀有度卡牌的技能等级提升{requirement}次。"
+  },
+  {
+    "characterId": 20,
+    "characterMissionType": "master_rank_up_rare",
+    "id": 20015,
+    "isAchievementMission": true,
+    "parameterGroupId": 17,
+    "progressSentence": "{progress}次",
+    "sentence": "“晓山瑞希”★4/生日稀有度卡牌的专家等级提升{requirement}次。"
+  },
+  {
+    "characterId": 20,
+    "characterMissionType": "master_rank_up_standard",
+    "id": 20016,
+    "isAchievementMission": true,
+    "parameterGroupId": 18,
+    "progressSentence": "{progress}次",
+    "sentence": "“晓山瑞希”★1/★2/★3稀有度卡牌的专家等级提升{requirement}次。"
+  },
+  {
+    "characterId": 20,
+    "characterMissionType": "collect_character_archive_voice",
+    "id": 20019,
+    "isAchievementMission": false,
+    "parameterGroupId": 19,
+    "progressSentence": "{progress}种",
+    "sentence": "收集“晓山瑞希”的演出台词、招募台词总计{requirement}种。"
+  },
+  {
+    "characterId": 20,
+    "characterMissionType": "collect_mysekai_fixture",
+    "id": 20020,
+    "isAchievementMission": true,
+    "parameterGroupId": 20,
+    "progressSentence": "{progress}种",
+    "sentence": "在我的「世界」获得{requirement}种带“晓山瑞希”标签的家具。"
+  },
+  {
+    "characterId": 20,
+    "characterMissionType": "collect_mysekai_canvas",
+    "id": 20021,
+    "isAchievementMission": true,
+    "parameterGroupId": 21,
+    "progressSentence": "{progress}种",
+    "sentence": "在我的「世界」制作{requirement}种“晓山瑞希”成员的装饰画。"
+  },
+  {
+    "characterId": 20,
+    "characterMissionType": "read_mysekai_fixture_unique_character_talk",
+    "id": 20022,
+    "isAchievementMission": false,
+    "parameterGroupId": 22,
+    "progressSentence": "{progress}种",
+    "sentence": "在我的「世界」制作会触发“晓山瑞希”对话的家具，并观看{requirement}种对话。"
+  },
+  {
+    "characterId": 20,
+    "characterMissionType": "play_live_ex",
+    "id": 20101,
+    "isAchievementMission": true,
+    "parameterGroupId": 101,
+    "progressSentence": "{progress}次",
+    "sentence": "将“晓山瑞希”设为队长并进行{requirement}次演出。"
+  },
+  {
+    "characterId": 20,
+    "characterMissionType": "waiting_room_ex",
+    "id": 20102,
+    "isAchievementMission": true,
+    "parameterGroupId": 102,
+    "progressSentence": "{progress}次",
+    "sentence": "将“晓山瑞希”送到休息室{requirement}次。"
+  },
+  {
+    "characterId": 21,
+    "characterMissionType": "play_live",
+    "id": 21001,
+    "isAchievementMission": true,
+    "parameterGroupId": 1,
+    "progressSentence": "{progress}次",
+    "sentence": "将“初音未来”设为队长并进行{requirement}次演出。"
+  },
+  {
+    "characterId": 21,
+    "characterMissionType": "waiting_room",
+    "id": 21002,
+    "isAchievementMission": true,
+    "parameterGroupId": 2,
+    "progressSentence": "{progress}次",
+    "sentence": "将“初音未来”送到休息室{requirement}次。"
+  },
+  {
+    "characterId": 21,
+    "characterMissionType": "collect_costume_3d",
+    "id": 21003,
+    "isAchievementMission": false,
+    "parameterGroupId": 3,
+    "progressSentence": "{progress}套",
+    "sentence": "持有{requirement}套“初音未来”3D服装。"
+  },
+  {
+    "characterId": 21,
+    "characterMissionType": "collect_stamp",
+    "id": 21004,
+    "isAchievementMission": false,
+    "parameterGroupId": 4,
+    "progressSentence": "{progress}种",
+    "sentence": "持有{requirement}种“初音未来”的表情。"
+  },
+  {
+    "characterId": 21,
+    "characterMissionType": "read_area_talk",
+    "id": 21005,
+    "isAchievementMission": false,
+    "parameterGroupId": 5,
+    "progressSentence": "{progress}种",
+    "sentence": "观看{requirement}种“初音未来”的区域对话。"
+  },
+  {
+    "characterId": 21,
+    "characterMissionType": "read_card_episode_first",
+    "id": 21006,
+    "isAchievementMission": true,
+    "parameterGroupId": 6,
+    "progressSentence": "{progress}种",
+    "sentence": "观看{requirement}种“初音未来”卡牌剧情上篇。"
+  },
+  {
+    "characterId": 21,
+    "characterMissionType": "read_card_episode_second",
+    "id": 21007,
+    "isAchievementMission": true,
+    "parameterGroupId": 7,
+    "progressSentence": "{progress}种",
+    "sentence": "观看{requirement}种“初音未来”卡牌剧情下篇。"
+  },
+  {
+    "characterId": 21,
+    "characterMissionType": "collect_another_vocal",
+    "id": 21008,
+    "isAchievementMission": false,
+    "parameterGroupId": 8,
+    "progressSentence": "{progress}种",
+    "sentence": "持有{requirement}种“初音未来”的Another Vocal。"
+  },
+  {
+    "characterId": 21,
+    "characterMissionType": "area_item_level_up_character",
+    "id": 21009,
+    "isAchievementMission": true,
+    "parameterGroupId": 10,
+    "progressSentence": "{progress}次",
+    "sentence": "“初音未来”的区域道具的等级累计提升{requirement}次。"
+  },
+  {
+    "characterId": 21,
+    "characterMissionType": "area_item_level_up_unit",
+    "id": 21010,
+    "isAchievementMission": true,
+    "parameterGroupId": 12,
+    "progressSentence": "{progress}次",
+    "sentence": "指定组合的区域道具的等级累计提升{requirement}次。"
+  },
+  {
+    "characterId": 21,
+    "characterMissionType": "area_item_level_up_reality_world",
+    "id": 21011,
+    "isAchievementMission": true,
+    "parameterGroupId": 13,
+    "progressSentence": "{progress}次",
+    "sentence": "现实世界的区域道具的等级累计提升{requirement}次。"
+  },
+  {
+    "characterId": 21,
+    "characterMissionType": "collect_member",
+    "id": 21012,
+    "isAchievementMission": false,
+    "parameterGroupId": 14,
+    "progressSentence": "{progress}种",
+    "sentence": "持有{requirement}种“初音未来”的卡牌。"
+  },
+  {
+    "characterId": 21,
+    "characterMissionType": "skill_level_up_rare",
+    "id": 21013,
+    "isAchievementMission": true,
+    "parameterGroupId": 15,
+    "progressSentence": "{progress}次",
+    "sentence": "“初音未来”★4/纪念日稀有度卡牌的技能等级提升{requirement}次。"
+  },
+  {
+    "characterId": 21,
+    "characterMissionType": "skill_level_up_standard",
+    "id": 21014,
+    "isAchievementMission": true,
+    "parameterGroupId": 16,
+    "progressSentence": "{progress}次",
+    "sentence": "“初音未来”★1/★2/★3稀有度卡牌的技能等级提升{requirement}次。"
+  },
+  {
+    "characterId": 21,
+    "characterMissionType": "master_rank_up_rare",
+    "id": 21015,
+    "isAchievementMission": true,
+    "parameterGroupId": 17,
+    "progressSentence": "{progress}次",
+    "sentence": "“初音未来”★4/纪念日稀有度卡牌的专家等级提升{requirement}次。"
+  },
+  {
+    "characterId": 21,
+    "characterMissionType": "master_rank_up_standard",
+    "id": 21016,
+    "isAchievementMission": true,
+    "parameterGroupId": 18,
+    "progressSentence": "{progress}次",
+    "sentence": "“初音未来”★1/★2/★3稀有度卡牌的专家等级提升{requirement}次。"
+  },
+  {
+    "characterId": 21,
+    "characterMissionType": "collect_character_archive_voice",
+    "id": 21019,
+    "isAchievementMission": false,
+    "parameterGroupId": 19,
+    "progressSentence": "{progress}种",
+    "sentence": "收集“初音未来”的演出台词、招募台词总计{requirement}种。"
+  },
+  {
+    "characterId": 21,
+    "characterMissionType": "collect_mysekai_fixture",
+    "id": 21020,
+    "isAchievementMission": true,
+    "parameterGroupId": 20,
+    "progressSentence": "{progress}种",
+    "sentence": "在我的「世界」获得{requirement}种带“初音未来”标签的家具。"
+  },
+  {
+    "characterId": 21,
+    "characterMissionType": "collect_mysekai_canvas",
+    "id": 21021,
+    "isAchievementMission": true,
+    "parameterGroupId": 21,
+    "progressSentence": "{progress}种",
+    "sentence": "在我的「世界」制作{requirement}种“初音未来”成员的装饰画。"
+  },
+  {
+    "characterId": 21,
+    "characterMissionType": "read_mysekai_fixture_unique_character_talk",
+    "id": 21022,
+    "isAchievementMission": false,
+    "parameterGroupId": 22,
+    "progressSentence": "{progress}种",
+    "sentence": "在我的「世界」制作会触发“初音未来”对话的家具，并观看{requirement}种对话。"
+  },
+  {
+    "characterId": 21,
+    "characterMissionType": "play_live_ex",
+    "id": 21101,
+    "isAchievementMission": true,
+    "parameterGroupId": 101,
+    "progressSentence": "{progress}次",
+    "sentence": "将“初音未来”设为队长并进行{requirement}次演出。"
+  },
+  {
+    "characterId": 21,
+    "characterMissionType": "waiting_room_ex",
+    "id": 21102,
+    "isAchievementMission": true,
+    "parameterGroupId": 102,
+    "progressSentence": "{progress}次",
+    "sentence": "将“初音未来”送到休息室{requirement}次。"
+  },
+  {
+    "characterId": 22,
+    "characterMissionType": "play_live",
+    "id": 22001,
+    "isAchievementMission": true,
+    "parameterGroupId": 1,
+    "progressSentence": "{progress}次",
+    "sentence": "将“镜音铃”设为队长并进行{requirement}次演出。"
+  },
+  {
+    "characterId": 22,
+    "characterMissionType": "waiting_room",
+    "id": 22002,
+    "isAchievementMission": true,
+    "parameterGroupId": 2,
+    "progressSentence": "{progress}次",
+    "sentence": "将“镜音铃”送到休息室{requirement}次。"
+  },
+  {
+    "characterId": 22,
+    "characterMissionType": "collect_costume_3d",
+    "id": 22003,
+    "isAchievementMission": false,
+    "parameterGroupId": 3,
+    "progressSentence": "{progress}套",
+    "sentence": "持有{requirement}套“镜音铃”3D服装。"
+  },
+  {
+    "characterId": 22,
+    "characterMissionType": "collect_stamp",
+    "id": 22004,
+    "isAchievementMission": false,
+    "parameterGroupId": 4,
+    "progressSentence": "{progress}种",
+    "sentence": "持有{requirement}种“镜音铃”的表情。"
+  },
+  {
+    "characterId": 22,
+    "characterMissionType": "read_area_talk",
+    "id": 22005,
+    "isAchievementMission": false,
+    "parameterGroupId": 5,
+    "progressSentence": "{progress}种",
+    "sentence": "观看{requirement}种“镜音铃”的区域对话。"
+  },
+  {
+    "characterId": 22,
+    "characterMissionType": "read_card_episode_first",
+    "id": 22006,
+    "isAchievementMission": true,
+    "parameterGroupId": 6,
+    "progressSentence": "{progress}种",
+    "sentence": "观看{requirement}种“镜音铃”卡牌剧情上篇。"
+  },
+  {
+    "characterId": 22,
+    "characterMissionType": "read_card_episode_second",
+    "id": 22007,
+    "isAchievementMission": true,
+    "parameterGroupId": 7,
+    "progressSentence": "{progress}种",
+    "sentence": "观看{requirement}种“镜音铃”卡牌剧情下篇。"
+  },
+  {
+    "characterId": 22,
+    "characterMissionType": "collect_another_vocal",
+    "id": 22008,
+    "isAchievementMission": false,
+    "parameterGroupId": 8,
+    "progressSentence": "{progress}种",
+    "sentence": "持有{requirement}种“镜音铃”的Another Vocal。"
+  },
+  {
+    "characterId": 22,
+    "characterMissionType": "area_item_level_up_character",
+    "id": 22009,
+    "isAchievementMission": true,
+    "parameterGroupId": 9,
+    "progressSentence": "{progress}次",
+    "sentence": "“镜音铃”的区域道具的等级累计提升{requirement}次。"
+  },
+  {
+    "characterId": 22,
+    "characterMissionType": "area_item_level_up_unit",
+    "id": 22010,
+    "isAchievementMission": true,
+    "parameterGroupId": 12,
+    "progressSentence": "{progress}次",
+    "sentence": "指定组合的区域道具的等级累计提升{requirement}次。"
+  },
+  {
+    "characterId": 22,
+    "characterMissionType": "area_item_level_up_reality_world",
+    "id": 22011,
+    "isAchievementMission": true,
+    "parameterGroupId": 13,
+    "progressSentence": "{progress}次",
+    "sentence": "现实世界的区域道具的等级累计提升{requirement}次。"
+  },
+  {
+    "characterId": 22,
+    "characterMissionType": "collect_member",
+    "id": 22012,
+    "isAchievementMission": false,
+    "parameterGroupId": 14,
+    "progressSentence": "{progress}种",
+    "sentence": "持有{requirement}种“镜音铃”的卡牌。"
+  },
+  {
+    "characterId": 22,
+    "characterMissionType": "skill_level_up_rare",
+    "id": 22013,
+    "isAchievementMission": true,
+    "parameterGroupId": 15,
+    "progressSentence": "{progress}次",
+    "sentence": "“镜音铃”★4/纪念日稀有度卡牌的技能等级提升{requirement}次。"
+  },
+  {
+    "characterId": 22,
+    "characterMissionType": "skill_level_up_standard",
+    "id": 22014,
+    "isAchievementMission": true,
+    "parameterGroupId": 16,
+    "progressSentence": "{progress}次",
+    "sentence": "“镜音铃”★1/★2/★3稀有度卡牌的技能等级提升{requirement}次。"
+  },
+  {
+    "characterId": 22,
+    "characterMissionType": "master_rank_up_rare",
+    "id": 22015,
+    "isAchievementMission": true,
+    "parameterGroupId": 17,
+    "progressSentence": "{progress}次",
+    "sentence": "“镜音铃”★4/纪念日稀有度卡牌的专家等级提升{requirement}次。"
+  },
+  {
+    "characterId": 22,
+    "characterMissionType": "master_rank_up_standard",
+    "id": 22016,
+    "isAchievementMission": true,
+    "parameterGroupId": 18,
+    "progressSentence": "{progress}次",
+    "sentence": "“镜音铃”★1/★2/★3稀有度卡牌的专家等级提升{requirement}次。"
+  },
+  {
+    "characterId": 22,
+    "characterMissionType": "collect_character_archive_voice",
+    "id": 22019,
+    "isAchievementMission": false,
+    "parameterGroupId": 19,
+    "progressSentence": "{progress}种",
+    "sentence": "收集“镜音铃”的演出台词、招募台词总计{requirement}种。"
+  },
+  {
+    "characterId": 22,
+    "characterMissionType": "collect_mysekai_fixture",
+    "id": 22020,
+    "isAchievementMission": true,
+    "parameterGroupId": 20,
+    "progressSentence": "{progress}种",
+    "sentence": "在我的「世界」获得{requirement}种带“镜音铃”标签的家具。"
+  },
+  {
+    "characterId": 22,
+    "characterMissionType": "collect_mysekai_canvas",
+    "id": 22021,
+    "isAchievementMission": true,
+    "parameterGroupId": 21,
+    "progressSentence": "{progress}种",
+    "sentence": "在我的「世界」制作{requirement}种“镜音铃”成员的装饰画。"
+  },
+  {
+    "characterId": 22,
+    "characterMissionType": "read_mysekai_fixture_unique_character_talk",
+    "id": 22022,
+    "isAchievementMission": false,
+    "parameterGroupId": 22,
+    "progressSentence": "{progress}种",
+    "sentence": "在我的「世界」制作会触发“镜音铃”对话的家具，并观看{requirement}种对话。"
+  },
+  {
+    "characterId": 22,
+    "characterMissionType": "play_live_ex",
+    "id": 22101,
+    "isAchievementMission": true,
+    "parameterGroupId": 101,
+    "progressSentence": "{progress}次",
+    "sentence": "将“镜音铃”设为队长并进行{requirement}次演出。"
+  },
+  {
+    "characterId": 22,
+    "characterMissionType": "waiting_room_ex",
+    "id": 22102,
+    "isAchievementMission": true,
+    "parameterGroupId": 102,
+    "progressSentence": "{progress}次",
+    "sentence": "将“镜音铃”送到休息室{requirement}次。"
+  },
+  {
+    "characterId": 23,
+    "characterMissionType": "play_live",
+    "id": 23001,
+    "isAchievementMission": true,
+    "parameterGroupId": 1,
+    "progressSentence": "{progress}次",
+    "sentence": "将“镜音连”设为队长并进行{requirement}次演出。"
+  },
+  {
+    "characterId": 23,
+    "characterMissionType": "waiting_room",
+    "id": 23002,
+    "isAchievementMission": true,
+    "parameterGroupId": 2,
+    "progressSentence": "{progress}次",
+    "sentence": "将“镜音连”送到休息室{requirement}次。"
+  },
+  {
+    "characterId": 23,
+    "characterMissionType": "collect_costume_3d",
+    "id": 23003,
+    "isAchievementMission": false,
+    "parameterGroupId": 3,
+    "progressSentence": "{progress}套",
+    "sentence": "持有{requirement}套“镜音连”3D服装。"
+  },
+  {
+    "characterId": 23,
+    "characterMissionType": "collect_stamp",
+    "id": 23004,
+    "isAchievementMission": false,
+    "parameterGroupId": 4,
+    "progressSentence": "{progress}种",
+    "sentence": "持有{requirement}种“镜音连”的表情。"
+  },
+  {
+    "characterId": 23,
+    "characterMissionType": "read_area_talk",
+    "id": 23005,
+    "isAchievementMission": false,
+    "parameterGroupId": 5,
+    "progressSentence": "{progress}种",
+    "sentence": "观看{requirement}种“镜音连”的区域对话。"
+  },
+  {
+    "characterId": 23,
+    "characterMissionType": "read_card_episode_first",
+    "id": 23006,
+    "isAchievementMission": true,
+    "parameterGroupId": 6,
+    "progressSentence": "{progress}种",
+    "sentence": "观看{requirement}种“镜音连”卡牌剧情上篇。"
+  },
+  {
+    "characterId": 23,
+    "characterMissionType": "read_card_episode_second",
+    "id": 23007,
+    "isAchievementMission": true,
+    "parameterGroupId": 7,
+    "progressSentence": "{progress}种",
+    "sentence": "观看{requirement}种“镜音连”卡牌剧情下篇。"
+  },
+  {
+    "characterId": 23,
+    "characterMissionType": "collect_another_vocal",
+    "id": 23008,
+    "isAchievementMission": false,
+    "parameterGroupId": 8,
+    "progressSentence": "{progress}种",
+    "sentence": "持有{requirement}种“镜音连”的Another Vocal。"
+  },
+  {
+    "characterId": 23,
+    "characterMissionType": "area_item_level_up_character",
+    "id": 23009,
+    "isAchievementMission": true,
+    "parameterGroupId": 9,
+    "progressSentence": "{progress}次",
+    "sentence": "“镜音连”的区域道具的等级累计提升{requirement}次。"
+  },
+  {
+    "characterId": 23,
+    "characterMissionType": "area_item_level_up_unit",
+    "id": 23010,
+    "isAchievementMission": true,
+    "parameterGroupId": 12,
+    "progressSentence": "{progress}次",
+    "sentence": "指定组合的区域道具的等级累计提升{requirement}次。"
+  },
+  {
+    "characterId": 23,
+    "characterMissionType": "area_item_level_up_reality_world",
+    "id": 23011,
+    "isAchievementMission": true,
+    "parameterGroupId": 13,
+    "progressSentence": "{progress}次",
+    "sentence": "现实世界的区域道具的等级累计提升{requirement}次。"
+  },
+  {
+    "characterId": 23,
+    "characterMissionType": "collect_member",
+    "id": 23012,
+    "isAchievementMission": false,
+    "parameterGroupId": 14,
+    "progressSentence": "{progress}种",
+    "sentence": "持有{requirement}种“镜音连”的卡牌。"
+  },
+  {
+    "characterId": 23,
+    "characterMissionType": "skill_level_up_rare",
+    "id": 23013,
+    "isAchievementMission": true,
+    "parameterGroupId": 15,
+    "progressSentence": "{progress}次",
+    "sentence": "“镜音连”★4/纪念日稀有度卡牌的技能等级提升{requirement}次。"
+  },
+  {
+    "characterId": 23,
+    "characterMissionType": "skill_level_up_standard",
+    "id": 23014,
+    "isAchievementMission": true,
+    "parameterGroupId": 16,
+    "progressSentence": "{progress}次",
+    "sentence": "“镜音连”★1/★2/★3稀有度卡牌的技能等级提升{requirement}次。"
+  },
+  {
+    "characterId": 23,
+    "characterMissionType": "master_rank_up_rare",
+    "id": 23015,
+    "isAchievementMission": true,
+    "parameterGroupId": 17,
+    "progressSentence": "{progress}次",
+    "sentence": "“镜音连”★4/纪念日稀有度卡牌的专家等级提升{requirement}次。"
+  },
+  {
+    "characterId": 23,
+    "characterMissionType": "master_rank_up_standard",
+    "id": 23016,
+    "isAchievementMission": true,
+    "parameterGroupId": 18,
+    "progressSentence": "{progress}次",
+    "sentence": "“镜音连”★1/★2/★3稀有度卡牌的专家等级提升{requirement}次。"
+  },
+  {
+    "characterId": 23,
+    "characterMissionType": "collect_character_archive_voice",
+    "id": 23019,
+    "isAchievementMission": false,
+    "parameterGroupId": 19,
+    "progressSentence": "{progress}种",
+    "sentence": "收集“镜音连”的演出台词、招募台词总计{requirement}种。"
+  },
+  {
+    "characterId": 23,
+    "characterMissionType": "collect_mysekai_fixture",
+    "id": 23020,
+    "isAchievementMission": true,
+    "parameterGroupId": 20,
+    "progressSentence": "{progress}种",
+    "sentence": "在我的「世界」获得{requirement}种带“镜音连”标签的家具。"
+  },
+  {
+    "characterId": 23,
+    "characterMissionType": "collect_mysekai_canvas",
+    "id": 23021,
+    "isAchievementMission": true,
+    "parameterGroupId": 21,
+    "progressSentence": "{progress}种",
+    "sentence": "在我的「世界」制作{requirement}种“镜音连”成员的装饰画。"
+  },
+  {
+    "characterId": 23,
+    "characterMissionType": "read_mysekai_fixture_unique_character_talk",
+    "id": 23022,
+    "isAchievementMission": false,
+    "parameterGroupId": 22,
+    "progressSentence": "{progress}种",
+    "sentence": "在我的「世界」制作会触发“镜音连”对话的家具，并观看{requirement}种对话。"
+  },
+  {
+    "characterId": 23,
+    "characterMissionType": "play_live_ex",
+    "id": 23101,
+    "isAchievementMission": true,
+    "parameterGroupId": 101,
+    "progressSentence": "{progress}次",
+    "sentence": "将“镜音连”设为队长并进行{requirement}次演出。"
+  },
+  {
+    "characterId": 23,
+    "characterMissionType": "waiting_room_ex",
+    "id": 23102,
+    "isAchievementMission": true,
+    "parameterGroupId": 102,
+    "progressSentence": "{progress}次",
+    "sentence": "将“镜音连”送到休息室{requirement}次。"
+  },
+  {
+    "characterId": 24,
+    "characterMissionType": "play_live",
+    "id": 24001,
+    "isAchievementMission": true,
+    "parameterGroupId": 1,
+    "progressSentence": "{progress}次",
+    "sentence": "将“巡音流歌”设为队长并进行{requirement}次演出。"
+  },
+  {
+    "characterId": 24,
+    "characterMissionType": "waiting_room",
+    "id": 24002,
+    "isAchievementMission": true,
+    "parameterGroupId": 2,
+    "progressSentence": "{progress}次",
+    "sentence": "将“巡音流歌”送到休息室{requirement}次。"
+  },
+  {
+    "characterId": 24,
+    "characterMissionType": "collect_costume_3d",
+    "id": 24003,
+    "isAchievementMission": false,
+    "parameterGroupId": 3,
+    "progressSentence": "{progress}套",
+    "sentence": "持有{requirement}套“巡音流歌”3D服装。"
+  },
+  {
+    "characterId": 24,
+    "characterMissionType": "collect_stamp",
+    "id": 24004,
+    "isAchievementMission": false,
+    "parameterGroupId": 4,
+    "progressSentence": "{progress}种",
+    "sentence": "持有{requirement}种“巡音流歌”的表情。"
+  },
+  {
+    "characterId": 24,
+    "characterMissionType": "read_area_talk",
+    "id": 24005,
+    "isAchievementMission": false,
+    "parameterGroupId": 5,
+    "progressSentence": "{progress}种",
+    "sentence": "观看{requirement}种“巡音流歌”的区域对话。"
+  },
+  {
+    "characterId": 24,
+    "characterMissionType": "read_card_episode_first",
+    "id": 24006,
+    "isAchievementMission": true,
+    "parameterGroupId": 6,
+    "progressSentence": "{progress}种",
+    "sentence": "观看{requirement}种“巡音流歌”卡牌剧情上篇。"
+  },
+  {
+    "characterId": 24,
+    "characterMissionType": "read_card_episode_second",
+    "id": 24007,
+    "isAchievementMission": true,
+    "parameterGroupId": 7,
+    "progressSentence": "{progress}种",
+    "sentence": "观看{requirement}种“巡音流歌”卡牌剧情下篇。"
+  },
+  {
+    "characterId": 24,
+    "characterMissionType": "collect_another_vocal",
+    "id": 24008,
+    "isAchievementMission": false,
+    "parameterGroupId": 8,
+    "progressSentence": "{progress}种",
+    "sentence": "持有{requirement}种“巡音流歌”的Another Vocal。"
+  },
+  {
+    "characterId": 24,
+    "characterMissionType": "area_item_level_up_character",
+    "id": 24009,
+    "isAchievementMission": true,
+    "parameterGroupId": 9,
+    "progressSentence": "{progress}次",
+    "sentence": "“巡音流歌”的区域道具的等级累计提升{requirement}次。"
+  },
+  {
+    "characterId": 24,
+    "characterMissionType": "area_item_level_up_unit",
+    "id": 24010,
+    "isAchievementMission": true,
+    "parameterGroupId": 12,
+    "progressSentence": "{progress}次",
+    "sentence": "指定组合的区域道具的等级累计提升{requirement}次。"
+  },
+  {
+    "characterId": 24,
+    "characterMissionType": "area_item_level_up_reality_world",
+    "id": 24011,
+    "isAchievementMission": true,
+    "parameterGroupId": 13,
+    "progressSentence": "{progress}次",
+    "sentence": "现实世界的区域道具的等级累计提升{requirement}次。"
+  },
+  {
+    "characterId": 24,
+    "characterMissionType": "collect_member",
+    "id": 24012,
+    "isAchievementMission": false,
+    "parameterGroupId": 14,
+    "progressSentence": "{progress}种",
+    "sentence": "持有{requirement}种“巡音流歌”的卡牌。"
+  },
+  {
+    "characterId": 24,
+    "characterMissionType": "skill_level_up_rare",
+    "id": 24013,
+    "isAchievementMission": true,
+    "parameterGroupId": 15,
+    "progressSentence": "{progress}次",
+    "sentence": "“巡音流歌”★4/纪念日稀有度卡牌的技能等级提升{requirement}次。"
+  },
+  {
+    "characterId": 24,
+    "characterMissionType": "skill_level_up_standard",
+    "id": 24014,
+    "isAchievementMission": true,
+    "parameterGroupId": 16,
+    "progressSentence": "{progress}次",
+    "sentence": "“巡音流歌”★1/★2/★3稀有度卡牌的技能等级提升{requirement}次。"
+  },
+  {
+    "characterId": 24,
+    "characterMissionType": "master_rank_up_rare",
+    "id": 24015,
+    "isAchievementMission": true,
+    "parameterGroupId": 17,
+    "progressSentence": "{progress}次",
+    "sentence": "“巡音流歌”★4/纪念日稀有度卡牌的专家等级提升{requirement}次。"
+  },
+  {
+    "characterId": 24,
+    "characterMissionType": "master_rank_up_standard",
+    "id": 24016,
+    "isAchievementMission": true,
+    "parameterGroupId": 18,
+    "progressSentence": "{progress}次",
+    "sentence": "“巡音流歌”★1/★2/★3稀有度卡牌的专家等级提升{requirement}次。"
+  },
+  {
+    "characterId": 24,
+    "characterMissionType": "collect_character_archive_voice",
+    "id": 24019,
+    "isAchievementMission": false,
+    "parameterGroupId": 19,
+    "progressSentence": "{progress}种",
+    "sentence": "收集“巡音流歌”的演出台词、招募台词总计{requirement}种。"
+  },
+  {
+    "characterId": 24,
+    "characterMissionType": "collect_mysekai_fixture",
+    "id": 24020,
+    "isAchievementMission": true,
+    "parameterGroupId": 20,
+    "progressSentence": "{progress}种",
+    "sentence": "在我的「世界」获得{requirement}种带“巡音流歌”标签的家具。"
+  },
+  {
+    "characterId": 24,
+    "characterMissionType": "collect_mysekai_canvas",
+    "id": 24021,
+    "isAchievementMission": true,
+    "parameterGroupId": 21,
+    "progressSentence": "{progress}种",
+    "sentence": "在我的「世界」制作{requirement}种“巡音流歌”成员的装饰画。"
+  },
+  {
+    "characterId": 24,
+    "characterMissionType": "read_mysekai_fixture_unique_character_talk",
+    "id": 24022,
+    "isAchievementMission": false,
+    "parameterGroupId": 22,
+    "progressSentence": "{progress}种",
+    "sentence": "在我的「世界」制作会触发“巡音流歌”对话的家具，并观看{requirement}种对话。"
+  },
+  {
+    "characterId": 24,
+    "characterMissionType": "play_live_ex",
+    "id": 24101,
+    "isAchievementMission": true,
+    "parameterGroupId": 101,
+    "progressSentence": "{progress}次",
+    "sentence": "将“巡音流歌”设为队长并进行{requirement}次演出。"
+  },
+  {
+    "characterId": 24,
+    "characterMissionType": "waiting_room_ex",
+    "id": 24102,
+    "isAchievementMission": true,
+    "parameterGroupId": 102,
+    "progressSentence": "{progress}次",
+    "sentence": "将“巡音流歌”送到休息室{requirement}次。"
+  },
+  {
+    "characterId": 25,
+    "characterMissionType": "play_live",
+    "id": 25001,
+    "isAchievementMission": true,
+    "parameterGroupId": 1,
+    "progressSentence": "{progress}次",
+    "sentence": "将“MEIKO”设为队长并进行{requirement}次演出。"
+  },
+  {
+    "characterId": 25,
+    "characterMissionType": "waiting_room",
+    "id": 25002,
+    "isAchievementMission": true,
+    "parameterGroupId": 2,
+    "progressSentence": "{progress}次",
+    "sentence": "将“MEIKO”送到休息室{requirement}次。"
+  },
+  {
+    "characterId": 25,
+    "characterMissionType": "collect_costume_3d",
+    "id": 25003,
+    "isAchievementMission": false,
+    "parameterGroupId": 3,
+    "progressSentence": "{progress}套",
+    "sentence": "持有{requirement}套“MEIKO”3D服装。"
+  },
+  {
+    "characterId": 25,
+    "characterMissionType": "collect_stamp",
+    "id": 25004,
+    "isAchievementMission": false,
+    "parameterGroupId": 4,
+    "progressSentence": "{progress}种",
+    "sentence": "持有{requirement}种“MEIKO”的表情。"
+  },
+  {
+    "characterId": 25,
+    "characterMissionType": "read_area_talk",
+    "id": 25005,
+    "isAchievementMission": false,
+    "parameterGroupId": 5,
+    "progressSentence": "{progress}种",
+    "sentence": "观看{requirement}种“MEIKO”的区域对话。"
+  },
+  {
+    "characterId": 25,
+    "characterMissionType": "read_card_episode_first",
+    "id": 25006,
+    "isAchievementMission": true,
+    "parameterGroupId": 6,
+    "progressSentence": "{progress}种",
+    "sentence": "观看{requirement}种“MEIKO”卡牌剧情上篇。"
+  },
+  {
+    "characterId": 25,
+    "characterMissionType": "read_card_episode_second",
+    "id": 25007,
+    "isAchievementMission": true,
+    "parameterGroupId": 7,
+    "progressSentence": "{progress}种",
+    "sentence": "观看{requirement}种“MEIKO”卡牌剧情下篇。"
+  },
+  {
+    "characterId": 25,
+    "characterMissionType": "collect_another_vocal",
+    "id": 25008,
+    "isAchievementMission": false,
+    "parameterGroupId": 8,
+    "progressSentence": "{progress}种",
+    "sentence": "持有{requirement}种“MEIKO”的Another Vocal。"
+  },
+  {
+    "characterId": 25,
+    "characterMissionType": "area_item_level_up_character",
+    "id": 25009,
+    "isAchievementMission": true,
+    "parameterGroupId": 9,
+    "progressSentence": "{progress}次",
+    "sentence": "“MEIKO”的区域道具的等级累计提升{requirement}次。"
+  },
+  {
+    "characterId": 25,
+    "characterMissionType": "area_item_level_up_unit",
+    "id": 25010,
+    "isAchievementMission": true,
+    "parameterGroupId": 12,
+    "progressSentence": "{progress}次",
+    "sentence": "指定组合的区域道具的等级累计提升{requirement}次。"
+  },
+  {
+    "characterId": 25,
+    "characterMissionType": "area_item_level_up_reality_world",
+    "id": 25011,
+    "isAchievementMission": true,
+    "parameterGroupId": 13,
+    "progressSentence": "{progress}次",
+    "sentence": "现实世界的区域道具的等级累计提升{requirement}次。"
+  },
+  {
+    "characterId": 25,
+    "characterMissionType": "collect_member",
+    "id": 25012,
+    "isAchievementMission": false,
+    "parameterGroupId": 14,
+    "progressSentence": "{progress}种",
+    "sentence": "持有{requirement}种“MEIKO”的卡牌。"
+  },
+  {
+    "characterId": 25,
+    "characterMissionType": "skill_level_up_rare",
+    "id": 25013,
+    "isAchievementMission": true,
+    "parameterGroupId": 15,
+    "progressSentence": "{progress}次",
+    "sentence": "“MEIKO”★4/纪念日稀有度卡牌的技能等级提升{requirement}次。"
+  },
+  {
+    "characterId": 25,
+    "characterMissionType": "skill_level_up_standard",
+    "id": 25014,
+    "isAchievementMission": true,
+    "parameterGroupId": 16,
+    "progressSentence": "{progress}次",
+    "sentence": "“MEIKO”★1/★2/★3稀有度卡牌的技能等级提升{requirement}次。"
+  },
+  {
+    "characterId": 25,
+    "characterMissionType": "master_rank_up_rare",
+    "id": 25015,
+    "isAchievementMission": true,
+    "parameterGroupId": 17,
+    "progressSentence": "{progress}次",
+    "sentence": "“MEIKO”★4/纪念日稀有度卡牌的专家等级提升{requirement}次。"
+  },
+  {
+    "characterId": 25,
+    "characterMissionType": "master_rank_up_standard",
+    "id": 25016,
+    "isAchievementMission": true,
+    "parameterGroupId": 18,
+    "progressSentence": "{progress}次",
+    "sentence": "“MEIKO”★1/★2/★3稀有度卡牌的专家等级提升{requirement}次。"
+  },
+  {
+    "characterId": 25,
+    "characterMissionType": "collect_character_archive_voice",
+    "id": 25019,
+    "isAchievementMission": false,
+    "parameterGroupId": 19,
+    "progressSentence": "{progress}种",
+    "sentence": "收集“MEIKO”的演出台词、招募台词总计{requirement}种。"
+  },
+  {
+    "characterId": 25,
+    "characterMissionType": "collect_mysekai_fixture",
+    "id": 25020,
+    "isAchievementMission": true,
+    "parameterGroupId": 20,
+    "progressSentence": "{progress}种",
+    "sentence": "在我的「世界」获得{requirement}种带“MEIKO”标签的家具。"
+  },
+  {
+    "characterId": 25,
+    "characterMissionType": "collect_mysekai_canvas",
+    "id": 25021,
+    "isAchievementMission": true,
+    "parameterGroupId": 21,
+    "progressSentence": "{progress}种",
+    "sentence": "在我的「世界」制作{requirement}种“MEIKO”成员的装饰画。"
+  },
+  {
+    "characterId": 25,
+    "characterMissionType": "read_mysekai_fixture_unique_character_talk",
+    "id": 25022,
+    "isAchievementMission": false,
+    "parameterGroupId": 22,
+    "progressSentence": "{progress}种",
+    "sentence": "在我的「世界」制作会触发“MEIKO”对话的家具，并观看{requirement}种对话。"
+  },
+  {
+    "characterId": 25,
+    "characterMissionType": "play_live_ex",
+    "id": 25101,
+    "isAchievementMission": true,
+    "parameterGroupId": 101,
+    "progressSentence": "{progress}次",
+    "sentence": "将“MEIKO”设为队长并进行{requirement}次演出。"
+  },
+  {
+    "characterId": 25,
+    "characterMissionType": "waiting_room_ex",
+    "id": 25102,
+    "isAchievementMission": true,
+    "parameterGroupId": 102,
+    "progressSentence": "{progress}次",
+    "sentence": "将“MEIKO”送到休息室{requirement}次。"
+  },
+  {
+    "characterId": 26,
+    "characterMissionType": "play_live",
+    "id": 26001,
+    "isAchievementMission": true,
+    "parameterGroupId": 1,
+    "progressSentence": "{progress}次",
+    "sentence": "将“KAITO”设为队长并进行{requirement}次演出。"
+  },
+  {
+    "characterId": 26,
+    "characterMissionType": "waiting_room",
+    "id": 26002,
+    "isAchievementMission": true,
+    "parameterGroupId": 2,
+    "progressSentence": "{progress}次",
+    "sentence": "将“KAITO”送到休息室{requirement}次。"
+  },
+  {
+    "characterId": 26,
+    "characterMissionType": "collect_costume_3d",
+    "id": 26003,
+    "isAchievementMission": false,
+    "parameterGroupId": 3,
+    "progressSentence": "{progress}套",
+    "sentence": "持有{requirement}套“KAITO”3D服装。"
+  },
+  {
+    "characterId": 26,
+    "characterMissionType": "collect_stamp",
+    "id": 26004,
+    "isAchievementMission": false,
+    "parameterGroupId": 4,
+    "progressSentence": "{progress}种",
+    "sentence": "持有{requirement}种“KAITO”的表情。"
+  },
+  {
+    "characterId": 26,
+    "characterMissionType": "read_area_talk",
+    "id": 26005,
+    "isAchievementMission": false,
+    "parameterGroupId": 5,
+    "progressSentence": "{progress}种",
+    "sentence": "观看{requirement}种“KAITO”的区域对话。"
+  },
+  {
+    "characterId": 26,
+    "characterMissionType": "read_card_episode_first",
+    "id": 26006,
+    "isAchievementMission": true,
+    "parameterGroupId": 6,
+    "progressSentence": "{progress}种",
+    "sentence": "观看{requirement}种“KAITO”卡牌剧情上篇。"
+  },
+  {
+    "characterId": 26,
+    "characterMissionType": "read_card_episode_second",
+    "id": 26007,
+    "isAchievementMission": true,
+    "parameterGroupId": 7,
+    "progressSentence": "{progress}种",
+    "sentence": "观看{requirement}种“KAITO”卡牌剧情下篇。"
+  },
+  {
+    "characterId": 26,
+    "characterMissionType": "collect_another_vocal",
+    "id": 26008,
+    "isAchievementMission": false,
+    "parameterGroupId": 8,
+    "progressSentence": "{progress}种",
+    "sentence": "持有{requirement}种“KAITO”的Another Vocal。"
+  },
+  {
+    "characterId": 26,
+    "characterMissionType": "area_item_level_up_character",
+    "id": 26009,
+    "isAchievementMission": true,
+    "parameterGroupId": 9,
+    "progressSentence": "{progress}次",
+    "sentence": "“KAITO”的区域道具的等级累计提升{requirement}次。"
+  },
+  {
+    "characterId": 26,
+    "characterMissionType": "area_item_level_up_unit",
+    "id": 26010,
+    "isAchievementMission": true,
+    "parameterGroupId": 12,
+    "progressSentence": "{progress}次",
+    "sentence": "指定组合的区域道具的等级累计提升{requirement}次。"
+  },
+  {
+    "characterId": 26,
+    "characterMissionType": "area_item_level_up_reality_world",
+    "id": 26011,
+    "isAchievementMission": true,
+    "parameterGroupId": 13,
+    "progressSentence": "{progress}次",
+    "sentence": "现实世界的区域道具的等级累计提升{requirement}次。"
+  },
+  {
+    "characterId": 26,
+    "characterMissionType": "collect_member",
+    "id": 26012,
+    "isAchievementMission": false,
+    "parameterGroupId": 14,
+    "progressSentence": "{progress}种",
+    "sentence": "持有{requirement}种“KAITO”的卡牌。"
+  },
+  {
+    "characterId": 26,
+    "characterMissionType": "skill_level_up_rare",
+    "id": 26013,
+    "isAchievementMission": true,
+    "parameterGroupId": 15,
+    "progressSentence": "{progress}次",
+    "sentence": "“KAITO”★4/纪念日稀有度卡牌的技能等级提升{requirement}次。"
+  },
+  {
+    "characterId": 26,
+    "characterMissionType": "skill_level_up_standard",
+    "id": 26014,
+    "isAchievementMission": true,
+    "parameterGroupId": 16,
+    "progressSentence": "{progress}次",
+    "sentence": "“KAITO”★1/★2/★3稀有度卡牌的技能等级提升{requirement}次。"
+  },
+  {
+    "characterId": 26,
+    "characterMissionType": "master_rank_up_rare",
+    "id": 26015,
+    "isAchievementMission": true,
+    "parameterGroupId": 17,
+    "progressSentence": "{progress}次",
+    "sentence": "“KAITO”★4/纪念日稀有度卡牌的专家等级提升{requirement}次。"
+  },
+  {
+    "characterId": 26,
+    "characterMissionType": "master_rank_up_standard",
+    "id": 26016,
+    "isAchievementMission": true,
+    "parameterGroupId": 18,
+    "progressSentence": "{progress}次",
+    "sentence": "“KAITO”★1/★2/★3稀有度卡牌的专家等级提升{requirement}次。"
+  },
+  {
+    "characterId": 26,
+    "characterMissionType": "collect_character_archive_voice",
+    "id": 26019,
+    "isAchievementMission": false,
+    "parameterGroupId": 19,
+    "progressSentence": "{progress}种",
+    "sentence": "收集“KAITO”的演出台词、招募台词总计{requirement}种。"
+  },
+  {
+    "characterId": 26,
+    "characterMissionType": "collect_mysekai_fixture",
+    "id": 26020,
+    "isAchievementMission": true,
+    "parameterGroupId": 20,
+    "progressSentence": "{progress}种",
+    "sentence": "在我的「世界」获得{requirement}种带“KAITO”标签的家具。"
+  },
+  {
+    "characterId": 26,
+    "characterMissionType": "collect_mysekai_canvas",
+    "id": 26021,
+    "isAchievementMission": true,
+    "parameterGroupId": 21,
+    "progressSentence": "{progress}种",
+    "sentence": "在我的「世界」制作{requirement}种“KAITO”成员的装饰画。"
+  },
+  {
+    "characterId": 26,
+    "characterMissionType": "read_mysekai_fixture_unique_character_talk",
+    "id": 26022,
+    "isAchievementMission": false,
+    "parameterGroupId": 22,
+    "progressSentence": "{progress}种",
+    "sentence": "在我的「世界」制作会触发“KAITO”对话的家具，并观看{requirement}种对话。"
+  },
+  {
+    "characterId": 26,
+    "characterMissionType": "play_live_ex",
+    "id": 26101,
+    "isAchievementMission": true,
+    "parameterGroupId": 101,
+    "progressSentence": "{progress}次",
+    "sentence": "将“KAITO”设为队长并进行{requirement}次演出。"
+  },
+  {
+    "characterId": 26,
+    "characterMissionType": "waiting_room_ex",
+    "id": 26102,
+    "isAchievementMission": true,
+    "parameterGroupId": 102,
+    "progressSentence": "{progress}次",
+    "sentence": "将“KAITO”送到休息室{requirement}次。"
+  }
+]

@@ -1,0 +1,246 @@
+[
+  {
+    "gradeAssetbundleName": "grade_01",
+    "id": 1,
+    "point": 5,
+    "rankMatchClassId": 1,
+    "rankMatchGradeId": 1,
+    "tier": 25,
+    "tierAssetbundleName": "tier_01",
+    "totalMusicDifficulty": 0
+  },
+  {
+    "gradeAssetbundleName": "grade_01",
+    "id": 2,
+    "point": 5,
+    "rankMatchClassId": 2,
+    "rankMatchGradeId": 1,
+    "tier": 24,
+    "tierAssetbundleName": "tier_02",
+    "totalMusicDifficulty": 101
+  },
+  {
+    "gradeAssetbundleName": "grade_01",
+    "id": 3,
+    "point": 5,
+    "rankMatchClassId": 3,
+    "rankMatchGradeId": 1,
+    "tier": 23,
+    "tierAssetbundleName": "tier_03",
+    "totalMusicDifficulty": 110
+  },
+  {
+    "gradeAssetbundleName": "grade_01",
+    "id": 4,
+    "point": 5,
+    "rankMatchClassId": 4,
+    "rankMatchGradeId": 1,
+    "tier": 22,
+    "tierAssetbundleName": "tier_04",
+    "totalMusicDifficulty": 115
+  },
+  {
+    "gradeAssetbundleName": "grade_02",
+    "id": 5,
+    "point": 5,
+    "rankMatchClassId": 5,
+    "rankMatchGradeId": 2,
+    "tier": 21,
+    "tierAssetbundleName": "tier_05",
+    "totalMusicDifficulty": 120
+  },
+  {
+    "gradeAssetbundleName": "grade_02",
+    "id": 6,
+    "point": 5,
+    "rankMatchClassId": 6,
+    "rankMatchGradeId": 2,
+    "tier": 20,
+    "tierAssetbundleName": "tier_06",
+    "totalMusicDifficulty": 123
+  },
+  {
+    "gradeAssetbundleName": "grade_02",
+    "id": 7,
+    "point": 5,
+    "rankMatchClassId": 7,
+    "rankMatchGradeId": 2,
+    "tier": 19,
+    "tierAssetbundleName": "tier_07",
+    "totalMusicDifficulty": 125
+  },
+  {
+    "gradeAssetbundleName": "grade_02",
+    "id": 8,
+    "point": 5,
+    "rankMatchClassId": 8,
+    "rankMatchGradeId": 2,
+    "tier": 18,
+    "tierAssetbundleName": "tier_08",
+    "totalMusicDifficulty": 128
+  },
+  {
+    "gradeAssetbundleName": "grade_03",
+    "id": 9,
+    "point": 5,
+    "rankMatchClassId": 9,
+    "rankMatchGradeId": 3,
+    "tier": 17,
+    "tierAssetbundleName": "tier_09",
+    "totalMusicDifficulty": 130
+  },
+  {
+    "gradeAssetbundleName": "grade_03",
+    "id": 10,
+    "point": 5,
+    "rankMatchClassId": 10,
+    "rankMatchGradeId": 3,
+    "tier": 16,
+    "tierAssetbundleName": "tier_10",
+    "totalMusicDifficulty": 132
+  },
+  {
+    "gradeAssetbundleName": "grade_03",
+    "id": 11,
+    "point": 5,
+    "rankMatchClassId": 11,
+    "rankMatchGradeId": 3,
+    "tier": 15,
+    "tierAssetbundleName": "tier_11",
+    "totalMusicDifficulty": 134
+  },
+  {
+    "gradeAssetbundleName": "grade_03",
+    "id": 12,
+    "point": 5,
+    "rankMatchClassId": 12,
+    "rankMatchGradeId": 3,
+    "tier": 14,
+    "tierAssetbundleName": "tier_12",
+    "totalMusicDifficulty": 135
+  },
+  {
+    "gradeAssetbundleName": "grade_04",
+    "id": 13,
+    "point": 5,
+    "rankMatchClassId": 13,
+    "rankMatchGradeId": 4,
+    "tier": 13,
+    "tierAssetbundleName": "tier_13",
+    "totalMusicDifficulty": 137
+  },
+  {
+    "gradeAssetbundleName": "grade_04",
+    "id": 14,
+    "point": 5,
+    "rankMatchClassId": 14,
+    "rankMatchGradeId": 4,
+    "tier": 12,
+    "tierAssetbundleName": "tier_14",
+    "totalMusicDifficulty": 138
+  },
+  {
+    "gradeAssetbundleName": "grade_04",
+    "id": 15,
+    "point": 5,
+    "rankMatchClassId": 15,
+    "rankMatchGradeId": 4,
+    "tier": 11,
+    "tierAssetbundleName": "tier_15",
+    "totalMusicDifficulty": 140
+  },
+  {
+    "gradeAssetbundleName": "grade_04",
+    "id": 16,
+    "point": 5,
+    "rankMatchClassId": 16,
+    "rankMatchGradeId": 4,
+    "tier": 10,
+    "tierAssetbundleName": "tier_16",
+    "totalMusicDifficulty": 143
+  },
+  {
+    "gradeAssetbundleName": "grade_05",
+    "id": 17,
+    "point": 5,
+    "rankMatchClassId": 17,
+    "rankMatchGradeId": 5,
+    "tier": 9,
+    "tierAssetbundleName": "tier_17",
+    "totalMusicDifficulty": 146
+  },
+  {
+    "gradeAssetbundleName": "grade_05",
+    "id": 18,
+    "point": 5,
+    "rankMatchClassId": 18,
+    "rankMatchGradeId": 5,
+    "tier": 8,
+    "tierAssetbundleName": "tier_18",
+    "totalMusicDifficulty": 150
+  },
+  {
+    "gradeAssetbundleName": "grade_05",
+    "id": 19,
+    "point": 5,
+    "rankMatchClassId": 19,
+    "rankMatchGradeId": 5,
+    "tier": 7,
+    "tierAssetbundleName": "tier_19",
+    "totalMusicDifficulty": 153
+  },
+  {
+    "gradeAssetbundleName": "grade_05",
+    "id": 20,
+    "point": 5,
+    "rankMatchClassId": 20,
+    "rankMatchGradeId": 5,
+    "tier": 6,
+    "tierAssetbundleName": "tier_20",
+    "totalMusicDifficulty": 155
+  },
+  {
+    "gradeAssetbundleName": "grade_06",
+    "id": 21,
+    "point": 5,
+    "rankMatchClassId": 21,
+    "rankMatchGradeId": 6,
+    "tier": 5,
+    "tierAssetbundleName": "tier_21"
+  },
+  {
+    "gradeAssetbundleName": "grade_06",
+    "id": 22,
+    "point": 5,
+    "rankMatchClassId": 22,
+    "rankMatchGradeId": 6,
+    "tier": 4,
+    "tierAssetbundleName": "tier_22"
+  },
+  {
+    "gradeAssetbundleName": "grade_06",
+    "id": 23,
+    "point": 5,
+    "rankMatchClassId": 23,
+    "rankMatchGradeId": 6,
+    "tier": 3,
+    "tierAssetbundleName": "tier_23"
+  },
+  {
+    "gradeAssetbundleName": "grade_06",
+    "id": 24,
+    "point": 5,
+    "rankMatchClassId": 24,
+    "rankMatchGradeId": 6,
+    "tier": 2,
+    "tierAssetbundleName": "tier_24"
+  },
+  {
+    "gradeAssetbundleName": "grade_07",
+    "id": 25,
+    "rankMatchClassId": 25,
+    "rankMatchGradeId": 7,
+    "tier": 1,
+    "tierAssetbundleName": "tier_25"
+  }
+]

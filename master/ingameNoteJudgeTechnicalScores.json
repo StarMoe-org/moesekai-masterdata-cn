@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "ingameNoteJadgeType": "perfect",
+    "liveType": "preliminary_tournament",
+    "score": 3
+  },
+  {
+    "id": 2,
+    "ingameNoteJadgeType": "great",
+    "liveType": "preliminary_tournament",
+    "score": 2
+  },
+  {
+    "id": 3,
+    "ingameNoteJadgeType": "good",
+    "liveType": "preliminary_tournament",
+    "score": 1
+  },
+  {
+    "id": 4,
+    "ingameNoteJadgeType": "bad",
+    "liveType": "preliminary_tournament",
+    "score": 0
+  },
+  {
+    "id": 5,
+    "ingameNoteJadgeType": "miss",
+    "liveType": "preliminary_tournament",
+    "score": 0
+  },
+  {
+    "id": 6,
+    "ingameNoteJadgeType": "perfect",
+    "liveType": "rank_match",
+    "score": 3
+  },
+  {
+    "id": 7,
+    "ingameNoteJadgeType": "great",
+    "liveType": "rank_match",
+    "score": 2
+  },
+  {
+    "id": 8,
+    "ingameNoteJadgeType": "good",
+    "liveType": "rank_match",
+    "score": 1
+  },
+  {
+    "id": 9,
+    "ingameNoteJadgeType": "bad",
+    "liveType": "rank_match",
+    "score": 0
+  },
+  {
+    "id": 10,
+    "ingameNoteJadgeType": "miss",
+    "liveType": "rank_match",
+    "score": 0
+  }
+]

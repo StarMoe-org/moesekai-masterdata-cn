@@ -1,0 +1,218 @@
+[
+  {
+    "groupId": 1,
+    "id": 1,
+    "mysekaiTutorialMysekaiSiteHarvestFixtureGroupId": 1,
+    "staminaLimit": 330
+  },
+  {
+    "groupId": 1,
+    "id": 2,
+    "mysekaiTutorialMysekaiSiteHarvestFixtureGroupId": 2,
+    "staminaLimit": 60
+  },
+  {
+    "groupId": 1,
+    "id": 3,
+    "mysekaiTutorialMysekaiSiteHarvestFixtureGroupId": 3,
+    "staminaLimit": 0
+  },
+  {
+    "groupId": 1,
+    "id": 4,
+    "mysekaiTutorialMysekaiSiteHarvestFixtureGroupId": 4,
+    "staminaLimit": 0
+  },
+  {
+    "groupId": 1,
+    "id": 5,
+    "mysekaiTutorialMysekaiSiteHarvestFixtureGroupId": 5,
+    "staminaLimit": 0
+  },
+  {
+    "groupId": 1,
+    "id": 6,
+    "mysekaiTutorialMysekaiSiteHarvestFixtureGroupId": 6,
+    "staminaLimit": 0
+  },
+  {
+    "groupId": 1,
+    "id": 7,
+    "mysekaiTutorialMysekaiSiteHarvestFixtureGroupId": 7,
+    "staminaLimit": 0
+  },
+  {
+    "groupId": 1,
+    "id": 8,
+    "mysekaiTutorialMysekaiSiteHarvestFixtureGroupId": 8,
+    "staminaLimit": 0
+  },
+  {
+    "groupId": 1,
+    "id": 9,
+    "mysekaiTutorialMysekaiSiteHarvestFixtureGroupId": 9,
+    "staminaLimit": 0
+  },
+  {
+    "groupId": 2,
+    "id": 10,
+    "mysekaiTutorialMysekaiSiteHarvestFixtureGroupId": 1,
+    "staminaLimit": 0
+  },
+  {
+    "groupId": 2,
+    "id": 11,
+    "mysekaiTutorialMysekaiSiteHarvestFixtureGroupId": 2,
+    "staminaLimit": 0
+  },
+  {
+    "groupId": 2,
+    "id": 12,
+    "mysekaiTutorialMysekaiSiteHarvestFixtureGroupId": 3,
+    "staminaLimit": 0
+  },
+  {
+    "groupId": 2,
+    "id": 13,
+    "mysekaiTutorialMysekaiSiteHarvestFixtureGroupId": 4,
+    "staminaLimit": 100
+  },
+  {
+    "groupId": 2,
+    "id": 14,
+    "mysekaiTutorialMysekaiSiteHarvestFixtureGroupId": 5,
+    "staminaLimit": 0
+  },
+  {
+    "groupId": 2,
+    "id": 15,
+    "mysekaiTutorialMysekaiSiteHarvestFixtureGroupId": 6,
+    "staminaLimit": 0
+  },
+  {
+    "groupId": 2,
+    "id": 16,
+    "mysekaiTutorialMysekaiSiteHarvestFixtureGroupId": 7,
+    "staminaLimit": 330
+  },
+  {
+    "groupId": 2,
+    "id": 17,
+    "mysekaiTutorialMysekaiSiteHarvestFixtureGroupId": 8,
+    "staminaLimit": 330
+  },
+  {
+    "groupId": 2,
+    "id": 18,
+    "mysekaiTutorialMysekaiSiteHarvestFixtureGroupId": 9,
+    "staminaLimit": 100
+  },
+  {
+    "groupId": 3,
+    "id": 19,
+    "mysekaiTutorialMysekaiSiteHarvestFixtureGroupId": 1,
+    "staminaLimit": 0
+  },
+  {
+    "groupId": 3,
+    "id": 20,
+    "mysekaiTutorialMysekaiSiteHarvestFixtureGroupId": 2,
+    "staminaLimit": 0
+  },
+  {
+    "groupId": 3,
+    "id": 21,
+    "mysekaiTutorialMysekaiSiteHarvestFixtureGroupId": 3,
+    "staminaLimit": 0
+  },
+  {
+    "groupId": 3,
+    "id": 22,
+    "mysekaiTutorialMysekaiSiteHarvestFixtureGroupId": 4,
+    "staminaLimit": 0
+  },
+  {
+    "groupId": 3,
+    "id": 23,
+    "mysekaiTutorialMysekaiSiteHarvestFixtureGroupId": 5,
+    "staminaLimit": 20
+  },
+  {
+    "groupId": 3,
+    "id": 24,
+    "mysekaiTutorialMysekaiSiteHarvestFixtureGroupId": 6,
+    "staminaLimit": 0
+  },
+  {
+    "groupId": 3,
+    "id": 25,
+    "mysekaiTutorialMysekaiSiteHarvestFixtureGroupId": 7,
+    "staminaLimit": 330
+  },
+  {
+    "groupId": 3,
+    "id": 26,
+    "mysekaiTutorialMysekaiSiteHarvestFixtureGroupId": 8,
+    "staminaLimit": 330
+  },
+  {
+    "groupId": 3,
+    "id": 27,
+    "mysekaiTutorialMysekaiSiteHarvestFixtureGroupId": 9,
+    "staminaLimit": 100
+  },
+  {
+    "groupId": 4,
+    "id": 28,
+    "mysekaiTutorialMysekaiSiteHarvestFixtureGroupId": 1,
+    "staminaLimit": 0
+  },
+  {
+    "groupId": 4,
+    "id": 29,
+    "mysekaiTutorialMysekaiSiteHarvestFixtureGroupId": 2,
+    "staminaLimit": 0
+  },
+  {
+    "groupId": 4,
+    "id": 30,
+    "mysekaiTutorialMysekaiSiteHarvestFixtureGroupId": 3,
+    "staminaLimit": 0
+  },
+  {
+    "groupId": 4,
+    "id": 31,
+    "mysekaiTutorialMysekaiSiteHarvestFixtureGroupId": 4,
+    "staminaLimit": 0
+  },
+  {
+    "groupId": 4,
+    "id": 32,
+    "mysekaiTutorialMysekaiSiteHarvestFixtureGroupId": 5,
+    "staminaLimit": 0
+  },
+  {
+    "groupId": 4,
+    "id": 33,
+    "mysekaiTutorialMysekaiSiteHarvestFixtureGroupId": 6,
+    "staminaLimit": 50
+  },
+  {
+    "groupId": 4,
+    "id": 34,
+    "mysekaiTutorialMysekaiSiteHarvestFixtureGroupId": 7,
+    "staminaLimit": 0
+  },
+  {
+    "groupId": 4,
+    "id": 35,
+    "mysekaiTutorialMysekaiSiteHarvestFixtureGroupId": 8,
+    "staminaLimit": 0
+  },
+  {
+    "groupId": 4,
+    "id": 36,
+    "mysekaiTutorialMysekaiSiteHarvestFixtureGroupId": 9,
+    "staminaLimit": 0
+  }
+]

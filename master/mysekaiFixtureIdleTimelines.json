@@ -1,0 +1,198 @@
+[
+  {
+    "assetbundleName": "tl_fixture_egg1_idling",
+    "id": 1,
+    "lotteryWeight": 100,
+    "mysekaiFixtureId": 837,
+    "mysekaiFixtureIdleTimelineType": "initial"
+  },
+  {
+    "assetbundleName": "tl_fixture_egg1_experiment",
+    "id": 2,
+    "lotteryWeight": 10,
+    "mysekaiFixtureId": 837,
+    "mysekaiFixtureIdleTimelineType": "lottery"
+  },
+  {
+    "assetbundleName": "tl_fixture_egg1_joy",
+    "id": 3,
+    "lotteryWeight": 30,
+    "mysekaiFixtureId": 837,
+    "mysekaiFixtureIdleTimelineType": "lottery"
+  },
+  {
+    "assetbundleName": "tl_fixture_egg1_sulk",
+    "id": 4,
+    "lotteryWeight": 20,
+    "mysekaiFixtureId": 837,
+    "mysekaiFixtureIdleTimelineType": "lottery"
+  },
+  {
+    "assetbundleName": "tl_fixture_egg1_sing",
+    "id": 5,
+    "lotteryWeight": 10,
+    "mysekaiFixtureId": 837,
+    "mysekaiFixtureIdleTimelineType": "lottery"
+  },
+  {
+    "assetbundleName": "tl_fixture_egg1_tilthead",
+    "id": 6,
+    "lotteryWeight": 30,
+    "mysekaiFixtureId": 837,
+    "mysekaiFixtureIdleTimelineType": "lottery"
+  },
+  {
+    "assetbundleName": "tl_fixture_egg1_getup",
+    "id": 7,
+    "lotteryWeight": 0,
+    "mysekaiFixtureId": 837,
+    "mysekaiFixtureIdleTimelineType": "pending"
+  },
+  {
+    "assetbundleName": "tl_fixture_egg2_idling",
+    "id": 8,
+    "lotteryWeight": 100,
+    "mysekaiFixtureId": 838,
+    "mysekaiFixtureIdleTimelineType": "initial"
+  },
+  {
+    "assetbundleName": "tl_fixture_egg2_eat",
+    "id": 9,
+    "lotteryWeight": 15,
+    "mysekaiFixtureId": 838,
+    "mysekaiFixtureIdleTimelineType": "lottery"
+  },
+  {
+    "assetbundleName": "tl_fixture_egg2_joy2",
+    "id": 11,
+    "lotteryWeight": 30,
+    "mysekaiFixtureId": 838,
+    "mysekaiFixtureIdleTimelineType": "lottery"
+  },
+  {
+    "assetbundleName": "tl_fixture_egg2_sleep",
+    "id": 12,
+    "lotteryWeight": 15,
+    "mysekaiFixtureId": 838,
+    "mysekaiFixtureIdleTimelineType": "lottery"
+  },
+  {
+    "assetbundleName": "tl_fixture_egg2_tilthead",
+    "id": 13,
+    "lotteryWeight": 30,
+    "mysekaiFixtureId": 838,
+    "mysekaiFixtureIdleTimelineType": "lottery"
+  },
+  {
+    "assetbundleName": "tl_fixture_egg2_sing",
+    "id": 14,
+    "lotteryWeight": 10,
+    "mysekaiFixtureId": 838,
+    "mysekaiFixtureIdleTimelineType": "lottery"
+  },
+  {
+    "assetbundleName": "tl_fixture_egg2_getup",
+    "id": 15,
+    "lotteryWeight": 0,
+    "mysekaiFixtureId": 838,
+    "mysekaiFixtureIdleTimelineType": "pending"
+  },
+  {
+    "assetbundleName": "tl_fixture_egg3_idling",
+    "id": 16,
+    "lotteryWeight": 100,
+    "mysekaiFixtureId": 839,
+    "mysekaiFixtureIdleTimelineType": "initial"
+  },
+  {
+    "assetbundleName": "tl_fixture_egg3_book",
+    "id": 17,
+    "lotteryWeight": 10,
+    "mysekaiFixtureId": 839,
+    "mysekaiFixtureIdleTimelineType": "lottery"
+  },
+  {
+    "assetbundleName": "tl_fixture_egg3_joy1",
+    "id": 18,
+    "lotteryWeight": 30,
+    "mysekaiFixtureId": 839,
+    "mysekaiFixtureIdleTimelineType": "lottery"
+  },
+  {
+    "assetbundleName": "tl_fixture_egg3_sleep",
+    "id": 19,
+    "lotteryWeight": 20,
+    "mysekaiFixtureId": 839,
+    "mysekaiFixtureIdleTimelineType": "lottery"
+  },
+  {
+    "assetbundleName": "tl_fixture_egg3_sing",
+    "id": 20,
+    "lotteryWeight": 10,
+    "mysekaiFixtureId": 839,
+    "mysekaiFixtureIdleTimelineType": "lottery"
+  },
+  {
+    "assetbundleName": "tl_fixture_egg3_tilthead",
+    "id": 21,
+    "lotteryWeight": 30,
+    "mysekaiFixtureId": 839,
+    "mysekaiFixtureIdleTimelineType": "lottery"
+  },
+  {
+    "assetbundleName": "tl_fixture_egg3_getup",
+    "id": 22,
+    "lotteryWeight": 0,
+    "mysekaiFixtureId": 839,
+    "mysekaiFixtureIdleTimelineType": "pending"
+  },
+  {
+    "assetbundleName": "tl_fixture_egg4_idling",
+    "id": 23,
+    "lotteryWeight": 100,
+    "mysekaiFixtureId": 840,
+    "mysekaiFixtureIdleTimelineType": "initial"
+  },
+  {
+    "assetbundleName": "tl_fixture_egg4_joy",
+    "id": 24,
+    "lotteryWeight": 30,
+    "mysekaiFixtureId": 840,
+    "mysekaiFixtureIdleTimelineType": "lottery"
+  },
+  {
+    "assetbundleName": "tl_fixture_egg4_sing",
+    "id": 25,
+    "lotteryWeight": 10,
+    "mysekaiFixtureId": 840,
+    "mysekaiFixtureIdleTimelineType": "lottery"
+  },
+  {
+    "assetbundleName": "tl_fixture_egg4_sleep",
+    "id": 26,
+    "lotteryWeight": 20,
+    "mysekaiFixtureId": 840,
+    "mysekaiFixtureIdleTimelineType": "lottery"
+  },
+  {
+    "assetbundleName": "tl_fixture_egg4_unique",
+    "id": 27,
+    "lotteryWeight": 10,
+    "mysekaiFixtureId": 840,
+    "mysekaiFixtureIdleTimelineType": "lottery"
+  },
+  {
+    "assetbundleName": "tl_fixture_egg4_tilthead",
+    "id": 28,
+    "lotteryWeight": 30,
+    "mysekaiFixtureId": 840,
+    "mysekaiFixtureIdleTimelineType": "lottery"
+  },
+  {
+    "assetbundleName": "tl_fixture_egg4_getup",
+    "id": 29,
+    "lotteryWeight": 0,
+    "mysekaiFixtureId": 840,
+    "mysekaiFixtureIdleTimelineType": "pending"
+  }
+]
