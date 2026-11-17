@@ -1,14 +1,5 @@
 [
   {
-    "assetbundleName": "ab_gacha_tab_4",
-    "childGachaIds": [
-      851,
-      852
-    ],
-    "id": 113,
-    "seq": 570
-  },
-  {
     "assetbundleName": "ab_gacha_tab_5",
     "childGachaIds": [
       856,
@@ -43,6 +34,15 @@
     ],
     "id": 119,
     "seq": 580
+  },
+  {
+    "assetbundleName": "ab_gacha_tab_9",
+    "childGachaIds": [
+      884,
+      885
+    ],
+    "id": 120,
+    "seq": 600
   },
   {
     "assetbundleName": "ab_gacha_tab_37",
